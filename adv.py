@@ -16,7 +16,6 @@ tmp_file = 'urls.txt'
 md_file = 'README.md'
 
 ad_url = choice([
-    'newversionupdate.thereadysystemscontentsset.bid',
     'testpconly12.thereadysystemscontentsset.download',
     'checksoft.yoursafestplacetocontent.review',
     'learn2upgrade.yoursafestcenter4contentsafegood.stream'
