@@ -4,3 +4,4 @@ https://s3.amazonaws.com/a3e621/8DA72C0A8FB2F84FA43497EB3286A46/A67B58480F35A34C
 https://s3.amazonaws.com/5QK06nE5WEqWcBVTjybE/ddTCygyfWUO22xIf_/AdobeFlashPlayerInstaller.dmg
 https://s3.amazonaws.com/6d80087/1030/1109/AdobeFlashPlayerInstaller.dmg
 https://s3.amazonaws.com/HPnYsG/1114/AdobeFlashPlayerInstaller.dmg
+https://s3.amazonaws.com/98827C004D2A0/563B39BB7B5E054ABA185F8/7727E66BC62B4E43A514447/AdobeFlashPlayerInstaller.dmg
