@@ -97,3 +97,4 @@
 |[app4com.thelinkersgoodfreeforcontentgreat.review](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentgreat.review&type=A)|
 |[checkupgrade24.thelinkersgoodfreeforcontentgreat.review](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentgreat.review&type=A)|
 |[whenvideoup.thelinkersgoodfreeforcontentgreat.download](https://dns.google.com/query?name=whenvideoup.thelinkersgoodfreeforcontentgreat.download&type=A)|
+|[ready4update.thelinkersgoodfreeforcontentgreat.download](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentgreat.download&type=A)|
