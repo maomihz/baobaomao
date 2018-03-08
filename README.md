@@ -189,3 +189,4 @@
 |[24pcupgrade.thelinkersgoodfreeforcontentinggonow.date](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentinggonow.date&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentinggonow.date](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.date&type=A)|
 |[upalways.thesoftwaresite2contenting.bid](https://dns.google.com/query?name=upalways.thesoftwaresite2contenting.bid&type=A)|
+|[24check4updates.thelinkersgoodfreeforcontentinggonow.download](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentinggonow.download&type=A)|
