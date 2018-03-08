@@ -172,3 +172,4 @@
 |[24pcupgrade.thelinkersgoodfreeforcontentgonow.review](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.review&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentgonow.review](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentgonow.review&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentgonow.stream](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentgonow.stream&type=A)|
+|[24pcupgrade.thelinkersgoodfreeforcontentgonow.stream](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.stream&type=A)|
