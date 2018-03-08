@@ -89,3 +89,4 @@
 |[alwaysnew.thelinkersgoodfreeforcontentfree.win](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentfree.win&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentall.review](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentall.review&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentall.review](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentall.review&type=A)|
+|[newupgradesystem.thelinkersgoodfreeforcontentall.review](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentall.review&type=A)|
