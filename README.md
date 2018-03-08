@@ -103,3 +103,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentall.date&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentall.date&type=A)|
 |[newupgradesystem.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentall.date&type=A)|
+|[nowupdate4free.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=nowupdate4free.thelinkersgoodfreeforcontentall.date&type=A)|
