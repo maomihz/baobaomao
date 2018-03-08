@@ -31,3 +31,4 @@
 |[updatelive.thelinkersgoodfreeforcontents.trade](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontents.trade&type=A)|
 |[checksoft.thelinkersgoodfreeforcontentsafe.review](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.review&type=A)|
 |[lastworking.thelinkersgoodfreeforcontentsafe.review](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.review&type=A)|
+|[updatelive.thelinkersgoodfreeforcontentsafe.review](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontentsafe.review&type=A)|
