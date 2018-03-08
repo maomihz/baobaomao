@@ -106,3 +106,4 @@
 |[nowupdate4free.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=nowupdate4free.thelinkersgoodfreeforcontentall.date&type=A)|
 |[upgradecircle.thesoftwaresite4contenting.trade](https://dns.google.com/query?name=upgradecircle.thesoftwaresite4contenting.trade&type=A)|
 |[updatenew.thesoftwaresite4contenting.trade](https://dns.google.com/query?name=updatenew.thesoftwaresite4contenting.trade&type=A)|
+|[update2now.thesoftwaresite2contentsafe.download](https://dns.google.com/query?name=update2now.thesoftwaresite2contentsafe.download&type=A)|
