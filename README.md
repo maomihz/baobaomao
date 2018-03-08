@@ -114,3 +114,4 @@
 |[upgradecircle.thesoftwaresite4contents.date](https://dns.google.com/query?name=upgradecircle.thesoftwaresite4contents.date&type=A)|
 |[readynewsoft.thesoftwaresite2contentsafe.stream](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contentsafe.stream&type=A)|
 |[upalways.thesoftwaresite2contentsafe.stream](https://dns.google.com/query?name=upalways.thesoftwaresite2contentsafe.stream&type=A)|
+|[readynewsoft.thesoftwaresite2contentsafe.review](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contentsafe.review&type=A)|
