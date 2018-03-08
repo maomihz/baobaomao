@@ -120,3 +120,4 @@
 |[update2now.thesoftwaresite2contentsafe.trade](https://dns.google.com/query?name=update2now.thesoftwaresite2contentsafe.trade&type=A)|
 |[upalways.thesoftwaresite2contentsafe.trade](https://dns.google.com/query?name=upalways.thesoftwaresite2contentsafe.trade&type=A)|
 |[readynewsoft.thesoftwaresite2contentsafe.trade](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contentsafe.trade&type=A)|
+|[updatenew.thesoftwaresite4contentsafe.review](https://dns.google.com/query?name=updatenew.thesoftwaresite4contentsafe.review&type=A)|
