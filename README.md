@@ -6,9 +6,9 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhCNUU4NUM0MDdDQkU1NC8xMjMyLzE4OTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03/08 05:10|https://s3.amazonaws.com/8B5E85C407CBE54/1232/1891/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc5OEI2QTYxQUQ1NTIxNEYvZHZXMy9RRWIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03/08 04:59|https://s3.amazonaws.com/798B6A61AD55214F/dvW3/QEb/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzOTg5N2NjLWU2MjUtNGE1Mi1hOTVhLTcyZjM4NGZjOC84Q0JGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03/08 04:57|https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhCNUU4NUM0MDdDQkU1NC8xMjMyLzE4OTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:10|https://s3.amazonaws.com/8B5E85C407CBE54/1232/1891/AdobeFlashPlayerInstaller.dmg|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc5OEI2QTYxQUQ1NTIxNEYvZHZXMy9RRWIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:59|https://s3.amazonaws.com/798B6A61AD55214F/dvW3/QEb/AdobeFlashPlayerInstaller.dmg|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzOTg5N2NjLWU2MjUtNGE1Mi1hOTVhLTcyZjM4NGZjOC84Q0JGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|04:57|https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -26,3 +26,4 @@
 |[whenupdate.thelinkersgoodfreeforcontents.bid](https://dns.google.com/query?name=whenupdate.thelinkersgoodfreeforcontents.bid&type=A)|
 |[checksoft.thelinkersgoodfreeforcontents.stream](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontents.stream&type=A)|
 |[lastworking.thelinkersgoodfreeforcontents.stream](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontents.stream&type=A)|
+|[updatelive.thelinkersgoodfreeforcontents.stream](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontents.stream&type=A)|

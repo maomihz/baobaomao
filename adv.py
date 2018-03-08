@@ -21,7 +21,7 @@ env = j2.Environment(
     loader=j2.FileSystemLoader(dirname(__file__))
 )
 env.filters['b64'] = lambda u : b64encode(u.encode('utf-8')).decode('utf-8')
-def dateformat(value, format='%m/%d %H:%M'):
+def dateformat(value, format='%H:%M'):
     return datetime.fromtimestamp(value).strftime(format)
 env.filters['dateformat'] = dateformat
 
