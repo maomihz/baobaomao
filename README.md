@@ -143,3 +143,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentingfree.date](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.date&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentingfree.download](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentingfree.download&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentingfree.download](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentingfree.download&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentingfree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.download&type=A)|
