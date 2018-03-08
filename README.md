@@ -171,3 +171,4 @@
 |[24pcupgrade.thelinkersgoodfreeforcontentgonow.download](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.download&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentgonow.download](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentgonow.download&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentgonow.review](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.review&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentgonow.review](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentgonow.review&type=A)|
