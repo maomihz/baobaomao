@@ -193,3 +193,4 @@
 |[lastversion.thelinkersgoodfreeforcontentinggonow.download](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.download&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentinggonow.download](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentinggonow.download&type=A)|
 |[upgradeinstall.thelinkersgoodfreeforcontentinggonow.download](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentinggonow.download&type=A)|
+|[upgradeinstall.thelinkersgoodfreeforcontentinggonow.review](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentinggonow.review&type=A)|
