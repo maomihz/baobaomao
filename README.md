@@ -183,3 +183,4 @@
 |[upgradeinstall.thelinkersgoodfreeforcontentgonow.win](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentgonow.win&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
