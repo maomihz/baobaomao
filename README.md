@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRiMmE4M2QxLTE4YmEtNDEwYy05Y2Y3LWJjMC80NTI3MzAxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:20|https://s3.amazonaws.com/4b2a83d1-18ba-410c-9cf7-bc0/4527301/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEyNTA4Mi9iY2Q2MDY0Yi1hZWE0LTRkNjAtOGYvMzM1NDQwNTItZDIxMC00ODI4LTlkL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:09|https://s3.amazonaws.com/125082/bcd6064b-aea4-4d60-8f/33544052-d210-4828-9d/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2UwY2E0YjdiLTZjOWEtNDQvMTgwNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:58|https://s3.amazonaws.com/e0ca4b7b-6c9a-44/1807/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZFQTc4NUYwREI1RjdENDM4OTM2RUUwMi85NDkxYWYyNy0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:48|https://s3.amazonaws.com/FEA785F0DB5F7D438936EE02/9491af27-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M1MDU4Qi9BOUIxQUQ4NjIwRDE3RjQyOTI2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:40|https://s3.amazonaws.com/C5058B/A9B1AD8620D17F42926/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0IyNkM3NzgzN0E0QzRDNDZCN0MvNmM1MS8xYjRiL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:30|https://s3.amazonaws.com/B26C77837A4C4C46B7C/6c51/1b4b/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZiMjE4MDczLWZhZWMtNGQwOS05Y2EzLWMwMTcvMTczNkY2MDMwOUJGQkY0REEwOTIzNTdFRDNEMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:19|https://s3.amazonaws.com/fb218073-faec-4d09-9ca3-c017/1736F60309BFBF4DA092357ED3D3/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -146,3 +146,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentingfree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.download&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentingfree.download](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentingfree.download&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentingfree.review](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentingfree.review&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentingfree.review](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.review&type=A)|
