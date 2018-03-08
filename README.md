@@ -163,3 +163,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentgonow.bid](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentgonow.bid&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentgonow.bid](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentgonow.bid&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentgonow.date](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentgonow.date&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentgonow.date](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentgonow.date&type=A)|
