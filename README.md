@@ -75,3 +75,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.download&type=A)|
 |[checksoft.thelinkersgoodfreeforcontent.stream](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontent.stream&type=A)|
 |[lastworking.thelinkersgoodfreeforcontent.stream](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontent.stream&type=A)|
+|[updatelive.thelinkersgoodfreeforcontent.stream](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontent.stream&type=A)|
