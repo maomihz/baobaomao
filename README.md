@@ -185,3 +185,4 @@
 |[24pcupgrade.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
 |[upgradeinstall.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
+|[24check4updates.thelinkersgoodfreeforcontentinggonow.date](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentinggonow.date&type=A)|
