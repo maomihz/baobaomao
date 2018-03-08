@@ -1,18 +1,4 @@
 {
-  "urls": {
-    "https://s3.amazonaws.com/8B5E85C407CBE54/1232/1891/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/8B5E85C407CBE54/1232/1891/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520485803.943275
-    },
-    "https://s3.amazonaws.com/798B6A61AD55214F/dvW3/QEb/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/798B6A61AD55214F/dvW3/QEb/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520485163.71158
-    },
-    "https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520485054.522583
-    }
-  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -26,6 +12,21 @@
     "checksoft.thelinkersgoodfreeforcontents.stream",
     "lastworking.thelinkersgoodfreeforcontents.stream",
     "updatelive.thelinkersgoodfreeforcontents.stream",
-    "updatelive.thelinkersgoodfreeforcontents.trade"
-  ]
+    "updatelive.thelinkersgoodfreeforcontents.trade",
+    "checksoft.thelinkersgoodfreeforcontentsafe.review"
+  ],
+  "urls": {
+    "https://s3.amazonaws.com/8B5E85C407CBE54/1232/1891/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/8B5E85C407CBE54/1232/1891/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520485803.943275
+    },
+    "https://s3.amazonaws.com/798B6A61AD55214F/dvW3/QEb/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/798B6A61AD55214F/dvW3/QEb/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520485163.71158
+    },
+    "https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/139897cc-e625-4a52-a95a-72f384fc8/8CBF/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520485054.522583
+    }
+  }
 }
