@@ -1,0 +1,19 @@
+# 刷流量！
+
+赞助商：杭外开发者协会 流量制裁协会
+
+以下是从广告网站收集来的刷流量链接，仅供测试使用，链接随时更新，但不保证永久有效。
+
+|Direct|Discovered|URL|
+|:---:|:---|:---:|
+{% for u in urls -%}
+|[Link](https://meow.maomihz.com/?{{ u.url | b64 }})|{{ u.discovered | dateformat }}|{{ u.url }}|
+{% endfor %}
+
+### 附1：收集到的广告域名：
+
+|Link|
+|---|
+{% for h in hosts -%}
+|[{{ h }}](https://dns.google.com/query?name={{ h }}&type=A)|
+{% endfor %}
