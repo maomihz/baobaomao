@@ -67,3 +67,4 @@
 |[ready4maintain.thelinkersgoodfreeforcontentfree.bid](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentfree.bid&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentfree.date](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentfree.date&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentfree.date](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.date&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentfree.date](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.date&type=A)|
