@@ -69,3 +69,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentfree.date](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.date&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentfree.date](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.date&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentfree.date](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentfree.date&type=A)|
+|[alwaysnew.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentfree.download&type=A)|
