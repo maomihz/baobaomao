@@ -36,3 +36,4 @@
 |[updatelive.thelinkersgoodfreeforcontentsafe.review](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontentsafe.review&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsafeall.bid](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsafeall.bid&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsafeall.date](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsafeall.date&type=A)|
+|[newupgradesystem.thelinkersgoodfreeforcontentsafeall.date](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsafeall.date&type=A)|
