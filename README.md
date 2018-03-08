@@ -51,3 +51,4 @@
 |[askupdate.thelinkersgoodfreeforcontentsafeall.trade](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsafeall.trade&type=A)|
 |[newupgradesystem.thelinkersgoodfreeforcontentsafeall.trade](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsafeall.trade&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsall.bid](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.bid&type=A)|
+|[askupdate.thelinkersgoodfreeforcontentsall.bid](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.bid&type=A)|
