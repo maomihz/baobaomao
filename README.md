@@ -140,3 +140,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentingfree.bid](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.bid&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentingfree.bid](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentingfree.bid&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentingfree.date](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentingfree.date&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentingfree.date](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.date&type=A)|
