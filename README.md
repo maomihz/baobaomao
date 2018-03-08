@@ -77,3 +77,4 @@
 |[lastworking.thelinkersgoodfreeforcontent.stream](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontent.stream&type=A)|
 |[updatelive.thelinkersgoodfreeforcontent.stream](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontent.stream&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentfree.review](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.review&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentfree.review](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.review&type=A)|
