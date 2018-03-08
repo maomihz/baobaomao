@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNGMjAvOTQ3My85MDU5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:51|https://s3.amazonaws.com/3F20/9473/9059/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwNTA0NjI3LzF6dVNJUm4yaEV1QUgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:39|https://s3.amazonaws.com/10504627/1zuSIRn2hEuAH/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzViOGVkNTgxLTBiOWQtNGQ0NS04L1ZwZ2EvVUhSdy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:30|https://s3.amazonaws.com/5b8ed581-0b9d-4d45-8/Vpga/UHRw/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY0NjUvOTI4OTE1Ni84NjAzNTExL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:21|https://s3.amazonaws.com/6465/9289156/8603511/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzllYTEyM2JhLTViMDgtLzc1NDY3NTQ3LzE3MTQ0NDUwMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:09|https://s3.amazonaws.com/9ea123ba-5b08-/75467547/171444503/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhCODg5RkVBQTgyREIxNEZCMEE1L0xUcEtfMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:57|https://s3.amazonaws.com/8B889FEAA82DB14FB0A5/LTpK_2/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkzNjkvOTdhZTg4OC9mNjIyMGY0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:49|https://s3.amazonaws.com/9369/97ae888/f6220f4/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -112,3 +112,4 @@
 |[testpconly12.thesoftwaresite4contents.date](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contents.date&type=A)|
 |[updatenew.thesoftwaresite4contents.date](https://dns.google.com/query?name=updatenew.thesoftwaresite4contents.date&type=A)|
 |[upgradecircle.thesoftwaresite4contents.date](https://dns.google.com/query?name=upgradecircle.thesoftwaresite4contents.date&type=A)|
+|[readynewsoft.thesoftwaresite2contentsafe.stream](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contentsafe.stream&type=A)|
