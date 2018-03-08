@@ -109,3 +109,4 @@
 |[update2now.thesoftwaresite2contentsafe.download](https://dns.google.com/query?name=update2now.thesoftwaresite2contentsafe.download&type=A)|
 |[upalways.thesoftwaresite2contentsafe.download](https://dns.google.com/query?name=upalways.thesoftwaresite2contentsafe.download&type=A)|
 |[nowup.thesoftwaresite4contents.date](https://dns.google.com/query?name=nowup.thesoftwaresite4contents.date&type=A)|
+|[testpconly12.thesoftwaresite4contents.date](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contents.date&type=A)|
