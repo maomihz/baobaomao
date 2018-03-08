@@ -137,3 +137,4 @@
 |[app4com.thelinkersgoodfreeforcontentgreat.win](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentgreat.win&type=A)|
 |[whenvideoup.thelinkersgoodfreeforcontentgreat.win](https://dns.google.com/query?name=whenvideoup.thelinkersgoodfreeforcontentgreat.win&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentingfree.bid](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentingfree.bid&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentingfree.bid](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.bid&type=A)|
