@@ -168,3 +168,4 @@
 |[24pcupgrade.thelinkersgoodfreeforcontentgonow.bid](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.bid&type=A)|
 |[upgradeinstall.thelinkersgoodfreeforcontentgonow.bid](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentgonow.bid&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentgonow.download](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentgonow.download&type=A)|
+|[24pcupgrade.thelinkersgoodfreeforcontentgonow.download](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.download&type=A)|
