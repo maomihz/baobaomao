@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5NDU3NC9hZmU2MzA4MC01YmZiLTQxMTgtODVlZi1mMjA5ZWVkYjBkZi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:46|https://s3.amazonaws.com/194574/afe63080-5bfb-4118-85ef-f209eedb0df/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQxQTJBLzA3NjBDRkI3REU5QzUwNEQ4N0EwODMxNDU5RkI3OEMvREYyQzI3NkU4MzhCRkI0OEE1N0UyODExNDMyRDlGQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:37|https://s3.amazonaws.com/41A2A/0760CFB7DE9C504D87A0831459FB78C/DF2C276E838BFB48A57E2811432D9FA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA1NGJmZDk0LTI5ZTgtNDdkYS04YjhmLTZhMTkyZjJlLzE5ODMvMTE1OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:26|https://s3.amazonaws.com/054bfd94-29e8-47da-8b8f-6a192f2e/1983/1159/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI3NmFlNGI4LWNkNjAtNDcyMy04ZmI5LzBlZTZlY2Q4LTBmNGYtNDg2Yy04Y2IwLTg4NDk1MzU2MTIxLzVhMWI5YzU0LTg5YmYtNDk2Yy04ZDA5LTMyZDk3NmIxODEwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:16|https://s3.amazonaws.com/276ae4b8-cd60-4723-8fb9/0ee6ecd8-0f4f-486c-8cb0-88495356121/5a1b9c54-89bf-496c-8d09-32d976b1810/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -185,3 +184,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
+|[upgradeinstall.thelinkersgoodfreeforcontentinggonow.bid](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentinggonow.bid&type=A)|
