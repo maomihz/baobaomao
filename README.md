@@ -59,3 +59,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentsall.review](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.review&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsall.review](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.review&type=A)|
 |[newupgradesystem.thelinkersgoodfreeforcontentsall.review](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsall.review&type=A)|
+|[24check4updates.thelinkersgoodfreeforcontentsall.trade](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.trade&type=A)|
