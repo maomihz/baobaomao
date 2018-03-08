@@ -48,3 +48,4 @@
 |[askupdate.thelinkersgoodfreeforcontentsafeall.stream](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsafeall.stream&type=A)|
 |[newupgradesystem.thelinkersgoodfreeforcontentsafeall.stream](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsafeall.stream&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsafeall.trade](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsafeall.trade&type=A)|
+|[newupgradesystem.thelinkersgoodfreeforcontentsafeall.trade](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsafeall.trade&type=A)|
