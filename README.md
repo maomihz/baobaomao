@@ -57,3 +57,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentsall.download](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.download&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsall.download](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.download&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsall.review](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.review&type=A)|
+|[askupdate.thelinkersgoodfreeforcontentsall.review](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.review&type=A)|
