@@ -85,3 +85,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentfree.stream](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.stream&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentfree.stream](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentfree.stream&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentfree.win](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.win&type=A)|
+|[getsoftnow.thelinkersgoodfreeforcontentfree.win](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.win&type=A)|
