@@ -63,3 +63,4 @@
 |[askupdate.thelinkersgoodfreeforcontentsall.trade](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.trade&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentfree.bid](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentfree.bid&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentfree.bid](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.bid&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentfree.bid](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.bid&type=A)|
