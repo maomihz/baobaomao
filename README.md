@@ -153,3 +153,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentingfree.stream](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.stream&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentingfree.stream](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentingfree.stream&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentingfree.trade](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentingfree.trade&type=A)|
+|[getsoftnow.thelinkersgoodfreeforcontentingfree.trade](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentingfree.trade&type=A)|
