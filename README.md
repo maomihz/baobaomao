@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFQX3FQdmhUQjBHRUlaQm5yL0U4NjYwQjE4QUJGRjBCNDM4RDcvMTEzNzM5NzcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|15:23|https://s3.amazonaws.com/1P_qPvhTB0GEIZBnr/E8660B18ABFF0B438D7/11373977/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5MTM5N0YvQUxIL1VmUWh1a21mNE85b3M0VS9IQ0drYjdpcUVLaXp6UGp5RngvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|15:10|https://s3.amazonaws.com/991397F/ALH/UfQhukmf4O9os4U/HCGkb7iqEKizzPjyFx/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZ2WjJkeWcvMDhhZjBkZjUtNzU0YS00MTZlLTk5ODUtYzAzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:59|https://s3.amazonaws.com/6vZ2dyg/08af0df5-754a-416e-9985-c03/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkxNDYvVFIxTy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:48|https://s3.amazonaws.com/9146/TR1O/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2OTc0ODkyLzE0NTMvMTE2OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:40|https://s3.amazonaws.com/16974892/1453/1168/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwMjkvMTQwOC82NzkwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:28|https://s3.amazonaws.com/2029/1408/6790/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRiMmE4M2QxLTE4YmEtNDEwYy05Y2Y3LWJjMC80NTI3MzAxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:20|https://s3.amazonaws.com/4b2a83d1-18ba-410c-9cf7-bc0/4527301/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -157,3 +157,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentingfree.trade](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentingfree.trade&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentingfree.trade](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentingfree.trade&type=A)|
 |[app4com.thelinkersgoodfreeforcontentinggreat.bid](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentinggreat.bid&type=A)|
+|[checkupgrade24.thelinkersgoodfreeforcontentinggreat.date](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentinggreat.date&type=A)|
