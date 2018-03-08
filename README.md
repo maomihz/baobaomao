@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg4RTgwMjk5MDBCLzJEemZqL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:29|https://s3.amazonaws.com/88E8029900B/2Dzfj/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU3QzBDRDU4OEQ3REQ4NDhCQzZDODVGQTJCL2FiN2Y1NDM3LTY4Ny82ODM5OWIxNC0wN2MvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:18|https://s3.amazonaws.com/57C0CD588D7DD848BC6C85FA2B/ab7f5437-687/68399b14-07c/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA2YWE2Mzk4LS9kYTliZjY0MC1jNmVhLTQ1OTUtOGFmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:07|https://s3.amazonaws.com/06aa6398-/da9bf640-c6ea-4595-8af/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1M5b0YvODQyMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:59|https://s3.amazonaws.com/S9oF/8422/AdobeFlashPlayerInstaller.dmg|
@@ -72,3 +73,4 @@
 |[alwaysnew.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentfree.download&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.download&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentfree.download&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.download&type=A)|
