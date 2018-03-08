@@ -87,3 +87,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentfree.win](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.win&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentfree.win](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentfree.win&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentfree.win](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentfree.win&type=A)|
+|[24check4updates.thelinkersgoodfreeforcontentall.review](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentall.review&type=A)|
