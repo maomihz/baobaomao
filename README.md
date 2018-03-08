@@ -111,3 +111,4 @@
 |[nowup.thesoftwaresite4contents.date](https://dns.google.com/query?name=nowup.thesoftwaresite4contents.date&type=A)|
 |[testpconly12.thesoftwaresite4contents.date](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contents.date&type=A)|
 |[updatenew.thesoftwaresite4contents.date](https://dns.google.com/query?name=updatenew.thesoftwaresite4contents.date&type=A)|
+|[upgradecircle.thesoftwaresite4contents.date](https://dns.google.com/query?name=upgradecircle.thesoftwaresite4contents.date&type=A)|
