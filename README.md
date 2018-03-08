@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzljN2FkMDUxLTkyZjEtNGEvZjZhMzkyMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:30|https://s3.amazonaws.com/9c7ad051-92f1-4a/f6a3921/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgzNGVlNDBmLWY3ODUtNDBlMC04MmYwLWEzZGY3MzQ0LzAzM2ZjYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:16|https://s3.amazonaws.com/834ee40f-f785-40e0-82f0-a3df7344/033fca/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg4NkIxRTYvMDNhZTU2OTItZTkwMS00OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:11|https://s3.amazonaws.com/886B1E6/03ae5692-e901-49/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0p5eXpvNkh6LzIxMDE4MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:00|https://s3.amazonaws.com/Jyyzo6Hz/210180/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNGMjAvOTQ3My85MDU5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:51|https://s3.amazonaws.com/3F20/9473/9059/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwNTA0NjI3LzF6dVNJUm4yaEV1QUgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:39|https://s3.amazonaws.com/10504627/1zuSIRn2hEuAH/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzViOGVkNTgxLTBiOWQtNGQ0NS04L1ZwZ2EvVUhSdy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:30|https://s3.amazonaws.com/5b8ed581-0b9d-4d45-8/Vpga/UHRw/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -121,3 +121,4 @@
 |[upalways.thesoftwaresite2contentsafe.trade](https://dns.google.com/query?name=upalways.thesoftwaresite2contentsafe.trade&type=A)|
 |[readynewsoft.thesoftwaresite2contentsafe.trade](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contentsafe.trade&type=A)|
 |[updatenew.thesoftwaresite4contentsafe.review](https://dns.google.com/query?name=updatenew.thesoftwaresite4contentsafe.review&type=A)|
+|[testpconly12.thesoftwaresite4contentsafe.review](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contentsafe.review&type=A)|
