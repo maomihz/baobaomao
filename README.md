@@ -102,3 +102,4 @@
 |[app4com.thelinkersgoodfreeforcontentgreat.download](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentgreat.download&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentall.date&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentall.date&type=A)|
+|[newupgradesystem.thelinkersgoodfreeforcontentall.date](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentall.date&type=A)|
