@@ -175,3 +175,4 @@
 |[24pcupgrade.thelinkersgoodfreeforcontentgonow.stream](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.stream&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentgonow.stream](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentgonow.stream&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentgonow.trade](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentgonow.trade&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentgonow.trade](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentgonow.trade&type=A)|
