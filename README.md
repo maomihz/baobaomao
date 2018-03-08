@@ -73,3 +73,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentfree.download&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentfree.download&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentfree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentfree.download&type=A)|
+|[checksoft.thelinkersgoodfreeforcontent.stream](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontent.stream&type=A)|
