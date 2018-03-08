@@ -55,3 +55,4 @@
 |[askupdate.thelinkersgoodfreeforcontentsall.date](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.date&type=A)|
 |[newupgradesystem.thelinkersgoodfreeforcontentsall.date](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsall.date&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsall.download](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.download&type=A)|
+|[askupdate.thelinkersgoodfreeforcontentsall.download](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.download&type=A)|
