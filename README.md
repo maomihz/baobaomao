@@ -53,3 +53,4 @@
 |[askupdate.thelinkersgoodfreeforcontentsall.bid](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.bid&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsall.date](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.date&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsall.date](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.date&type=A)|
+|[newupgradesystem.thelinkersgoodfreeforcontentsall.date](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsall.date&type=A)|
