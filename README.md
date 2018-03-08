@@ -197,3 +197,4 @@
 |[lastversion.thelinkersgoodfreeforcontentinggonow.review](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.review&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentinggonow.review](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentinggonow.review&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentinggonow.review](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentinggonow.review&type=A)|
+|[updatenew.thesoftwaresite2contenting.stream](https://dns.google.com/query?name=updatenew.thesoftwaresite2contenting.stream&type=A)|
