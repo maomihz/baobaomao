@@ -438,3 +438,4 @@
 |[settingupdate.thegreatforupdatemove.trade](https://dns.google.com/query?name=settingupdate.thegreatforupdatemove.trade&type=A)|
 |[upgradeget.thegreatforupdatemove.trade](https://dns.google.com/query?name=upgradeget.thegreatforupdatemove.trade&type=A)|
 |[settingupdate.thegreatforupdatemove.win](https://dns.google.com/query?name=settingupdate.thegreatforupdatemove.win&type=A)|
+|[update2new.thegreatforupdatemove.win](https://dns.google.com/query?name=update2new.thegreatforupdatemove.win&type=A)|
