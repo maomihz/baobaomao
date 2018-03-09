@@ -399,3 +399,4 @@
 |[nowsetup.thegreat4updatesafemove.stream](https://dns.google.com/query?name=nowsetup.thegreat4updatesafemove.stream&type=A)|
 |[testpconly12.thegreat4updatesafemove.stream](https://dns.google.com/query?name=testpconly12.thegreat4updatesafemove.stream&type=A)|
 |[undoupgrade24.thegreat4updatesafemove.stream](https://dns.google.com/query?name=undoupgrade24.thegreat4updatesafemove.stream&type=A)|
+|[upgrade4life.thegreat4updatesafemove.stream](https://dns.google.com/query?name=upgrade4life.thegreat4updatesafemove.stream&type=A)|
