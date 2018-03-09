@@ -228,3 +228,4 @@
 |[lastworking.thelinkersgoodfreeforcontentsafe.stream](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.stream&type=A)|
 |[updatelive.thelinkersgoodfreeforcontentsafe.stream](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontentsafe.stream&type=A)|
 |[checksoft.thelinkersgoodfreeforcontentsafe.trade](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.trade&type=A)|
+|[lastworking.thelinkersgoodfreeforcontentsafe.trade](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.trade&type=A)|
