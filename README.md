@@ -267,3 +267,4 @@
 |[askupdate.thelinkersgoodfreeforcontentsafeall.win](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsafeall.win&type=A)|
 |[newupgradesystem.thelinkersgoodfreeforcontentsafeall.win](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsafeall.win&type=A)|
 |[app4com.thelinkersgoodfreeforcontentsafegreat.bid](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentsafegreat.bid&type=A)|
+|[checkupgrade24.thelinkersgoodfreeforcontentsafegreat.bid](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentsafegreat.bid&type=A)|
