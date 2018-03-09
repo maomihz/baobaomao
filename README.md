@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y2ZmUyOTQ3LWY2ZWEtNGQxZS0vNTUzNEQwRjQ1MjY3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:00|https://s3.amazonaws.com/f6fe2947-f6ea-4d1e-/5534D0F45267/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FiMzIvNDY4MjBjYzMtMWFlNi00OWI4LTliNGEtL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:51|https://s3.amazonaws.com/ab32/46820cc3-1ae6-49b8-9b4a-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4MzQvMTFERkVFQTgvOTBFNTg5QTAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:41|https://s3.amazonaws.com/1834/11DFEEA8/90E589A0/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlkNWE2OTNlLTJmODgtNGJjNi05ZGIzLWJmYTdjMTVkMy9BODA5ODkzMjE4RkM1NDQyQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:30|https://s3.amazonaws.com/9d5a693e-2f88-4bc6-9db3-bfa7c15d3/A809893218FC5442A/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZlNWUvNzI3MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:20|https://s3.amazonaws.com/fe5e/7270/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhFOEI0MzRDRTkwM0Q1NC9tR2tvYVdTRXJrU0p1YTVKYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:09|https://s3.amazonaws.com/8E8B434CE903D54/mGkoaWSErkSJua5Ja/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1c1SzdSa3ExLzg0RUJCMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:01|https://s3.amazonaws.com/W5K7Rkq1/84EBB3/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -390,3 +390,4 @@
 |[testpconly12.thegreat4updatesafemove.date](https://dns.google.com/query?name=testpconly12.thegreat4updatesafemove.date&type=A)|
 |[undoupgrade24.thegreat4updatesafemove.date](https://dns.google.com/query?name=undoupgrade24.thegreat4updatesafemove.date&type=A)|
 |[upgrade4life.thegreat4updatesafemove.date](https://dns.google.com/query?name=upgrade4life.thegreat4updatesafemove.date&type=A)|
+|[nowsetup.thegreat4updatesafemove.download](https://dns.google.com/query?name=nowsetup.thegreat4updatesafemove.download&type=A)|
