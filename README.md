@@ -404,3 +404,4 @@
 |[upgrade4life.thegreat4updatesafemove.trade](https://dns.google.com/query?name=upgrade4life.thegreat4updatesafemove.trade&type=A)|
 |[nowsetup.thegreat4updatesafemove.win](https://dns.google.com/query?name=nowsetup.thegreat4updatesafemove.win&type=A)|
 |[testpconly12.thegreat4updatesafemove.win](https://dns.google.com/query?name=testpconly12.thegreat4updatesafemove.win&type=A)|
+|[upgrade4life.thegreat4updatesafemove.win](https://dns.google.com/query?name=upgrade4life.thegreat4updatesafemove.win&type=A)|
