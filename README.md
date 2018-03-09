@@ -361,3 +361,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentsgonow.stream](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsgonow.stream&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentsgonow.stream](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentsgonow.stream&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentsgonow.stream](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentsgonow.stream&type=A)|
+|[nowsetup.thegreat4updatemove.bid](https://dns.google.com/query?name=nowsetup.thegreat4updatemove.bid&type=A)|
