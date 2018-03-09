@@ -377,3 +377,4 @@
 |[testpconly12.thegreat4updatemove.review](https://dns.google.com/query?name=testpconly12.thegreat4updatemove.review&type=A)|
 |[upgrade4life.thegreat4updatemove.review](https://dns.google.com/query?name=upgrade4life.thegreat4updatemove.review&type=A)|
 |[nowsetup.thegreat4updatemove.stream](https://dns.google.com/query?name=nowsetup.thegreat4updatemove.stream&type=A)|
+|[testpconly12.thegreat4updatemove.stream](https://dns.google.com/query?name=testpconly12.thegreat4updatemove.stream&type=A)|
