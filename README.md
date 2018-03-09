@@ -245,3 +245,4 @@
 |[legalsoft.thelinkersgoodfreeforcontentsafefree.win](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.win&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentsafefree.win](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsafefree.win&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsafefree.review](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.review&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentsafegonow.review](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentsafegonow.review&type=A)|
