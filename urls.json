@@ -8,9 +8,9 @@
       "discovered": 1520570420.730715,
       "url": "https://s3.amazonaws.com/1188/2837/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/dq60pi6TWk/4957/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520569787.802491,
-      "url": "https://s3.amazonaws.com/dq60pi6TWk/4957/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/edc4ee6c-56d9-4359-94ed-2/17AB53790D7AAF43AA8716AF9/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520568022.2743,
+      "url": "https://s3.amazonaws.com/edc4ee6c-56d9-4359-94ed-2/17AB53790D7AAF43AA8716AF9/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/13D006F501/60203/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520568650.780164,
@@ -20,9 +20,9 @@
       "discovered": 1520571051.761516,
       "url": "https://s3.amazonaws.com/Z1zdJQas50WCB7dzADUL_A/D424E76F3EFDAD/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/edc4ee6c-56d9-4359-94ed-2/17AB53790D7AAF43AA8716AF9/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520568022.2743,
-      "url": "https://s3.amazonaws.com/edc4ee6c-56d9-4359-94ed-2/17AB53790D7AAF43AA8716AF9/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/dq60pi6TWk/4957/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520569787.802491,
+      "url": "https://s3.amazonaws.com/dq60pi6TWk/4957/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -243,6 +243,7 @@
     "alwaysnew.thelinkersgoodfreeforcontentsafefree.date",
     "getsoftnow.thelinkersgoodfreeforcontentsafefree.bid",
     "legalsoft.thelinkersgoodfreeforcontentsafefree.stream",
-    "getsoftnow.thelinkersgoodfreeforcontentsafefree.stream"
+    "getsoftnow.thelinkersgoodfreeforcontentsafefree.stream",
+    "alwaysnew.thelinkersgoodfreeforcontentsafefree.stream"
   ]
 }

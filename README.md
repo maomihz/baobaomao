@@ -236,3 +236,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentsafefree.bid](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsafefree.bid&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsafefree.stream](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.stream&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentsafefree.stream](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsafefree.stream&type=A)|
+|[alwaysnew.thelinkersgoodfreeforcontentsafefree.stream](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsafefree.stream&type=A)|
