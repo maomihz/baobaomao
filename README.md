@@ -230,3 +230,4 @@
 |[checksoft.thelinkersgoodfreeforcontentsafe.trade](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.trade&type=A)|
 |[lastworking.thelinkersgoodfreeforcontentsafe.trade](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.trade&type=A)|
 |[checksoft.thelinkersgoodfreeforcontentsafe.win](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.win&type=A)|
+|[ready4maintain.thelinkersgoodfreeforcontentsafefree.date](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentsafefree.date&type=A)|
