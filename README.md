@@ -308,3 +308,4 @@
 |[get24update.thelinkersgoodfreeforcontentsafesetup.trade](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsafesetup.trade&type=A)|
 |[live.thelinkersgoodfreeforcontentsafesetup.trade](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.trade&type=A)|
 |[pcupgrade.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=pcupgrade.thelinkersgoodfreeforcontentsetup.bid&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.bid&type=A)|
