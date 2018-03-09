@@ -205,3 +205,4 @@
 |[checksoft.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontents.date&type=A)|
 |[lastworking.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontents.date&type=A)|
 |[updatelive.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontents.date&type=A)|
+|[whenupdate.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=whenupdate.thelinkersgoodfreeforcontents.date&type=A)|
