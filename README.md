@@ -333,3 +333,4 @@
 |[nowsetup.thelinkersgoodfreeforcontentsetup.stream](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.stream&type=A)|
 |[live.thelinkersgoodfreeforcontentsetup.stream](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsetup.stream&type=A)|
 |[get24update.thelinkersgoodfreeforcontentsetup.stream](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.stream&type=A)|
+|[alwaysnew.thelinkersgoodfreeforcontentsfree.bid](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.bid&type=A)|
