@@ -286,3 +286,4 @@
 |[readynewsoft.thesoftwaresite2contenting.stream](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contenting.stream&type=A)|
 |[update2now.thesoftwaresite2contenting.stream](https://dns.google.com/query?name=update2now.thesoftwaresite2contenting.stream&type=A)|
 |[pcupgrade.thelinkersgoodfreeforcontentsafesetup.bid](https://dns.google.com/query?name=pcupgrade.thelinkersgoodfreeforcontentsafesetup.bid&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentsafesetup.bid](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsafesetup.bid&type=A)|
