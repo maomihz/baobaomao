@@ -226,3 +226,4 @@
 |[updatelive.thelinkersgoodfreeforcontentsafe.download](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontentsafe.download&type=A)|
 |[checksoft.thelinkersgoodfreeforcontentsafe.stream](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.stream&type=A)|
 |[lastworking.thelinkersgoodfreeforcontentsafe.stream](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.stream&type=A)|
+|[updatelive.thelinkersgoodfreeforcontentsafe.stream](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontentsafe.stream&type=A)|
