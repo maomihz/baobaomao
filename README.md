@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZUQUkwRW0vNDhHVzRYL0ZPRW1OdnNRTWdvaEFnL2JpRzRjdUd5TjBtTzhtenUzYTM1OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:59|https://s3.amazonaws.com/fTAI0Em/48GW4X/FOEmNvsQMgohAg/biG4cuGyN0mO8mzu3a358/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2h0cTRZUkFuREVLXy9EUEFiL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:48|https://s3.amazonaws.com/htq4YRAnDEK_/DPAb/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZyTk8vU0g4ellkbnk4RUNKeV9aL3dpQVFjQTYvOEVtbDlWdFAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:36|https://s3.amazonaws.com/FrNO/SH8zYdny8ECJy_Z/wiAQcA6/8Eml9VtP/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1JHS1IvR2pmRnptd2NjRWlyZW1jT3RUUS91R2dkMEkxL0lFV2E1TFdDQlY2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:29|https://s3.amazonaws.com/RGKR/GjfFzmwccEiremcOtTQ/uGgd0I1/IEWa5LWCBV6/AdobeFlashPlayerInstaller.dmg|
@@ -402,3 +403,4 @@
 |[upgrade4life.thegreat4updatesafemove.stream](https://dns.google.com/query?name=upgrade4life.thegreat4updatesafemove.stream&type=A)|
 |[nowsetup.thegreat4updatesafemove.trade](https://dns.google.com/query?name=nowsetup.thegreat4updatesafemove.trade&type=A)|
 |[upgrade4life.thegreat4updatesafemove.trade](https://dns.google.com/query?name=upgrade4life.thegreat4updatesafemove.trade&type=A)|
+|[nowsetup.thegreat4updatesafemove.win](https://dns.google.com/query?name=nowsetup.thegreat4updatesafemove.win&type=A)|
