@@ -211,3 +211,4 @@
 |[whenupdate.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=whenupdate.thelinkersgoodfreeforcontents.date&type=A)|
 |[checksoft.thelinkersgoodfreeforcontents.download](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontents.download&type=A)|
 |[updatelive.thelinkersgoodfreeforcontents.win](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontents.win&type=A)|
+|[lastworking.thelinkersgoodfreeforcontents.win](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontents.win&type=A)|
