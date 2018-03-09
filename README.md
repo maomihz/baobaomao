@@ -249,3 +249,4 @@
 |[24pcupgrade.thelinkersgoodfreeforcontentsafegonow.review](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentsafegonow.review&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsafegonow.review](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsafegonow.review&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentsafegonow.download](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentsafegonow.download&type=A)|
+|[24pcupgrade.thelinkersgoodfreeforcontentsafegonow.download](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentsafegonow.download&type=A)|
