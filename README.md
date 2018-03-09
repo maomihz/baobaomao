@@ -411,3 +411,4 @@
 |[nowsetup.thegreat4updatesmove.date](https://dns.google.com/query?name=nowsetup.thegreat4updatesmove.date&type=A)|
 |[testpconly12.thegreat4updatesmove.date](https://dns.google.com/query?name=testpconly12.thegreat4updatesmove.date&type=A)|
 |[undoupgrade24.thegreat4updatesmove.date](https://dns.google.com/query?name=undoupgrade24.thegreat4updatesmove.date&type=A)|
+|[upgrade4life.thegreat4updatesmove.date](https://dns.google.com/query?name=upgrade4life.thegreat4updatesmove.date&type=A)|
