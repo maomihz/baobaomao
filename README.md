@@ -204,3 +204,4 @@
 |[nowsetup.thelinkersgoodfreeforcontentingsetup.trade](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentingsetup.trade&type=A)|
 |[checksoft.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontents.date&type=A)|
 |[lastworking.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontents.date&type=A)|
+|[updatelive.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=updatelive.thelinkersgoodfreeforcontents.date&type=A)|
