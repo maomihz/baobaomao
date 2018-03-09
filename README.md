@@ -255,3 +255,4 @@
 |[alwaysnew.thelinkersgoodfreeforcontentsafefree.trade](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsafefree.trade&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentsafefree.trade](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsafefree.trade&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsafefree.trade](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.trade&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentsafegonow.win](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentsafegonow.win&type=A)|
