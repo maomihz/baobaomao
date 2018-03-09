@@ -298,3 +298,4 @@
 |[checkupgrade24.thelinkersgoodfreeforcontentsafegreat.win](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentsafegreat.win&type=A)|
 |[ready4update.thelinkersgoodfreeforcontentsafegreat.win](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsafegreat.win&type=A)|
 |[live.thelinkersgoodfreeforcontentsafesetup.date](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.date&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentsafesetup.date](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsafesetup.date&type=A)|
