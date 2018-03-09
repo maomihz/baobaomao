@@ -430,3 +430,4 @@
 |[update2new.thegreatforupdatemove.bid](https://dns.google.com/query?name=update2new.thegreatforupdatemove.bid&type=A)|
 |[upgradeinstall24.thegreatforupdatemove.bid](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatemove.bid&type=A)|
 |[update2new.thegreatforupdatemove.date](https://dns.google.com/query?name=update2new.thegreatforupdatemove.date&type=A)|
+|[settingupdate.thegreatforupdatemove.download](https://dns.google.com/query?name=settingupdate.thegreatforupdatemove.download&type=A)|
