@@ -315,3 +315,4 @@
 |[live.thelinkersgoodfreeforcontentsafesetup.win](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.win&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsafesetup.win](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsafesetup.win&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsetup.review](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.review&type=A)|
+|[live.thelinkersgoodfreeforcontentsetup.review](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsetup.review&type=A)|
