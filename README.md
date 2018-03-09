@@ -303,3 +303,4 @@
 |[live.thelinkersgoodfreeforcontentsafesetup.stream](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.stream&type=A)|
 |[get24update.thelinkersgoodfreeforcontentsafesetup.review](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsafesetup.review&type=A)|
 |[live.thelinkersgoodfreeforcontentsafesetup.review](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.review&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentsafesetup.review](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsafesetup.review&type=A)|
