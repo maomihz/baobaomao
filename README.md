@@ -288,3 +288,4 @@
 |[update2now.thesoftwaresite2contenting.stream](https://dns.google.com/query?name=update2now.thesoftwaresite2contenting.stream&type=A)|
 |[pcupgrade.thelinkersgoodfreeforcontentsafesetup.bid](https://dns.google.com/query?name=pcupgrade.thelinkersgoodfreeforcontentsafesetup.bid&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsafesetup.bid](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsafesetup.bid&type=A)|
+|[get24update.thelinkersgoodfreeforcontentsafesetup.bid](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsafesetup.bid&type=A)|
