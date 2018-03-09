@@ -194,3 +194,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentinggonow.review](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentinggonow.review&type=A)|
 |[updatenew.thesoftwaresite2contenting.stream](https://dns.google.com/query?name=updatenew.thesoftwaresite2contenting.stream&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentingsetup.win](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentingsetup.win&type=A)|
+|[live.thelinkersgoodfreeforcontentingsetup.win](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentingsetup.win&type=A)|
