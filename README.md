@@ -351,3 +351,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentsfree.win](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.win&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsfree.win](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsfree.win&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsgonow.bid](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsgonow.bid&type=A)|
+|[24pcupgrade.thelinkersgoodfreeforcontentsgonow.bid](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentsgonow.bid&type=A)|
