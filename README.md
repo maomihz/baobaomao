@@ -271,3 +271,4 @@
 |[whenvideoup.thelinkersgoodfreeforcontentsafegreat.bid](https://dns.google.com/query?name=whenvideoup.thelinkersgoodfreeforcontentsafegreat.bid&type=A)|
 |[app4com.thelinkersgoodfreeforcontentsafegreat.date](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentsafegreat.date&type=A)|
 |[checkupgrade24.thelinkersgoodfreeforcontentsafegreat.date](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentsafegreat.date&type=A)|
+|[ready4update.thelinkersgoodfreeforcontentsafegreat.date](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsafegreat.date&type=A)|
