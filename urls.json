@@ -185,8 +185,8 @@
   ],
   "urls": {
     "https://s3.amazonaws.com/7f48/D60CEA58/29D922E3/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520554673.49994,
-      "url": "https://s3.amazonaws.com/7f48/D60CEA58/29D922E3/AdobeFlashPlayerInstaller.dmg"
+      "url": "https://s3.amazonaws.com/7f48/D60CEA58/29D922E3/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520554673.49994
     }
   }
 }
