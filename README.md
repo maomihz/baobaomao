@@ -435,3 +435,4 @@
 |[update2new.thegreatforupdatemove.review](https://dns.google.com/query?name=update2new.thegreatforupdatemove.review&type=A)|
 |[update2new.thegreatforupdatemove.stream](https://dns.google.com/query?name=update2new.thegreatforupdatemove.stream&type=A)|
 |[upgradeget.thegreatforupdatemove.stream](https://dns.google.com/query?name=upgradeget.thegreatforupdatemove.stream&type=A)|
+|[settingupdate.thegreatforupdatemove.trade](https://dns.google.com/query?name=settingupdate.thegreatforupdatemove.trade&type=A)|
