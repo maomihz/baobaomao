@@ -433,3 +433,4 @@
 |[update2new.thegreatforupdatemove.download](https://dns.google.com/query?name=update2new.thegreatforupdatemove.download&type=A)|
 |[upgradeinstall24.thegreatforupdatemove.download](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatemove.download&type=A)|
 |[update2new.thegreatforupdatemove.review](https://dns.google.com/query?name=update2new.thegreatforupdatemove.review&type=A)|
+|[update2new.thegreatforupdatemove.stream](https://dns.google.com/query?name=update2new.thegreatforupdatemove.stream&type=A)|
