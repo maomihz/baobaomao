@@ -330,3 +330,4 @@
 |[get24update.thelinkersgoodfreeforcontentsetup.trade](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.trade&type=A)|
 |[live.thelinkersgoodfreeforcontentsetup.date](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsetup.date&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsetup.date](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.date&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentsetup.stream](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.stream&type=A)|
