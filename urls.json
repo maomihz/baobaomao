@@ -4,18 +4,6 @@
       "url": "https://s3.amazonaws.com/6508/86B6384/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520606268.496002
     },
-    "https://s3.amazonaws.com/06e2f576-a224-4796-817f-dcad4246da9/6DE51CF2374F274885EB7B1C/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/06e2f576-a224-4796-817f-dcad4246da9/6DE51CF2374F274885EB7B1C/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520605003.215941
-    },
-    "https://s3.amazonaws.com/8D75C6D618A8/GPlb/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/8D75C6D618A8/GPlb/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520606776.338496
-    },
-    "https://s3.amazonaws.com/3583D6024298F640BD3DD755804D/998C6B/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/3583D6024298F640BD3DD755804D/998C6B/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520607403.33983
-    },
     "https://s3.amazonaws.com/nVkv2WlVpEu9YuS/12147979/12516469/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/nVkv2WlVpEu9YuS/12147979/12516469/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520605764.13188
@@ -24,9 +12,17 @@
       "url": "https://s3.amazonaws.com/eUCA/PdLQ6f/3/2GtpNsFv/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520604496.331657
     },
-    "https://s3.amazonaws.com/AAE010AA28423F439E05D1/C22D4221/F6227596/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/AAE010AA28423F439E05D1/C22D4221/F6227596/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520603737.616177
+    "https://s3.amazonaws.com/3583D6024298F640BD3DD755804D/998C6B/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/3583D6024298F640BD3DD755804D/998C6B/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520607403.33983
+    },
+    "https://s3.amazonaws.com/8D75C6D618A8/GPlb/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/8D75C6D618A8/GPlb/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520606776.338496
+    },
+    "https://s3.amazonaws.com/06e2f576-a224-4796-817f-dcad4246da9/6DE51CF2374F274885EB7B1C/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/06e2f576-a224-4796-817f-dcad4246da9/6DE51CF2374F274885EB7B1C/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520605003.215941
     }
   },
   "ad_urls": [
@@ -357,6 +353,7 @@
     "legalsoft.thelinkersgoodfreeforcontentsfree.review",
     "alwaysnew.thelinkersgoodfreeforcontentsfree.stream",
     "getsoftnow.thelinkersgoodfreeforcontentsfree.stream",
-    "alwaysnew.thelinkersgoodfreeforcontentsfree.trade"
+    "alwaysnew.thelinkersgoodfreeforcontentsfree.trade",
+    "getsoftnow.thelinkersgoodfreeforcontentsfree.trade"
   ]
 }
