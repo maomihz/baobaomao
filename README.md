@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYzRTlGOEVERTIvMTI0NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:19|https://s3.amazonaws.com/63E9F8EDE2/1245/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2IyOWEwNThkLTY4YTYtNDk5YS04L0UyOUY4QjJFQ0M3NS8yM0E0RjY2NTVBRjgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:11|https://s3.amazonaws.com/b29a058d-68a6-499a-8/E29F8B2ECC75/23A4F6655AF8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFDNkIzQjIwREY0MDM5NDlCQ0M3NEYxMEQzQS9mY1NrN2F4Q28wNm82Sl9wTy9Gd25jZzhmeUEwV3haaE5Mei9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:00|https://s3.amazonaws.com/1C6B3B20DF403949BCC74F10D3A/fcSk7axCo06o6J_pO/Fwncg8fyA0WxZhNLz/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAxMTgwYzNlLS8yOTliZWU1Yi1kMmEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:50|https://s3.amazonaws.com/01180c3e-/299bee5b-d2a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM5MUZGRTczMzFFMTM4NEVBRUE3MzM4NjIzMDhFL1hpQnVBTW9QL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:39|https://s3.amazonaws.com/391FFE7331E1384EAEA733862308E/XiBuAMoP/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZGMTUvNDc0MEFEQzE3QUIzMTE0NjkvM0FGNDgxNDcxRkNDQkI0N0IvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:29|https://s3.amazonaws.com/6F15/4740ADC17AB311469/3AF481471FCCBB47B/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc1UlBQdWlFM2tPRjA4UE5PcXg1X1EvQTkzMTIzN0Y2QUE5RjI0Qjk0MjMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:18|https://s3.amazonaws.com/75RPPuiE3kOF08PNOqx5_Q/A931237F6AA9F24B9423/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -318,3 +318,4 @@
 |[live.thelinkersgoodfreeforcontentsetup.review](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsetup.review&type=A)|
 |[get24update.thelinkersgoodfreeforcontentsetup.review](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.review&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsetup.download](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.download&type=A)|
+|[live.thelinkersgoodfreeforcontentsetup.download](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsetup.download&type=A)|
