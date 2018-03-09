@@ -1,24 +1,24 @@
 {
   "urls": {
     "https://s3.amazonaws.com/YWEeiv1LpUyQ_yYKm_SSq/8d2f8/08141/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/YWEeiv1LpUyQ_yYKm_SSq/8d2f8/08141/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520591601.456282
-    },
-    "https://s3.amazonaws.com/2774/1719/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/2774/1719/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520591852.665977
-    },
-    "https://s3.amazonaws.com/e51f76b4-2f39-4fbd-b4aa-701c72/18530875-/f6600e22-/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/e51f76b4-2f39-4fbd-b4aa-701c72/18530875-/f6600e22-/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520592481.355006
+      "discovered": 1520591601.456282,
+      "url": "https://s3.amazonaws.com/YWEeiv1LpUyQ_yYKm_SSq/8d2f8/08141/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/99ff/5cacbf4e-ef21-4/e31e3b33-571f-4/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/99ff/5cacbf4e-ef21-4/e31e3b33-571f-4/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520592987.911143
+      "discovered": 1520592987.911143,
+      "url": "https://s3.amazonaws.com/99ff/5cacbf4e-ef21-4/e31e3b33-571f-4/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/e51f76b4-2f39-4fbd-b4aa-701c72/18530875-/f6600e22-/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520592481.355006,
+      "url": "https://s3.amazonaws.com/e51f76b4-2f39-4fbd-b4aa-701c72/18530875-/f6600e22-/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/2774/1719/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520591852.665977,
+      "url": "https://s3.amazonaws.com/2774/1719/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/XAUU/14843/88844/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/XAUU/14843/88844/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520593615.12479
+      "discovered": 1520593615.12479,
+      "url": "https://s3.amazonaws.com/XAUU/14843/88844/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -293,6 +293,7 @@
     "update2now.thesoftwaresite2contenting.stream",
     "pcupgrade.thelinkersgoodfreeforcontentsafesetup.bid",
     "nowsetup.thelinkersgoodfreeforcontentsafesetup.bid",
-    "get24update.thelinkersgoodfreeforcontentsafesetup.bid"
+    "get24update.thelinkersgoodfreeforcontentsafesetup.bid",
+    "live.thelinkersgoodfreeforcontentsafesetup.bid"
   ]
 }
