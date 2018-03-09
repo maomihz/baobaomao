@@ -241,3 +241,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentsafefree.download](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsafefree.download&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsafefree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.download&type=A)|
 |[upgradeinstall.thelinkersgoodfreeforcontentsafegonow.bid](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentsafegonow.bid&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentsafegonow.bid](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentsafegonow.bid&type=A)|
