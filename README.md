@@ -443,3 +443,4 @@
 |[upgradeinstall24.thegreatforupdatemove.win](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatemove.win&type=A)|
 |[aptitude.thegreatforupdatemoveall.bid](https://dns.google.com/query?name=aptitude.thegreatforupdatemoveall.bid&type=A)|
 |[get24update.thegreatforupdatemoveall.bid](https://dns.google.com/query?name=get24update.thegreatforupdatemoveall.bid&type=A)|
+|[noteupgrade.thegreatforupdatemoveall.bid](https://dns.google.com/query?name=noteupgrade.thegreatforupdatemoveall.bid&type=A)|
