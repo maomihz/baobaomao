@@ -231,3 +231,4 @@
 |[lastworking.thelinkersgoodfreeforcontentsafe.trade](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.trade&type=A)|
 |[checksoft.thelinkersgoodfreeforcontentsafe.win](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.win&type=A)|
 |[ready4maintain.thelinkersgoodfreeforcontentsafefree.date](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentsafefree.date&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentsafefree.date](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.date&type=A)|
