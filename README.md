@@ -201,3 +201,4 @@
 |[get24update.thelinkersgoodfreeforcontentingsetup.trade](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentingsetup.trade&type=A)|
 |[live.thelinkersgoodfreeforcontentingsetup.trade](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentingsetup.trade&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentingsetup.trade](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentingsetup.trade&type=A)|
+|[checksoft.thelinkersgoodfreeforcontents.date](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontents.date&type=A)|
