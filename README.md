@@ -276,3 +276,4 @@
 |[app4com.thelinkersgoodfreeforcontentsafegreat.download](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentsafegreat.download&type=A)|
 |[app4com.thelinkersgoodfreeforcontentsafegreat.review](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentsafegreat.review&type=A)|
 |[checkupgrade24.thelinkersgoodfreeforcontentsafegreat.review](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentsafegreat.review&type=A)|
+|[ready4update.thelinkersgoodfreeforcontentsafegreat.review](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsafegreat.review&type=A)|
