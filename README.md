@@ -264,3 +264,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentsafegonow.trade](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsafegonow.trade&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsafeall.win](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsafeall.win&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsafeall.win](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsafeall.win&type=A)|
+|[newupgradesystem.thelinkersgoodfreeforcontentsafeall.win](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsafeall.win&type=A)|
