@@ -319,3 +319,4 @@
 |[get24update.thelinkersgoodfreeforcontentsetup.review](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.review&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsetup.download](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.download&type=A)|
 |[live.thelinkersgoodfreeforcontentsetup.download](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsetup.download&type=A)|
+|[get24update.thelinkersgoodfreeforcontentsetup.download](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.download&type=A)|
