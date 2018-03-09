@@ -440,3 +440,4 @@
 |[settingupdate.thegreatforupdatemove.win](https://dns.google.com/query?name=settingupdate.thegreatforupdatemove.win&type=A)|
 |[update2new.thegreatforupdatemove.win](https://dns.google.com/query?name=update2new.thegreatforupdatemove.win&type=A)|
 |[upgradeget.thegreatforupdatemove.win](https://dns.google.com/query?name=upgradeget.thegreatforupdatemove.win&type=A)|
+|[upgradeinstall24.thegreatforupdatemove.win](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatemove.win&type=A)|
