@@ -321,3 +321,4 @@
 |[live.thelinkersgoodfreeforcontentsetup.download](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsetup.download&type=A)|
 |[get24update.thelinkersgoodfreeforcontentsetup.download](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.download&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsall.stream](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.stream&type=A)|
+|[newupgradesystem.thelinkersgoodfreeforcontentsall.stream](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsall.stream&type=A)|
