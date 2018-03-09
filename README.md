@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwNjQvNDBDNzI0MEMvOEY2NTEzQjkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:59|https://s3.amazonaws.com/1064/40C7240C/8F6513B9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhlNzEzMTJmLTI3YzUtNDllYy1hN2U1LTlkMzE3YzJlODkvMjZBNzVEMDFCQUNDRkIvNzg4QjY5RDRCQzU4QjQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:48|https://s3.amazonaws.com/8e71312f-27c5-49ec-a7e5-9d317c2e89/26A75D01BACCFB/788B69D4BC58B4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZ5clIxTXN0Vi9TR0xYZjhiZ0swX1QvNHlhczZTYVN3VTZEL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:36|https://s3.amazonaws.com/6yrR1MstV/SGLXf8bgK0_T/4yas6SaSwU6D/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0I3MTg2N0JBQjM4RUExNDVBRkZDOEVCM0ZCRS9DMTEzNjg3QUEyQzQwMTQ0OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|08:29|https://s3.amazonaws.com/B71867BAB38EA145AFFC8EB3FBE/C113687AA2C401449/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2EyYmY5OTMvQTd4WVRjQS9RQWpDVlEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:19|https://s3.amazonaws.com/a2bf993/A7xYTcA/QAjCVQ/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ1MzFkNTdiLTY5NzgvX2t0Sy9EWWJzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:08|https://s3.amazonaws.com/4531d57b-6978/_ktK/DYbs/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY2MWMyZDM4LTUzZTAtNDI1Zi1hODcwLzlFRTcyNEEvOTU0Q0MzNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:58|https://s3.amazonaws.com/661c2d38-53e0-425f-a870/9EE724A/954CC34/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -282,3 +282,4 @@
 |[ready4update.thelinkersgoodfreeforcontentsafegreat.stream](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsafegreat.stream&type=A)|
 |[updatesoftware.thereadysystemscontentsafeready.win](https://dns.google.com/query?name=updatesoftware.thereadysystemscontentsafeready.win&type=A)|
 |[safe.thereadysystemscontentsafeready.win](https://dns.google.com/query?name=safe.thereadysystemscontentsafeready.win&type=A)|
+|[undoupgrade24.thereadysystemscontentsafeready.win](https://dns.google.com/query?name=undoupgrade24.thereadysystemscontentsafeready.win&type=A)|
