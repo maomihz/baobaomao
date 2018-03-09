@@ -339,3 +339,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentsfree.date](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.date&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentsfree.download](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.download&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentsfree.download](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.download&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentsfree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsfree.download&type=A)|
