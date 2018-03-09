@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM5MUZGRTczMzFFMTM4NEVBRUE3MzM4NjIzMDhFL1hpQnVBTW9QL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:39|https://s3.amazonaws.com/391FFE7331E1384EAEA733862308E/XiBuAMoP/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZGMTUvNDc0MEFEQzE3QUIzMTE0NjkvM0FGNDgxNDcxRkNDQkI0N0IvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:29|https://s3.amazonaws.com/6F15/4740ADC17AB311469/3AF481471FCCBB47B/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc1UlBQdWlFM2tPRjA4UE5PcXg1X1EvQTkzMTIzN0Y2QUE5RjI0Qjk0MjMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:18|https://s3.amazonaws.com/75RPPuiE3kOF08PNOqx5_Q/A931237F6AA9F24B9423/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2NzYvZWMxYjA3YWQtNjY5Yy00NWQ3LWEyNDItYTc2NWI2Yi80ZTlkNTIzNC04YmNlLTQ2ZjAtOTU4Yy05NDYwM2I1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:07|https://s3.amazonaws.com/1676/ec1b07ad-669c-45d7-a242-a765b6b/4e9d5234-8bce-46f0-958c-94603b5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg1MzNGRjdEN0I0OTc1NDhCNThBOEYvTDJMZTF3Z3hoVUNwL2xiL0l0d2FqaHYvYVU2NlpvTy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:57|https://s3.amazonaws.com/8533FF7D7B497548B58A8F/L2Le1wgxhUCp/lb/Itwajhv/aU66ZoO/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0lpWkUvNzlGNjA3QUFDL0UxNUNBQzQ0Ny9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:46|https://s3.amazonaws.com/IiZE/79F607AAC/E15CAC447/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MzIvZTIyZC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:38|https://s3.amazonaws.com/1932/e22d/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -309,3 +309,4 @@
 |[live.thelinkersgoodfreeforcontentsafesetup.trade](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.trade&type=A)|
 |[pcupgrade.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=pcupgrade.thelinkersgoodfreeforcontentsetup.bid&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.bid&type=A)|
+|[get24update.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.bid&type=A)|
