@@ -336,3 +336,4 @@
 |[alwaysnew.thelinkersgoodfreeforcontentsfree.bid](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.bid&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentsfree.bid](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.bid&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentsfree.date](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.date&type=A)|
+|[getsoftnow.thelinkersgoodfreeforcontentsfree.date](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.date&type=A)|
