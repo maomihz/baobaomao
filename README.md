@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExODgvMjgzNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:40|https://s3.amazonaws.com/1188/2837/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RxNjBwaTZUV2svNDk1Ny9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:29|https://s3.amazonaws.com/dq60pi6TWk/4957/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgzMEYvNDE5YzIwMTMtMjc3Yi00OGJhLThiYTItMzUyMzlhL2NiNTczNTM5LTY3OWItNGE2My1iOGE5LWY0ZGMxNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:21|https://s3.amazonaws.com/830F/419c2013-277b-48ba-8ba2-35239a/cb573539-679b-4a63-b8a9-f4dc16/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzRDAwNkY1MDEvNjAyMDMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:10|https://s3.amazonaws.com/13D006F501/60203/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2VkYzRlZTZjLTU2ZDktNDM1OS05NGVkLTIvMTdBQjUzNzkwRDdBQUY0M0FBODcxNkFGOS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:00|https://s3.amazonaws.com/edc4ee6c-56d9-4359-94ed-2/17AB53790D7AAF43AA8716AF9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU5NjkvODEwNDgwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:49|https://s3.amazonaws.com/5969/810480/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0ODc1ODIzOC80MWJiL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:39|https://s3.amazonaws.com/148758238/41bb/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -233,3 +233,4 @@
 |[ready4maintain.thelinkersgoodfreeforcontentsafefree.date](https://dns.google.com/query?name=ready4maintain.thelinkersgoodfreeforcontentsafefree.date&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsafefree.date](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.date&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentsafefree.date](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsafefree.date&type=A)|
+|[getsoftnow.thelinkersgoodfreeforcontentsafefree.bid](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsafefree.bid&type=A)|
