@@ -310,3 +310,4 @@
 |[pcupgrade.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=pcupgrade.thelinkersgoodfreeforcontentsetup.bid&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.bid&type=A)|
 |[get24update.thelinkersgoodfreeforcontentsetup.bid](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsetup.bid&type=A)|
+|[pcupgrade.thelinkersgoodfreeforcontentsafesetup.win](https://dns.google.com/query?name=pcupgrade.thelinkersgoodfreeforcontentsafesetup.win&type=A)|
