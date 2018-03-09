@@ -284,3 +284,4 @@
 |[upgradeinstall.thelinkersgoodfreeforcontentinggonow.trade](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentinggonow.trade&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentinggonow.trade](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.trade&type=A)|
 |[readynewsoft.thesoftwaresite2contenting.stream](https://dns.google.com/query?name=readynewsoft.thesoftwaresite2contenting.stream&type=A)|
+|[update2now.thesoftwaresite2contenting.stream](https://dns.google.com/query?name=update2now.thesoftwaresite2contenting.stream&type=A)|
