@@ -299,3 +299,4 @@
 |[ready4update.thelinkersgoodfreeforcontentsafegreat.win](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsafegreat.win&type=A)|
 |[live.thelinkersgoodfreeforcontentsafesetup.date](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.date&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsafesetup.date](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsafesetup.date&type=A)|
+|[get24update.thelinkersgoodfreeforcontentsafesetup.stream](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsafesetup.stream&type=A)|
