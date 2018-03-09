@@ -427,3 +427,4 @@
 |[testpconly12.thegreat4updatingmove.stream](https://dns.google.com/query?name=testpconly12.thegreat4updatingmove.stream&type=A)|
 |[undoupgrade24.thegreat4updatingmove.stream](https://dns.google.com/query?name=undoupgrade24.thegreat4updatingmove.stream&type=A)|
 |[settingupdate.thegreatforupdatemove.bid](https://dns.google.com/query?name=settingupdate.thegreatforupdatemove.bid&type=A)|
+|[update2new.thegreatforupdatemove.bid](https://dns.google.com/query?name=update2new.thegreatforupdatemove.bid&type=A)|
