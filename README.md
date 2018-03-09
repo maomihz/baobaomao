@@ -239,3 +239,4 @@
 |[alwaysnew.thelinkersgoodfreeforcontentsafefree.stream](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsafefree.stream&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentsafefree.download](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsafefree.download&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentsafefree.download](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsafefree.download&type=A)|
+|[legalsoft.thelinkersgoodfreeforcontentsafefree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsafefree.download&type=A)|
