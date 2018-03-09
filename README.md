@@ -324,3 +324,4 @@
 |[newupgradesystem.thelinkersgoodfreeforcontentsall.stream](https://dns.google.com/query?name=newupgradesystem.thelinkersgoodfreeforcontentsall.stream&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsall.win](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsall.win&type=A)|
 |[askupdate.thelinkersgoodfreeforcontentsall.win](https://dns.google.com/query?name=askupdate.thelinkersgoodfreeforcontentsall.win&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentsetup.win](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.win&type=A)|
