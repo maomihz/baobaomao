@@ -314,3 +314,4 @@
 |[get24update.thelinkersgoodfreeforcontentsafesetup.win](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentsafesetup.win&type=A)|
 |[live.thelinkersgoodfreeforcontentsafesetup.win](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentsafesetup.win&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentsafesetup.win](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsafesetup.win&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentsetup.review](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentsetup.review&type=A)|
