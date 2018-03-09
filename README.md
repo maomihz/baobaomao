@@ -222,3 +222,4 @@
 |[checksoft.thelinkersgoodfreeforcontentsafe.date](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.date&type=A)|
 |[lastworking.thelinkersgoodfreeforcontentsafe.date](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.date&type=A)|
 |[checksoft.thelinkersgoodfreeforcontentsafe.download](https://dns.google.com/query?name=checksoft.thelinkersgoodfreeforcontentsafe.download&type=A)|
+|[lastworking.thelinkersgoodfreeforcontentsafe.download](https://dns.google.com/query?name=lastworking.thelinkersgoodfreeforcontentsafe.download&type=A)|
