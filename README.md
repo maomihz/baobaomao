@@ -284,3 +284,4 @@
 |[safe.thereadysystemscontentsafeready.win](https://dns.google.com/query?name=safe.thereadysystemscontentsafeready.win&type=A)|
 |[undoupgrade24.thereadysystemscontentsafeready.win](https://dns.google.com/query?name=undoupgrade24.thereadysystemscontentsafeready.win&type=A)|
 |[upgradeinstall.thelinkersgoodfreeforcontentinggonow.trade](https://dns.google.com/query?name=upgradeinstall.thelinkersgoodfreeforcontentinggonow.trade&type=A)|
+|[lastversion.thelinkersgoodfreeforcontentinggonow.trade](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentinggonow.trade&type=A)|
