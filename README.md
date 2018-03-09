@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA2ZTJmNTc2LWEyMjQtNDc5Ni04MTdmLWRjYWQ0MjQ2ZGE5LzZERTUxQ0YyMzc0RjI3NDg4NUVCN0IxQy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:16|https://s3.amazonaws.com/06e2f576-a224-4796-817f-dcad4246da9/6DE51CF2374F274885EB7B1C/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2VVQ0EvUGRMUTZmLzMvMkd0cE5zRnYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:08|https://s3.amazonaws.com/eUCA/PdLQ6f/3/2GtpNsFv/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0FBRTAxMEFBMjg0MjNGNDM5RTA1RDEvQzIyRDQyMjEvRjYyMjc1OTYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:55|https://s3.amazonaws.com/AAE010AA28423F439E05D1/C22D4221/F6227596/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAwOUMvRUY1QjQyRkU1NjQxMDQ0NDg1REIyLzY3QUVERTYzOUI4Mjc5NERCMTI3My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:49|https://s3.amazonaws.com/009C/EF5B42FE5641044485DB2/67AEDE639B82794DB1273/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -345,3 +344,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentsfree.review](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.review&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsfree.review](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsfree.review&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentsfree.stream](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.stream&type=A)|
+|[getsoftnow.thelinkersgoodfreeforcontentsfree.stream](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.stream&type=A)|
