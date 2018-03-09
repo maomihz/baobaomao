@@ -384,3 +384,4 @@
 |[nowsetup.thegreat4updatemove.win](https://dns.google.com/query?name=nowsetup.thegreat4updatemove.win&type=A)|
 |[testpconly12.thegreat4updatemove.win](https://dns.google.com/query?name=testpconly12.thegreat4updatemove.win&type=A)|
 |[upgrade4life.thegreat4updatemove.win](https://dns.google.com/query?name=upgrade4life.thegreat4updatemove.win&type=A)|
+|[nowsetup.thegreat4updatesafemove.bid](https://dns.google.com/query?name=nowsetup.thegreat4updatesafemove.bid&type=A)|
