@@ -281,3 +281,4 @@
 |[app4com.thelinkersgoodfreeforcontentsafegreat.stream](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentsafegreat.stream&type=A)|
 |[ready4update.thelinkersgoodfreeforcontentsafegreat.stream](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsafegreat.stream&type=A)|
 |[updatesoftware.thereadysystemscontentsafeready.win](https://dns.google.com/query?name=updatesoftware.thereadysystemscontentsafeready.win&type=A)|
+|[safe.thereadysystemscontentsafeready.win](https://dns.google.com/query?name=safe.thereadysystemscontentsafeready.win&type=A)|
