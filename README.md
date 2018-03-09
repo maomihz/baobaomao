@@ -370,3 +370,4 @@
 |[app4com.thelinkersgoodfreeforcontentinggreat.stream](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentinggreat.stream&type=A)|
 |[checkupgrade24.thelinkersgoodfreeforcontentinggreat.stream](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentinggreat.stream&type=A)|
 |[pcupgrade.thelinkersgoodfreeforcontentingsetup.win](https://dns.google.com/query?name=pcupgrade.thelinkersgoodfreeforcontentingsetup.win&type=A)|
+|[nowsetup.thegreat4updatemove.download](https://dns.google.com/query?name=nowsetup.thegreat4updatemove.download&type=A)|
