@@ -348,3 +348,4 @@
 |[alwaysnew.thelinkersgoodfreeforcontentsfree.trade](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.trade&type=A)|
 |[getsoftnow.thelinkersgoodfreeforcontentsfree.trade](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.trade&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentsfree.win](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.win&type=A)|
+|[getsoftnow.thelinkersgoodfreeforcontentsfree.win](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.win&type=A)|
