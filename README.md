@@ -341,3 +341,4 @@
 |[getsoftnow.thelinkersgoodfreeforcontentsfree.download](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.download&type=A)|
 |[legalsoft.thelinkersgoodfreeforcontentsfree.download](https://dns.google.com/query?name=legalsoft.thelinkersgoodfreeforcontentsfree.download&type=A)|
 |[alwaysnew.thelinkersgoodfreeforcontentsfree.review](https://dns.google.com/query?name=alwaysnew.thelinkersgoodfreeforcontentsfree.review&type=A)|
+|[getsoftnow.thelinkersgoodfreeforcontentsfree.review](https://dns.google.com/query?name=getsoftnow.thelinkersgoodfreeforcontentsfree.review&type=A)|
