@@ -583,3 +583,4 @@
 |[newalways.thegreatforupdatemovegood.bid](https://dns.google.com/query?name=newalways.thegreatforupdatemovegood.bid&type=A)|
 |[learn2upgrade.thegreatforupdatemovegood.trade](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatemovegood.trade&type=A)|
 |[newalways.thegreatforupdatemovegood.trade](https://dns.google.com/query?name=newalways.thegreatforupdatemovegood.trade&type=A)|
+|[newsoftready.thegreatforupdatemovegood.trade](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.trade&type=A)|
