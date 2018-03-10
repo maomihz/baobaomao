@@ -623,3 +623,4 @@
 |[newsoft2update.thegreatforupdatemoveset.trade](https://dns.google.com/query?name=newsoft2update.thegreatforupdatemoveset.trade&type=A)|
 |[finishedupdate.thegreatforupdatemoveset.trade](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.trade&type=A)|
 |[learn2upgrade.thegreatforupdatesafemovegood.download](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesafemovegood.download&type=A)|
+|[learn2upgrade.thegreatforupdatesafemovegood.review](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesafemovegood.review&type=A)|
