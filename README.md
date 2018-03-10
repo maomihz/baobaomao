@@ -466,3 +466,4 @@
 |[get24update.thegreatforupdatemoveall.stream](https://dns.google.com/query?name=get24update.thegreatforupdatemoveall.stream&type=A)|
 |[updatesoft.thegreatforupdatemoveall.stream](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.stream&type=A)|
 |[settingupdate.thegreatforupdatesafemove.bid](https://dns.google.com/query?name=settingupdate.thegreatforupdatesafemove.bid&type=A)|
+|[update2new.thegreatforupdatesafemove.bid](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.bid&type=A)|
