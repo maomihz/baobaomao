@@ -578,3 +578,4 @@
 |[newsoftready.thegreatforupdatemovegood.date](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.date&type=A)|
 |[readyupdate.thegreatforupdatemovegood.win](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.win&type=A)|
 |[newsoftready.thegreatforupdatemovegood.win](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.win&type=A)|
+|[newalways.thegreatforupdatemovegood.win](https://dns.google.com/query?name=newalways.thegreatforupdatemovegood.win&type=A)|
