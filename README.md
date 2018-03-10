@@ -557,3 +557,4 @@
 |[get24update.thegreatforupdatesmoveall.trade](https://dns.google.com/query?name=get24update.thegreatforupdatesmoveall.trade&type=A)|
 |[settingupdate.thegreatforupdatingmove.bid](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.bid&type=A)|
 |[update2new.thegreatforupdatingmove.bid](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.bid&type=A)|
+|[upgradeget.thegreatforupdatingmove.bid](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.bid&type=A)|
