@@ -508,3 +508,4 @@
 |[testpconly12.thegreat4updatingmove.bid](https://dns.google.com/query?name=testpconly12.thegreat4updatingmove.bid&type=A)|
 |[undoupgrade24.thegreat4updatingmove.bid](https://dns.google.com/query?name=undoupgrade24.thegreat4updatingmove.bid&type=A)|
 |[nowsetup.thegreat4updatingmove.date](https://dns.google.com/query?name=nowsetup.thegreat4updatingmove.date&type=A)|
+|[testpconly12.thegreat4updatingmove.date](https://dns.google.com/query?name=testpconly12.thegreat4updatingmove.date&type=A)|
