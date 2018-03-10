@@ -605,3 +605,4 @@
 |[finishedupdate.thegreatforupdatemoveset.date](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.date&type=A)|
 |[newsoft2update.thegreatforupdatemoveset.date](https://dns.google.com/query?name=newsoft2update.thegreatforupdatemoveset.date&type=A)|
 |[prepare2upvideo.thegreatforupdatemoveset.date](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.date&type=A)|
+|[setupupgrade.thegreatforupdatemoveset.date](https://dns.google.com/query?name=setupupgrade.thegreatforupdatemoveset.date&type=A)|
