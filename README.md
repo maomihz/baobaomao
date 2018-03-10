@@ -450,3 +450,4 @@
 |[updatesoft.thegreatforupdatemoveall.date](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.date&type=A)|
 |[aptitude.thegreatforupdatemoveall.download](https://dns.google.com/query?name=aptitude.thegreatforupdatemoveall.download&type=A)|
 |[get24update.thegreatforupdatemoveall.download](https://dns.google.com/query?name=get24update.thegreatforupdatemoveall.download&type=A)|
+|[noteupgrade.thegreatforupdatemoveall.download](https://dns.google.com/query?name=noteupgrade.thegreatforupdatemoveall.download&type=A)|
