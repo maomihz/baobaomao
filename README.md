@@ -522,3 +522,4 @@
 |[aptitude.thegreatforupdatesafemoveall.win](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.win&type=A)|
 |[get24update.thegreatforupdatesafemoveall.win](https://dns.google.com/query?name=get24update.thegreatforupdatesafemoveall.win&type=A)|
 |[updatesoft.thegreatforupdatesafemoveall.win](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.win&type=A)|
+|[update2new.thegreatforupdatesafemove.win](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.win&type=A)|
