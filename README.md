@@ -618,3 +618,4 @@
 |[finishedupdate.thegreatforupdatemoveset.win](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.win&type=A)|
 |[finishedupdate.thegreatforupdatemoveset.review](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.review&type=A)|
 |[newsoft2update.thegreatforupdatemoveset.review](https://dns.google.com/query?name=newsoft2update.thegreatforupdatemoveset.review&type=A)|
+|[prepare2upvideo.thegreatforupdatemoveset.review](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.review&type=A)|
