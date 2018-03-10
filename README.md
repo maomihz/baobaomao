@@ -657,3 +657,4 @@
 |[finishedupdate.thegreatforupdatesafemoveset.bid](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesafemoveset.bid&type=A)|
 |[newsoft2update.thegreatforupdatesafemoveset.bid](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesafemoveset.bid&type=A)|
 |[finishedupdate.thegreatforupdatesafemoveset.date](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesafemoveset.date&type=A)|
+|[newsoft2update.thegreatforupdatesafemoveset.date](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesafemoveset.date&type=A)|
