@@ -517,3 +517,4 @@
 |[nowsetup.thegreat4updatingmove.trade](https://dns.google.com/query?name=nowsetup.thegreat4updatingmove.trade&type=A)|
 |[testpconly12.thegreat4updatingmove.trade](https://dns.google.com/query?name=testpconly12.thegreat4updatingmove.trade&type=A)|
 |[nowsetup.thegreat4updatingmove.win](https://dns.google.com/query?name=nowsetup.thegreat4updatingmove.win&type=A)|
+|[testpconly12.thegreat4updatingmove.win](https://dns.google.com/query?name=testpconly12.thegreat4updatingmove.win&type=A)|
