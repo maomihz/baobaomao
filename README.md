@@ -661,3 +661,4 @@
 |[prepare2upvideo.thegreatforupdatesafemoveset.date](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatesafemoveset.date&type=A)|
 |[setupupgrade.thegreatforupdatesafemoveset.date](https://dns.google.com/query?name=setupupgrade.thegreatforupdatesafemoveset.date&type=A)|
 |[finishedupdate.thegreatforupdatesafemoveset.download](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesafemoveset.download&type=A)|
+|[newsoft2update.thegreatforupdatesafemoveset.download](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesafemoveset.download&type=A)|
