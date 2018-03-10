@@ -499,3 +499,4 @@
 |[updatesoft.thegreatforupdatesafemoveall.stream](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.stream&type=A)|
 |[aptitude.thegreatforupdatesafemoveall.trade](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.trade&type=A)|
 |[updatesoft.thegreatforupdatesafemoveall.trade](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.trade&type=A)|
+|[noteupgrade.thegreatforupdatesafemoveall.trade](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesafemoveall.trade&type=A)|
