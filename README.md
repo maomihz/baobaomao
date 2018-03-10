@@ -646,3 +646,4 @@
 |[getsoftnow.thegreatforupdatesafemoveprepared.review](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.review&type=A)|
 |[safe.thegreatforupdatesafemoveprepared.review](https://dns.google.com/query?name=safe.thegreatforupdatesafemoveprepared.review&type=A)|
 |[downgradepc.thegreatforupdatesafemoveprepared.stream](https://dns.google.com/query?name=downgradepc.thegreatforupdatesafemoveprepared.stream&type=A)|
+|[getsoftnow.thegreatforupdatesafemoveprepared.stream](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.stream&type=A)|
