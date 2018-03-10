@@ -639,3 +639,4 @@
 |[safe.thegreatforupdatesafemoveprepared.date](https://dns.google.com/query?name=safe.thegreatforupdatesafemoveprepared.date&type=A)|
 |[testpconly12.thegreatforupdatesafemoveprepared.date](https://dns.google.com/query?name=testpconly12.thegreatforupdatesafemoveprepared.date&type=A)|
 |[downgradepc.thegreatforupdatesafemoveprepared.download](https://dns.google.com/query?name=downgradepc.thegreatforupdatesafemoveprepared.download&type=A)|
+|[getsoftnow.thegreatforupdatesafemoveprepared.download](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.download&type=A)|
