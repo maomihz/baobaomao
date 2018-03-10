@@ -490,3 +490,4 @@
 |[updatesoft.thegreatforupdatesafemoveall.date](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.date&type=A)|
 |[aptitude.thegreatforupdatesafemoveall.download](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.download&type=A)|
 |[get24update.thegreatforupdatesafemoveall.download](https://dns.google.com/query?name=get24update.thegreatforupdatesafemoveall.download&type=A)|
+|[noteupgrade.thegreatforupdatesafemoveall.download](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesafemoveall.download&type=A)|
