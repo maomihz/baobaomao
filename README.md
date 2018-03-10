@@ -564,3 +564,4 @@
 |[settingupdate.thegreatforupdatingmove.download](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.download&type=A)|
 |[update2new.thegreatforupdatingmove.download](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.download&type=A)|
 |[upgradeget.thegreatforupdatingmove.download](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.download&type=A)|
+|[settingupdate.thegreatforupdatingmove.win](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.win&type=A)|
