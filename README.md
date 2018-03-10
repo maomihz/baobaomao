@@ -580,3 +580,4 @@
 |[newsoftready.thegreatforupdatemovegood.win](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.win&type=A)|
 |[newalways.thegreatforupdatemovegood.win](https://dns.google.com/query?name=newalways.thegreatforupdatemovegood.win&type=A)|
 |[learn2upgrade.thegreatforupdatemovegood.bid](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatemovegood.bid&type=A)|
+|[newalways.thegreatforupdatemovegood.bid](https://dns.google.com/query?name=newalways.thegreatforupdatemovegood.bid&type=A)|
