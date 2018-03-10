@@ -569,3 +569,4 @@
 |[settingupdate.thegreatforupdatingmove.trade](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.trade&type=A)|
 |[upgradeget.thegreatforupdatingmove.stream](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.stream&type=A)|
 |[update2new.thegreatforupdatingmove.stream](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.stream&type=A)|
+|[settingupdate.thegreatforupdatingmove.stream](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.stream&type=A)|
