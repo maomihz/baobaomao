@@ -1,12 +1,16 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/EOCf/C7166C3986412B/A4D85B9A866CBE/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520656830.42381,
-      "url": "https://s3.amazonaws.com/EOCf/C7166C3986412B/A4D85B9A866CBE/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/662101/eaf81357-feb8-4647-8607-65f/9567a508-90d7-4859-89ae-a36/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520657461.157282,
       "url": "https://s3.amazonaws.com/662101/eaf81357-feb8-4647-8607-65f/9567a508-90d7-4859-89ae-a36/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/da89cf07-09a5-4232-9593-75c3/lr7sbc7/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520658093.210692,
+      "url": "https://s3.amazonaws.com/da89cf07-09a5-4232-9593-75c3/lr7sbc7/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/CF65D/D5709215292323458C9FD/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520655694.173329,
+      "url": "https://s3.amazonaws.com/CF65D/D5709215292323458C9FD/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/6500/vd/Kpg/QzyZ1j/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520656198.920003,
@@ -16,13 +20,9 @@
       "discovered": 1520658597.73216,
       "url": "https://s3.amazonaws.com/pdppH/8BK8D/V_eUKEi/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/da89cf07-09a5-4232-9593-75c3/lr7sbc7/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520658093.210692,
-      "url": "https://s3.amazonaws.com/da89cf07-09a5-4232-9593-75c3/lr7sbc7/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/CF65D/D5709215292323458C9FD/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520655694.173329,
-      "url": "https://s3.amazonaws.com/CF65D/D5709215292323458C9FD/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/EOCf/C7166C3986412B/A4D85B9A866CBE/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520656830.42381,
+      "url": "https://s3.amazonaws.com/EOCf/C7166C3986412B/A4D85B9A866CBE/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -530,6 +530,7 @@
     "aptitude.thegreatforupdatesafemoveall.win",
     "get24update.thegreatforupdatesafemoveall.win",
     "updatesoft.thegreatforupdatesafemoveall.win",
-    "update2new.thegreatforupdatesafemove.win"
+    "update2new.thegreatforupdatesafemove.win",
+    "upgradeget.thegreatforupdatesafemove.win"
   ]
 }
