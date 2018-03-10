@@ -458,3 +458,4 @@
 |[updatesoft.thegreatforupdatemoveall.review](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.review&type=A)|
 |[updatesoft.thegreatforupdatemoveall.win](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.win&type=A)|
 |[noteupgrade.thegreatforupdatemoveall.win](https://dns.google.com/query?name=noteupgrade.thegreatforupdatemoveall.win&type=A)|
+|[updatesoft.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.trade&type=A)|
