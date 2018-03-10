@@ -656,3 +656,4 @@
 |[safe.thegreatforupdatesafemoveprepared.win](https://dns.google.com/query?name=safe.thegreatforupdatesafemoveprepared.win&type=A)|
 |[testpconly12.thegreatforupdatesafemoveprepared.win](https://dns.google.com/query?name=testpconly12.thegreatforupdatesafemoveprepared.win&type=A)|
 |[finishedupdate.thegreatforupdatesafemoveset.bid](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesafemoveset.bid&type=A)|
+|[newsoft2update.thegreatforupdatesafemoveset.bid](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesafemoveset.bid&type=A)|
