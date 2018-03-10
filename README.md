@@ -552,3 +552,4 @@
 |[aptitude.thegreatforupdatesmoveall.stream](https://dns.google.com/query?name=aptitude.thegreatforupdatesmoveall.stream&type=A)|
 |[get24update.thegreatforupdatesmoveall.stream](https://dns.google.com/query?name=get24update.thegreatforupdatesmoveall.stream&type=A)|
 |[noteupgrade.thegreatforupdatesmoveall.stream](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesmoveall.stream&type=A)|
+|[aptitude.thegreatforupdatesmoveall.trade](https://dns.google.com/query?name=aptitude.thegreatforupdatesmoveall.trade&type=A)|
