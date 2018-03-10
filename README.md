@@ -487,3 +487,4 @@
 |[aptitude.thegreatforupdatesafemoveall.date](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.date&type=A)|
 |[get24update.thegreatforupdatesafemoveall.date](https://dns.google.com/query?name=get24update.thegreatforupdatesafemoveall.date&type=A)|
 |[noteupgrade.thegreatforupdatesafemoveall.date](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesafemoveall.date&type=A)|
+|[updatesoft.thegreatforupdatesafemoveall.date](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.date&type=A)|
