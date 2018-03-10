@@ -540,3 +540,4 @@
 |[update2new.thegreatforupdatesmove.win](https://dns.google.com/query?name=update2new.thegreatforupdatesmove.win&type=A)|
 |[upgradeget.thegreatforupdatesmove.win](https://dns.google.com/query?name=upgradeget.thegreatforupdatesmove.win&type=A)|
 |[get24update.thegreatforupdatesmoveall.bid](https://dns.google.com/query?name=get24update.thegreatforupdatesmoveall.bid&type=A)|
+|[noteupgrade.thegreatforupdatesmoveall.bid](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesmoveall.bid&type=A)|
