@@ -652,3 +652,4 @@
 |[getsoftnow.thegreatforupdatesafemoveprepared.trade](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.trade&type=A)|
 |[downgradepc.thegreatforupdatesafemoveprepared.win](https://dns.google.com/query?name=downgradepc.thegreatforupdatesafemoveprepared.win&type=A)|
 |[getsoftnow.thegreatforupdatesafemoveprepared.win](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.win&type=A)|
+|[safe.thegreatforupdatesafemoveprepared.win](https://dns.google.com/query?name=safe.thegreatforupdatesafemoveprepared.win&type=A)|
