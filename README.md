@@ -678,3 +678,4 @@
 |[newsoftready.thegreatforupdatesmovegood.download](https://dns.google.com/query?name=newsoftready.thegreatforupdatesmovegood.download&type=A)|
 |[newalways.thegreatforupdatesmovegood.review](https://dns.google.com/query?name=newalways.thegreatforupdatesmovegood.review&type=A)|
 |[learn2upgrade.thegreatforupdatesmovegood.stream](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesmovegood.stream&type=A)|
+|[newsoftready.thegreatforupdatesmovegood.stream](https://dns.google.com/query?name=newsoftready.thegreatforupdatesmovegood.stream&type=A)|
