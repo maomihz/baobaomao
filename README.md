@@ -590,3 +590,4 @@
 |[testpconly12.thegreatforupdatemoveprepared.bid](https://dns.google.com/query?name=testpconly12.thegreatforupdatemoveprepared.bid&type=A)|
 |[downgradepc.thegreatforupdatemoveprepared.download](https://dns.google.com/query?name=downgradepc.thegreatforupdatemoveprepared.download&type=A)|
 |[getsoftnow.thegreatforupdatemoveprepared.download](https://dns.google.com/query?name=getsoftnow.thegreatforupdatemoveprepared.download&type=A)|
+|[safe.thegreatforupdatemoveprepared.download](https://dns.google.com/query?name=safe.thegreatforupdatemoveprepared.download&type=A)|
