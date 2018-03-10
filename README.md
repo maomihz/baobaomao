@@ -599,3 +599,4 @@
 |[downgradepc.thegreatforupdatemoveprepared.stream](https://dns.google.com/query?name=downgradepc.thegreatforupdatemoveprepared.stream&type=A)|
 |[getsoftnow.thegreatforupdatemoveprepared.stream](https://dns.google.com/query?name=getsoftnow.thegreatforupdatemoveprepared.stream&type=A)|
 |[safe.thegreatforupdatemoveprepared.stream](https://dns.google.com/query?name=safe.thegreatforupdatemoveprepared.stream&type=A)|
+|[getsoftnow.thegreatforupdatemoveprepared.win](https://dns.google.com/query?name=getsoftnow.thegreatforupdatemoveprepared.win&type=A)|
