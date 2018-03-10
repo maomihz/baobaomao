@@ -549,3 +549,4 @@
 |[noteupgrade.thegreatforupdatesmoveall.win](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesmoveall.win&type=A)|
 |[get24update.thegreatforupdatesmoveall.win](https://dns.google.com/query?name=get24update.thegreatforupdatesmoveall.win&type=A)|
 |[aptitude.thegreatforupdatesmoveall.win](https://dns.google.com/query?name=aptitude.thegreatforupdatesmoveall.win&type=A)|
+|[aptitude.thegreatforupdatesmoveall.stream](https://dns.google.com/query?name=aptitude.thegreatforupdatesmoveall.stream&type=A)|
