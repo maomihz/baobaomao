@@ -665,3 +665,4 @@
 |[finishedupdate.thegreatforupdatesafemoveset.review](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesafemoveset.review&type=A)|
 |[setupupgrade.thegreatforupdatesafemoveset.trade](https://dns.google.com/query?name=setupupgrade.thegreatforupdatesafemoveset.trade&type=A)|
 |[prepare2upvideo.thegreatforupdatesafemoveset.trade](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatesafemoveset.trade&type=A)|
+|[newsoft2update.thegreatforupdatesafemoveset.trade](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesafemoveset.trade&type=A)|
