@@ -519,3 +519,4 @@
 |[nowsetup.thegreat4updatingmove.win](https://dns.google.com/query?name=nowsetup.thegreat4updatingmove.win&type=A)|
 |[testpconly12.thegreat4updatingmove.win](https://dns.google.com/query?name=testpconly12.thegreat4updatingmove.win&type=A)|
 |[undoupgrade24.thegreat4updatingmove.win](https://dns.google.com/query?name=undoupgrade24.thegreat4updatingmove.win&type=A)|
+|[aptitude.thegreatforupdatesafemoveall.win](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.win&type=A)|
