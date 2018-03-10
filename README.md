@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgxYjg5ZWZlLWViZjQtL0EyNDY0NURCQTQyQTRFNDVCOTE2RjhENkRBNS9CNTEyQjUzMTQyNUE1NDQ4OTg0MTkyMkUwQjQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:40|https://s3.amazonaws.com/81b89efe-ebf4-/A24645DBA42A4E45B916F8D6DA5/B512B531425A54489841922E0B4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVjYTYwLzEyNzYvMzM5Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:29|https://s3.amazonaws.com/5ca60/1276/3392/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q4ZTFhYWVhLTM4MTQtNDk2NC1iNmJhLS9IdEF5UTZZcy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:19|https://s3.amazonaws.com/d8e1aaea-3814-4964-b6ba-/HtAyQ6Ys/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2UwZjkvMzQ5ODQyNTQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:08|https://s3.amazonaws.com/e0f9/34984254/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU3ZTZkZjBjLTAwMjktNGY4MS80MzE0RTc2QjUzQTFCOTQ1OEIwNkQ1NS8zQjFFNkJDMTgyMkZGNzRBQjIzOUQzRi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:58|https://s3.amazonaws.com/57e6df0c-0029-4f81/4314E76B53A1B9458B06D55/3B1E6BC1822FF74AB239D3F/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk2MDYyZGQzLTdhZTAtNDE0Yi0vMTM1MS8yNzI3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:49|https://s3.amazonaws.com/96062dd3-7ae0-414b-/1351/2727/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhmMmFiODliLTUxMTYtNGM3OS05OTY2LTAxMjk4NjcxLzEyNDU3MjcxMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:39|https://s3.amazonaws.com/8f2ab89b-5116-4c79-9966-01298671/124572712/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -696,3 +696,4 @@
 |[getsoftnow.thegreatforupdatesmoveprepared.stream](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.stream&type=A)|
 |[safe.thegreatforupdatesmoveprepared.review](https://dns.google.com/query?name=safe.thegreatforupdatesmoveprepared.review&type=A)|
 |[downgradepc.thegreatforupdatesmoveprepared.review](https://dns.google.com/query?name=downgradepc.thegreatforupdatesmoveprepared.review&type=A)|
+|[settingupdate.thegreatforupdatesafemove.date](https://dns.google.com/query?name=settingupdate.thegreatforupdatesafemove.date&type=A)|
