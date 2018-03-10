@@ -603,3 +603,4 @@
 |[getsoftnow.thegreatforupdatemoveprepared.win](https://dns.google.com/query?name=getsoftnow.thegreatforupdatemoveprepared.win&type=A)|
 |[safe.thegreatforupdatemoveprepared.win](https://dns.google.com/query?name=safe.thegreatforupdatemoveprepared.win&type=A)|
 |[testpconly12.thegreatforupdatemoveprepared.win](https://dns.google.com/query?name=testpconly12.thegreatforupdatemoveprepared.win&type=A)|
+|[finishedupdate.thegreatforupdatemoveset.date](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.date&type=A)|
