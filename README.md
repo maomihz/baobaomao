@@ -500,3 +500,4 @@
 |[aptitude.thegreatforupdatesafemoveall.trade](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.trade&type=A)|
 |[updatesoft.thegreatforupdatesafemoveall.trade](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.trade&type=A)|
 |[noteupgrade.thegreatforupdatesafemoveall.trade](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesafemoveall.trade&type=A)|
+|[get24update.thegreatforupdatesafemoveall.trade](https://dns.google.com/query?name=get24update.thegreatforupdatesafemoveall.trade&type=A)|
