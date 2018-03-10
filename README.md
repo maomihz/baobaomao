@@ -671,3 +671,4 @@
 |[prepare2upvideo.thegreatforupdatesafemoveset.stream](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatesafemoveset.stream&type=A)|
 |[setupupgrade.thegreatforupdatesafemoveset.stream](https://dns.google.com/query?name=setupupgrade.thegreatforupdatesafemoveset.stream&type=A)|
 |[learn2upgrade.thegreatforupdatesmovegood.bid](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesmovegood.bid&type=A)|
+|[newalways.thegreatforupdatesmovegood.bid](https://dns.google.com/query?name=newalways.thegreatforupdatesmovegood.bid&type=A)|
