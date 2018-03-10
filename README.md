@@ -472,3 +472,4 @@
 |[upgradeget.thegreatforupdatesafemove.date](https://dns.google.com/query?name=upgradeget.thegreatforupdatesafemove.date&type=A)|
 |[upgradeinstall24.thegreatforupdatesafemove.date](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatesafemove.date&type=A)|
 |[settingupdate.thegreatforupdatesafemove.download](https://dns.google.com/query?name=settingupdate.thegreatforupdatesafemove.download&type=A)|
+|[update2new.thegreatforupdatesafemove.download](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.download&type=A)|
