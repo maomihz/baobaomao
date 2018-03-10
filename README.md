@@ -475,3 +475,4 @@
 |[update2new.thegreatforupdatesafemove.download](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.download&type=A)|
 |[upgradeget.thegreatforupdatesafemove.download](https://dns.google.com/query?name=upgradeget.thegreatforupdatesafemove.download&type=A)|
 |[upgradeinstall24.thegreatforupdatesafemove.download](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatesafemove.download&type=A)|
+|[settingupdate.thegreatforupdatesafemove.review](https://dns.google.com/query?name=settingupdate.thegreatforupdatesafemove.review&type=A)|
