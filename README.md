@@ -468,3 +468,4 @@
 |[settingupdate.thegreatforupdatesafemove.bid](https://dns.google.com/query?name=settingupdate.thegreatforupdatesafemove.bid&type=A)|
 |[update2new.thegreatforupdatesafemove.bid](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.bid&type=A)|
 |[upgradeget.thegreatforupdatesafemove.bid](https://dns.google.com/query?name=upgradeget.thegreatforupdatesafemove.bid&type=A)|
+|[update2new.thegreatforupdatesafemove.date](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.date&type=A)|
