@@ -560,3 +560,4 @@
 |[upgradeget.thegreatforupdatingmove.bid](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.bid&type=A)|
 |[settingupdate.thegreatforupdatingmove.date](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.date&type=A)|
 |[update2new.thegreatforupdatingmove.date](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.date&type=A)|
+|[upgradeget.thegreatforupdatingmove.date](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.date&type=A)|
