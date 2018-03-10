@@ -544,16 +544,17 @@
     "update2new.thegreatforupdatingmove.date",
     "upgradeget.thegreatforupdatingmove.date",
     "settingupdate.thegreatforupdatingmove.download",
-    "update2new.thegreatforupdatingmove.download"
+    "update2new.thegreatforupdatingmove.download",
+    "upgradeget.thegreatforupdatingmove.download"
   ],
   "urls": {
+    "https://s3.amazonaws.com/41D74EF95/3611/7067/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/41D74EF95/3611/7067/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520668195.195231
+    },
     "https://s3.amazonaws.com/88F5C6B733410C4DA7E/32318dda-14b/c229f166-62f/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/88F5C6B733410C4DA7E/32318dda-14b/c229f166-62f/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520665670.164852
-    },
-    "https://s3.amazonaws.com/B08558468D74144CBECBAB1/034577849B46/FB367E5A87A3/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/B08558468D74144CBECBAB1/034577849B46/FB367E5A87A3/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520665040.294738
     },
     "https://s3.amazonaws.com/27d04/9280/1069/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/27d04/9280/1069/AdobeFlashPlayerInstaller.dmg",
@@ -567,9 +568,9 @@
       "url": "https://s3.amazonaws.com/9386/37D2C9205EFA/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520667563.142291
     },
-    "https://s3.amazonaws.com/41D74EF95/3611/7067/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/41D74EF95/3611/7067/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520668195.195231
+    "https://s3.amazonaws.com/B08558468D74144CBECBAB1/034577849B46/FB367E5A87A3/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/B08558468D74144CBECBAB1/034577849B46/FB367E5A87A3/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520665040.294738
     }
   }
 }
