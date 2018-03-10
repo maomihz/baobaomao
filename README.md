@@ -460,3 +460,4 @@
 |[noteupgrade.thegreatforupdatemoveall.win](https://dns.google.com/query?name=noteupgrade.thegreatforupdatemoveall.win&type=A)|
 |[updatesoft.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.trade&type=A)|
 |[noteupgrade.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=noteupgrade.thegreatforupdatemoveall.trade&type=A)|
+|[get24update.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=get24update.thegreatforupdatemoveall.trade&type=A)|
