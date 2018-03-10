@@ -470,3 +470,4 @@
 |[upgradeget.thegreatforupdatesafemove.bid](https://dns.google.com/query?name=upgradeget.thegreatforupdatesafemove.bid&type=A)|
 |[update2new.thegreatforupdatesafemove.date](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.date&type=A)|
 |[upgradeget.thegreatforupdatesafemove.date](https://dns.google.com/query?name=upgradeget.thegreatforupdatesafemove.date&type=A)|
+|[upgradeinstall24.thegreatforupdatesafemove.date](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatesafemove.date&type=A)|
