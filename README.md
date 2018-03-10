@@ -496,3 +496,4 @@
 |[get24update.thegreatforupdatesafemoveall.review](https://dns.google.com/query?name=get24update.thegreatforupdatesafemoveall.review&type=A)|
 |[updatesoft.thegreatforupdatesafemoveall.review](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.review&type=A)|
 |[aptitude.thegreatforupdatesafemoveall.stream](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.stream&type=A)|
+|[updatesoft.thegreatforupdatesafemoveall.stream](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.stream&type=A)|
