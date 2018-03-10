@@ -464,3 +464,4 @@
 |[aptitude.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=aptitude.thegreatforupdatemoveall.trade&type=A)|
 |[aptitude.thegreatforupdatemoveall.stream](https://dns.google.com/query?name=aptitude.thegreatforupdatemoveall.stream&type=A)|
 |[get24update.thegreatforupdatemoveall.stream](https://dns.google.com/query?name=get24update.thegreatforupdatemoveall.stream&type=A)|
+|[updatesoft.thegreatforupdatemoveall.stream](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.stream&type=A)|
