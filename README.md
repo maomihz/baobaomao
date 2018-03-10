@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZENDc2NUE1MEE4MTJENDlCQ0YzLzVHaWQ1WldjU1VLa2ozcUtCWkRpTi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:59|https://s3.amazonaws.com/6D4765A50A812D49BCF3/5Gid5ZWcSUKkj3qKBZDiN/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL204YVUySVZaeEVfd3I3M21pUnMvMTUyNS8xMTM0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:51|https://s3.amazonaws.com/m8aU2IVZxE_wr73miRs/1525/1134/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RmZTNmNmEwLTE3N2EtNDBmYi04NGQxLWIzMjAzNGFkYi9venExTW4vRDBKMDVfL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:38|https://s3.amazonaws.com/dfe3f6a0-177a-40fb-84d1-b32034adb/ozq1Mn/D0J05_/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2NDgvNjM2OTA0MS8zNTY1MzIzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:27|https://s3.amazonaws.com/1648/6369041/3565323/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1YzkvT2dxOGp3WFZrMHFzcEhSMVZTL2ZXOXZBeFNWRFV1bHc1eFNHVC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:17|https://s3.amazonaws.com/15c9/Ogq8jwXVk0qspHR1VS/fW9vAxSVDUulw5xSGT/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEyNTkvMTYyMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:09|https://s3.amazonaws.com/1259/1621/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FmMDE2ZGU5LWQyMjctNDdjOC05NTJmLWI4OTIzM2U3OWQvQjFBQzkwMEJBQTM2LzZEMDc4NTNDRjU0MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:58|https://s3.amazonaws.com/af016de9-d227-47c8-952f-b89233e79d/B1AC900BAA36/6D07853CF540/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -461,3 +461,4 @@
 |[updatesoft.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.trade&type=A)|
 |[noteupgrade.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=noteupgrade.thegreatforupdatemoveall.trade&type=A)|
 |[get24update.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=get24update.thegreatforupdatemoveall.trade&type=A)|
+|[aptitude.thegreatforupdatemoveall.trade](https://dns.google.com/query?name=aptitude.thegreatforupdatemoveall.trade&type=A)|
