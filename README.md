@@ -648,3 +648,4 @@
 |[downgradepc.thegreatforupdatesafemoveprepared.stream](https://dns.google.com/query?name=downgradepc.thegreatforupdatesafemoveprepared.stream&type=A)|
 |[getsoftnow.thegreatforupdatesafemoveprepared.stream](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.stream&type=A)|
 |[safe.thegreatforupdatesafemoveprepared.stream](https://dns.google.com/query?name=safe.thegreatforupdatesafemoveprepared.stream&type=A)|
+|[downgradepc.thegreatforupdatesafemoveprepared.trade](https://dns.google.com/query?name=downgradepc.thegreatforupdatesafemoveprepared.trade&type=A)|
