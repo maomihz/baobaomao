@@ -537,3 +537,4 @@
 |[settingupdate.thegreatforupdatesmove.stream](https://dns.google.com/query?name=settingupdate.thegreatforupdatesmove.stream&type=A)|
 |[settingupdate.thegreatforupdatesmove.trade](https://dns.google.com/query?name=settingupdate.thegreatforupdatesmove.trade&type=A)|
 |[update2new.thegreatforupdatesmove.trade](https://dns.google.com/query?name=update2new.thegreatforupdatesmove.trade&type=A)|
+|[upgradeget.thegreatforupdatesmove.trade](https://dns.google.com/query?name=upgradeget.thegreatforupdatesmove.trade&type=A)|
