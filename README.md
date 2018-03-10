@@ -700,3 +700,4 @@
 |[readyupdate.thegreatforupdatemovegood.review](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.review&type=A)|
 |[newalways.thegreatforupdatemovegood.download](https://dns.google.com/query?name=newalways.thegreatforupdatemovegood.download&type=A)|
 |[newsoftready.thegreatforupdatemovegood.download](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.download&type=A)|
+|[readyupdate.thegreatforupdatemovegood.download](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.download&type=A)|
