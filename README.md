@@ -635,3 +635,4 @@
 |[newalways.thegreatforupdatesafemovegood.win](https://dns.google.com/query?name=newalways.thegreatforupdatesafemovegood.win&type=A)|
 |[newsoftready.thegreatforupdatesafemovegood.win](https://dns.google.com/query?name=newsoftready.thegreatforupdatesafemovegood.win&type=A)|
 |[readyupdate.thegreatforupdatesafemovegood.win](https://dns.google.com/query?name=readyupdate.thegreatforupdatesafemovegood.win&type=A)|
+|[getsoftnow.thegreatforupdatesafemoveprepared.date](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.date&type=A)|
