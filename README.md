@@ -608,3 +608,4 @@
 |[setupupgrade.thegreatforupdatemoveset.date](https://dns.google.com/query?name=setupupgrade.thegreatforupdatemoveset.date&type=A)|
 |[setupupgrade.thegreatforupdatemoveset.stream](https://dns.google.com/query?name=setupupgrade.thegreatforupdatemoveset.stream&type=A)|
 |[prepare2upvideo.thegreatforupdatemoveset.stream](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.stream&type=A)|
+|[newsoft2update.thegreatforupdatemoveset.stream](https://dns.google.com/query?name=newsoft2update.thegreatforupdatemoveset.stream&type=A)|
