@@ -633,3 +633,4 @@
 |[readyupdate.thegreatforupdatesafemovegood.stream](https://dns.google.com/query?name=readyupdate.thegreatforupdatesafemovegood.stream&type=A)|
 |[learn2upgrade.thegreatforupdatesafemovegood.win](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesafemovegood.win&type=A)|
 |[newalways.thegreatforupdatesafemovegood.win](https://dns.google.com/query?name=newalways.thegreatforupdatesafemovegood.win&type=A)|
+|[newsoftready.thegreatforupdatesafemovegood.win](https://dns.google.com/query?name=newsoftready.thegreatforupdatesafemovegood.win&type=A)|
