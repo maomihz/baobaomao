@@ -567,3 +567,4 @@
 |[settingupdate.thegreatforupdatingmove.win](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.win&type=A)|
 |[upgradeget.thegreatforupdatingmove.win](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.win&type=A)|
 |[settingupdate.thegreatforupdatingmove.trade](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.trade&type=A)|
+|[upgradeget.thegreatforupdatingmove.stream](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.stream&type=A)|
