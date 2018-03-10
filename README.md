@@ -576,3 +576,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentsafegonow.stream](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsafegonow.stream&type=A)|
 |[readyupdate.thegreatforupdatemovegood.date](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.date&type=A)|
 |[newsoftready.thegreatforupdatemovegood.date](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.date&type=A)|
+|[readyupdate.thegreatforupdatemovegood.win](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.win&type=A)|
