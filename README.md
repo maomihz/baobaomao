@@ -610,3 +610,4 @@
 |[prepare2upvideo.thegreatforupdatemoveset.stream](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.stream&type=A)|
 |[newsoft2update.thegreatforupdatemoveset.stream](https://dns.google.com/query?name=newsoft2update.thegreatforupdatemoveset.stream&type=A)|
 |[newsoft2update.thegreatforupdatemoveset.download](https://dns.google.com/query?name=newsoft2update.thegreatforupdatemoveset.download&type=A)|
+|[prepare2upvideo.thegreatforupdatemoveset.download](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.download&type=A)|
