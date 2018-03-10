@@ -693,3 +693,4 @@
 |[safe.thegreatforupdatesmoveprepared.date](https://dns.google.com/query?name=safe.thegreatforupdatesmoveprepared.date&type=A)|
 |[getsoftnow.thegreatforupdatesmoveprepared.download](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.download&type=A)|
 |[safe.thegreatforupdatesmoveprepared.stream](https://dns.google.com/query?name=safe.thegreatforupdatesmoveprepared.stream&type=A)|
+|[getsoftnow.thegreatforupdatesmoveprepared.stream](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.stream&type=A)|
