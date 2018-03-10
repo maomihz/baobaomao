@@ -622,16 +622,21 @@
     "testpconly12.thegreatforupdatesafemoveprepared.date",
     "downgradepc.thegreatforupdatesafemoveprepared.download",
     "getsoftnow.thegreatforupdatesafemoveprepared.download",
-    "safe.thegreatforupdatesafemoveprepared.download"
+    "safe.thegreatforupdatesafemoveprepared.download",
+    "testpconly12.thegreatforupdatesafemoveprepared.download"
   ],
   "urls": {
-    "https://s3.amazonaws.com/047A4E97ACA2CA4BA6578/97ca/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/047A4E97ACA2CA4BA6578/97ca/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520698715.202219
-    },
     "https://s3.amazonaws.com/804d/Xrh6/tjvn/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/804d/Xrh6/tjvn/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520697448.745018
+    },
+    "https://s3.amazonaws.com/6362/pyAHjt84sEiTJLsoZI/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/6362/pyAHjt84sEiTJLsoZI/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520699852.471971
+    },
+    "https://s3.amazonaws.com/047A4E97ACA2CA4BA6578/97ca/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/047A4E97ACA2CA4BA6578/97ca/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520698715.202219
     },
     "https://s3.amazonaws.com/6wqA/yrAwHtK_lUi8uJXwz/Vzbml8DI2kKpd7Y9s/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/6wqA/yrAwHtK_lUi8uJXwz/Vzbml8DI2kKpd7Y9s/AdobeFlashPlayerInstaller.dmg",
@@ -644,10 +649,6 @@
     "https://s3.amazonaws.com/2d20aed4-418b-4928-9120-e0d3612aec/2135/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/2d20aed4-418b-4928-9120-e0d3612aec/2135/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520699219.803993
-    },
-    "https://s3.amazonaws.com/6362/pyAHjt84sEiTJLsoZI/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/6362/pyAHjt84sEiTJLsoZI/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520699852.471971
     }
   }
 }
