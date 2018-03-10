@@ -702,3 +702,4 @@
 |[newsoftready.thegreatforupdatemovegood.download](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.download&type=A)|
 |[readyupdate.thegreatforupdatemovegood.download](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.download&type=A)|
 |[learn2upgrade.thegreatforupdatemovegood.stream](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatemovegood.stream&type=A)|
+|[readyupdate.thegreatforupdatemovegood.stream](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.stream&type=A)|
