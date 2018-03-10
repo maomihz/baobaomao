@@ -676,3 +676,4 @@
 |[readyupdate.thegreatforupdatesmovegood.date](https://dns.google.com/query?name=readyupdate.thegreatforupdatesmovegood.date&type=A)|
 |[learn2upgrade.thegreatforupdatesmovegood.download](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesmovegood.download&type=A)|
 |[newsoftready.thegreatforupdatesmovegood.download](https://dns.google.com/query?name=newsoftready.thegreatforupdatesmovegood.download&type=A)|
+|[newalways.thegreatforupdatesmovegood.review](https://dns.google.com/query?name=newalways.thegreatforupdatesmovegood.review&type=A)|
