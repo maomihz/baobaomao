@@ -514,3 +514,4 @@
 |[undoupgrade24.thegreat4updatingmove.download](https://dns.google.com/query?name=undoupgrade24.thegreat4updatingmove.download&type=A)|
 |[nowsetup.thegreat4updatingmove.review](https://dns.google.com/query?name=nowsetup.thegreat4updatingmove.review&type=A)|
 |[testpconly12.thegreat4updatingmove.review](https://dns.google.com/query?name=testpconly12.thegreat4updatingmove.review&type=A)|
+|[nowsetup.thegreat4updatingmove.trade](https://dns.google.com/query?name=nowsetup.thegreat4updatingmove.trade&type=A)|
