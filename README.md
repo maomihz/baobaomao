@@ -631,3 +631,4 @@
 |[newalways.thegreatforupdatesafemovegood.stream](https://dns.google.com/query?name=newalways.thegreatforupdatesafemovegood.stream&type=A)|
 |[newsoftready.thegreatforupdatesafemovegood.stream](https://dns.google.com/query?name=newsoftready.thegreatforupdatesafemovegood.stream&type=A)|
 |[readyupdate.thegreatforupdatesafemovegood.stream](https://dns.google.com/query?name=readyupdate.thegreatforupdatesafemovegood.stream&type=A)|
+|[learn2upgrade.thegreatforupdatesafemovegood.win](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesafemovegood.win&type=A)|
