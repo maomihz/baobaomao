@@ -691,3 +691,4 @@
 |[downgradepc.thegreatforupdatesmoveprepared.date](https://dns.google.com/query?name=downgradepc.thegreatforupdatesmoveprepared.date&type=A)|
 |[getsoftnow.thegreatforupdatesmoveprepared.date](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.date&type=A)|
 |[safe.thegreatforupdatesmoveprepared.date](https://dns.google.com/query?name=safe.thegreatforupdatesmoveprepared.date&type=A)|
+|[getsoftnow.thegreatforupdatesmoveprepared.download](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.download&type=A)|
