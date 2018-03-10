@@ -585,3 +585,4 @@
 |[newalways.thegreatforupdatemovegood.trade](https://dns.google.com/query?name=newalways.thegreatforupdatemovegood.trade&type=A)|
 |[newsoftready.thegreatforupdatemovegood.trade](https://dns.google.com/query?name=newsoftready.thegreatforupdatemovegood.trade&type=A)|
 |[readyupdate.thegreatforupdatemovegood.trade](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.trade&type=A)|
+|[downgradepc.thegreatforupdatemoveprepared.bid](https://dns.google.com/query?name=downgradepc.thegreatforupdatemoveprepared.bid&type=A)|
