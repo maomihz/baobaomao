@@ -527,3 +527,4 @@
 |[upgradeinstall24.thegreatforupdatesafemove.win](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatesafemove.win&type=A)|
 |[settingupdate.thegreatforupdatesmove.bid](https://dns.google.com/query?name=settingupdate.thegreatforupdatesmove.bid&type=A)|
 |[update2new.thegreatforupdatesmove.bid](https://dns.google.com/query?name=update2new.thegreatforupdatesmove.bid&type=A)|
+|[upgradeinstall24.thegreatforupdatesmove.bid](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatesmove.bid&type=A)|
