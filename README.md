@@ -685,3 +685,4 @@
 |[newalways.thegreatforupdatesmovegood.win](https://dns.google.com/query?name=newalways.thegreatforupdatesmovegood.win&type=A)|
 |[newsoftready.thegreatforupdatesmovegood.win](https://dns.google.com/query?name=newsoftready.thegreatforupdatesmovegood.win&type=A)|
 |[downgradepc.thegreatforupdatesmoveprepared.bid](https://dns.google.com/query?name=downgradepc.thegreatforupdatesmoveprepared.bid&type=A)|
+|[getsoftnow.thegreatforupdatesmoveprepared.bid](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.bid&type=A)|
