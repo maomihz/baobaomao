@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2I3MzVjMTBkLThlNDYtNDA5NS05OWY3LTJmMi9fSk1qSzZSdHQvdVEyM3g2N2V5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:39|https://s3.amazonaws.com/b735c10d-8e46-4095-99f7-2f2/_JMjK6Rtt/uQ23x67ey/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAyYzQ3Zi9FNDA0QzQ1Rjc4RUE3NzRDQjUyNEY2LzYxNEE3RTkzQjRDQzU4NDdBRUE0NzEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:29|https://s3.amazonaws.com/02c47f/E404C45F78EA774CB524F6/614A7E93B4CC5847AEA471/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBBREIzOS9lOGZjZTczOC1kNDdhLTRlL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:20|https://s3.amazonaws.com/0ADB39/e8fce738-d47a-4e/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M2YTQ0NjgzLWRlZDgtNGQ3Ni04YTk2LS84MDBiNTFmZC0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:07|https://s3.amazonaws.com/c6a44683-ded8-4d76-8a96-/800b51fd-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA3QzlBRjlDRjhGREEvMTM2OS8xNDQ5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:59|https://s3.amazonaws.com/07C9AF9CF8FDA/1369/1449/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y4Qzg3REFBNjRFNzI5NC8wRDg3RjJDMjU1NEIxOTQ2ODk1QTA0QTBEMUMwNi9DMjNDM0IyM0Q2OTIxRDRBODE1OUZFNzU3NTVBNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:46|https://s3.amazonaws.com/F8C87DAA64E7294/0D87F2C2554B1946895A04A0D1C06/C23C3B23D6921D4A8159FE75755A6/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0U4Qjg2MTM2NTY2QjI2NDlCNDQ4NEQyOC8xMjk0NzAwMy8yMzMzODk3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:38|https://s3.amazonaws.com/E8B86136566B2649B4484D28/12947003/2333897/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -613,3 +613,4 @@
 |[prepare2upvideo.thegreatforupdatemoveset.download](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.download&type=A)|
 |[setupupgrade.thegreatforupdatemoveset.download](https://dns.google.com/query?name=setupupgrade.thegreatforupdatemoveset.download&type=A)|
 |[setupupgrade.thegreatforupdatemoveset.win](https://dns.google.com/query?name=setupupgrade.thegreatforupdatemoveset.win&type=A)|
+|[prepare2upvideo.thegreatforupdatemoveset.win](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.win&type=A)|
