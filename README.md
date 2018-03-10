@@ -484,3 +484,4 @@
 |[upgradeget.thegreatforupdatesafemove.trade](https://dns.google.com/query?name=upgradeget.thegreatforupdatesafemove.trade&type=A)|
 |[aptitude.thegreatforupdatesafemoveall.bid](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.bid&type=A)|
 |[get24update.thegreatforupdatesafemoveall.bid](https://dns.google.com/query?name=get24update.thegreatforupdatesafemoveall.bid&type=A)|
+|[aptitude.thegreatforupdatesafemoveall.date](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.date&type=A)|
