@@ -596,3 +596,4 @@
 |[getsoftnow.thegreatforupdatemoveprepared.review](https://dns.google.com/query?name=getsoftnow.thegreatforupdatemoveprepared.review&type=A)|
 |[setupupgrade.thegreatforupdatemoveset.bid](https://dns.google.com/query?name=setupupgrade.thegreatforupdatemoveset.bid&type=A)|
 |[prepare2upvideo.thegreatforupdatemoveset.bid](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatemoveset.bid&type=A)|
+|[finishedupdate.thegreatforupdatemoveset.bid](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.bid&type=A)|
