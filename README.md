@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFGMDAvMTg2NDE2Njg2LzU0ODg4MzEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:00|https://s3.amazonaws.com/1F00/186416686/5488831/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkwODc3QkQyQkM0NkYxLzBmZTNiNDlhLTAyMTQtNGUzNy05ODFmLWI2NTBlOGY3LzFjMGQ5MzZlLWRlMTktNGMzZS04OWQ3LWNhOGRkNDA3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:50|https://s3.amazonaws.com/90877BD2BC46F1/0fe3b49a-0214-4e37-981f-b650e8f7/1c0d936e-de19-4c3e-89d7-ca8dd407/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0VFRkRDRDBGMDU3RTk4NEE4LzdhYWE0NDcwLWZhZjMtNDkwNi1iNDdiLTBhZjQ4YTBlZS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:41|https://s3.amazonaws.com/EEFDCD0F057E984A8/7aaa4470-faf3-4906-b47b-0af48a0ee/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdiZTQ4OTFmLWQxMzUtNDlmNC05NjJmLTY4NTJlNGMvMTcwYjY2NTUtNTBjMC00NzIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:31|https://s3.amazonaws.com/7be4891f-d135-49f4-962f-6852e4c/170b6655-50c0-472/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RhZmUxNTc0LTVkYzktNDdmMy9kZGZhOWNlYi1lNDc1LTRiZWMtODZiNi04Y2JjMDZkY2QzLzBiYzFiNzMxLTU1ZjMtNDcyZS1iNDYzLWY5YWFhMzMyZjUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:18|https://s3.amazonaws.com/dafe1574-5dc9-47f3/ddfa9ceb-e475-4bec-86b6-8cbc06dcd3/0bc1b731-55f3-472e-b463-f9aaa332f5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2E0MTRlNmNjLWM2MzQtNDNhYi1iOGMvQ0NDQThDRDA0OTg1MTk0NzhEL0Y0OUUwOUFBMzg3MjUwNDhCRi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:07|https://s3.amazonaws.com/a414e6cc-c634-43ab-b8c/CCCA8CD0498519478D/F49E09AA38725048BF/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZENDc2NUE1MEE4MTJENDlCQ0YzLzVHaWQ1WldjU1VLa2ozcUtCWkRpTi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:59|https://s3.amazonaws.com/6D4765A50A812D49BCF3/5Gid5ZWcSUKkj3qKBZDiN/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -473,3 +473,4 @@
 |[upgradeinstall24.thegreatforupdatesafemove.date](https://dns.google.com/query?name=upgradeinstall24.thegreatforupdatesafemove.date&type=A)|
 |[settingupdate.thegreatforupdatesafemove.download](https://dns.google.com/query?name=settingupdate.thegreatforupdatesafemove.download&type=A)|
 |[update2new.thegreatforupdatesafemove.download](https://dns.google.com/query?name=update2new.thegreatforupdatesafemove.download&type=A)|
+|[upgradeget.thegreatforupdatesafemove.download](https://dns.google.com/query?name=upgradeget.thegreatforupdatesafemove.download&type=A)|
