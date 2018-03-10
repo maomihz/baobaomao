@@ -453,3 +453,4 @@
 |[noteupgrade.thegreatforupdatemoveall.download](https://dns.google.com/query?name=noteupgrade.thegreatforupdatemoveall.download&type=A)|
 |[updatesoft.thegreatforupdatemoveall.download](https://dns.google.com/query?name=updatesoft.thegreatforupdatemoveall.download&type=A)|
 |[aptitude.thegreatforupdatemoveall.review](https://dns.google.com/query?name=aptitude.thegreatforupdatemoveall.review&type=A)|
+|[get24update.thegreatforupdatemoveall.review](https://dns.google.com/query?name=get24update.thegreatforupdatemoveall.review&type=A)|
