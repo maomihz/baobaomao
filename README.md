@@ -547,3 +547,4 @@
 |[get24update.thegreatforupdatesmoveall.review](https://dns.google.com/query?name=get24update.thegreatforupdatesmoveall.review&type=A)|
 |[noteupgrade.thegreatforupdatesmoveall.review](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesmoveall.review&type=A)|
 |[noteupgrade.thegreatforupdatesmoveall.win](https://dns.google.com/query?name=noteupgrade.thegreatforupdatesmoveall.win&type=A)|
+|[get24update.thegreatforupdatesmoveall.win](https://dns.google.com/query?name=get24update.thegreatforupdatesmoveall.win&type=A)|
