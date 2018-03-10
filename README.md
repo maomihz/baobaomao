@@ -533,3 +533,4 @@
 |[settingupdate.thegreatforupdatesmove.review](https://dns.google.com/query?name=settingupdate.thegreatforupdatesmove.review&type=A)|
 |[update2new.thegreatforupdatesmove.review](https://dns.google.com/query?name=update2new.thegreatforupdatesmove.review&type=A)|
 |[upgradeget.thegreatforupdatesmove.review](https://dns.google.com/query?name=upgradeget.thegreatforupdatesmove.review&type=A)|
+|[settingupdate.thegreatforupdatesmove.stream](https://dns.google.com/query?name=settingupdate.thegreatforupdatesmove.stream&type=A)|
