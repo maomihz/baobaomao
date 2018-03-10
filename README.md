@@ -683,3 +683,4 @@
 |[newalways.thegreatforupdatesmovegood.trade](https://dns.google.com/query?name=newalways.thegreatforupdatesmovegood.trade&type=A)|
 |[newsoftready.thegreatforupdatesmovegood.trade](https://dns.google.com/query?name=newsoftready.thegreatforupdatesmovegood.trade&type=A)|
 |[newalways.thegreatforupdatesmovegood.win](https://dns.google.com/query?name=newalways.thegreatforupdatesmovegood.win&type=A)|
+|[newsoftready.thegreatforupdatesmovegood.win](https://dns.google.com/query?name=newsoftready.thegreatforupdatesmovegood.win&type=A)|
