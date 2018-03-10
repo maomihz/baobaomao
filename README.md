@@ -521,3 +521,4 @@
 |[undoupgrade24.thegreat4updatingmove.win](https://dns.google.com/query?name=undoupgrade24.thegreat4updatingmove.win&type=A)|
 |[aptitude.thegreatforupdatesafemoveall.win](https://dns.google.com/query?name=aptitude.thegreatforupdatesafemoveall.win&type=A)|
 |[get24update.thegreatforupdatesafemoveall.win](https://dns.google.com/query?name=get24update.thegreatforupdatesafemoveall.win&type=A)|
+|[updatesoft.thegreatforupdatesafemoveall.win](https://dns.google.com/query?name=updatesoft.thegreatforupdatesafemoveall.win&type=A)|
