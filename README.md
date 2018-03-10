@@ -562,3 +562,4 @@
 |[update2new.thegreatforupdatingmove.date](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.date&type=A)|
 |[upgradeget.thegreatforupdatingmove.date](https://dns.google.com/query?name=upgradeget.thegreatforupdatingmove.date&type=A)|
 |[settingupdate.thegreatforupdatingmove.download](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.download&type=A)|
+|[update2new.thegreatforupdatingmove.download](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.download&type=A)|
