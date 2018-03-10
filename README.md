@@ -571,3 +571,4 @@
 |[update2new.thegreatforupdatingmove.stream](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.stream&type=A)|
 |[settingupdate.thegreatforupdatingmove.stream](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.stream&type=A)|
 |[update2new.thegreatforupdatingmove.review](https://dns.google.com/query?name=update2new.thegreatforupdatingmove.review&type=A)|
+|[settingupdate.thegreatforupdatingmove.review](https://dns.google.com/query?name=settingupdate.thegreatforupdatingmove.review&type=A)|
