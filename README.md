@@ -917,3 +917,4 @@
 |[live.thepointofforcontentinggo.date](https://dns.google.com/query?name=live.thepointofforcontentinggo.date&type=A)|
 |[setupdate24.thepointofforcontentinggo.download](https://dns.google.com/query?name=setupdate24.thepointofforcontentinggo.download&type=A)|
 |[live.thepointofforcontentinggo.review](https://dns.google.com/query?name=live.thepointofforcontentinggo.review&type=A)|
+|[setupdate24.thepointofforcontentinggo.review](https://dns.google.com/query?name=setupdate24.thepointofforcontentinggo.review&type=A)|
