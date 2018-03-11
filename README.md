@@ -875,3 +875,4 @@
 |[upgrade.thepointofforcontentingnow.download](https://dns.google.com/query?name=upgrade.thepointofforcontentingnow.download&type=A)|
 |[app4com.thepointofforcontentingnow.review](https://dns.google.com/query?name=app4com.thepointofforcontentingnow.review&type=A)|
 |[newsoftready.thepointofforcontentingnow.review](https://dns.google.com/query?name=newsoftready.thepointofforcontentingnow.review&type=A)|
+|[upgrade.thepointofforcontentingnow.review](https://dns.google.com/query?name=upgrade.thepointofforcontentingnow.review&type=A)|
