@@ -862,3 +862,4 @@
 |[newsoft12.thepointof4contentsafea.review](https://dns.google.com/query?name=newsoft12.thepointof4contentsafea.review&type=A)|
 |[24pcupgrade.thepointof4contentsafea.stream](https://dns.google.com/query?name=24pcupgrade.thepointof4contentsafea.stream&type=A)|
 |[free4allup.thepointof4contentsafea.trade](https://dns.google.com/query?name=free4allup.thepointof4contentsafea.trade&type=A)|
+|[newsoft12.thepointof4contentsafea.trade](https://dns.google.com/query?name=newsoft12.thepointof4contentsafea.trade&type=A)|
