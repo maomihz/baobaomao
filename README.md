@@ -744,3 +744,4 @@
 |[get24update.thegreatforupdatingmoveall.win](https://dns.google.com/query?name=get24update.thegreatforupdatingmoveall.win&type=A)|
 |[learn2upgrade.thegreatforupdatingmovegood.bid](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatingmovegood.bid&type=A)|
 |[newalways.thegreatforupdatingmovegood.bid](https://dns.google.com/query?name=newalways.thegreatforupdatingmovegood.bid&type=A)|
+|[newsoftready.thegreatforupdatingmovegood.bid](https://dns.google.com/query?name=newsoftready.thegreatforupdatingmovegood.bid&type=A)|
