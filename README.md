@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2JiMzVhYi81andFek96OC9zU1ExOXFPYy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:30|https://s3.amazonaws.com/bb35ab/5jwEzOz8/sSQ19qOc/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMxRTBFOTY0QzUzM0QwNEFCNy9FRTk2MzUwM0EzNEU0ODQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:19|https://s3.amazonaws.com/31E0E964C533D04AB7/EE963503A34E484/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZYZDdoeV80aGtTLzczNDg1MC85NjQyMDcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:08|https://s3.amazonaws.com/fXd7hy_4hkS/734850/964207/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NjNTM2ZDcxLTMyNzktNGQ3Ni0vL2RhTTQ0bkZXRW1xR24vdy9pd051SFpuMFdUZWYvQWRvYmVGbGFzaFBsYXllci5kbWc=)|10:58|https://s3.amazonaws.com/cc536d71-3279-4d76-//daM44nFWEmqGn/w/iwNuHZn0WTef/AdobeFlashPlayer.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBFOUQyMDc1OTJGMENCNDBCQy85NjQxMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:47|https://s3.amazonaws.com/0E9D207592F0CB40BC/96411/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2xKQVlmMi9lYjM0MDUxNy1mMmQyLTQ2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:41|https://s3.amazonaws.com/lJAYf2/eb340517-f2d2-46/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI2MTk5Ni8xODY2LzY3MjcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:28|https://s3.amazonaws.com/261996/1866/6727/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -829,3 +829,4 @@
 |[24pcupgrade.thepointof4content.win](https://dns.google.com/query?name=24pcupgrade.thepointof4content.win&type=A)|
 |[free4allup.thepointof4content.win](https://dns.google.com/query?name=free4allup.thepointof4content.win&type=A)|
 |[nowcheck.thepointof4content.win](https://dns.google.com/query?name=nowcheck.thepointof4content.win&type=A)|
+|[24pcupgrade.thepointof4contenting.bid](https://dns.google.com/query?name=24pcupgrade.thepointof4contenting.bid&type=A)|
