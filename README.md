@@ -900,3 +900,4 @@
 |[downgradepc.thepointofforcontentclear.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentclear.trade&type=A)|
 |[newliveupdate.thepointofforcontentclear.win](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.win&type=A)|
 |[livecheck2update.thepointofforcontentingclear.bid](https://dns.google.com/query?name=livecheck2update.thepointofforcontentingclear.bid&type=A)|
+|[downgradepc.thepointofforcontentingclear.date](https://dns.google.com/query?name=downgradepc.thepointofforcontentingclear.date&type=A)|
