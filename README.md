@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZFQjgvMUkxNWdVRUUxMFdBZ3BfX0Ywc1dkQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:38|https://s3.amazonaws.com/6EB8/1I15gUEE10WAgp__F0sWdA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MDMvQS9MemlLRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:28|https://s3.amazonaws.com/1903/A/LziKD/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q3Y2EvMjA2NTkzNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:19|https://s3.amazonaws.com/d7ca/2065936/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2MwYzkzNThlLTVjLzU2NDcvMTUyMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:08|https://s3.amazonaws.com/c0c9358e-5c/5647/1522/AdobeFlashPlayerInstaller.dmg|
@@ -891,3 +892,4 @@
 |[newtest4pc.thepointofforcontentclear.bid](https://dns.google.com/query?name=newtest4pc.thepointofforcontentclear.bid&type=A)|
 |[downgradepc.thepointofforcontentclear.download](https://dns.google.com/query?name=downgradepc.thepointofforcontentclear.download&type=A)|
 |[livecheck2update.thepointofforcontentclear.download](https://dns.google.com/query?name=livecheck2update.thepointofforcontentclear.download&type=A)|
+|[newliveupdate.thepointofforcontentclear.download](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.download&type=A)|
