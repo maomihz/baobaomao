@@ -6,11 +6,11 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk0NDYyRTRENkU0MTM3NDYvZDU0MzU1ODMtNGUzZS00MDNjLThkNWEtYi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:09|https://s3.amazonaws.com/94462E4D6E413746/d5435583-4e3e-403c-8d5a-b/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4MDgvcnNYTGwvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:58|https://s3.amazonaws.com/1808/rsXLl/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJ4anl2ckk3SC8xMjI4NzA0My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:46|https://s3.amazonaws.com/2xjyvrI7H/12287043/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL01lOWgvR2hfYk5iOTh3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:39|https://s3.amazonaws.com/Me9h/Gh_bNb98w/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg5MWQ0YjExLWQ0ZTQtNDU5OC1hNWEzLTcwNzQvMTcyNy8xNDIwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:31|https://s3.amazonaws.com/891d4b11-d4e4-4598-a5a3-7074/1727/1420/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5Njg5MTEvMjE4NC8xMzUzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:10|https://s3.amazonaws.com/1968911/2184/1353/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -926,3 +926,4 @@
 |[howtoupdate.thepointofforcontentingload.download](https://dns.google.com/query?name=howtoupdate.thepointofforcontentingload.download&type=A)|
 |[newsoft12.thepointofforcontentingload.download](https://dns.google.com/query?name=newsoft12.thepointofforcontentingload.download&type=A)|
 |[howtoupdate.thepointofforcontentingload.stream](https://dns.google.com/query?name=howtoupdate.thepointofforcontentingload.stream&type=A)|
+|[newsoft12.thepointofforcontentingload.stream](https://dns.google.com/query?name=newsoft12.thepointofforcontentingload.stream&type=A)|
