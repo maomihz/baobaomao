@@ -1,34 +1,4 @@
 {
-  "urls": {
-    "https://s3.amazonaws.com/F3koj5n6mEGCSMYljbHGiA/2a8afdb2-ba04-4595-b612-394f104/6cb285be-ede6-4af2-963f-608a92c/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/F3koj5n6mEGCSMYljbHGiA/2a8afdb2-ba04-4595-b612-394f104/6cb285be-ede6-4af2-963f-608a92c/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520809089.433683
-    },
-    "https://s3.amazonaws.com/1148/1294/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/1148/1294/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520807436.705442
-    },
-    "https://s3.amazonaws.com/94462E4D6E413746/d5435583-4e3e-403c-8d5a-b/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/94462E4D6E413746/d5435583-4e3e-403c-8d5a-b/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520806170.165644
-    },
-    "https://s3.amazonaws.com/CE56/3991/7109/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/CE56/3991/7109/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520808456.45071
-    },
-    "https://s3.amazonaws.com/57db1034-e2be-4d40-8a81-0/CC6E/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/57db1034-e2be-4d40-8a81-0/CC6E/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520806802.176838
-    },
-    "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520809595.241578
-    },
-    "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520807820.711345
-    }
-  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -955,6 +925,37 @@
     "24newsoft.thepointofforcontentingperfect.review",
     "24newsoft.thepointofforcontentingperfect.stream",
     "setupupgrade12.thepointofforcontentingperfect.stream",
-    "setupupgrade12.thepointofforcontentingperfect.trade"
-  ]
+    "setupupgrade12.thepointofforcontentingperfect.trade",
+    "setupupgrade12.thepointofforcontentingperfect.win"
+  ],
+  "urls": {
+    "https://s3.amazonaws.com/1148/1294/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/1148/1294/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520807436.705442
+    },
+    "https://s3.amazonaws.com/57db1034-e2be-4d40-8a81-0/CC6E/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/57db1034-e2be-4d40-8a81-0/CC6E/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520806802.176838
+    },
+    "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520809595.241578
+    },
+    "https://s3.amazonaws.com/F3koj5n6mEGCSMYljbHGiA/2a8afdb2-ba04-4595-b612-394f104/6cb285be-ede6-4af2-963f-608a92c/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/F3koj5n6mEGCSMYljbHGiA/2a8afdb2-ba04-4595-b612-394f104/6cb285be-ede6-4af2-963f-608a92c/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520809089.433683
+    },
+    "https://s3.amazonaws.com/2546/498945/1229443/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/2546/498945/1229443/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520810350.806067
+    },
+    "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520807820.711345
+    },
+    "https://s3.amazonaws.com/CE56/3991/7109/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/CE56/3991/7109/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520808456.45071
+    }
+  }
 }

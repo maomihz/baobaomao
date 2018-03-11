@@ -6,13 +6,13 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI1NDYvNDk4OTQ1LzEyMjk0NDMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:19|https://s3.amazonaws.com/2546/498945/1229443/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA0MjAxQ0YzRkYzNzhBNEVCODlCQzc3M0JBQjU2MC93WVFEL2tMV0QvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:06|https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Yza29qNW42bUVHQ1NNWWxqYkhHaUEvMmE4YWZkYjItYmEwNC00NTk1LWI2MTItMzk0ZjEwNC82Y2IyODViZS1lZGU2LTRhZjItOTYzZi02MDhhOTJjL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:58|https://s3.amazonaws.com/F3koj5n6mEGCSMYljbHGiA/2a8afdb2-ba04-4595-b612-394f104/6cb285be-ede6-4af2-963f-608a92c/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NFNTYvMzk5MS83MTA5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:47|https://s3.amazonaws.com/CE56/3991/7109/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU3QTUvNkY0NEMzNDFCNEQwQUM0NDgyN0I2MjgyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:37|https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExNDgvMTI5NC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:30|https://s3.amazonaws.com/1148/1294/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU3ZGIxMDM0LWUyYmUtNGQ0MC04YTgxLTAvQ0M2RS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:20|https://s3.amazonaws.com/57db1034-e2be-4d40-8a81-0/CC6E/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk0NDYyRTRENkU0MTM3NDYvZDU0MzU1ODMtNGUzZS00MDNjLThkNWEtYi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:09|https://s3.amazonaws.com/94462E4D6E413746/d5435583-4e3e-403c-8d5a-b/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -945,3 +945,4 @@
 |[24newsoft.thepointofforcontentingperfect.stream](https://dns.google.com/query?name=24newsoft.thepointofforcontentingperfect.stream&type=A)|
 |[setupupgrade12.thepointofforcontentingperfect.stream](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.stream&type=A)|
 |[setupupgrade12.thepointofforcontentingperfect.trade](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.trade&type=A)|
+|[setupupgrade12.thepointofforcontentingperfect.win](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.win&type=A)|
