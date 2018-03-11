@@ -933,3 +933,4 @@
 |[howtoupdate.thepointofforcontentingload.trade](https://dns.google.com/query?name=howtoupdate.thepointofforcontentingload.trade&type=A)|
 |[newsoft12.thepointofforcontentingload.win](https://dns.google.com/query?name=newsoft12.thepointofforcontentingload.win&type=A)|
 |[versionlast.thepointofforcontentingload.win](https://dns.google.com/query?name=versionlast.thepointofforcontentingload.win&type=A)|
+|[downgradepc.thepointofforcontentinggo.win](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.win&type=A)|
