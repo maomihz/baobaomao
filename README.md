@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkxNTAvOTRpVi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:30|https://s3.amazonaws.com/9150/94iV/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlkM2IvMTg5Mzk0MTUvMTMxMjIyMjMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:17|https://s3.amazonaws.com/9d3b/18939415/13122223/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL21DcTNpLzNiYjdkZmI0LTg5ZDYtNDcvYWZkZDk1ZGMtMGZkMS00NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:11|https://s3.amazonaws.com/mCq3i/3bb7dfb4-89d6-47/afdd95dc-0fd1-45/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0NTgvNEUwRi81NTIyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:00|https://s3.amazonaws.com/5458/4E0F/5522/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MDgvMzM3MC8xMzQ5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:52|https://s3.amazonaws.com/1908/3370/1349/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3VSbnpkdGlrZWtLRWRPdW5KVXIvMTAwOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:37|https://s3.amazonaws.com/uRnzdtikekKEdOunJUr/1008/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y5Y2E2YzYxLS8yMUY3OTIxMzI2RjkwRTRBOEVDMkZFMDYzL0NGNTM3NTZCM0E4NUMyNEU4QzY3OTI2QkQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:26|https://s3.amazonaws.com/f9ca6c61-/21F7921326F90E4A8EC2FE063/CF53756B3A85C24E8C67926BD/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -734,3 +734,4 @@
 |[finishedupdate.thegreatforupdatesmoveset.stream](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesmoveset.stream&type=A)|
 |[get24update.thegreatforupdatingmoveall.bid](https://dns.google.com/query?name=get24update.thegreatforupdatingmoveall.bid&type=A)|
 |[aptitude.thegreatforupdatingmoveall.date](https://dns.google.com/query?name=aptitude.thegreatforupdatingmoveall.date&type=A)|
+|[noteupgrade.thegreatforupdatingmoveall.date](https://dns.google.com/query?name=noteupgrade.thegreatforupdatingmoveall.date&type=A)|
