@@ -756,3 +756,4 @@
 |[newalways.thegreatforupdatingmovegood.win](https://dns.google.com/query?name=newalways.thegreatforupdatingmovegood.win&type=A)|
 |[downgradepc.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=downgradepc.thegreatforupdatingmoveprepared.bid&type=A)|
 |[getsoftnow.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.bid&type=A)|
+|[safe.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=safe.thegreatforupdatingmoveprepared.bid&type=A)|
