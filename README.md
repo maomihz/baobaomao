@@ -848,3 +848,4 @@
 |[24pcupgrade.thepointof4contents.review](https://dns.google.com/query?name=24pcupgrade.thepointof4contents.review&type=A)|
 |[newsoft12.thepointof4contents.review](https://dns.google.com/query?name=newsoft12.thepointof4contents.review&type=A)|
 |[24pcupgrade.thepointof4contents.trade](https://dns.google.com/query?name=24pcupgrade.thepointof4contents.trade&type=A)|
+|[free4allup.thepointof4contents.trade](https://dns.google.com/query?name=free4allup.thepointof4contents.trade&type=A)|
