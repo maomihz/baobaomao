@@ -937,3 +937,4 @@
 |[live.thepointofforcontentinggo.win](https://dns.google.com/query?name=live.thepointofforcontentinggo.win&type=A)|
 |[setupupgrade12.thepointofforcontentingperfect.bid](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.bid&type=A)|
 |[update2check.thepointofforcontentingperfect.bid](https://dns.google.com/query?name=update2check.thepointofforcontentingperfect.bid&type=A)|
+|[upgradecircle.thepointofforcontentingperfect.bid](https://dns.google.com/query?name=upgradecircle.thepointofforcontentingperfect.bid&type=A)|
