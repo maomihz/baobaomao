@@ -857,3 +857,4 @@
 |[free4allup.thepointof4contentsafea.date](https://dns.google.com/query?name=free4allup.thepointof4contentsafea.date&type=A)|
 |[newsoft12.thepointof4contentsafea.date](https://dns.google.com/query?name=newsoft12.thepointof4contentsafea.date&type=A)|
 |[24pcupgrade.thepointof4contentsafea.download](https://dns.google.com/query?name=24pcupgrade.thepointof4contentsafea.download&type=A)|
+|[free4allup.thepointof4contentsafea.download](https://dns.google.com/query?name=free4allup.thepointof4contentsafea.download&type=A)|
