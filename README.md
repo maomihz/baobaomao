@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0NTgvNEUwRi81NTIyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:00|https://s3.amazonaws.com/5458/4E0F/5522/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MDgvMzM3MC8xMzQ5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:52|https://s3.amazonaws.com/1908/3370/1349/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3VSbnpkdGlrZWtLRWRPdW5KVXIvMTAwOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:37|https://s3.amazonaws.com/uRnzdtikekKEdOunJUr/1008/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y5Y2E2YzYxLS8yMUY3OTIxMzI2RjkwRTRBOEVDMkZFMDYzL0NGNTM3NTZCM0E4NUMyNEU4QzY3OTI2QkQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:26|https://s3.amazonaws.com/f9ca6c61-/21F7921326F90E4A8EC2FE063/CF53756B3A85C24E8C67926BD/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVBOUNBREI5QjM3QjRCNDE4L0VGODBDMEZFRDREQzNFNERBQkE2QkU5MzJEREYvOTEyRUM3REM0QkQwMTc0QTgxNTlCQTNCOUMwNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:20|https://s3.amazonaws.com/5A9CADB9B37B4B418/EF80C0FED4DC3E4DABA6BE932DDF/912EC7DC4BD0174A8159BA3B9C07/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk3ODYxMS82MGNkZTI1ZS0zZTg1LTQwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:10|https://s3.amazonaws.com/978611/60cde25e-3e85-40/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsWFdobVdFNDBpLzEwMzAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:59|https://s3.amazonaws.com/klXWhmWE40i/1030/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -728,3 +728,4 @@
 |[finishedupdate.thegreatforupdatesmoveset.date](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesmoveset.date&type=A)|
 |[newsoft2update.thegreatforupdatesmoveset.date](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesmoveset.date&type=A)|
 |[prepare2upvideo.thegreatforupdatesmoveset.date](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatesmoveset.date&type=A)|
+|[finishedupdate.thegreatforupdatesmoveset.download](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesmoveset.download&type=A)|
