@@ -825,3 +825,4 @@
 |[nowcheck.thepointof4content.stream](https://dns.google.com/query?name=nowcheck.thepointof4content.stream&type=A)|
 |[24pcupgrade.thepointof4content.trade](https://dns.google.com/query?name=24pcupgrade.thepointof4content.trade&type=A)|
 |[free4allup.thepointof4content.trade](https://dns.google.com/query?name=free4allup.thepointof4content.trade&type=A)|
+|[newsoft12.thepointof4content.trade](https://dns.google.com/query?name=newsoft12.thepointof4content.trade&type=A)|
