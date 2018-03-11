@@ -828,3 +828,4 @@
 |[newsoft12.thepointof4content.trade](https://dns.google.com/query?name=newsoft12.thepointof4content.trade&type=A)|
 |[24pcupgrade.thepointof4content.win](https://dns.google.com/query?name=24pcupgrade.thepointof4content.win&type=A)|
 |[free4allup.thepointof4content.win](https://dns.google.com/query?name=free4allup.thepointof4content.win&type=A)|
+|[nowcheck.thepointof4content.win](https://dns.google.com/query?name=nowcheck.thepointof4content.win&type=A)|
