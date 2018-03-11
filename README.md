@@ -717,3 +717,4 @@
 |[learn2upgrade.thegreatforupdatesafemovegood.trade](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesafemovegood.trade&type=A)|
 |[readyupdate.thegreatforupdatesafemovegood.trade](https://dns.google.com/query?name=readyupdate.thegreatforupdatesafemovegood.trade&type=A)|
 |[getsoftnow.thegreatforupdatesafemoveprepared.bid](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesafemoveprepared.bid&type=A)|
+|[safe.thegreatforupdatesafemoveprepared.bid](https://dns.google.com/query?name=safe.thegreatforupdatesafemoveprepared.bid&type=A)|
