@@ -797,3 +797,4 @@
 |[nowsetup.thelinkersgoodfreeforcontentssetup.stream](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentssetup.stream&type=A)|
 |[live.thelinkersgoodfreeforcontentssetup.stream](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentssetup.stream&type=A)|
 |[get24update.thelinkersgoodfreeforcontentssetup.stream](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentssetup.stream&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentssetup.review](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentssetup.review&type=A)|
