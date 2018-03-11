@@ -802,3 +802,4 @@
 |[get24update.thelinkersgoodfreeforcontentssetup.review](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentssetup.review&type=A)|
 |[get24update.thelinkersgoodfreeforcontentssetup.date](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentssetup.date&type=A)|
 |[live.thelinkersgoodfreeforcontentssetup.date](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentssetup.date&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentssetup.date](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentssetup.date&type=A)|
