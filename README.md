@@ -868,3 +868,4 @@
 |[newsoftready.thepointofforcontentingnow.bid](https://dns.google.com/query?name=newsoftready.thepointofforcontentingnow.bid&type=A)|
 |[app4com.thepointofforcontentingnow.date](https://dns.google.com/query?name=app4com.thepointofforcontentingnow.date&type=A)|
 |[newsoftready.thepointofforcontentingnow.date](https://dns.google.com/query?name=newsoftready.thepointofforcontentingnow.date&type=A)|
+|[softready.thepointofforcontentingnow.date](https://dns.google.com/query?name=softready.thepointofforcontentingnow.date&type=A)|
