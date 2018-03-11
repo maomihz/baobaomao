@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc3QTcvMTY4Nzg3Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:44|https://s3.amazonaws.com/77A7/1687872/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1OTc0NTIvMTU1MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:29|https://s3.amazonaws.com/1597452/1550/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM4ZjUyYzNmLWI5MzQtNDk4ZC1hNDllLWZlL0QxNjE1NEQ5OTkzRTkyNDM4Nzk3NEQ3MTkwRDc4MkYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:21|https://s3.amazonaws.com/38f52c3f-b934-498d-a49e-fe/D16154D9993E924387974D7190D782F/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2MDgvMTIwREIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:08|https://s3.amazonaws.com/1608/120DB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxYWY1NjIyLWYvMTA2MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:00|https://s3.amazonaws.com/21af5622-f/1060/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNuc3JibTQvTjFGSURWRDJQMG0vWFhKajgzR1h4RTIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:49|https://s3.amazonaws.com/3nsrbm4/N1FIDVD2P0m/XXJj83GXxE2/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNmMGQ3NzI2LThhNmItNDM4MS1iM2M2LTA2YzdlYjlhZi9iZTUyMDY3MC1mMzE4LTRmNDItL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:38|https://s3.amazonaws.com/3f0d7726-8a6b-4381-b3c6-06c7eb9af/be520670-f318-4f42-/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -798,3 +798,4 @@
 |[live.thelinkersgoodfreeforcontentssetup.stream](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentssetup.stream&type=A)|
 |[get24update.thelinkersgoodfreeforcontentssetup.stream](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentssetup.stream&type=A)|
 |[nowsetup.thelinkersgoodfreeforcontentssetup.review](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentssetup.review&type=A)|
+|[get24update.thelinkersgoodfreeforcontentssetup.review](https://dns.google.com/query?name=get24update.thelinkersgoodfreeforcontentssetup.review&type=A)|
