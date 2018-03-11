@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ4NzNkMTUzLTVhY2UtNDRlZi84OTY5LzE3MzkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:04|https://s3.amazonaws.com/4873d153-5ace-44ef/8969/1739/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q0NjJENTk2QS81QTU0QUE2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:48|https://s3.amazonaws.com/D462D596A/5A54AA6/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYxMzcvV2NRckNGTm1kRXV2YmNXWGZWL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:45|https://s3.amazonaws.com/6137/WcQrCFNmdEuvbcWXfV/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA2ODBiYWU0LTBhYWQtNGNjMC04Yzc0LTcvMDFDNjNFRjE5RTM1QUU0QUExMzA0NkEzRTQzNTZCQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:33|https://s3.amazonaws.com/0680bae4-0aad-4cc0-8c74-7/01C63EF19E35AE4AA13046A3E4356BA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAxOUZGQzVFMjZCRkVCNEZBMTgwLzM2MTEyODAvN2M2NmY4YS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:18|https://s3.amazonaws.com/019FFC5E26BFEB4FA180/3611280/7c66f8a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RFODkvRjlmVlJfNFdqRUc0RGQvNE9RQkhXUS9RZTVBWGYvU3VVS1cwS2NhblFaZjNRL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:10|https://s3.amazonaws.com/DE89/F9fVR_4WjEG4Dd/4OQBHWQ/Qe5AXf/SuUKW0KcanQZf3Q/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI0MjNlOWMxLWYwYzYtNDY0ZS9aVTM0c0hnaWlFQ1dGSFV0L1lhYTFFdFZWTmttL3VYZG0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:59|https://s3.amazonaws.com/2423e9c1-f0c6-464e/ZU34sHgiiECWFHUt/Yaa1EtVVNkm/uXdm/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -846,3 +846,4 @@
 |[free4allup.thepointof4contents.download](https://dns.google.com/query?name=free4allup.thepointof4contents.download&type=A)|
 |[newsoft12.thepointof4contents.download](https://dns.google.com/query?name=newsoft12.thepointof4contents.download&type=A)|
 |[24pcupgrade.thepointof4contents.review](https://dns.google.com/query?name=24pcupgrade.thepointof4contents.review&type=A)|
+|[newsoft12.thepointof4contents.review](https://dns.google.com/query?name=newsoft12.thepointof4contents.review&type=A)|
