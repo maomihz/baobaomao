@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q3Y2EvMjA2NTkzNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:19|https://s3.amazonaws.com/d7ca/2065936/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2MwYzkzNThlLTVjLzU2NDcvMTUyMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:08|https://s3.amazonaws.com/c0c9358e-5c/5647/1522/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVCNDVCOENFNEMzQjVGNDNCOC84YzFkMzlhZS05MjdlLTQwZWMtYTExMi0xNTBkZmIzMTk2My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|17:58|https://s3.amazonaws.com/5B45B8CE4C3B5F43B8/8c1d39ae-927e-40ec-a112-150dfb31963/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NVRDhuMG8yL3VMQTJCL21YVUVXYzZBdEYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:47|https://s3.amazonaws.com/CUD8n0o2/uLA2B/mXUEWc6AtF/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYzOTg2LzBxUHAyVTV5MjB5OG5MSlNWNC9KVS80emppUzcwV1I1WFJsaWYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:39|https://s3.amazonaws.com/63986/0qPp2U5y20y8nLJSV4/JU/4zjiS70WR5XRlif/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M5RUY0QjEyOTgxRC8xNjc4NTY4LzE3OTg2NzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:30|https://s3.amazonaws.com/C9EF4B12981D/1678568/1798674/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0c5Q1J3Lzg2ODhhN2QxLTk4ZTItNDYxMS1iNzgvNTQ0M2FlYjktMDcwYS00YTQ5LWFjNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|17:18|https://s3.amazonaws.com/G9CRw/8688a7d1-98e2-4611-b78/5443aeb9-070a-4a49-ac7/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -887,3 +887,4 @@
 |[learn2upgrade.thegreatforupdatemovegood.download](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatemovegood.download&type=A)|
 |[learn2upgrade.thegreatforupdatesafemovegood.bid](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesafemovegood.bid&type=A)|
 |[livecheck2update.thepointofforcontentclear.bid](https://dns.google.com/query?name=livecheck2update.thepointofforcontentclear.bid&type=A)|
+|[newliveupdate.thepointofforcontentclear.bid](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.bid&type=A)|
