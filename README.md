@@ -904,3 +904,4 @@
 |[livecheck2update.thepointofforcontentingclear.date](https://dns.google.com/query?name=livecheck2update.thepointofforcontentingclear.date&type=A)|
 |[downgradepc.thepointofforcontentingclear.download](https://dns.google.com/query?name=downgradepc.thepointofforcontentingclear.download&type=A)|
 |[livecheck2update.thepointofforcontentingclear.download](https://dns.google.com/query?name=livecheck2update.thepointofforcontentingclear.download&type=A)|
+|[newliveupdate.thepointofforcontentingclear.download](https://dns.google.com/query?name=newliveupdate.thepointofforcontentingclear.download&type=A)|
