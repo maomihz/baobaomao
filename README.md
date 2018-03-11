@@ -704,3 +704,4 @@
 |[learn2upgrade.thegreatforupdatemovegood.stream](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatemovegood.stream&type=A)|
 |[readyupdate.thegreatforupdatemovegood.stream](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.stream&type=A)|
 |[newalways.thegreatforupdatesafemovegood.bid](https://dns.google.com/query?name=newalways.thegreatforupdatesafemovegood.bid&type=A)|
+|[newsoftready.thegreatforupdatesafemovegood.bid](https://dns.google.com/query?name=newsoftready.thegreatforupdatesafemovegood.bid&type=A)|
