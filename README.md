@@ -769,3 +769,4 @@
 |[downgradepc.thegreatforupdatingmoveprepared.trade](https://dns.google.com/query?name=downgradepc.thegreatforupdatingmoveprepared.trade&type=A)|
 |[getsoftnow.thegreatforupdatingmoveprepared.trade](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.trade&type=A)|
 |[downgradepc.thegreatforupdatingmoveprepared.win](https://dns.google.com/query?name=downgradepc.thegreatforupdatingmoveprepared.win&type=A)|
+|[getsoftnow.thegreatforupdatingmoveprepared.win](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.win&type=A)|
