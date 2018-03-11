@@ -815,3 +815,4 @@
 |[free4allup.thepointof4content.download](https://dns.google.com/query?name=free4allup.thepointof4content.download&type=A)|
 |[free4allup.thepointof4content.review](https://dns.google.com/query?name=free4allup.thepointof4content.review&type=A)|
 |[newsoft12.thepointof4content.review](https://dns.google.com/query?name=newsoft12.thepointof4content.review&type=A)|
+|[nowcheck.thepointof4content.review](https://dns.google.com/query?name=nowcheck.thepointof4content.review&type=A)|
