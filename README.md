@@ -748,3 +748,4 @@
 |[newsoftready.thegreatforupdatingmovegood.date](https://dns.google.com/query?name=newsoftready.thegreatforupdatingmovegood.date&type=A)|
 |[newsoftready.thegreatforupdatingmovegood.download](https://dns.google.com/query?name=newsoftready.thegreatforupdatingmovegood.download&type=A)|
 |[newalways.thegreatforupdatingmovegood.review](https://dns.google.com/query?name=newalways.thegreatforupdatingmovegood.review&type=A)|
+|[newsoftready.thegreatforupdatingmovegood.review](https://dns.google.com/query?name=newsoftready.thegreatforupdatingmovegood.review&type=A)|
