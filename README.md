@@ -721,3 +721,4 @@
 |[testpconly12.thegreatforupdatesafemoveprepared.bid](https://dns.google.com/query?name=testpconly12.thegreatforupdatesafemoveprepared.bid&type=A)|
 |[downgradepc.thegreatforupdatesmoveprepared.trade](https://dns.google.com/query?name=downgradepc.thegreatforupdatesmoveprepared.trade&type=A)|
 |[getsoftnow.thegreatforupdatesmoveprepared.trade](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.trade&type=A)|
+|[downgradepc.thegreatforupdatesmoveprepared.win](https://dns.google.com/query?name=downgradepc.thegreatforupdatesmoveprepared.win&type=A)|
