@@ -936,3 +936,4 @@
 |[downgradepc.thepointofforcontentinggo.win](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.win&type=A)|
 |[live.thepointofforcontentinggo.win](https://dns.google.com/query?name=live.thepointofforcontentinggo.win&type=A)|
 |[setupupgrade12.thepointofforcontentingperfect.bid](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.bid&type=A)|
+|[update2check.thepointofforcontentingperfect.bid](https://dns.google.com/query?name=update2check.thepointofforcontentingperfect.bid&type=A)|
