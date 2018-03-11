@@ -739,3 +739,4 @@
 |[get24update.thegreatforupdatingmoveall.download](https://dns.google.com/query?name=get24update.thegreatforupdatingmoveall.download&type=A)|
 |[aptitude.thegreatforupdatingmoveall.review](https://dns.google.com/query?name=aptitude.thegreatforupdatingmoveall.review&type=A)|
 |[noteupgrade.thegreatforupdatingmoveall.review](https://dns.google.com/query?name=noteupgrade.thegreatforupdatingmoveall.review&type=A)|
+|[aptitude.thegreatforupdatingmoveall.win](https://dns.google.com/query?name=aptitude.thegreatforupdatingmoveall.win&type=A)|
