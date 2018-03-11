@@ -808,3 +808,4 @@
 |[finishedupdate.thegreatforupdatemoveset.download](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.download&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentsgonow.win](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentsgonow.win&type=A)|
 |[24check4updates.thelinkersgoodfreeforcontentsgonow.trade](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsgonow.trade&type=A)|
+|[24pcupgrade.thelinkersgoodfreeforcontentsgonow.trade](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentsgonow.trade&type=A)|
