@@ -909,3 +909,4 @@
 |[livecheck2update.thepointofforcontentingclear.stream](https://dns.google.com/query?name=livecheck2update.thepointofforcontentingclear.stream&type=A)|
 |[downgradepc.thepointofforcontentingclear.win](https://dns.google.com/query?name=downgradepc.thepointofforcontentingclear.win&type=A)|
 |[livecheck2update.thepointofforcontentingclear.win](https://dns.google.com/query?name=livecheck2update.thepointofforcontentingclear.win&type=A)|
+|[downgradepc.thepointofforcontentinggo.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.bid&type=A)|
