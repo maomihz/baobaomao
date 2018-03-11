@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Nyb1pFSy81NjdjZi81YWM1My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:20|https://s3.amazonaws.com/croZEK/567cf/5ac53/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZlYmJkOTY2LWQ1YmItNGRmZi04NzU4LTNjZjRjZjQ3N2VjL3pjSDllMEQ5VjBXNG55OFV3M0lWWFE9L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:09|https://s3.amazonaws.com/febbd966-d5bb-4dff-8758-3cf4cf477ec/zcH9e0D9V0W4ny8Uw3IVXQ=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBFNTQ2MzAzMUM1QTJDNC9wRGZLcFJaekUwL280eE9vY0o5cGsvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:56|https://s3.amazonaws.com/0E5463031C5A2C4/pDfKpRZzE0/o4xOocJ9pk/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NGMDhCOTRBMkRFQUY3NC8xMTg4Njg3Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|05:46|https://s3.amazonaws.com/CF08B94A2DEAF74/11886872/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc5QkUvMjdmOGMyMjMtN2UxMS00M2E1L2FiZjkxZjUyLTViZjYtNDk3Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|05:37|https://s3.amazonaws.com/79BE/27f8c223-7e11-43a5/abf91f52-5bf6-4972/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJGRDA2RDQ0MDZENEQzNEJCL2xMaGx6VEhlSFVlL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|05:33|https://s3.amazonaws.com/2FD06D4406D4D34BB/lLhlzTHeHUe/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZFc2ovZ0dsRFovd1FhL1Z3cnpDQUF5dC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|05:21|https://s3.amazonaws.com/fEsj/gGlDZ/wQa/VwrzCAAyt/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -781,3 +781,4 @@
 |[newsoft2update.thegreatforupdatingmoveset.win](https://dns.google.com/query?name=newsoft2update.thegreatforupdatingmoveset.win&type=A)|
 |[finishedupdate.thegreatforupdatingmoveset.win](https://dns.google.com/query?name=finishedupdate.thegreatforupdatingmoveset.win&type=A)|
 |[finishedupdate.thegreatforupdatingmoveset.trade](https://dns.google.com/query?name=finishedupdate.thegreatforupdatingmoveset.trade&type=A)|
+|[ready4update.thelinkersgoodfreeforcontentsgreat.bid](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsgreat.bid&type=A)|
