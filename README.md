@@ -920,3 +920,4 @@
 |[downgradepc.thepointofforcontentinggo.stream](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.stream&type=A)|
 |[setupdate24.thepointofforcontentinggo.stream](https://dns.google.com/query?name=setupdate24.thepointofforcontentinggo.stream&type=A)|
 |[downgradepc.thepointofforcontentinggo.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.trade&type=A)|
+|[live.thepointofforcontentinggo.trade](https://dns.google.com/query?name=live.thepointofforcontentinggo.trade&type=A)|
