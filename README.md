@@ -804,3 +804,4 @@
 |[nowsetup.thelinkersgoodfreeforcontentssetup.date](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentssetup.date&type=A)|
 |[downgradepc.thegreatforupdatesafemoveprepared.date](https://dns.google.com/query?name=downgradepc.thegreatforupdatesafemoveprepared.date&type=A)|
 |[downgradepc.thegreatforupdatemoveprepared.win](https://dns.google.com/query?name=downgradepc.thegreatforupdatemoveprepared.win&type=A)|
+|[finishedupdate.thegreatforupdatemoveset.download](https://dns.google.com/query?name=finishedupdate.thegreatforupdatemoveset.download&type=A)|
