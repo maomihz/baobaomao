@@ -931,3 +931,4 @@
 |[updatesoftware.thepointofforcontentingload.stream](https://dns.google.com/query?name=updatesoftware.thepointofforcontentingload.stream&type=A)|
 |[versionlast.thepointofforcontentingload.stream](https://dns.google.com/query?name=versionlast.thepointofforcontentingload.stream&type=A)|
 |[howtoupdate.thepointofforcontentingload.trade](https://dns.google.com/query?name=howtoupdate.thepointofforcontentingload.trade&type=A)|
+|[newsoft12.thepointofforcontentingload.win](https://dns.google.com/query?name=newsoft12.thepointofforcontentingload.win&type=A)|
