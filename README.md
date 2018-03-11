@@ -735,3 +735,4 @@
 |[get24update.thegreatforupdatingmoveall.bid](https://dns.google.com/query?name=get24update.thegreatforupdatingmoveall.bid&type=A)|
 |[aptitude.thegreatforupdatingmoveall.date](https://dns.google.com/query?name=aptitude.thegreatforupdatingmoveall.date&type=A)|
 |[noteupgrade.thegreatforupdatingmoveall.date](https://dns.google.com/query?name=noteupgrade.thegreatforupdatingmoveall.date&type=A)|
+|[aptitude.thegreatforupdatingmoveall.download](https://dns.google.com/query?name=aptitude.thegreatforupdatingmoveall.download&type=A)|
