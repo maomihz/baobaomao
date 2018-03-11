@@ -705,3 +705,4 @@
 |[readyupdate.thegreatforupdatemovegood.stream](https://dns.google.com/query?name=readyupdate.thegreatforupdatemovegood.stream&type=A)|
 |[newalways.thegreatforupdatesafemovegood.bid](https://dns.google.com/query?name=newalways.thegreatforupdatesafemovegood.bid&type=A)|
 |[newsoftready.thegreatforupdatesafemovegood.bid](https://dns.google.com/query?name=newsoftready.thegreatforupdatesafemovegood.bid&type=A)|
+|[readyupdate.thegreatforupdatesafemovegood.bid](https://dns.google.com/query?name=readyupdate.thegreatforupdatesafemovegood.bid&type=A)|
