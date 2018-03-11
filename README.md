@@ -893,3 +893,4 @@
 |[livecheck2update.thepointofforcontentclear.download](https://dns.google.com/query?name=livecheck2update.thepointofforcontentclear.download&type=A)|
 |[newliveupdate.thepointofforcontentclear.download](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.download&type=A)|
 |[livecheck2update.thepointofforcontentclear.review](https://dns.google.com/query?name=livecheck2update.thepointofforcontentclear.review&type=A)|
+|[newliveupdate.thepointofforcontentclear.review](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.review&type=A)|
