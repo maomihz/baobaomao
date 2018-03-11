@@ -872,3 +872,4 @@
 |[upgrade.thepointofforcontentingnow.date](https://dns.google.com/query?name=upgrade.thepointofforcontentingnow.date&type=A)|
 |[app4com.thepointofforcontentingnow.download](https://dns.google.com/query?name=app4com.thepointofforcontentingnow.download&type=A)|
 |[newsoftready.thepointofforcontentingnow.download](https://dns.google.com/query?name=newsoftready.thepointofforcontentingnow.download&type=A)|
+|[upgrade.thepointofforcontentingnow.download](https://dns.google.com/query?name=upgrade.thepointofforcontentingnow.download&type=A)|
