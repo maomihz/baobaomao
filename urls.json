@@ -1,34 +1,4 @@
 {
-  "urls": {
-    "https://s3.amazonaws.com/29490819-534e-46c5-bfd/9E41E51BE82EAA4E96DB136932DC78/0DC94084EA04594FBF76594E22A042/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520760713.751937,
-      "url": "https://s3.amazonaws.com/29490819-534e-46c5-bfd/9E41E51BE82EAA4E96DB136932DC78/0DC94084EA04594FBF76594E22A042/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/2D376CB4E6ED9E4/4KGec/EGLVO/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520762493.208235,
-      "url": "https://s3.amazonaws.com/2D376CB4E6ED9E4/4KGec/EGLVO/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/7293460C3729CF459/D150DFA1924C6C41A4C3C7BE380ECC8/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520762113.404538,
-      "url": "https://s3.amazonaws.com/7293460C3729CF459/D150DFA1924C6C41A4C3C7BE380ECC8/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/0D51273/20D39E2/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520759320.896487,
-      "url": "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/0D51273/20D39E2/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/7184/D4D7286E7/7409E08F9/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520760972.063476,
-      "url": "https://s3.amazonaws.com/7184/D4D7286E7/7409E08F9/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/E6sbaWnB/IhVT/U0Pu/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520759830.836168,
-      "url": "https://s3.amazonaws.com/E6sbaWnB/IhVT/U0Pu/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/PUZj/Pd_2/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520759700.258814,
-      "url": "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/PUZj/Pd_2/AdobeFlashPlayerInstaller.dmg"
-    }
-  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -824,5 +794,35 @@
     "learn2upgrade.thegreatforupdatesmovegood.win",
     "newsoft12.thepointof4content.bid",
     "nowcheck.thepointof4content.bid"
-  ]
+  ],
+  "urls": {
+    "https://s3.amazonaws.com/29490819-534e-46c5-bfd/9E41E51BE82EAA4E96DB136932DC78/0DC94084EA04594FBF76594E22A042/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/29490819-534e-46c5-bfd/9E41E51BE82EAA4E96DB136932DC78/0DC94084EA04594FBF76594E22A042/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520760713.751937
+    },
+    "https://s3.amazonaws.com/2D376CB4E6ED9E4/4KGec/EGLVO/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/2D376CB4E6ED9E4/4KGec/EGLVO/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520762493.208235
+    },
+    "https://s3.amazonaws.com/7184/D4D7286E7/7409E08F9/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/7184/D4D7286E7/7409E08F9/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520760972.063476
+    },
+    "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/PUZj/Pd_2/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/PUZj/Pd_2/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520759700.258814
+    },
+    "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/0D51273/20D39E2/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/bdc883c7-bdf0-468b-96cc-cb1da0f3/0D51273/20D39E2/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520759320.896487
+    },
+    "https://s3.amazonaws.com/E6sbaWnB/IhVT/U0Pu/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/E6sbaWnB/IhVT/U0Pu/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520759830.836168
+    },
+    "https://s3.amazonaws.com/7293460C3729CF459/D150DFA1924C6C41A4C3C7BE380ECC8/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/7293460C3729CF459/D150DFA1924C6C41A4C3C7BE380ECC8/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520762113.404538
+    }
+  }
 }
