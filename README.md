@@ -859,3 +859,4 @@
 |[24pcupgrade.thepointof4contentsafea.download](https://dns.google.com/query?name=24pcupgrade.thepointof4contentsafea.download&type=A)|
 |[free4allup.thepointof4contentsafea.download](https://dns.google.com/query?name=free4allup.thepointof4contentsafea.download&type=A)|
 |[free4allup.thepointof4contentsafea.review](https://dns.google.com/query?name=free4allup.thepointof4contentsafea.review&type=A)|
+|[newsoft12.thepointof4contentsafea.review](https://dns.google.com/query?name=newsoft12.thepointof4contentsafea.review&type=A)|
