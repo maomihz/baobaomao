@@ -709,3 +709,4 @@
 |[downgradepc.thegreatforupdatemoveprepared.date](https://dns.google.com/query?name=downgradepc.thegreatforupdatemoveprepared.date&type=A)|
 |[getsoftnow.thegreatforupdatemoveprepared.date](https://dns.google.com/query?name=getsoftnow.thegreatforupdatemoveprepared.date&type=A)|
 |[testpconly12.thegreatforupdatemoveprepared.date](https://dns.google.com/query?name=testpconly12.thegreatforupdatemoveprepared.date&type=A)|
+|[testpconly12.thegreatforupdatemoveprepared.trade](https://dns.google.com/query?name=testpconly12.thegreatforupdatemoveprepared.trade&type=A)|
