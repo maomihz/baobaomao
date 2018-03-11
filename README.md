@@ -762,3 +762,4 @@
 |[getsoftnow.thegreatforupdatingmoveprepared.download](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.download&type=A)|
 |[safe.thegreatforupdatingmoveprepared.download](https://dns.google.com/query?name=safe.thegreatforupdatingmoveprepared.download&type=A)|
 |[getsoftnow.thegreatforupdatingmoveprepared.review](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.review&type=A)|
+|[safe.thegreatforupdatingmoveprepared.review](https://dns.google.com/query?name=safe.thegreatforupdatingmoveprepared.review&type=A)|
