@@ -794,3 +794,4 @@
 |[app4com.thelinkersgoodfreeforcontentsgreat.win](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentsgreat.win&type=A)|
 |[checkupgrade24.thelinkersgoodfreeforcontentsgreat.win](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentsgreat.win&type=A)|
 |[live.thelinkersgoodfreeforcontentssetup.bid](https://dns.google.com/query?name=live.thelinkersgoodfreeforcontentssetup.bid&type=A)|
+|[nowsetup.thelinkersgoodfreeforcontentssetup.stream](https://dns.google.com/query?name=nowsetup.thelinkersgoodfreeforcontentssetup.stream&type=A)|
