@@ -733,3 +733,4 @@
 |[prepare2upvideo.thegreatforupdatesmoveset.stream](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatesmoveset.stream&type=A)|
 |[finishedupdate.thegreatforupdatesmoveset.stream](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesmoveset.stream&type=A)|
 |[get24update.thegreatforupdatingmoveall.bid](https://dns.google.com/query?name=get24update.thegreatforupdatingmoveall.bid&type=A)|
+|[aptitude.thegreatforupdatingmoveall.date](https://dns.google.com/query?name=aptitude.thegreatforupdatingmoveall.date&type=A)|
