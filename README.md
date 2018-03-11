@@ -897,3 +897,4 @@
 |[livecheck2update.thepointofforcontentclear.stream](https://dns.google.com/query?name=livecheck2update.thepointofforcontentclear.stream&type=A)|
 |[newliveupdate.thepointofforcontentclear.stream](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.stream&type=A)|
 |[newtest4pc.thepointofforcontentclear.stream](https://dns.google.com/query?name=newtest4pc.thepointofforcontentclear.stream&type=A)|
+|[downgradepc.thepointofforcontentclear.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentclear.trade&type=A)|
