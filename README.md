@@ -758,3 +758,4 @@
 |[getsoftnow.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.bid&type=A)|
 |[safe.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=safe.thegreatforupdatingmoveprepared.bid&type=A)|
 |[getsoftnow.thegreatforupdatingmoveprepared.date](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.date&type=A)|
+|[safe.thegreatforupdatingmoveprepared.date](https://dns.google.com/query?name=safe.thegreatforupdatingmoveprepared.date&type=A)|
