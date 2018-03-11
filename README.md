@@ -730,3 +730,4 @@
 |[prepare2upvideo.thegreatforupdatesmoveset.date](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatesmoveset.date&type=A)|
 |[finishedupdate.thegreatforupdatesmoveset.download](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesmoveset.download&type=A)|
 |[newsoft2update.thegreatforupdatesmoveset.win](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesmoveset.win&type=A)|
+|[prepare2upvideo.thegreatforupdatesmoveset.stream](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatesmoveset.stream&type=A)|
