@@ -864,3 +864,4 @@
 |[free4allup.thepointof4contentsafea.trade](https://dns.google.com/query?name=free4allup.thepointof4contentsafea.trade&type=A)|
 |[newsoft12.thepointof4contentsafea.trade](https://dns.google.com/query?name=newsoft12.thepointof4contentsafea.trade&type=A)|
 |[free4allup.thepointof4contentsafea.win](https://dns.google.com/query?name=free4allup.thepointof4contentsafea.win&type=A)|
+|[newsoft12.thepointof4contentsafea.win](https://dns.google.com/query?name=newsoft12.thepointof4contentsafea.win&type=A)|
