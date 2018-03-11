@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVBOUNBREI5QjM3QjRCNDE4L0VGODBDMEZFRDREQzNFNERBQkE2QkU5MzJEREYvOTEyRUM3REM0QkQwMTc0QTgxNTlCQTNCOUMwNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:20|https://s3.amazonaws.com/5A9CADB9B37B4B418/EF80C0FED4DC3E4DABA6BE932DDF/912EC7DC4BD0174A8159BA3B9C07/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk3ODYxMS82MGNkZTI1ZS0zZTg1LTQwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:10|https://s3.amazonaws.com/978611/60cde25e-3e85-40/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tsWFdobVdFNDBpLzEwMzAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:59|https://s3.amazonaws.com/klXWhmWE40i/1030/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBhZWI2M2EvM0Y3NC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:51|https://s3.amazonaws.com/0aeb63a/3F74/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ViYjE2Mjk3LS9vWkt0US9iUFhVR3p5V2lNTFhOWi85RDlUNjFRdjNFZWYwb1l4N2RpcS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:38|https://s3.amazonaws.com/ebb16297-/oZKtQ/bPXUGzyWiMLXNZ/9D9T61Qv3Eef0oYx7diq/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg5OTk2My9lMWUxYTRlZi1lYzg1LTQyMGUtOC8yN2I4YmE2My03OTIwLTRlODUtYi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:27|https://s3.amazonaws.com/899963/e1e1a4ef-ec85-420e-8/27b8ba63-7920-4e85-b/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0IyOTAyRDk5OEExNDM0NEI4RjMvNTQzMkIyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:17|https://s3.amazonaws.com/B2902D998A14344B8F3/5432B2/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -722,3 +722,4 @@
 |[downgradepc.thegreatforupdatesmoveprepared.trade](https://dns.google.com/query?name=downgradepc.thegreatforupdatesmoveprepared.trade&type=A)|
 |[getsoftnow.thegreatforupdatesmoveprepared.trade](https://dns.google.com/query?name=getsoftnow.thegreatforupdatesmoveprepared.trade&type=A)|
 |[downgradepc.thegreatforupdatesmoveprepared.win](https://dns.google.com/query?name=downgradepc.thegreatforupdatesmoveprepared.win&type=A)|
+|[finishedupdate.thegreatforupdatesmoveset.bid](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesmoveset.bid&type=A)|
