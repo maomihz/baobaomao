@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBDRTg5QzgzRkMyRDlCNDJCNDA0NTM1N0MxRDk1Qy9kNDJmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:20|https://s3.amazonaws.com/0CE89C83FC2D9B42B4045357C1D95C/d42f/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NaTDFZWktSbTBfTzJ1NEFrQjRuLzVjNTY1Yjc4LWMzLzAzMTA4ZGQ3LTBhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:07|https://s3.amazonaws.com/CZL1YZKRm0_O2u4AkB4n/5c565b78-c3/03108dd7-0a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NBMjI1ODhCMEIxRThCNDYvMzkzOUM3QzcxRkVDQjc0Mzk2NTBFRUI2RUNFMy84N0M5QUFFRUY2RDg4RTRCQkMxQTY0QTQzODhBL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:01|https://s3.amazonaws.com/CA22588B0B1E8B46/3939C7C71FECB7439650EEB6ECE3/87C9AAEEF6D88E4BBC1A64A4388A/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2toZV8wWWRfWDBhTDEvVjVTYXlaVGFCRXFSbWhQdTYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:52|https://s3.amazonaws.com/khe_0Yd_X0aL1/V5SayZTaBEqRmhPu6/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5MzE1QUJBMC8xODYxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:37|https://s3.amazonaws.com/99315ABA0/1861/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0s2YmlaNkUzNGt5NlZqRHJCTi8zNExKZUtvL25VL3h2bEtxdGVOdGsvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:31|https://s3.amazonaws.com/K6biZ6E34ky6VjDrBN/34LJeKo/nU/xvlKqteNtk/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI4ODcvMDA1MjQwMEE1RkYvNzc0MTI4MkNCMDMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:22|https://s3.amazonaws.com/2887/0052400A5FF/7741282CB03/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -874,3 +874,4 @@
 |[newsoftready.thepointofforcontentingnow.download](https://dns.google.com/query?name=newsoftready.thepointofforcontentingnow.download&type=A)|
 |[upgrade.thepointofforcontentingnow.download](https://dns.google.com/query?name=upgrade.thepointofforcontentingnow.download&type=A)|
 |[app4com.thepointofforcontentingnow.review](https://dns.google.com/query?name=app4com.thepointofforcontentingnow.review&type=A)|
+|[newsoftready.thepointofforcontentingnow.review](https://dns.google.com/query?name=newsoftready.thepointofforcontentingnow.review&type=A)|
