@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tHU0dRbUFKX1VPYS9BanVsMzRpUExFU1JpRUN0MS9VVEtMaWhwbllVdUdqMzBpQy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:13|https://s3.amazonaws.com/kGSGQmAJ_UOa/Ajul34iPLESRiECt1/UTKLihpnYUuGj30iC/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQxNTMvRTQ2Nzk1RUNEMjMwRkE0Rjg2NTMwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:58|https://s3.amazonaws.com/4153/E46795ECD230FA4F86530/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMxNTIvNEYyN0UyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:48|https://s3.amazonaws.com/3152/4F27E2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVjNTI0M2Q3LTFlMzctNGFkMC05N2Q5LTVkZmU2L285UzRSWUdYZ0VDbmpuUDNjLzRnckE9L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:44|https://s3.amazonaws.com/5c5243d7-1e37-4ad0-97d9-5dfe6/o9S4RYGXgECnjnP3c/4grA=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQyYjRjNmE0LTJhNjgtL3ZOWDlJYy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:29|https://s3.amazonaws.com/42b4c6a4-2a68-/vNX9Ic/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExNzc3MTY1LzcyOTNmZTgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:18|https://s3.amazonaws.com/11777165/7293fe8/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZnb3RZT2NGVVVhVlplcEVEaTgvNTAwNC85MzEyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:08|https://s3.amazonaws.com/6gotYOcFUUaVZepEDi8/5004/9312/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -757,3 +757,4 @@
 |[downgradepc.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=downgradepc.thegreatforupdatingmoveprepared.bid&type=A)|
 |[getsoftnow.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.bid&type=A)|
 |[safe.thegreatforupdatingmoveprepared.bid](https://dns.google.com/query?name=safe.thegreatforupdatingmoveprepared.bid&type=A)|
+|[getsoftnow.thegreatforupdatingmoveprepared.date](https://dns.google.com/query?name=getsoftnow.thegreatforupdatingmoveprepared.date&type=A)|
