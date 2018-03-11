@@ -808,3 +808,4 @@
 |[newsoft12.thepointof4content.bid](https://dns.google.com/query?name=newsoft12.thepointof4content.bid&type=A)|
 |[nowcheck.thepointof4content.bid](https://dns.google.com/query?name=nowcheck.thepointof4content.bid&type=A)|
 |[24pcupgrade.thepointof4content.date](https://dns.google.com/query?name=24pcupgrade.thepointof4content.date&type=A)|
+|[free4allup.thepointof4content.date](https://dns.google.com/query?name=free4allup.thepointof4content.date&type=A)|
