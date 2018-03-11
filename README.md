@@ -946,3 +946,4 @@
 |[setupupgrade12.thepointofforcontentingperfect.trade](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.trade&type=A)|
 |[setupupgrade12.thepointofforcontentingperfect.win](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.win&type=A)|
 |[nowgetsoft.thepointofforcontentingsetup.download](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentingsetup.download&type=A)|
+|[online.thepointofforcontentingsetup.download](https://dns.google.com/query?name=online.thepointofforcontentingsetup.download&type=A)|
