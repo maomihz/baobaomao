@@ -821,3 +821,4 @@
 |[24pcupgrade.thepointof4content.stream](https://dns.google.com/query?name=24pcupgrade.thepointof4content.stream&type=A)|
 |[free4allup.thepointof4content.stream](https://dns.google.com/query?name=free4allup.thepointof4content.stream&type=A)|
 |[newsoft12.thepointof4content.stream](https://dns.google.com/query?name=newsoft12.thepointof4content.stream&type=A)|
+|[nowcheck.thepointof4content.stream](https://dns.google.com/query?name=nowcheck.thepointof4content.stream&type=A)|
