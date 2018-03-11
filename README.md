@@ -810,3 +810,4 @@
 |[24check4updates.thelinkersgoodfreeforcontentsgonow.trade](https://dns.google.com/query?name=24check4updates.thelinkersgoodfreeforcontentsgonow.trade&type=A)|
 |[24pcupgrade.thelinkersgoodfreeforcontentsgonow.trade](https://dns.google.com/query?name=24pcupgrade.thelinkersgoodfreeforcontentsgonow.trade&type=A)|
 |[lastversion.thelinkersgoodfreeforcontentsgonow.trade](https://dns.google.com/query?name=lastversion.thelinkersgoodfreeforcontentsgonow.trade&type=A)|
+|[learn2upgrade.thegreatforupdatesmovegood.win](https://dns.google.com/query?name=learn2upgrade.thegreatforupdatesmovegood.win&type=A)|
