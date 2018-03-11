@@ -1,8 +1,12 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520807820.711345
+    "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520809595.241578
+    },
+    "https://s3.amazonaws.com/3FE26206B82/1482/5136/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/3FE26206B82/1482/5136/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520811366.095779
     },
     "https://s3.amazonaws.com/2546/498945/1229443/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/2546/498945/1229443/AdobeFlashPlayerInstaller.dmg",
@@ -12,13 +16,13 @@
       "url": "https://s3.amazonaws.com/F3koj5n6mEGCSMYljbHGiA/2a8afdb2-ba04-4595-b612-394f104/6cb285be-ede6-4af2-963f-608a92c/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520809089.433683
     },
-    "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/04201CF3FF378A4EB89BC773BAB560/wYQD/kLWD/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520809595.241578
-    },
     "https://s3.amazonaws.com/CE56/3991/7109/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/CE56/3991/7109/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520808456.45071
+    },
+    "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/57A5/6F44C341B4D0AC44827B6282/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520807820.711345
     }
   },
   "ad_urls": [
@@ -951,6 +955,7 @@
     "setupupgrade12.thepointofforcontentingperfect.win",
     "nowgetsoft.thepointofforcontentingsetup.download",
     "online.thepointofforcontentingsetup.download",
-    "updatelive.thepointofforcontentingsetup.download"
+    "updatelive.thepointofforcontentingsetup.download",
+    "online.thepointofforcontentingsetup.review"
   ]
 }
