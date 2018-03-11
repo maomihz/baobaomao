@@ -912,3 +912,4 @@
 |[downgradepc.thepointofforcontentinggo.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.bid&type=A)|
 |[live.thepointofforcontentinggo.bid](https://dns.google.com/query?name=live.thepointofforcontentinggo.bid&type=A)|
 |[setupnow.thepointofforcontentinggo.bid](https://dns.google.com/query?name=setupnow.thepointofforcontentinggo.bid&type=A)|
+|[downgradepc.thepointofforcontentinggo.date](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.date&type=A)|
