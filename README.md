@@ -790,3 +790,4 @@
 |[ready4update.thelinkersgoodfreeforcontentsgreat.stream](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsgreat.stream&type=A)|
 |[app4com.thelinkersgoodfreeforcontentsgreat.trade](https://dns.google.com/query?name=app4com.thelinkersgoodfreeforcontentsgreat.trade&type=A)|
 |[checkupgrade24.thelinkersgoodfreeforcontentsgreat.trade](https://dns.google.com/query?name=checkupgrade24.thelinkersgoodfreeforcontentsgreat.trade&type=A)|
+|[ready4update.thelinkersgoodfreeforcontentsgreat.trade](https://dns.google.com/query?name=ready4update.thelinkersgoodfreeforcontentsgreat.trade&type=A)|
