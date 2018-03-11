@@ -780,3 +780,4 @@
 |[prepare2upvideo.thegreatforupdatingmoveset.win](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatingmoveset.win&type=A)|
 |[newsoft2update.thegreatforupdatingmoveset.win](https://dns.google.com/query?name=newsoft2update.thegreatforupdatingmoveset.win&type=A)|
 |[finishedupdate.thegreatforupdatingmoveset.win](https://dns.google.com/query?name=finishedupdate.thegreatforupdatingmoveset.win&type=A)|
+|[finishedupdate.thegreatforupdatingmoveset.trade](https://dns.google.com/query?name=finishedupdate.thegreatforupdatingmoveset.trade&type=A)|
