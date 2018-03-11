@@ -6,11 +6,11 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RERTgvMDJBMzlBMTk2Qjk3RTU0Ni9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:49|https://s3.amazonaws.com/DDE8/02A39A196B97E546/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M3NjEzRTk3LzE4NTA3My8xNjYzNTYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:38|https://s3.amazonaws.com/C7613E97/185073/166356/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI4MkVDNUU4QTZCQTgxNDU5OTFFNjkyNS85RTBENC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:28|https://s3.amazonaws.com/282EC5E8A6BA8145991E6925/9E0D4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL21jbVRYc2RMVTBTLzkzODFiOS80NGMwNDEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:19|https://s3.amazonaws.com/mcmTXsdLU0S/9381b9/44c041/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU3Y2I1ZTQ4LWVmYmQtNC9jZWI4ODkyOS1kYzM4LTRkODYtOS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:15|https://s3.amazonaws.com/57cb5e48-efbd-4/ceb88929-dc38-4d86-9/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FhZTRjOTEwLTA3MTktNDFmMi1hOTkzLTkzMS8xNjQ5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:54|https://s3.amazonaws.com/aae4c910-0719-41f2-a993-931/1649/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -914,3 +914,4 @@
 |[setupnow.thepointofforcontentinggo.bid](https://dns.google.com/query?name=setupnow.thepointofforcontentinggo.bid&type=A)|
 |[downgradepc.thepointofforcontentinggo.date](https://dns.google.com/query?name=downgradepc.thepointofforcontentinggo.date&type=A)|
 |[live.thepointofforcontentinggo.date](https://dns.google.com/query?name=live.thepointofforcontentinggo.date&type=A)|
+|[setupdate24.thepointofforcontentinggo.download](https://dns.google.com/query?name=setupdate24.thepointofforcontentinggo.download&type=A)|
