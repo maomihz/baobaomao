@@ -812,3 +812,4 @@
 |[free4allup.thepointof4content.date](https://dns.google.com/query?name=free4allup.thepointof4content.date&type=A)|
 |[24pcupgrade.thepointof4content.download](https://dns.google.com/query?name=24pcupgrade.thepointof4content.download&type=A)|
 |[free4allup.thepointof4content.download](https://dns.google.com/query?name=free4allup.thepointof4content.download&type=A)|
+|[free4allup.thepointof4content.review](https://dns.google.com/query?name=free4allup.thepointof4content.review&type=A)|
