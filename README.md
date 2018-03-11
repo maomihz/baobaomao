@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI2ZmQyNzE4LTNlOGYtNGRmLzE4OTAvMTMzOS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:06|https://s3.amazonaws.com/26fd2718-3e8f-4df/1890/1339/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2llTmxxZjdHOGtHZlBHL1IzckhCTFBKMDBfTU93YXRxUVVyVmc9LzcxTnNzMUlhNFVHQ1ZhYTBJUWdRVWc9L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:49|https://s3.amazonaws.com/ieNlqf7G8kGfPG/R3rHBLPJ00_MOwatqQUrVg=/71Nss1Ia4UGCVaa0IQgQUg=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZFQjgvMUkxNWdVRUUxMFdBZ3BfX0Ywc1dkQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:38|https://s3.amazonaws.com/6EB8/1I15gUEE10WAgp__F0sWdA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MDMvQS9MemlLRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:28|https://s3.amazonaws.com/1903/A/LziKD/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q3Y2EvMjA2NTkzNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:19|https://s3.amazonaws.com/d7ca/2065936/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2MwYzkzNThlLTVjLzU2NDcvMTUyMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:08|https://s3.amazonaws.com/c0c9358e-5c/5647/1522/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVCNDVCOENFNEMzQjVGNDNCOC84YzFkMzlhZS05MjdlLTQwZWMtYTExMi0xNTBkZmIzMTk2My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|17:58|https://s3.amazonaws.com/5B45B8CE4C3B5F43B8/8c1d39ae-927e-40ec-a112-150dfb31963/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -898,3 +898,4 @@
 |[newliveupdate.thepointofforcontentclear.stream](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.stream&type=A)|
 |[newtest4pc.thepointofforcontentclear.stream](https://dns.google.com/query?name=newtest4pc.thepointofforcontentclear.stream&type=A)|
 |[downgradepc.thepointofforcontentclear.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentclear.trade&type=A)|
+|[newliveupdate.thepointofforcontentclear.win](https://dns.google.com/query?name=newliveupdate.thepointofforcontentclear.win&type=A)|
