@@ -726,3 +726,4 @@
 |[newsoft2update.thegreatforupdatesmoveset.bid](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesmoveset.bid&type=A)|
 |[setupupgrade.thegreatforupdatesmoveset.bid](https://dns.google.com/query?name=setupupgrade.thegreatforupdatesmoveset.bid&type=A)|
 |[finishedupdate.thegreatforupdatesmoveset.date](https://dns.google.com/query?name=finishedupdate.thegreatforupdatesmoveset.date&type=A)|
+|[newsoft2update.thegreatforupdatesmoveset.date](https://dns.google.com/query?name=newsoft2update.thegreatforupdatesmoveset.date&type=A)|
