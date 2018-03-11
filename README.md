@@ -778,3 +778,4 @@
 |[prepare2upvideo.thegreatforupdatingmoveset.stream](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatingmoveset.stream&type=A)|
 |[newsoft2update.thegreatforupdatingmoveset.stream](https://dns.google.com/query?name=newsoft2update.thegreatforupdatingmoveset.stream&type=A)|
 |[prepare2upvideo.thegreatforupdatingmoveset.win](https://dns.google.com/query?name=prepare2upvideo.thegreatforupdatingmoveset.win&type=A)|
+|[newsoft2update.thegreatforupdatingmoveset.win](https://dns.google.com/query?name=newsoft2update.thegreatforupdatingmoveset.win&type=A)|
