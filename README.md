@@ -989,3 +989,4 @@
 |[update2check.thepointofforcontentperfect.stream](https://dns.google.com/query?name=update2check.thepointofforcontentperfect.stream&type=A)|
 |[setupupgrade12.thepointofforcontentperfect.stream](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.stream&type=A)|
 |[upgradecircle.thepointofforcontentperfect.review](https://dns.google.com/query?name=upgradecircle.thepointofforcontentperfect.review&type=A)|
+|[setupupgrade12.thepointofforcontentperfect.review](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.review&type=A)|
