@@ -1171,3 +1171,4 @@
 |[newsoftready.thepointofforcontentsnow.bid](https://dns.google.com/query?name=newsoftready.thepointofforcontentsnow.bid&type=A)|
 |[softready.thepointofforcontentsnow.bid](https://dns.google.com/query?name=softready.thepointofforcontentsnow.bid&type=A)|
 |[app4com.thepointofforcontentsnow.date](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.date&type=A)|
+|[newsoftready.thepointofforcontentsnow.date](https://dns.google.com/query?name=newsoftready.thepointofforcontentsnow.date&type=A)|
