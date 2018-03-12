@@ -1174,3 +1174,4 @@
 |[softready.thepointofforcontentsnow.date](https://dns.google.com/query?name=softready.thepointofforcontentsnow.date&type=A)|
 |[app4com.thepointofforcontentsnow.download](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.download&type=A)|
 |[softready.thepointofforcontentsnow.download](https://dns.google.com/query?name=softready.thepointofforcontentsnow.download&type=A)|
+|[app4com.thepointofforcontentsnow.review](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.review&type=A)|
