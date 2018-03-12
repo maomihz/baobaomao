@@ -1070,3 +1070,4 @@
 |[newsoftready.thepointofforcontentsafenow.download](https://dns.google.com/query?name=newsoftready.thepointofforcontentsafenow.download&type=A)|
 |[newsoftready.thepointofforcontentsafenow.win](https://dns.google.com/query?name=newsoftready.thepointofforcontentsafenow.win&type=A)|
 |[softready.thepointofforcontentsafenow.win](https://dns.google.com/query?name=softready.thepointofforcontentsafenow.win&type=A)|
+|[downgradepc.thepointofforcontentsafego.win](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.win&type=A)|
