@@ -1069,3 +1069,4 @@
 |[app4com.thepointofforcontentsafenow.download](https://dns.google.com/query?name=app4com.thepointofforcontentsafenow.download&type=A)|
 |[newsoftready.thepointofforcontentsafenow.download](https://dns.google.com/query?name=newsoftready.thepointofforcontentsafenow.download&type=A)|
 |[newsoftready.thepointofforcontentsafenow.win](https://dns.google.com/query?name=newsoftready.thepointofforcontentsafenow.win&type=A)|
+|[softready.thepointofforcontentsafenow.win](https://dns.google.com/query?name=softready.thepointofforcontentsafenow.win&type=A)|
