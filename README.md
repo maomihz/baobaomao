@@ -965,3 +965,4 @@
 |[updatesoftware.thepointofforcontentload.date](https://dns.google.com/query?name=updatesoftware.thepointofforcontentload.date&type=A)|
 |[versionlast.thepointofforcontentload.date](https://dns.google.com/query?name=versionlast.thepointofforcontentload.date&type=A)|
 |[app4com.thepointofforcontentnow.bid](https://dns.google.com/query?name=app4com.thepointofforcontentnow.bid&type=A)|
+|[newsoftready.thepointofforcontentnow.bid](https://dns.google.com/query?name=newsoftready.thepointofforcontentnow.bid&type=A)|
