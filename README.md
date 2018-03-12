@@ -1129,3 +1129,4 @@
 |[live.thepointofforcontentsetgo.win](https://dns.google.com/query?name=live.thepointofforcontentsetgo.win&type=A)|
 |[nowgetsoft.thepointofforcontentsetup.bid](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsetup.bid&type=A)|
 |[updatelive.thepointofforcontentsetup.bid](https://dns.google.com/query?name=updatelive.thepointofforcontentsetup.bid&type=A)|
+|[nowgetsoft.thepointofforcontentsetup.date](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsetup.date&type=A)|
