@@ -1108,3 +1108,4 @@
 |[updatelive.thepointofforcontentsafesetup.trade](https://dns.google.com/query?name=updatelive.thepointofforcontentsafesetup.trade&type=A)|
 |[livecheck2update.thepointofforcontentsclear.download](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.download&type=A)|
 |[downgradepc.thepointofforcontentsclear.review](https://dns.google.com/query?name=downgradepc.thepointofforcontentsclear.review&type=A)|
+|[livecheck2update.thepointofforcontentsclear.review](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.review&type=A)|
