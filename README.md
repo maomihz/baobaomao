@@ -1012,3 +1012,4 @@
 |[howtoupdate.thepointofforcontentload.win](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.win&type=A)|
 |[updatesoftware.thepointofforcontentload.win](https://dns.google.com/query?name=updatesoftware.thepointofforcontentload.win&type=A)|
 |[versionlast.thepointofforcontentload.win](https://dns.google.com/query?name=versionlast.thepointofforcontentload.win&type=A)|
+|[livecheck2update.thepointofforcontentsafeclear.bid](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.bid&type=A)|

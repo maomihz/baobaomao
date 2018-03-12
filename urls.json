@@ -1,12 +1,8 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/154489456/Udgi/x4XLUCRPIQ_ofT81w/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/154489456/Udgi/x4XLUCRPIQ_ofT81w/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520836825.816313
-    },
-    "https://s3.amazonaws.com/1896/1114/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/1896/1114/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520835558.807123
+    "https://s3.amazonaws.com/b3664cb2-8b06-41e8-b3c3-a39388/88ab4/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/b3664cb2-8b06-41e8-b3c3-a39388/88ab4/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520836067.444791
     },
     "https://s3.amazonaws.com/82cd8c8e-e977-4188-8791-b5f/5iitDxFp_U_JMSR6lEy/7HwfA7n8BUWP1OKbEKG/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/82cd8c8e-e977-4188-8791-b5f/5iitDxFp_U_JMSR6lEy/7HwfA7n8BUWP1OKbEKG/AdobeFlashPlayerInstaller.dmg",
@@ -16,13 +12,17 @@
       "url": "https://s3.amazonaws.com/9b91ccac-56f9-4849-b949-734e55d/7912911/14223834/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520838084.265357
     },
+    "https://s3.amazonaws.com/1896/1114/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/1896/1114/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520835558.807123
+    },
     "https://s3.amazonaws.com/Xa0j4Q_rdU62flX4u/cuxaYFRNkEqAjvlmffe_v/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/Xa0j4Q_rdU62flX4u/cuxaYFRNkEqAjvlmffe_v/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520838590.247055
     },
-    "https://s3.amazonaws.com/b3664cb2-8b06-41e8-b3c3-a39388/88ab4/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/b3664cb2-8b06-41e8-b3c3-a39388/88ab4/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520836067.444791
+    "https://s3.amazonaws.com/154489456/Udgi/x4XLUCRPIQ_ofT81w/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/154489456/Udgi/x4XLUCRPIQ_ofT81w/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520836825.816313
     }
   },
   "ad_urls": [
@@ -1019,6 +1019,7 @@
     "versionlast.thepointofforcontentload.trade",
     "howtoupdate.thepointofforcontentload.win",
     "updatesoftware.thepointofforcontentload.win",
-    "versionlast.thepointofforcontentload.win"
+    "versionlast.thepointofforcontentload.win",
+    "livecheck2update.thepointofforcontentsafeclear.bid"
   ]
 }
