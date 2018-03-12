@@ -972,3 +972,4 @@
 |[newsoft12.thepointofforcontentload.download](https://dns.google.com/query?name=newsoft12.thepointofforcontentload.download&type=A)|
 |[versionlast.thepointofforcontentload.download](https://dns.google.com/query?name=versionlast.thepointofforcontentload.download&type=A)|
 |[howtoupdate.thepointofforcontentload.review](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.review&type=A)|
+|[versionlast.thepointofforcontentload.review](https://dns.google.com/query?name=versionlast.thepointofforcontentload.review&type=A)|
