@@ -1161,3 +1161,4 @@
 |[newsoft12.thepointofforcontentsload.download](https://dns.google.com/query?name=newsoft12.thepointofforcontentsload.download&type=A)|
 |[updatesoftware.thepointofforcontentsload.download](https://dns.google.com/query?name=updatesoftware.thepointofforcontentsload.download&type=A)|
 |[howtoupdate.thepointofforcontentsload.review](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsload.review&type=A)|
+|[newsoft12.thepointofforcontentsload.review](https://dns.google.com/query?name=newsoft12.thepointofforcontentsload.review&type=A)|
