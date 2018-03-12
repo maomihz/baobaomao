@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY2YzliLzY0YTFhNzZkLWJlNjItNGFkZi04NjhjLS8zNjdhZTZhNi0xNzlmLTQwYmMtODA4YS0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:49|https://s3.amazonaws.com/66c9b/64a1a76d-be62-4adf-868c-/367ae6a6-179f-40bc-808a-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3FneUU3ajI3TVVfbEMvMTAwMi83Njk5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:26|https://s3.amazonaws.com/qgyE7j27MU_lC/1002/7699/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2IzMmI5Zjc4LTBmYjMtNDAyOC1iYWU1LWI5OWM2MTJiMi9jajNuVTdkTThFYTE4bDhESWF3UUNnPS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:21|https://s3.amazonaws.com/b32b9f78-0fb3-4028-bae5-b99c612b2/cj3nU7dM8Ea18l8DIawQCg=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM3MDMwNjcwLzExMTgvMTkzNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:13|https://s3.amazonaws.com/37030670/1118/1937/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2IyNWJjZjc0LWRmZmYtNDYyNS05ZmZkLS9SdnlYd0N5NmhVX3YvdDcvbHllWEl0VVdBa0czWGsxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:00|https://s3.amazonaws.com/b25bcf74-dfff-4625-9ffd-/RvyXwCy6hU_v/t7/lyeXItUWAkG3Xk1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdhYTQ5MTY5LWFlMi8zM0M4QzgwRDY0MDVBODRCOTMyRjQ0Mi8yRjAxQUFCODdEMDQ5RDQ3Qjk5QThGMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:49|https://s3.amazonaws.com/7aa49169-ae2/33C8C80D6405A84B932F442/2F01AAB87D049D47B99A8F1/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RQU1QveTc5d2xVYVNnMC9vZEVSNjVRMlAwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:41|https://s3.amazonaws.com/DPST/y79wlUaSg0/odER65Q2P0/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1159,3 +1159,4 @@
 |[setupupgrade12.thepointofforcontentperfect.date](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.date&type=A)|
 |[nowgetsoft.thepointofforcontentingsetup.review](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentingsetup.review&type=A)|
 |[nowgetsoft.thepointofforcontentingsetup.stream](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentingsetup.stream&type=A)|
+|[newsoft12.thepointofforcontentsload.download](https://dns.google.com/query?name=newsoft12.thepointofforcontentsload.download&type=A)|
