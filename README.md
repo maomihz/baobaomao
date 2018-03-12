@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q2NTFBMTczNjJBNTIvMDc5MTk0MjBCMjI3QzQ0OUJERDdBMEEwQUNDMURCLzk2MTA0REY4NjAwM0NGNDg5MEEyMjk3QjczNjlDOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:02|https://s3.amazonaws.com/D651A17362A52/07919420B227C449BDD7A0A0ACC1DB/96104DF86003CF4890A2297B7369C8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4MzYvd09NTEFFQXEyRTZsMEM3VWhWL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:52|https://s3.amazonaws.com/1836/wOMLAEAq2E6l0C7UhV/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMxOTAvMTQ1OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:37|https://s3.amazonaws.com/3190/1459/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI2OGNiMzk5LWNkZjItNGVmNS04OGNhLS8xNTU0MDQvNzkxMTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:29|https://s3.amazonaws.com/268cb399-cdf2-4ef5-88ca-/155404/79111/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Nwb0RCNlN6NVUvMzIxMUU5RDY4QjkxMzY0MS85MTJGOTg0QTlCQUJCQzQ2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:16|https://s3.amazonaws.com/CpoDB6Sz5U/3211E9D68B913641/912F984A9BABBC46/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3lsVjVLLzEyNzA1NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:10|https://s3.amazonaws.com/ylV5K/127055/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0MzAvRTQ2NjBBQzFFM0VDN0U0NzlDNERBNUIvRUE3MDA5MjM5OUY4MEI0Mzg3RUNDQjkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:59|https://s3.amazonaws.com/5430/E4660AC1E3EC7E479C4DA5B/EA70092399F80B4387ECCB9/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -984,3 +984,4 @@
 |[upgrade.thepointofforcontentnow.win](https://dns.google.com/query?name=upgrade.thepointofforcontentnow.win&type=A)|
 |[setupupgrade12.thepointofforcontentperfect.bid](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.bid&type=A)|
 |[24newsoft.thepointofforcontentperfect.date](https://dns.google.com/query?name=24newsoft.thepointofforcontentperfect.date&type=A)|
+|[update2check.thepointofforcontentperfect.date](https://dns.google.com/query?name=update2check.thepointofforcontentperfect.date&type=A)|
