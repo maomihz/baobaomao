@@ -1023,3 +1023,4 @@
 |[downgradepc.thepointofforcontentsafeclear.download](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafeclear.download&type=A)|
 |[livecheck2update.thepointofforcontentsafeclear.download](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.download&type=A)|
 |[newliveupdate.thepointofforcontentsafeclear.download](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsafeclear.download&type=A)|
+|[livecheck2update.thepointofforcontentsafeclear.review](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.review&type=A)|
