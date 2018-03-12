@@ -1117,3 +1117,4 @@
 |[live.thepointofforcontentsetgo.bid](https://dns.google.com/query?name=live.thepointofforcontentsetgo.bid&type=A)|
 |[setupdate24.thepointofforcontentsetgo.bid](https://dns.google.com/query?name=setupdate24.thepointofforcontentsetgo.bid&type=A)|
 |[setupnow.thepointofforcontentsetgo.bid](https://dns.google.com/query?name=setupnow.thepointofforcontentsetgo.bid&type=A)|
+|[downgradepc.thepointofforcontentsetgo.date](https://dns.google.com/query?name=downgradepc.thepointofforcontentsetgo.date&type=A)|
