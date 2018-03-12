@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3lsVjVLLzEyNzA1NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:10|https://s3.amazonaws.com/ylV5K/127055/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0MzAvRTQ2NjBBQzFFM0VDN0U0NzlDNERBNUIvRUE3MDA5MjM5OUY4MEI0Mzg3RUNDQjkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:59|https://s3.amazonaws.com/5430/E4660AC1E3EC7E479C4DA5B/EA70092399F80B4387ECCB9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRFZXAxNG1YYlVleG8vNWQ3ZC83MTdlL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:49|https://s3.amazonaws.com/4Eep14mXbUexo/5d7d/717e/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ5NzVmZTRjLWZjZGYvQ0RENzVDRDY2QzY3Qzc0NzkxNTYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:40|https://s3.amazonaws.com/4975fe4c-fcdf/CDD75CD66C67C7479156/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY1YTNiYzQ5LWEzNDItNDJhZS1iNTQzLWJiZmM0Ny80NjFERTA2MDc5NzlCNTQ2QUY3QkNBNi81RDA5NjIwMDEwMDhFNTQxOTdEMDBDQi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:25|https://s3.amazonaws.com/65a3bc49-a342-42ae-b543-bbfc47/461DE0607979B546AF7BCA6/5D0962001008E54197D00CB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZkNjYzZmQzLWNjODYtNDEzZC1iN2QvYTUyMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:17|https://s3.amazonaws.com/6d663fd3-cc86-413d-b7d/a523/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMDA1Lzc2NDgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:06|https://s3.amazonaws.com/21005/7648/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -976,3 +976,4 @@
 |[newsoft12.thepointofforcontentload.review](https://dns.google.com/query?name=newsoft12.thepointofforcontentload.review&type=A)|
 |[newsoftready.thepointofforcontentnow.date](https://dns.google.com/query?name=newsoftready.thepointofforcontentnow.date&type=A)|
 |[app4com.thepointofforcontentnow.review](https://dns.google.com/query?name=app4com.thepointofforcontentnow.review&type=A)|
+|[howtoupdate.thepointofforcontentload.stream](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.stream&type=A)|
