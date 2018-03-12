@@ -1155,3 +1155,4 @@
 |[setupdate24.thepointofforcontentsgo.review](https://dns.google.com/query?name=setupdate24.thepointofforcontentsgo.review&type=A)|
 |[24newsoft.thepointofforcontentingperfect.download](https://dns.google.com/query?name=24newsoft.thepointofforcontentingperfect.download&type=A)|
 |[setupupgrade12.thepointofforcontentingperfect.download](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.download&type=A)|
+|[downgradepc.thepointofforcontentclear.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentclear.bid&type=A)|
