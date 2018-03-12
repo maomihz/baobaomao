@@ -999,3 +999,4 @@
 |[24pcupgrade.thepointof4content.bid](https://dns.google.com/query?name=24pcupgrade.thepointof4content.bid&type=A)|
 |[free4allup.thepointof4content.bid](https://dns.google.com/query?name=free4allup.thepointof4content.bid&type=A)|
 |[24pcupgrade.thepointof4contentsafea.win](https://dns.google.com/query?name=24pcupgrade.thepointof4contentsafea.win&type=A)|
+|[app4com.thepointofforcontentingnow.stream](https://dns.google.com/query?name=app4com.thepointofforcontentingnow.stream&type=A)|
