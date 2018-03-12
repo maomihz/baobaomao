@@ -1100,3 +1100,4 @@
 |[testpc24.thepointofforcontentsafesetup.review](https://dns.google.com/query?name=testpc24.thepointofforcontentsafesetup.review&type=A)|
 |[nowgetsoft.thepointofforcontentsafesetup.stream](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsafesetup.stream&type=A)|
 |[livecheck2update.thepointofforcontentsclear.bid](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.bid&type=A)|
+|[newliveupdate.thepointofforcontentsclear.bid](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.bid&type=A)|
