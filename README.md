@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JDMjIvMTg5NDk1OTYvNDE2ODU1MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:42|https://s3.amazonaws.com/BC22/18949596/4168551/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0ZjE3ZTU4LTlkMzEtNDI3YS04ZDgvb1o2dFgxNFJCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|04:27|https://s3.amazonaws.com/14f17e58-9d31-427a-8d8/oZ6tX14RB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI3MDQvNjE4MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:20|https://s3.amazonaws.com/2704/6181/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1FDNVo3SDFTRkVpYlovNUZDQjNGNkFBQzdFOEM0NDkyMkUyNkE5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|04:10|https://s3.amazonaws.com/QC5Z7H1SFEibZ/5FCB3F6AAC7E8C44922E26A9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2UyZGFkYzc1LTg3ZjMtNDU0MC1hMzkzLzE2NTMvMTk0OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:57|https://s3.amazonaws.com/e2dadc75-87f3-4540-a393/1653/1948/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2MTYzMjUvRElqRzAzMDJ4RV9zMkJoeWRweVl3L2MwUElGVlBiakVha2k2OFZiXzFidC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:47|https://s3.amazonaws.com/1616325/DIjG0302xE_s2BhydpyYw/c0PIFVPbjEaki68Vb_1bt/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgxRUIxRjIvd1gwOVJVRzM4a19vcGlnaXQxS0szUS92Z2Z6ZzBMVnkwdXVVYV9EVlBFUFVBL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:36|https://s3.amazonaws.com/81EB1F2/wX09RUG38k_opigit1KK3Q/vgfzg0LVy0uuUa_DVPEPUA/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -996,3 +996,4 @@
 |[upgradecircle.thepointofforcontentperfect.download](https://dns.google.com/query?name=upgradecircle.thepointofforcontentperfect.download&type=A)|
 |[24pcupgrade.thepointof4contentsafea.review](https://dns.google.com/query?name=24pcupgrade.thepointof4contentsafea.review&type=A)|
 |[24pcupgrade.thepointof4contents.download](https://dns.google.com/query?name=24pcupgrade.thepointof4contents.download&type=A)|
+|[24pcupgrade.thepointof4content.bid](https://dns.google.com/query?name=24pcupgrade.thepointof4content.bid&type=A)|
