@@ -997,3 +997,4 @@
 |[24pcupgrade.thepointof4contentsafea.review](https://dns.google.com/query?name=24pcupgrade.thepointof4contentsafea.review&type=A)|
 |[24pcupgrade.thepointof4contents.download](https://dns.google.com/query?name=24pcupgrade.thepointof4contents.download&type=A)|
 |[24pcupgrade.thepointof4content.bid](https://dns.google.com/query?name=24pcupgrade.thepointof4content.bid&type=A)|
+|[free4allup.thepointof4content.bid](https://dns.google.com/query?name=free4allup.thepointof4content.bid&type=A)|
