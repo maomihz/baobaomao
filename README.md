@@ -1103,3 +1103,4 @@
 |[newliveupdate.thepointofforcontentsclear.bid](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.bid&type=A)|
 |[livecheck2update.thepointofforcontentsclear.date](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.date&type=A)|
 |[newliveupdate.thepointofforcontentsclear.date](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.date&type=A)|
+|[nowgetsoft.thepointofforcontentsafesetup.trade](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsafesetup.trade&type=A)|
