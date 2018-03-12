@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBGQTQvOTAxNzgyNzUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:49|https://s3.amazonaws.com/0FA4/90178275/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlCMjBFNTJBMDc3NTkvOEZBRkZDQkMwQzJENTU0NkJBMjlBM0FENUM1REM1L0ZFQTk3RDcyMkQ3QUFDNDc5MzE5MEMzMEU2MUE0OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:37|https://s3.amazonaws.com/9B20E52A07759/8FAFFCBC0C2D5546BA29A3AD5C5DC5/FEA97D722D7AAC4793190C30E61A49/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc1MTkvOG1PVTNDSUUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:30|https://s3.amazonaws.com/7519/8mOU3CIE/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExODY2MjUvcmx4Z1gwazNoMEdLSDB0cjEzRjcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:26|https://s3.amazonaws.com/1186625/rlxgX0k3h0GKH0tr13F7/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1hhMGo0UV9yZFU2MmZsWDR1L2N1eGFZRlJOa0VxQWp2bG1mZmVfdi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:09|https://s3.amazonaws.com/Xa0j4Q_rdU62flX4u/cuxaYFRNkEqAjvlmffe_v/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzliOTFjY2FjLTU2ZjktNDg0OS1iOTQ5LTczNGU1NWQvNzkxMjkxMS8xNDIyMzgzNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:01|https://s3.amazonaws.com/9b91ccac-56f9-4849-b949-734e55d/7912911/14223834/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgyY2Q4YzhlLWU5NzctNDE4OC04NzkxLWI1Zi81aWl0RHhGcF9VX0pNU1I2bEV5LzdId2ZBN244QlVXUDFPS2JFS0cvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:53|https://s3.amazonaws.com/82cd8c8e-e977-4188-8791-b5f/5iitDxFp_U_JMSR6lEy/7HwfA7n8BUWP1OKbEKG/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1017,3 +1017,4 @@
 |[upgradecircle.thepointofforcontentingperfect.download](https://dns.google.com/query?name=upgradecircle.thepointofforcontentingperfect.download&type=A)|
 |[24newsoft.thepointofforcontentperfect.trade](https://dns.google.com/query?name=24newsoft.thepointofforcontentperfect.trade&type=A)|
 |[upgradecircle.thepointofforcontentperfect.trade](https://dns.google.com/query?name=upgradecircle.thepointofforcontentperfect.trade&type=A)|
+|[update2check.thepointofforcontentperfect.trade](https://dns.google.com/query?name=update2check.thepointofforcontentperfect.trade&type=A)|
