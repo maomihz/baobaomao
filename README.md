@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg4OTkvMWM5MTM2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:32|https://s3.amazonaws.com/8899/1c9136/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRWTERvYjNZUkVHTzZhUVNiL0QwNTA5RTcxNTZBMEE2NERCRUE1NDEwN0MvMTJBQzMyQjQzNDVFOUI0NTg0M0IyNEQyNS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:17|https://s3.amazonaws.com/4VLDob3YREGO6aQSb/D0509E7156A0A64DBEA54107C/12AC32B4345E9B45843B24D25/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0EwRDc0MzZDQTRDQy84N0Y3NDFGNzJDMzYxMTQ3OUExL0EyNkIyNjlFNTcxMEVDNDdBOTIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:07|https://s3.amazonaws.com/A0D7436CA4CC/87F741F72C3611479A1/A26B269E5710EC47A92/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q2NTFBMTczNjJBNTIvMDc5MTk0MjBCMjI3QzQ0OUJERDdBMEEwQUNDMURCLzk2MTA0REY4NjAwM0NGNDg5MEEyMjk3QjczNjlDOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:02|https://s3.amazonaws.com/D651A17362A52/07919420B227C449BDD7A0A0ACC1DB/96104DF86003CF4890A2297B7369C8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4MzYvd09NTEFFQXEyRTZsMEM3VWhWL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:52|https://s3.amazonaws.com/1836/wOMLAEAq2E6l0C7UhV/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMxOTAvMTQ1OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:37|https://s3.amazonaws.com/3190/1459/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI2OGNiMzk5LWNkZjItNGVmNS04OGNhLS8xNTU0MDQvNzkxMTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:29|https://s3.amazonaws.com/268cb399-cdf2-4ef5-88ca-/155404/79111/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -990,3 +990,4 @@
 |[setupupgrade12.thepointofforcontentperfect.stream](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.stream&type=A)|
 |[upgradecircle.thepointofforcontentperfect.review](https://dns.google.com/query?name=upgradecircle.thepointofforcontentperfect.review&type=A)|
 |[setupupgrade12.thepointofforcontentperfect.review](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.review&type=A)|
+|[update2check.thepointofforcontentperfect.download](https://dns.google.com/query?name=update2check.thepointofforcontentperfect.download&type=A)|
