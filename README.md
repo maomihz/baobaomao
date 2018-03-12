@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBmNTRmN2MzLTM3NTUtNGZjMS04M2E4LTVkYy9ENTYxNzM5NEI3L0I2QThFNzVGOTQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|09:41|https://s3.amazonaws.com/0f54f7c3-3755-4fc1-83a8-5dc/D5617394B7/B6A8E75F94/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MjgvNDNqS1FCdUlRL0pXeDJXcWRrMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|09:28|https://s3.amazonaws.com/1928/43jKQBuIQ/JWx2Wqdk3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYyODkvNjU1MzNhODUtZGE0YS00YjkyLWEwZTAtLzhlNDRiNDAyLWZjNjYtNDRiNi05ODA3LS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|09:22|https://s3.amazonaws.com/6289/65533a85-da4a-4b92-a0e0-/8e44b402-fc66-44b6-9807-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlERTNCRjk2MDQ1L2UvWEUvd0ZiL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:14|https://s3.amazonaws.com/9DE3BF96045/e/XE/wFb/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5RTYxMTE1NDBDOTUyL2lsV2tmelZvL3NnNkxRb1VPL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:03|https://s3.amazonaws.com/99E6111540C952/ilWkfzVo/sg6LQoUO/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y2NkYyODAzMDE3RjJBNDk5RUFBOUM5RjQyLzE5NDg3Njg4NS8xMjMyNzQ5MzUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:49|https://s3.amazonaws.com/F66F2803017F2A499EAA9C9F42/194876885/123274935/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkzMTQzMEJFRkUvaDlSTC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|08:36|https://s3.amazonaws.com/931430BEFE/h9RL/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1035,3 +1035,4 @@
 |[newliveupdate.thepointofforcontentsafeclear.win](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsafeclear.win&type=A)|
 |[online.thepointofforcontentingsetup.date](https://dns.google.com/query?name=online.thepointofforcontentingsetup.date&type=A)|
 |[testpc24.thepointofforcontentingsetup.date](https://dns.google.com/query?name=testpc24.thepointofforcontentingsetup.date&type=A)|
+|[updatelive.thepointofforcontentingsetup.date](https://dns.google.com/query?name=updatelive.thepointofforcontentingsetup.date&type=A)|
