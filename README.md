@@ -1102,3 +1102,4 @@
 |[livecheck2update.thepointofforcontentsclear.bid](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.bid&type=A)|
 |[newliveupdate.thepointofforcontentsclear.bid](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.bid&type=A)|
 |[livecheck2update.thepointofforcontentsclear.date](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.date&type=A)|
+|[newliveupdate.thepointofforcontentsclear.date](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.date&type=A)|
