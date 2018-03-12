@@ -1120,3 +1120,4 @@
 |[downgradepc.thepointofforcontentsetgo.date](https://dns.google.com/query?name=downgradepc.thepointofforcontentsetgo.date&type=A)|
 |[live.thepointofforcontentsetgo.date](https://dns.google.com/query?name=live.thepointofforcontentsetgo.date&type=A)|
 |[live.thepointofforcontentsetgo.download](https://dns.google.com/query?name=live.thepointofforcontentsetgo.download&type=A)|
+|[setupdate24.thepointofforcontentsetgo.download](https://dns.google.com/query?name=setupdate24.thepointofforcontentsetgo.download&type=A)|
