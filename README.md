@@ -1135,3 +1135,4 @@
 |[online.thepointofforcontentsetup.download](https://dns.google.com/query?name=online.thepointofforcontentsetup.download&type=A)|
 |[testpc24.thepointofforcontentsetup.download](https://dns.google.com/query?name=testpc24.thepointofforcontentsetup.download&type=A)|
 |[nowgetsoft.thepointofforcontentsetup.review](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsetup.review&type=A)|
+|[online.thepointofforcontentsetup.review](https://dns.google.com/query?name=online.thepointofforcontentsetup.review&type=A)|
