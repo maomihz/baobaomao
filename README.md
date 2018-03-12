@@ -969,3 +969,4 @@
 |[softready.thepointofforcontentnow.bid](https://dns.google.com/query?name=softready.thepointofforcontentnow.bid&type=A)|
 |[upgrade.thepointofforcontentnow.bid](https://dns.google.com/query?name=upgrade.thepointofforcontentnow.bid&type=A)|
 |[howtoupdate.thepointofforcontentload.download](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.download&type=A)|
+|[newsoft12.thepointofforcontentload.download](https://dns.google.com/query?name=newsoft12.thepointofforcontentload.download&type=A)|
