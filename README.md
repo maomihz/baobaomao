@@ -1032,3 +1032,4 @@
 |[livecheck2update.thepointofforcontentsafeclear.trade](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.trade&type=A)|
 |[downgradepc.thepointofforcontentsafeclear.win](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafeclear.win&type=A)|
 |[livecheck2update.thepointofforcontentsafeclear.win](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.win&type=A)|
+|[newliveupdate.thepointofforcontentsafeclear.win](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsafeclear.win&type=A)|
