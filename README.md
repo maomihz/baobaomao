@@ -993,3 +993,4 @@
 |[update2check.thepointofforcontentperfect.download](https://dns.google.com/query?name=update2check.thepointofforcontentperfect.download&type=A)|
 |[setupupgrade12.thepointofforcontentperfect.download](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.download&type=A)|
 |[24newsoft.thepointofforcontentperfect.download](https://dns.google.com/query?name=24newsoft.thepointofforcontentperfect.download&type=A)|
+|[upgradecircle.thepointofforcontentperfect.download](https://dns.google.com/query?name=upgradecircle.thepointofforcontentperfect.download&type=A)|
