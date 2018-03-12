@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RQU1QveTc5d2xVYVNnMC9vZEVSNjVRMlAwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:41|https://s3.amazonaws.com/DPST/y79wlUaSg0/odER65Q2P0/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZJT0xfdGtfNi8xNzcwNDAzOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:28|https://s3.amazonaws.com/vIOL_tk_6/17704038/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0YwNDE1RjIvOTYxMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:16|https://s3.amazonaws.com/F0415F2/9613/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgwMDcvNjA4MUJDRjcwQ0I4MEE0NEI1QTRGNTMvNDM3NDZFNjdDQzU4REU0OEI0M0IwRTMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:05|https://s3.amazonaws.com/8007/6081BCF70CB80A44B5A4F53/43746E67CC58DE48B43B0E3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEyQUYxLzEzMDkyMTg4Ny8xMjM5MDczNDkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:01|https://s3.amazonaws.com/12AF1/130921887/123907349/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0QwOEM3QUUyNjg1LzVGMTREQkUwMDczMjRCNDRBNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:48|https://s3.amazonaws.com/D08C7AE2685/5F14DBE007324B44A4/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNlY2M3ZGIwLWRkZjYvODM3My8zMDM5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:40|https://s3.amazonaws.com/3ecc7db0-ddf6/8373/3039/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1156,3 +1156,4 @@
 |[24newsoft.thepointofforcontentingperfect.download](https://dns.google.com/query?name=24newsoft.thepointofforcontentingperfect.download&type=A)|
 |[setupupgrade12.thepointofforcontentingperfect.download](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.download&type=A)|
 |[downgradepc.thepointofforcontentclear.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentclear.bid&type=A)|
+|[setupupgrade12.thepointofforcontentperfect.date](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.date&type=A)|
