@@ -1036,3 +1036,4 @@
 |[online.thepointofforcontentingsetup.date](https://dns.google.com/query?name=online.thepointofforcontentingsetup.date&type=A)|
 |[testpc24.thepointofforcontentingsetup.date](https://dns.google.com/query?name=testpc24.thepointofforcontentingsetup.date&type=A)|
 |[updatelive.thepointofforcontentingsetup.date](https://dns.google.com/query?name=updatelive.thepointofforcontentingsetup.date&type=A)|
+|[downgradepc.thepointofforcontentsafego.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.bid&type=A)|
