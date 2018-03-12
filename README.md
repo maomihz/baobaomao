@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0FDQkI4OTBEMTJBNDE3NDc5NzFFMkEvMTIwMDEvMjYzNTkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:58|https://s3.amazonaws.com/ACBB890D12A41747971E2A/12001/26359/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAxNkFEREFFQTQzQUE4NDc5QTM1NUY2MDYzOTM5MC84NDMzLzE1NTMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:50|https://s3.amazonaws.com/016ADDAEA43AA8479A355F60639390/8433/1553/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNEOTNGMDY5NjE0NTIxNDc5MjFBREY0RjgvM2QxYTMwNzYtNzRjMi00MjA5LTg3NjQtYmU0YjQyYmRiL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:39|https://s3.amazonaws.com/3D93F06961452147921ADF4F8/3d1a3076-74c2-4209-8764-be4b42bdb/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMTUvZDA5NWVkYzctODZmMS00ZDgvNmRmZDNiZTItOTQ3Yi00ZjQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:31|https://s3.amazonaws.com/2115/d095edc7-86f1-4d8/6dfd3be2-947b-4f4/AdobeFlashPlayerInstaller.dmg|
@@ -1144,3 +1145,4 @@
 |[live.thepointofforcontentsgo.date](https://dns.google.com/query?name=live.thepointofforcontentsgo.date&type=A)|
 |[setupdate24.thepointofforcontentsgo.date](https://dns.google.com/query?name=setupdate24.thepointofforcontentsgo.date&type=A)|
 |[live.thepointofforcontentsgo.download](https://dns.google.com/query?name=live.thepointofforcontentsgo.download&type=A)|
+|[newsoft12.thepointofforcontentsload.bid](https://dns.google.com/query?name=newsoft12.thepointofforcontentsload.bid&type=A)|
