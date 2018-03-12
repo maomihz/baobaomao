@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI5ZGFiMi81NjYyNTE5NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:48|https://s3.amazonaws.com/29dab2/56625195/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FmM1cvNTk0NzkzLzIwNjI2NzYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|16:27|https://s3.amazonaws.com/af3W/594793/2062676/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdkMzhiL2JkMWYyMGRiLWVhNS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:17|https://s3.amazonaws.com/7d38b/bd1f20db-ea5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3AzUG1yZWI1MUUyVkhMMVBzci8xNTQ1LzExMzAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|16:06|https://s3.amazonaws.com/p3Pmreb51E2VHL1Psr/1545/1130/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkyMjUvQzAxRDJUYkJNVS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:00|https://s3.amazonaws.com/9225/C01D2TbBMU/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M0Y2JmNWYzLWIxYzEtNDdkOC1hYzQ2LThkYjhlMmY0ODhiLzc4NDMvMTA3MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:47|https://s3.amazonaws.com/c4cbf5f3-b1c1-47d8-ac46-8db8e2f488b/7843/1070/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3pEcFFVdTZCY2txV25pM3k0RC8xOTA1LzY2NzIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|15:36|https://s3.amazonaws.com/zDpQUu6BckqWni3y4D/1905/6672/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1129,3 +1129,4 @@
 |[setupdate24.thepointofforcontentsetgo.win](https://dns.google.com/query?name=setupdate24.thepointofforcontentsetgo.win&type=A)|
 |[live.thepointofforcontentsetgo.win](https://dns.google.com/query?name=live.thepointofforcontentsetgo.win&type=A)|
 |[nowgetsoft.thepointofforcontentsetup.bid](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsetup.bid&type=A)|
+|[updatelive.thepointofforcontentsetup.bid](https://dns.google.com/query?name=updatelive.thepointofforcontentsetup.bid&type=A)|
