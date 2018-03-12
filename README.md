@@ -979,3 +979,4 @@
 |[app4com.thepointofforcontentnow.review](https://dns.google.com/query?name=app4com.thepointofforcontentnow.review&type=A)|
 |[howtoupdate.thepointofforcontentload.stream](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.stream&type=A)|
 |[newsoft12.thepointofforcontentload.stream](https://dns.google.com/query?name=newsoft12.thepointofforcontentload.stream&type=A)|
+|[app4com.thepointofforcontentnow.trade](https://dns.google.com/query?name=app4com.thepointofforcontentnow.trade&type=A)|
