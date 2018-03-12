@@ -982,3 +982,4 @@
 |[softready.thepointofforcontentnow.trade](https://dns.google.com/query?name=softready.thepointofforcontentnow.trade&type=A)|
 |[app4com.thepointofforcontentnow.win](https://dns.google.com/query?name=app4com.thepointofforcontentnow.win&type=A)|
 |[upgrade.thepointofforcontentnow.win](https://dns.google.com/query?name=upgrade.thepointofforcontentnow.win&type=A)|
+|[setupupgrade12.thepointofforcontentperfect.bid](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.bid&type=A)|
