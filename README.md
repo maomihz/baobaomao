@@ -957,3 +957,4 @@
 |[nowgetsoft.thepointofforcontentingsetup.trade](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentingsetup.trade&type=A)|
 |[updatelive.thepointofforcontentingsetup.trade](https://dns.google.com/query?name=updatelive.thepointofforcontentingsetup.trade&type=A)|
 |[updatelive.thepointofforcontentingsetup.win](https://dns.google.com/query?name=updatelive.thepointofforcontentingsetup.win&type=A)|
+|[testpc24.thepointofforcontentingsetup.win](https://dns.google.com/query?name=testpc24.thepointofforcontentingsetup.win&type=A)|
