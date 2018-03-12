@@ -1014,3 +1014,4 @@
 |[versionlast.thepointofforcontentload.win](https://dns.google.com/query?name=versionlast.thepointofforcontentload.win&type=A)|
 |[livecheck2update.thepointofforcontentsafeclear.bid](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.bid&type=A)|
 |[update2check.thepointofforcontentingperfect.download](https://dns.google.com/query?name=update2check.thepointofforcontentingperfect.download&type=A)|
+|[upgradecircle.thepointofforcontentingperfect.download](https://dns.google.com/query?name=upgradecircle.thepointofforcontentingperfect.download&type=A)|
