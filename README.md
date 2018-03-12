@@ -1127,3 +1127,4 @@
 |[setupdate24.thepointofforcontentsetgo.stream](https://dns.google.com/query?name=setupdate24.thepointofforcontentsetgo.stream&type=A)|
 |[setupdate24.thepointofforcontentsetgo.trade](https://dns.google.com/query?name=setupdate24.thepointofforcontentsetgo.trade&type=A)|
 |[setupdate24.thepointofforcontentsetgo.win](https://dns.google.com/query?name=setupdate24.thepointofforcontentsetgo.win&type=A)|
+|[live.thepointofforcontentsetgo.win](https://dns.google.com/query?name=live.thepointofforcontentsetgo.win&type=A)|
