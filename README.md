@@ -1054,3 +1054,4 @@
 |[howtoupdate.thepointofforcontentsafeload.download](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsafeload.download&type=A)|
 |[newsoft12.thepointofforcontentsafeload.download](https://dns.google.com/query?name=newsoft12.thepointofforcontentsafeload.download&type=A)|
 |[howtoupdate.thepointofforcontentsafeload.review](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsafeload.review&type=A)|
+|[newsoft12.thepointofforcontentsafeload.review](https://dns.google.com/query?name=newsoft12.thepointofforcontentsafeload.review&type=A)|
