@@ -1138,3 +1138,4 @@
 |[online.thepointofforcontentsetup.review](https://dns.google.com/query?name=online.thepointofforcontentsetup.review&type=A)|
 |[online.thepointofforcontentsetup.stream](https://dns.google.com/query?name=online.thepointofforcontentsetup.stream&type=A)|
 |[nowgetsoft.thepointofforcontentsetup.win](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsetup.win&type=A)|
+|[online.thepointofforcontentsetup.win](https://dns.google.com/query?name=online.thepointofforcontentsetup.win&type=A)|
