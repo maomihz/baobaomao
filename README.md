@@ -1165,3 +1165,4 @@
 |[updatesoftware.thepointofforcontentsload.review](https://dns.google.com/query?name=updatesoftware.thepointofforcontentsload.review&type=A)|
 |[howtoupdate.thepointofforcontentsload.stream](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsload.stream&type=A)|
 |[updatesoftware.thepointofforcontentsload.trade](https://dns.google.com/query?name=updatesoftware.thepointofforcontentsload.trade&type=A)|
+|[newsoft12.thepointofforcontentsload.trade](https://dns.google.com/query?name=newsoft12.thepointofforcontentsload.trade&type=A)|
