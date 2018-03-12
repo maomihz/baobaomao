@@ -1011,3 +1011,4 @@
 |[versionlast.thepointofforcontentload.trade](https://dns.google.com/query?name=versionlast.thepointofforcontentload.trade&type=A)|
 |[howtoupdate.thepointofforcontentload.win](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.win&type=A)|
 |[updatesoftware.thepointofforcontentload.win](https://dns.google.com/query?name=updatesoftware.thepointofforcontentload.win&type=A)|
+|[versionlast.thepointofforcontentload.win](https://dns.google.com/query?name=versionlast.thepointofforcontentload.win&type=A)|
