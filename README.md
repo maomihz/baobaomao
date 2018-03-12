@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3pTX3pZNDIvQTNBNS8wRkQ0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:03|https://s3.amazonaws.com/zS_zY42/A3A5/0FD4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQyODc3NS8xNzcxOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:49|https://s3.amazonaws.com/428775/17718/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MTIvSzRpOXVMam1KVUMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:36|https://s3.amazonaws.com/1912/K4i9uLjmJUC/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg1ODU3ODRDNUQ2NzM3NDgvYTJZMGtMZmdzRWlmZ0lvRUVBL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:25|https://s3.amazonaws.com/8585784C5D673748/a2Y0kLfgsEifgIoEEA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlFMzFCMkUxOTlDRC8xNDE3LzE2NzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:15|https://s3.amazonaws.com/9E31B2E199CD/1417/1674/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q2NTMxL2EyZDJmN2Y5LTE2ZWEtNDhmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:09|https://s3.amazonaws.com/d6531/a2d2f7f9-16ea-48f/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y5OEJBQzFGMjg4NzI3NDFCQTZGLzE1ODMxMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:00|https://s3.amazonaws.com/F98BAC1F28872741BA6F/158313/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1049,3 +1049,4 @@
 |[howtoupdate.thepointofforcontentsafeload.bid](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsafeload.bid&type=A)|
 |[newsoft12.thepointofforcontentsafeload.bid](https://dns.google.com/query?name=newsoft12.thepointofforcontentsafeload.bid&type=A)|
 |[live.thepointofforcontentsafego.trade](https://dns.google.com/query?name=live.thepointofforcontentsafego.trade&type=A)|
+|[setupdate24.thepointofforcontentsafego.trade](https://dns.google.com/query?name=setupdate24.thepointofforcontentsafego.trade&type=A)|
