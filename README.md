@@ -1157,3 +1157,4 @@
 |[setupupgrade12.thepointofforcontentingperfect.download](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentingperfect.download&type=A)|
 |[downgradepc.thepointofforcontentclear.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentclear.bid&type=A)|
 |[setupupgrade12.thepointofforcontentperfect.date](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentperfect.date&type=A)|
+|[nowgetsoft.thepointofforcontentingsetup.review](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentingsetup.review&type=A)|
