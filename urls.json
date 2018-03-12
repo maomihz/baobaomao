@@ -12,10 +12,6 @@
       "discovered": 1520894274.078436,
       "url": "https://s3.amazonaws.com/F2BEEFC43518D04BAF/69A53/AB921/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/5__MIraq4U6Sm/1571/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520893392.455467,
-      "url": "https://s3.amazonaws.com/5__MIraq4U6Sm/1571/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/5BEB1C2552524E41B/11316/3178/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520892379.639357,
       "url": "https://s3.amazonaws.com/5BEB1C2552524E41B/11316/3178/AdobeFlashPlayerInstaller.dmg"
@@ -23,6 +19,10 @@
     "https://s3.amazonaws.com/cpyoVSxv/1B7F05A491C/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520891863.632255,
       "url": "https://s3.amazonaws.com/cpyoVSxv/1B7F05A491C/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/5__MIraq4U6Sm/1571/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520893392.455467,
+      "url": "https://s3.amazonaws.com/5__MIraq4U6Sm/1571/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -1176,6 +1176,7 @@
     "updatesoftware.thepointofforcontentsload.trade",
     "newsoft12.thepointofforcontentsload.trade",
     "newsoftready.thepointofforcontentsnow.bid",
-    "softready.thepointofforcontentsnow.bid"
+    "softready.thepointofforcontentsnow.bid",
+    "app4com.thepointofforcontentsnow.date"
   ]
 }
