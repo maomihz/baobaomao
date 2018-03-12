@@ -975,3 +975,4 @@
 |[versionlast.thepointofforcontentload.review](https://dns.google.com/query?name=versionlast.thepointofforcontentload.review&type=A)|
 |[newsoft12.thepointofforcontentload.review](https://dns.google.com/query?name=newsoft12.thepointofforcontentload.review&type=A)|
 |[newsoftready.thepointofforcontentnow.date](https://dns.google.com/query?name=newsoftready.thepointofforcontentnow.date&type=A)|
+|[app4com.thepointofforcontentnow.review](https://dns.google.com/query?name=app4com.thepointofforcontentnow.review&type=A)|
