@@ -1132,3 +1132,4 @@
 |[nowgetsoft.thepointofforcontentsetup.date](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsetup.date&type=A)|
 |[online.thepointofforcontentsetup.date](https://dns.google.com/query?name=online.thepointofforcontentsetup.date&type=A)|
 |[nowgetsoft.thepointofforcontentsetup.download](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsetup.download&type=A)|
+|[online.thepointofforcontentsetup.download](https://dns.google.com/query?name=online.thepointofforcontentsetup.download&type=A)|
