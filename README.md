@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ0MDc2LzE0NzU5NDAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:50|https://s3.amazonaws.com/44076/1475940/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM3NjVBOTU4ODMzMDY1NDI5QjMyNi9SXzFTXy9nQ0gxQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:39|https://s3.amazonaws.com/3765A958833065429B326/R_1S_/gCH1A/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJhZGVjZjNkLWI2OWEtNGFiYi1hMjJmLWEvNjRmNmNjMWQtYmQyYS00YWYxLTg2MzEtYWViM2YxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:29|https://s3.amazonaws.com/2adecf3d-b69a-4abb-a22f-a/64f6cc1d-bd2a-4af1-8631-aeb3f1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczYzI3MjczLThjNDYtNGQyOC1iY2FjLWU5MjUvMDJhZTAwOGQtMWFjOC00ZTgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:20|https://s3.amazonaws.com/73c27273-8c46-4d28-bcac-e925/02ae008d-1ac8-4e8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM3NEM3NEE2QjI3MzcvT1pQNS9kd3cyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:05|https://s3.amazonaws.com/374C74A6B2737/OZP5/dww2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzljMmVmOWE3LWFlZTUtNGE3MC1iOTY1LTMyLzczOTkvNDI2My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:01|https://s3.amazonaws.com/9c2ef9a7-aee5-4a70-b965-32/7399/4263/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0NDk5LzY3YjQwYWYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:49|https://s3.amazonaws.com/14499/67b40af/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1104,3 +1104,4 @@
 |[livecheck2update.thepointofforcontentsclear.date](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.date&type=A)|
 |[newliveupdate.thepointofforcontentsclear.date](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.date&type=A)|
 |[nowgetsoft.thepointofforcontentsafesetup.trade](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsafesetup.trade&type=A)|
+|[updatelive.thepointofforcontentsafesetup.trade](https://dns.google.com/query?name=updatelive.thepointofforcontentsafesetup.trade&type=A)|
