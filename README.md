@@ -1048,3 +1048,4 @@
 |[downgradepc.thepointofforcontentsafego.stream](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.stream&type=A)|
 |[howtoupdate.thepointofforcontentsafeload.bid](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsafeload.bid&type=A)|
 |[newsoft12.thepointofforcontentsafeload.bid](https://dns.google.com/query?name=newsoft12.thepointofforcontentsafeload.bid&type=A)|
+|[live.thepointofforcontentsafego.trade](https://dns.google.com/query?name=live.thepointofforcontentsafego.trade&type=A)|
