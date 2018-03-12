@@ -1,17 +1,5 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/5c65df6a-/480D/D4D1/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520812001.64956,
-      "url": "https://s3.amazonaws.com/5c65df6a-/480D/D4D1/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/gJOp6k/dC_zIF0C/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520812633.317451,
-      "url": "https://s3.amazonaws.com/gJOp6k/dC_zIF0C/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/03D9063CEEEEC/B9911L9W/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520814407.792381,
-      "url": "https://s3.amazonaws.com/03D9063CEEEEC/B9911L9W/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/39514d3/9f71d60d-8d80-4388-92a6-9a/69652a2a-2e92-41bd-b879-6e/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520811619.361917,
       "url": "https://s3.amazonaws.com/39514d3/9f71d60d-8d80-4388-92a6-9a/69652a2a-2e92-41bd-b879-6e/AdobeFlashPlayerInstaller.dmg"
@@ -23,6 +11,22 @@
     "https://s3.amazonaws.com/9B19C60E8/4239/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520813267.971923,
       "url": "https://s3.amazonaws.com/9B19C60E8/4239/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/5c65df6a-/480D/D4D1/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520812001.64956,
+      "url": "https://s3.amazonaws.com/5c65df6a-/480D/D4D1/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/03D9063CEEEEC/B9911L9W/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520814407.792381,
+      "url": "https://s3.amazonaws.com/03D9063CEEEEC/B9911L9W/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/gJOp6k/dC_zIF0C/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520812633.317451,
+      "url": "https://s3.amazonaws.com/gJOp6k/dC_zIF0C/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/2140/F0Dpf2anPEqL/vvDuOOfDQ=/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520815041.789439,
+      "url": "https://s3.amazonaws.com/2140/F0Dpf2anPEqL/vvDuOOfDQ=/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -967,6 +971,7 @@
     "updatelive.thepointofforcontentingsetup.win",
     "testpc24.thepointofforcontentingsetup.win",
     "online.thepointofforcontentingsetup.win",
-    "nowgetsoft.thepointofforcontentingsetup.win"
+    "nowgetsoft.thepointofforcontentingsetup.win",
+    "howtoupdate.thepointofforcontentload.date"
   ]
 }
