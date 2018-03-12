@@ -1145,3 +1145,4 @@
 |[setupdate24.thepointofforcontentsgo.date](https://dns.google.com/query?name=setupdate24.thepointofforcontentsgo.date&type=A)|
 |[live.thepointofforcontentsgo.download](https://dns.google.com/query?name=live.thepointofforcontentsgo.download&type=A)|
 |[newsoft12.thepointofforcontentsload.bid](https://dns.google.com/query?name=newsoft12.thepointofforcontentsload.bid&type=A)|
+|[live.thepointofforcontentsgo.win](https://dns.google.com/query?name=live.thepointofforcontentsgo.win&type=A)|
