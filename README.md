@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1hhMGo0UV9yZFU2MmZsWDR1L2N1eGFZRlJOa0VxQWp2bG1mZmVfdi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:09|https://s3.amazonaws.com/Xa0j4Q_rdU62flX4u/cuxaYFRNkEqAjvlmffe_v/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzliOTFjY2FjLTU2ZjktNDg0OS1iOTQ5LTczNGU1NWQvNzkxMjkxMS8xNDIyMzgzNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:01|https://s3.amazonaws.com/9b91ccac-56f9-4849-b949-734e55d/7912911/14223834/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgyY2Q4YzhlLWU5NzctNDE4OC04NzkxLWI1Zi81aWl0RHhGcF9VX0pNU1I2bEV5LzdId2ZBN244QlVXUDFPS2JFS0cvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:53|https://s3.amazonaws.com/82cd8c8e-e977-4188-8791-b5f/5iitDxFp_U_JMSR6lEy/7HwfA7n8BUWP1OKbEKG/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1NDQ4OTQ1Ni9VZGdpL3g0WExVQ1JQSVFfb2ZUODF3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:40|https://s3.amazonaws.com/154489456/Udgi/x4XLUCRPIQ_ofT81w/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2IzNjY0Y2IyLThiMDYtNDFlOC1iM2MzLWEzOTM4OC84OGFiNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:27|https://s3.amazonaws.com/b3664cb2-8b06-41e8-b3c3-a39388/88ab4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4OTYvMTExNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:19|https://s3.amazonaws.com/1896/1114/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA3YjgvYjQyNjYwZWYtMTcxOC00ZGUzLS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:08|https://s3.amazonaws.com/07b8/b42660ef-1718-4de3-/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1010,3 +1010,4 @@
 |[newsoft12.thepointofforcontentload.trade](https://dns.google.com/query?name=newsoft12.thepointofforcontentload.trade&type=A)|
 |[versionlast.thepointofforcontentload.trade](https://dns.google.com/query?name=versionlast.thepointofforcontentload.trade&type=A)|
 |[howtoupdate.thepointofforcontentload.win](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.win&type=A)|
+|[updatesoftware.thepointofforcontentload.win](https://dns.google.com/query?name=updatesoftware.thepointofforcontentload.win&type=A)|
