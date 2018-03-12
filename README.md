@@ -954,3 +954,4 @@
 |[online.thepointofforcontentingsetup.stream](https://dns.google.com/query?name=online.thepointofforcontentingsetup.stream&type=A)|
 |[testpc24.thepointofforcontentingsetup.stream](https://dns.google.com/query?name=testpc24.thepointofforcontentingsetup.stream&type=A)|
 |[updatelive.thepointofforcontentingsetup.stream](https://dns.google.com/query?name=updatelive.thepointofforcontentingsetup.stream&type=A)|
+|[nowgetsoft.thepointofforcontentingsetup.trade](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentingsetup.trade&type=A)|
