@@ -1009,3 +1009,4 @@
 |[howtoupdate.thepointofforcontentload.trade](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.trade&type=A)|
 |[newsoft12.thepointofforcontentload.trade](https://dns.google.com/query?name=newsoft12.thepointofforcontentload.trade&type=A)|
 |[versionlast.thepointofforcontentload.trade](https://dns.google.com/query?name=versionlast.thepointofforcontentload.trade&type=A)|
+|[howtoupdate.thepointofforcontentload.win](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.win&type=A)|
