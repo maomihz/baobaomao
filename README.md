@@ -1063,3 +1063,4 @@
 |[app4com.thepointofforcontentsafenow.bid](https://dns.google.com/query?name=app4com.thepointofforcontentsafenow.bid&type=A)|
 |[newsoftready.thepointofforcontentsafenow.bid](https://dns.google.com/query?name=newsoftready.thepointofforcontentsafenow.bid&type=A)|
 |[softready.thepointofforcontentsafenow.bid](https://dns.google.com/query?name=softready.thepointofforcontentsafenow.bid&type=A)|
+|[upgrade.thepointofforcontentsafenow.bid](https://dns.google.com/query?name=upgrade.thepointofforcontentsafenow.bid&type=A)|
