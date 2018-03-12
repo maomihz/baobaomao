@@ -1096,3 +1096,4 @@
 |[testpc24.thepointofforcontentsafesetup.date](https://dns.google.com/query?name=testpc24.thepointofforcontentsafesetup.date&type=A)|
 |[updatelive.thepointofforcontentsafesetup.date](https://dns.google.com/query?name=updatelive.thepointofforcontentsafesetup.date&type=A)|
 |[testpc24.thepointofforcontentsafesetup.download](https://dns.google.com/query?name=testpc24.thepointofforcontentsafesetup.download&type=A)|
+|[nowgetsoft.thepointofforcontentsafesetup.review](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsafesetup.review&type=A)|
