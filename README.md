@@ -1039,3 +1039,4 @@
 |[downgradepc.thepointofforcontentsafego.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.bid&type=A)|
 |[live.thepointofforcontentsafego.bid](https://dns.google.com/query?name=live.thepointofforcontentsafego.bid&type=A)|
 |[setupnow.thepointofforcontentsafego.bid](https://dns.google.com/query?name=setupnow.thepointofforcontentsafego.bid&type=A)|
+|[downgradepc.thepointofforcontentsafego.date](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.date&type=A)|
