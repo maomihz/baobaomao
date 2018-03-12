@@ -1060,3 +1060,4 @@
 |[howtoupdate.thepointofforcontentsafeload.trade](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsafeload.trade&type=A)|
 |[newsoft12.thepointofforcontentsafeload.trade](https://dns.google.com/query?name=newsoft12.thepointofforcontentsafeload.trade&type=A)|
 |[newsoft12.thepointofforcontentsafeload.win](https://dns.google.com/query?name=newsoft12.thepointofforcontentsafeload.win&type=A)|
+|[app4com.thepointofforcontentsafenow.bid](https://dns.google.com/query?name=app4com.thepointofforcontentsafenow.bid&type=A)|
