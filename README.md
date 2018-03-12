@@ -967,3 +967,4 @@
 |[app4com.thepointofforcontentnow.bid](https://dns.google.com/query?name=app4com.thepointofforcontentnow.bid&type=A)|
 |[newsoftready.thepointofforcontentnow.bid](https://dns.google.com/query?name=newsoftready.thepointofforcontentnow.bid&type=A)|
 |[softready.thepointofforcontentnow.bid](https://dns.google.com/query?name=softready.thepointofforcontentnow.bid&type=A)|
+|[upgrade.thepointofforcontentnow.bid](https://dns.google.com/query?name=upgrade.thepointofforcontentnow.bid&type=A)|
