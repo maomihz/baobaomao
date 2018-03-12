@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NDNjUyODBGQzYyMUU0NDc5Ri8xMzE4MzIxNS0wNzJiLTRlZTAtYWNlNC0xNy9mNTg4YTExYy1kMzQxLTQ2NDUtOWI1Mi0zYi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:09|https://s3.amazonaws.com/CC65280FC621E4479F/13183215-072b-4ee0-ace4-17/f588a11c-d341-4645-9b52-3b/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5NkQyNDQ2RDFEQUIwNEJBMjFBMEYxNzk5MEU3MC8yNzUzNDMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:56|https://s3.amazonaws.com/996D2446D1DAB04BA21A0F17990E70/275343/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0FHeHFxNGtFYVVLVF9fYW5odmowLzg4NzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:46|https://s3.amazonaws.com/AGxqq4kEaUKT__anhvj0/8874/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0YyQkVFRkM0MzUxOEQwNEJBRi82OUE1My9BQjkyMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:37|https://s3.amazonaws.com/F2BEEFC43518D04BAF/69A53/AB921/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU2WHUxbHBUeEU2QV8vR05Kbi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:33|https://s3.amazonaws.com/56Xu1lpTxE6A_/GNJn/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVfX01JcmFxNFU2U20vMTU3MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:23|https://s3.amazonaws.com/5__MIraq4U6Sm/1571/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVCRUIxQzI1NTI1MjRFNDFCLzExMzE2LzMxNzgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:06|https://s3.amazonaws.com/5BEB1C2552524E41B/11316/3178/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1173,3 +1173,4 @@
 |[newsoftready.thepointofforcontentsnow.date](https://dns.google.com/query?name=newsoftready.thepointofforcontentsnow.date&type=A)|
 |[softready.thepointofforcontentsnow.date](https://dns.google.com/query?name=softready.thepointofforcontentsnow.date&type=A)|
 |[app4com.thepointofforcontentsnow.download](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.download&type=A)|
+|[softready.thepointofforcontentsnow.download](https://dns.google.com/query?name=softready.thepointofforcontentsnow.download&type=A)|
