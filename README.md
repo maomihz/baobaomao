@@ -1179,3 +1179,4 @@
 |[app4com.thepointofforcontentsnow.trade](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.trade&type=A)|
 |[softready.thepointofforcontentsnow.win](https://dns.google.com/query?name=softready.thepointofforcontentsnow.win&type=A)|
 |[newsoft12.thepointofforcontentsload.win](https://dns.google.com/query?name=newsoft12.thepointofforcontentsload.win&type=A)|
+|[updatesoftware.thepointofforcontentsload.win](https://dns.google.com/query?name=updatesoftware.thepointofforcontentsload.win&type=A)|
