@@ -1111,3 +1111,4 @@
 |[newliveupdate.thepointofforcontentsclear.review](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.review&type=A)|
 |[downgradepc.thepointofforcontentsclear.stream](https://dns.google.com/query?name=downgradepc.thepointofforcontentsclear.stream&type=A)|
 |[downgradepc.thepointofforcontentsclear.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentsclear.trade&type=A)|
+|[downgradepc.thepointofforcontentsclear.win](https://dns.google.com/query?name=downgradepc.thepointofforcontentsclear.win&type=A)|
