@@ -1143,3 +1143,4 @@
 |[downgradepc.thepointofforcontentsgo.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentsgo.bid&type=A)|
 |[live.thepointofforcontentsgo.date](https://dns.google.com/query?name=live.thepointofforcontentsgo.date&type=A)|
 |[setupdate24.thepointofforcontentsgo.date](https://dns.google.com/query?name=setupdate24.thepointofforcontentsgo.date&type=A)|
+|[live.thepointofforcontentsgo.download](https://dns.google.com/query?name=live.thepointofforcontentsgo.download&type=A)|
