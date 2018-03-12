@@ -1038,3 +1038,4 @@
 |[updatelive.thepointofforcontentingsetup.date](https://dns.google.com/query?name=updatelive.thepointofforcontentingsetup.date&type=A)|
 |[downgradepc.thepointofforcontentsafego.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.bid&type=A)|
 |[live.thepointofforcontentsafego.bid](https://dns.google.com/query?name=live.thepointofforcontentsafego.bid&type=A)|
+|[setupnow.thepointofforcontentsafego.bid](https://dns.google.com/query?name=setupnow.thepointofforcontentsafego.bid&type=A)|
