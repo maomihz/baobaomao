@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYyODkvNjU1MzNhODUtZGE0YS00YjkyLWEwZTAtLzhlNDRiNDAyLWZjNjYtNDRiNi05ODA3LS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|09:22|https://s3.amazonaws.com/6289/65533a85-da4a-4b92-a0e0-/8e44b402-fc66-44b6-9807-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlERTNCRjk2MDQ1L2UvWEUvd0ZiL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:14|https://s3.amazonaws.com/9DE3BF96045/e/XE/wFb/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5RTYxMTE1NDBDOTUyL2lsV2tmelZvL3NnNkxRb1VPL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:03|https://s3.amazonaws.com/99E6111540C952/ilWkfzVo/sg6LQoUO/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y2NkYyODAzMDE3RjJBNDk5RUFBOUM5RjQyLzE5NDg3Njg4NS8xMjMyNzQ5MzUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:49|https://s3.amazonaws.com/F66F2803017F2A499EAA9C9F42/194876885/123274935/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkzMTQzMEJFRkUvaDlSTC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|08:36|https://s3.amazonaws.com/931430BEFE/h9RL/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0hKQ05tR296XzBTY1N6dEh2MnRyNUEvaDhmWmtNR0VpRVdLL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:30|https://s3.amazonaws.com/HJCNmGoz_0ScSztHv2tr5A/h8fZkMGEiEWK/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL003TnZfYmYvclBTUjI4YnRoME8xRUtRRHhwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:17|https://s3.amazonaws.com/M7Nv_bf/rPSR28bth0O1EKQDxp/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1031,3 +1031,4 @@
 |[newliveupdate.thepointofforcontentsafeclear.stream](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsafeclear.stream&type=A)|
 |[livecheck2update.thepointofforcontentsafeclear.trade](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.trade&type=A)|
 |[downgradepc.thepointofforcontentsafeclear.win](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafeclear.win&type=A)|
+|[livecheck2update.thepointofforcontentsafeclear.win](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsafeclear.win&type=A)|
