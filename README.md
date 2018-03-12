@@ -1176,3 +1176,4 @@
 |[softready.thepointofforcontentsnow.download](https://dns.google.com/query?name=softready.thepointofforcontentsnow.download&type=A)|
 |[app4com.thepointofforcontentsnow.review](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.review&type=A)|
 |[newsoftready.thepointofforcontentsnow.review](https://dns.google.com/query?name=newsoftready.thepointofforcontentsnow.review&type=A)|
+|[app4com.thepointofforcontentsnow.trade](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.trade&type=A)|
