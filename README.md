@@ -1151,3 +1151,4 @@
 |[downgradepc.thepointofforcontentsgo.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentsgo.trade&type=A)|
 |[setupdate24.thepointofforcontentsgo.stream](https://dns.google.com/query?name=setupdate24.thepointofforcontentsgo.stream&type=A)|
 |[downgradepc.thepointofforcontentsgo.stream](https://dns.google.com/query?name=downgradepc.thepointofforcontentsgo.stream&type=A)|
+|[live.thepointofforcontentsgo.stream](https://dns.google.com/query?name=live.thepointofforcontentsgo.stream&type=A)|
