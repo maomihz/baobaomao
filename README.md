@@ -1105,3 +1105,4 @@
 |[newliveupdate.thepointofforcontentsclear.date](https://dns.google.com/query?name=newliveupdate.thepointofforcontentsclear.date&type=A)|
 |[nowgetsoft.thepointofforcontentsafesetup.trade](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentsafesetup.trade&type=A)|
 |[updatelive.thepointofforcontentsafesetup.trade](https://dns.google.com/query?name=updatelive.thepointofforcontentsafesetup.trade&type=A)|
+|[livecheck2update.thepointofforcontentsclear.download](https://dns.google.com/query?name=livecheck2update.thepointofforcontentsclear.download&type=A)|

@@ -1,12 +1,12 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/44076/1475940/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520866218.510522,
-      "url": "https://s3.amazonaws.com/44076/1475940/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/9c2ef9a7-aee5-4a70-b965-32/7399/4263/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520863304.531789,
       "url": "https://s3.amazonaws.com/9c2ef9a7-aee5-4a70-b965-32/7399/4263/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/44076/1475940/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520866218.510522,
+      "url": "https://s3.amazonaws.com/44076/1475940/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/2adecf3d-b69a-4abb-a22f-a/64f6cc1d-bd2a-4af1-8631-aeb3f1/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520864948.766812,
@@ -1112,6 +1112,7 @@
     "livecheck2update.thepointofforcontentsclear.date",
     "newliveupdate.thepointofforcontentsclear.date",
     "nowgetsoft.thepointofforcontentsafesetup.trade",
-    "updatelive.thepointofforcontentsafesetup.trade"
+    "updatelive.thepointofforcontentsafesetup.trade",
+    "livecheck2update.thepointofforcontentsclear.download"
   ]
 }
