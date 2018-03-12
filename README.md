@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZkNjYzZmQzLWNjODYtNDEzZC1iN2QvYTUyMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:17|https://s3.amazonaws.com/6d663fd3-cc86-413d-b7d/a523/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMDA1Lzc2NDgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:06|https://s3.amazonaws.com/21005/7648/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2kwZTMvNzZmZDNhNTQtNGRkYy00OTY3LWFhOGQtN2MwL2EyZmZjYjEyLTVlODMtNGM4Yi1iMjYwLTFjYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:56|https://s3.amazonaws.com/i0e3/76fd3a54-4ddc-4967-aa8d-7c0/a2ffcb12-5e83-4c8b-b260-1ca/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2x1bThhdEtpa1VpdXlWTWVFLzE3NTA4LzE1NDEwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:45|https://s3.amazonaws.com/lum8atKikUiuyVMeE/17508/15410/AdobeFlashPlayerInstaller.dmg|
@@ -968,3 +969,4 @@
 |[newsoftready.thepointofforcontentnow.bid](https://dns.google.com/query?name=newsoftready.thepointofforcontentnow.bid&type=A)|
 |[softready.thepointofforcontentnow.bid](https://dns.google.com/query?name=softready.thepointofforcontentnow.bid&type=A)|
 |[upgrade.thepointofforcontentnow.bid](https://dns.google.com/query?name=upgrade.thepointofforcontentnow.bid&type=A)|
+|[howtoupdate.thepointofforcontentload.download](https://dns.google.com/query?name=howtoupdate.thepointofforcontentload.download&type=A)|
