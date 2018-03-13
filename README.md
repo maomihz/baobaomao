@@ -1374,3 +1374,4 @@
 |[livecheck.yourpointofforcontentalways.date](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.date&type=A)|
 |[supportversion.yourpointofforcontentalways.date](https://dns.google.com/query?name=supportversion.yourpointofforcontentalways.date&type=A)|
 |[livecheck.yourpointofforcontentalways.download](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.download&type=A)|
+|[nowup.yourpointofforcontentalways.download](https://dns.google.com/query?name=nowup.yourpointofforcontentalways.download&type=A)|
