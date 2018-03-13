@@ -1214,3 +1214,4 @@
 |[update2.thesoftwaresitetocontent.date](https://dns.google.com/query?name=update2.thesoftwaresitetocontent.date&type=A)|
 |[get24update.thesoftwaresiteforcontents.date](https://dns.google.com/query?name=get24update.thesoftwaresiteforcontents.date&type=A)|
 |[newliveupdate.thesoftwaresiteforcontents.date](https://dns.google.com/query?name=newliveupdate.thesoftwaresiteforcontents.date&type=A)|
+|[updateauto.thesoftwaresiteforcontents.date](https://dns.google.com/query?name=updateauto.thesoftwaresiteforcontents.date&type=A)|
