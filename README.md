@@ -1205,3 +1205,4 @@
 |[testpconly12.thesoftwaresite4contentsafe.trade](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contentsafe.trade&type=A)|
 |[updatenew.thesoftwaresite4contentsafe.trade](https://dns.google.com/query?name=updatenew.thesoftwaresite4contentsafe.trade&type=A)|
 |[testpconly12.thesoftwaresite4contentsafe.win](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contentsafe.win&type=A)|
+|[updatenew.thesoftwaresite4contentsafe.win](https://dns.google.com/query?name=updatenew.thesoftwaresite4contentsafe.win&type=A)|
