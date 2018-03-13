@@ -1322,3 +1322,4 @@
 |[24check.yourpointof4contenting.date](https://dns.google.com/query?name=24check.yourpointof4contenting.date&type=A)|
 |[livecheck2update.yourpointof4contenting.date](https://dns.google.com/query?name=livecheck2update.yourpointof4contenting.date&type=A)|
 |[setupupgrade.yourpointof4contenting.date](https://dns.google.com/query?name=setupupgrade.yourpointof4contenting.date&type=A)|
+|[livecheck2update.yourpointof4contenting.download](https://dns.google.com/query?name=livecheck2update.yourpointof4contenting.download&type=A)|
