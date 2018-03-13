@@ -1195,3 +1195,4 @@
 |[online.thepointofforcontentssetup.bid](https://dns.google.com/query?name=online.thepointofforcontentssetup.bid&type=A)|
 |[online.thepointofforcontentssetup.date](https://dns.google.com/query?name=online.thepointofforcontentssetup.date&type=A)|
 |[online.thepointofforcontentssetup.download](https://dns.google.com/query?name=online.thepointofforcontentssetup.download&type=A)|
+|[testpc24.thepointofforcontentssetup.download](https://dns.google.com/query?name=testpc24.thepointofforcontentssetup.download&type=A)|
