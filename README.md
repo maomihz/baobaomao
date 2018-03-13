@@ -1361,3 +1361,4 @@
 |[setupupgrade.yourpointof4contentsafe.win](https://dns.google.com/query?name=setupupgrade.yourpointof4contentsafe.win&type=A)|
 |[upgradeinstall24.yourpointofforcontent.date](https://dns.google.com/query?name=upgradeinstall24.yourpointofforcontent.date&type=A)|
 |[whenupgrade.yourpointofforcontent.date](https://dns.google.com/query?name=whenupgrade.yourpointofforcontent.date&type=A)|
+|[update.yourpointofforcontent.download](https://dns.google.com/query?name=update.yourpointofforcontent.download&type=A)|
