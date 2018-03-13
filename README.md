@@ -1401,3 +1401,4 @@
 |[installworking.thegreatfreesystemos2contents.win](https://dns.google.com/query?name=installworking.thegreatfreesystemos2contents.win&type=A)|
 |[newupdate.thegreatfreesystemoscontent.win](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontent.win&type=A)|
 |[pcupgrade.thegreatfreesystemoscontenting.win](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontenting.win&type=A)|
+|[newupdate.thegreatfreesystemoscontenting.win](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontenting.win&type=A)|
