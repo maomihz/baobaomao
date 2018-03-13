@@ -1299,3 +1299,4 @@
 |[24check.yourpointof4content.date](https://dns.google.com/query?name=24check.yourpointof4content.date&type=A)|
 |[livecheck2update.yourpointof4content.date](https://dns.google.com/query?name=livecheck2update.yourpointof4content.date&type=A)|
 |[setupupgrade.yourpointof4content.date](https://dns.google.com/query?name=setupupgrade.yourpointof4content.date&type=A)|
+|[update2check.yourpointof4content.date](https://dns.google.com/query?name=update2check.yourpointof4content.date&type=A)|
