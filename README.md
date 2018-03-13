@@ -1225,3 +1225,4 @@
 |[update2.thesoftwaresitetocontenting.download](https://dns.google.com/query?name=update2.thesoftwaresitetocontenting.download&type=A)|
 |[liveupdate.thesoftwaresitetocontentsafe.bid](https://dns.google.com/query?name=liveupdate.thesoftwaresitetocontentsafe.bid&type=A)|
 |[howtoupdate.thesoftwaresitetocontentsafe.date](https://dns.google.com/query?name=howtoupdate.thesoftwaresitetocontentsafe.date&type=A)|
+|[liveupdate.thesoftwaresitetocontentsafe.date](https://dns.google.com/query?name=liveupdate.thesoftwaresitetocontentsafe.date&type=A)|
