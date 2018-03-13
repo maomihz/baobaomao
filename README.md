@@ -1334,3 +1334,4 @@
 |[livecheck2update.yourpointof4contenting.trade](https://dns.google.com/query?name=livecheck2update.yourpointof4contenting.trade&type=A)|
 |[24check.yourpointof4contenting.win](https://dns.google.com/query?name=24check.yourpointof4contenting.win&type=A)|
 |[livecheck2update.yourpointof4contenting.win](https://dns.google.com/query?name=livecheck2update.yourpointof4contenting.win&type=A)|
+|[setupupgrade.yourpointof4contenting.win](https://dns.google.com/query?name=setupupgrade.yourpointof4contenting.win&type=A)|
