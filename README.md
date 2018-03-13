@@ -1387,3 +1387,4 @@
 |[supportversion.yourpointofforcontentalways.trade](https://dns.google.com/query?name=supportversion.yourpointofforcontentalways.trade&type=A)|
 |[livecheck.yourpointofforcontentalways.win](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.win&type=A)|
 |[nowup.yourpointofforcontentalways.win](https://dns.google.com/query?name=nowup.yourpointofforcontentalways.win&type=A)|
+|[soft2apt.yourpointofforcontentalways.win](https://dns.google.com/query?name=soft2apt.yourpointofforcontentalways.win&type=A)|
