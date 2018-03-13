@@ -1253,3 +1253,4 @@
 |[aptitude.your-readysystemsforcontentingload.review](https://dns.google.com/query?name=aptitude.your-readysystemsforcontentingload.review&type=A)|
 |[getupgrade.your-readysystemsforcontentingload.review](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentingload.review&type=A)|
 |[ask24update.your-readysystemsforcontentingclear.trade](https://dns.google.com/query?name=ask24update.your-readysystemsforcontentingclear.trade&type=A)|
+|[howtoupdate.thesoftwaresitetocontentsafe.trade](https://dns.google.com/query?name=howtoupdate.thesoftwaresitetocontentsafe.trade&type=A)|
