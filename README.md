@@ -1249,3 +1249,4 @@
 |[ask24update.your-readysystemsforcontentingclear.bid](https://dns.google.com/query?name=ask24update.your-readysystemsforcontentingclear.bid&type=A)|
 |[newversionupdate.your-readysystemsforcontentingclear.bid](https://dns.google.com/query?name=newversionupdate.your-readysystemsforcontentingclear.bid&type=A)|
 |[upgradeinstall24.your-readysystemsforcontentingclear.bid](https://dns.google.com/query?name=upgradeinstall24.your-readysystemsforcontentingclear.bid&type=A)|
+|[getupgrade.your-readysystemsforcontentingload.bid](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentingload.bid&type=A)|
