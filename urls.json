@@ -1218,10 +1218,6 @@
     "get24update.thesoftwaresiteforcontentsafe.review"
   ],
   "urls": {
-    "https://s3.amazonaws.com/4B3FCAE29AC/16B23E1D8F5E2A4B9BAE37A75696DC/C5BF58E43B57A74B800060F2E1E660/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520912524.812753,
-      "url": "https://s3.amazonaws.com/4B3FCAE29AC/16B23E1D8F5E2A4B9BAE37A75696DC/C5BF58E43B57A74B800060F2E1E660/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/3d_mReKc0k/47677abb-d3e2/fdd9166f-3a5a/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520915320.663441,
       "url": "https://s3.amazonaws.com/3d_mReKc0k/47677abb-d3e2/fdd9166f-3a5a/AdobeFlashPlayerInstaller.dmg"
@@ -1234,10 +1230,6 @@
       "discovered": 1520914049.907731,
       "url": "https://s3.amazonaws.com/cb5701dc-2e3d-4c21-9c52-/nghmz_GBbESX/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/4ED13/1547/7611/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520914939.059621,
-      "url": "https://s3.amazonaws.com/4ED13/1547/7611/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/33130/8/BHWKEzA0W4xFk8X7sRjQ=/2070D/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520912779.943105,
       "url": "https://s3.amazonaws.com/33130/8/BHWKEzA0W4xFk8X7sRjQ=/2070D/AdobeFlashPlayerInstaller.dmg"
@@ -1245,6 +1237,14 @@
     "https://s3.amazonaws.com/4u4o/UyjNxXl3/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520915830.404528,
       "url": "https://s3.amazonaws.com/4u4o/UyjNxXl3/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/4ED13/1547/7611/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520914939.059621,
+      "url": "https://s3.amazonaws.com/4ED13/1547/7611/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/4B3FCAE29AC/16B23E1D8F5E2A4B9BAE37A75696DC/C5BF58E43B57A74B800060F2E1E660/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520912524.812753,
+      "url": "https://s3.amazonaws.com/4B3FCAE29AC/16B23E1D8F5E2A4B9BAE37A75696DC/C5BF58E43B57A74B800060F2E1E660/AdobeFlashPlayerInstaller.dmg"
     }
   }
 }
