@@ -1355,3 +1355,4 @@
 |[24check.yourpointof4contentsafe.stream](https://dns.google.com/query?name=24check.yourpointof4contentsafe.stream&type=A)|
 |[livecheck2update.yourpointof4contentsafe.stream](https://dns.google.com/query?name=livecheck2update.yourpointof4contentsafe.stream&type=A)|
 |[livecheck2update.yourpointof4contentsafe.trade](https://dns.google.com/query?name=livecheck2update.yourpointof4contentsafe.trade&type=A)|
+|[setupupgrade.yourpointof4contentsafe.trade](https://dns.google.com/query?name=setupupgrade.yourpointof4contentsafe.trade&type=A)|
