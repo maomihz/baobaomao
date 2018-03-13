@@ -1236,3 +1236,4 @@
 |[get24update.thesoftwaresiteforcontentsafe.review](https://dns.google.com/query?name=get24update.thesoftwaresiteforcontentsafe.review&type=A)|
 |[downgradepc.thepointofforcontentsafego.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.trade&type=A)|
 |[downgradepc.thepointofforcontentsgo.download](https://dns.google.com/query?name=downgradepc.thepointofforcontentsgo.download&type=A)|
+|[setupdate24.thepointofforcontentsgo.download](https://dns.google.com/query?name=setupdate24.thepointofforcontentsgo.download&type=A)|
