@@ -1316,7 +1316,8 @@
     "livecheck2update.yourpointof4contenting.trade",
     "24check.yourpointof4contenting.win",
     "livecheck2update.yourpointof4contenting.win",
-    "setupupgrade.yourpointof4contenting.win"
+    "setupupgrade.yourpointof4contenting.win",
+    "24check.yourpointof4contents.bid"
   ],
   "urls": {
     "https://s3.amazonaws.com/6055/84de/e798/AdobeFlashPlayerInstaller.dmg": {
@@ -1327,13 +1328,13 @@
       "url": "https://s3.amazonaws.com/AC026CDD68068E4C8698BCC/980vPSdFikK52/2SSRQ9Z5mUydU/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520959194.949117
     },
-    "https://s3.amazonaws.com/7503/18953458/7897817/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/7503/18953458/7897817/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520958811.542171
-    },
     "https://s3.amazonaws.com/8630/12388667/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/8630/12388667/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520956773.259236
+    },
+    "https://s3.amazonaws.com/7503/18953458/7897817/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/7503/18953458/7897817/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520958811.542171
     },
     "https://s3.amazonaws.com/KZPcD/17078/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/KZPcD/17078/AdobeFlashPlayerInstaller.dmg",

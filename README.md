@@ -1335,3 +1335,4 @@
 |[24check.yourpointof4contenting.win](https://dns.google.com/query?name=24check.yourpointof4contenting.win&type=A)|
 |[livecheck2update.yourpointof4contenting.win](https://dns.google.com/query?name=livecheck2update.yourpointof4contenting.win&type=A)|
 |[setupupgrade.yourpointof4contenting.win](https://dns.google.com/query?name=setupupgrade.yourpointof4contenting.win&type=A)|
+|[24check.yourpointof4contents.bid](https://dns.google.com/query?name=24check.yourpointof4contents.bid&type=A)|
