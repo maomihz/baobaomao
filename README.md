@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzOTY0NTA3My8zMTYyLzE1YzkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:30|https://s3.amazonaws.com/139645073/3162/15c9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RCODExMkQ2LzE3MzUvMTQyOS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:19|https://s3.amazonaws.com/DB8112D6/1735/1429/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0QyQzc5RDdCN0EyNzk5NDZBQTRFOEEwMTNFRjkzRi9oTlVsRUw0M2dVV1A5REd3L1FFcnJYQ1RBYzAyendCNGEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:06|https://s3.amazonaws.com/D2C79D7B7A279946AA4E8A013EF93F/hNUlEL43gUWP9DGw/QErrXCTAc02zwB4a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZGM1RDdFplR1VLSGZJSHV2QWk3Ty9zaWhCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:00|https://s3.amazonaws.com/6F3TCtZeGUKHfIHuvAi7O/sihB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL01uS1QxQ3NzazB5NmJreFpTLzIwODgvMTQ0My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:47|https://s3.amazonaws.com/MnKT1Cssk0y6bkxZS/2088/1443/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhCQTI4NjREQkI2RjhGNDE5OTlGODlBRUMvRjFGMi9FMEJFL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:37|https://s3.amazonaws.com/8BA2864DBB6F8F41999F89AEC/F1F2/E0BE/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNiMjUvNjM5NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:28|https://s3.amazonaws.com/3b25/6395/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1291,3 +1291,4 @@
 |[set2updatenow.your-readysystemsforcontentsnew.review](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.review&type=A)|
 |[2update.your-readysystemsforcontentsnew.bid](https://dns.google.com/query?name=2update.your-readysystemsforcontentsnew.bid&type=A)|
 |[2update.your-readysystemsforcontentsnew.win](https://dns.google.com/query?name=2update.your-readysystemsforcontentsnew.win&type=A)|
+|[set2updatenow.your-readysystemsforcontentsnew.win](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.win&type=A)|
