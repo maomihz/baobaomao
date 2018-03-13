@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZkMTYvMTFDMEQ4RTI2NDUyMTg0My9EMzQ0RDc5NjNEMzlERjQ5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:14|https://s3.amazonaws.com/6d16/11C0D8E264521843/D344D7963D39DF49/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRBMzVFNkZDQS8zMDk5MzBlYy04OWUwLTRhY2YtYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:57|https://s3.amazonaws.com/4A35E6FCA/309930ec-89e0-4acf-a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg2MkNBMjA0NEUxMjY5LzIyMjYvMTU1My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:48|https://s3.amazonaws.com/862CA2044E1269/2226/1553/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0I4RTg0NEZBRDJFNTM4NDc4NEJDMTYyMzQ3Qi8yODY5OTc3Ni9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:38|https://s3.amazonaws.com/B8E844FAD2E5384784BC162347B/28699776/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI5OWE5LzIzNzkyYTM3LWFkYTQtNDFlMy0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|18:29|https://s3.amazonaws.com/299a9/23792a37-ada4-41e3-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RDODFDQTA3MUY1OTEwNDhCQkY5QkI2MEIvODgzMC82MjkxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:23|https://s3.amazonaws.com/DC81CA071F591048BBF9BB60B/8830/6291/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkxZjUvNjMzNWI4YmYtMjM0Ny00ODkxLWI5MTktMDMxNmMxNi9jZDU0NDYwZi1kYzVhLTRiNjMtYmRmYi05ZDQ1MjhkL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:14|https://s3.amazonaws.com/91f5/6335b8bf-2347-4891-b919-0316c16/cd54460f-dc5a-4b63-bdfb-9d4528d/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1364,3 +1364,4 @@
 |[update.yourpointofforcontent.download](https://dns.google.com/query?name=update.yourpointofforcontent.download&type=A)|
 |[upgradeinstall24.yourpointofforcontent.download](https://dns.google.com/query?name=upgradeinstall24.yourpointofforcontent.download&type=A)|
 |[update.yourpointofforcontent.review](https://dns.google.com/query?name=update.yourpointofforcontent.review&type=A)|
+|[upgradeinstall24.yourpointofforcontent.stream](https://dns.google.com/query?name=upgradeinstall24.yourpointofforcontent.stream&type=A)|
