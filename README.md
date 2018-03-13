@@ -1376,3 +1376,4 @@
 |[livecheck.yourpointofforcontentalways.download](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.download&type=A)|
 |[nowup.yourpointofforcontentalways.download](https://dns.google.com/query?name=nowup.yourpointofforcontentalways.download&type=A)|
 |[soft2apt.yourpointofforcontentalways.download](https://dns.google.com/query?name=soft2apt.yourpointofforcontentalways.download&type=A)|
+|[supportversion.yourpointofforcontentalways.download](https://dns.google.com/query?name=supportversion.yourpointofforcontentalways.download&type=A)|
