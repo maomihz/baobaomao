@@ -1303,3 +1303,4 @@
 |[update2check.yourpointof4content.date](https://dns.google.com/query?name=update2check.yourpointof4content.date&type=A)|
 |[24check.yourpointof4content.download](https://dns.google.com/query?name=24check.yourpointof4content.download&type=A)|
 |[update2check.yourpointof4content.download](https://dns.google.com/query?name=update2check.yourpointof4content.download&type=A)|
+|[livecheck2update.yourpointof4content.download](https://dns.google.com/query?name=livecheck2update.yourpointof4content.download&type=A)|
