@@ -1358,3 +1358,4 @@
 |[setupupgrade.yourpointof4contentsafe.trade](https://dns.google.com/query?name=setupupgrade.yourpointof4contentsafe.trade&type=A)|
 |[24check.yourpointof4contentsafe.win](https://dns.google.com/query?name=24check.yourpointof4contentsafe.win&type=A)|
 |[livecheck2update.yourpointof4contentsafe.win](https://dns.google.com/query?name=livecheck2update.yourpointof4contentsafe.win&type=A)|
+|[setupupgrade.yourpointof4contentsafe.win](https://dns.google.com/query?name=setupupgrade.yourpointof4contentsafe.win&type=A)|
