@@ -1220,3 +1220,4 @@
 |[updateauto.thesoftwaresiteforcontentsafe.bid](https://dns.google.com/query?name=updateauto.thesoftwaresiteforcontentsafe.bid&type=A)|
 |[newliveupdate.thesoftwaresiteforcontentsafe.bid](https://dns.google.com/query?name=newliveupdate.thesoftwaresiteforcontentsafe.bid&type=A)|
 |[howtoupdate.thesoftwaresitetocontenting.download](https://dns.google.com/query?name=howtoupdate.thesoftwaresitetocontenting.download&type=A)|
+|[liveupdate.thesoftwaresitetocontenting.download](https://dns.google.com/query?name=liveupdate.thesoftwaresitetocontenting.download&type=A)|
