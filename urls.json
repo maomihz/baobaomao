@@ -1,16 +1,20 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/zNwK_vL/25a2afdf-1c98/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/zNwK_vL/25a2afdf-1c98/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520910111.852178
+    "https://s3.amazonaws.com/194091513/EoPaO/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/194091513/EoPaO/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520908836.197784
+    },
+    "https://s3.amazonaws.com/4863/CUbcJro4B0KRYI8VaT/Z5VlKV0HZUuhvk4OZ/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/4863/CUbcJro4B0KRYI8VaT/Z5VlKV0HZUuhvk4OZ/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520911892.138053
     },
     "https://s3.amazonaws.com/384200/97730/41413/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/384200/97730/41413/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520911133.828091
     },
-    "https://s3.amazonaws.com/194091513/EoPaO/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/194091513/EoPaO/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520908836.197784
+    "https://s3.amazonaws.com/zNwK_vL/25a2afdf-1c98/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/zNwK_vL/25a2afdf-1c98/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520910111.852178
     },
     "https://s3.amazonaws.com/61BD5117C74F974/DgavJKMCd02/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/61BD5117C74F974/DgavJKMCd02/AdobeFlashPlayerInstaller.dmg",
@@ -1225,6 +1229,7 @@
     "newliveupdate.thesoftwaresiteforcontentsafe.bid",
     "howtoupdate.thesoftwaresitetocontenting.download",
     "liveupdate.thesoftwaresitetocontenting.download",
-    "update2.thesoftwaresitetocontenting.download"
+    "update2.thesoftwaresitetocontenting.download",
+    "liveupdate.thesoftwaresitetocontentsafe.bid"
   ]
 }
