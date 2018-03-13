@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0I5MjZGRjIxMjVDRUZDNEQ4NUMwRTkzQzVGMjgwRC9FOUFVODJPSjBFQ0wvYXdpT2tFQV9xMFc0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:40|https://s3.amazonaws.com/B926FF2125CEFC4D85C0E93C5F280D/E9AU82OJ0ECL/awiOkEA_q0W4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5NTE2LzEzNDMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:30|https://s3.amazonaws.com/99516/1343/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3MzIzMDcyMy9mZmE4L2JlZWQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:25|https://s3.amazonaws.com/173230723/ffa8/beed/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1U5VjM0UGkvMTM0MS8xNTQ0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:08|https://s3.amazonaws.com/U9V34Pi/1341/1544/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RkNmMvNlJZYy9rM1pXL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:00|https://s3.amazonaws.com/dd6c/6RYc/k3ZW/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0FDOTAvMWYxNzAwOWUtZmI2Mi00NGJkL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:47|https://s3.amazonaws.com/AC90/1f17009e-fb62-44bd/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzcwQTlGRjRBQjA1RDRCNERBRUUwNkMvY2lUZ0w2S1ppRS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:39|https://s3.amazonaws.com/70A9FF4AB05D4B4DAEE06C/ciTgL6KZiE/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1417,3 +1417,4 @@
 |[upgradenote.thegreatfreesystemoscontentsafe.trade](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.trade&type=A)|
 |[newupdate.thegreatfreesystemoscontentsafe.stream](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontentsafe.stream&type=A)|
 |[upgradenote.thegreatfreesystemoscontentsafe.stream](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.stream&type=A)|
+|[2update.your-readysystemsforcontentnew.trade](https://dns.google.com/query?name=2update.your-readysystemsforcontentnew.trade&type=A)|
