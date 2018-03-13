@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RGQzUvMTgxMC8xMzc0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:00|https://s3.amazonaws.com/DFC5/1810/1374/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ExNzYxNjc5LTZjNzAtNC8xMTU5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:51|https://s3.amazonaws.com/a1761679-6c70-4/1159/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY0RjUvMzExM2NiOGEtZjYvNTk4N2Q1Y2YtOTgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:41|https://s3.amazonaws.com/64F5/3113cb8a-f6/5987d5cf-98/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYyMzczRkU2MTk4NkFGNDA4NzY4NDE1MjQ2OUY1LzA2Rjc3QThDNzQwODRBNEJBQzgyQkYxMzFBL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:32|https://s3.amazonaws.com/62373FE61986AF4087684152469F5/06F77A8C74084A4BAC82BF131A/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRDODNFMzM1MC94TjdSSmhKYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|17:17|https://s3.amazonaws.com/4C83E3350/xN7RJhJa/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg3MTQvODg0MWE3MDUtOWIyOC00MDE4LTg3OTItZDJjMjI3MTQ4ZDcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:07|https://s3.amazonaws.com/8714/8841a705-9b28-4018-8792-d2c227148d7/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExMzIvMjgyNC8xMjgxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:03|https://s3.amazonaws.com/1132/2824/1281/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1348,3 +1348,4 @@
 |[24check.yourpointof4contents.trade](https://dns.google.com/query?name=24check.yourpointof4contents.trade&type=A)|
 |[livecheck2update.yourpointof4contents.trade](https://dns.google.com/query?name=livecheck2update.yourpointof4contents.trade&type=A)|
 |[livecheck2update.yourpointof4contents.win](https://dns.google.com/query?name=livecheck2update.yourpointof4contents.win&type=A)|
+|[24check.yourpointof4contentsafe.bid](https://dns.google.com/query?name=24check.yourpointof4contentsafe.bid&type=A)|
