@@ -1293,3 +1293,4 @@
 |[2update.your-readysystemsforcontentsnew.win](https://dns.google.com/query?name=2update.your-readysystemsforcontentsnew.win&type=A)|
 |[set2updatenow.your-readysystemsforcontentsnew.win](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.win&type=A)|
 |[set2updatenow.your-readysystemsforcontentsnew.bid](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.bid&type=A)|
+|[set2updatenow.your-readysystemsforcontentsnew.download](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.download&type=A)|
