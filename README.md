@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ExN0ZEOTgyRS84YzhlN2FkZC0zYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:49|https://s3.amazonaws.com/A17FD982E/8c8e7add-3a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M3ZDA1N2UxLWMvMjA0Mi8xODY0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:41|https://s3.amazonaws.com/c7d057e1-c/2042/1864/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExNzAzMjU5L2I2ZjRmYTQ1LTRjOS9kOGEwYjJjZi0xMzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:32|https://s3.amazonaws.com/11703259/b6f4fa45-4c9/d8a0b2cf-134/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk1QUZBMC8yMDM1LzExODcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:20|https://s3.amazonaws.com/95AFA0/2035/1187/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg3MjAvazdZVG4vYWFIZUovQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:09|https://s3.amazonaws.com/8720/k7YTn/aaHeJ/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZHT3hJUDZ4MlVpNHovNDBkMDk4NzAtNjcvMDA0ZWEzNDQtNGEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:59|https://s3.amazonaws.com/vGOxIP6x2Ui4z/40d09870-67/004ea344-4a/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlFRTRENkE1MjI3MkNBNDE5MDhFOTYxNUYvMTdjOTc3MGEtZTRhMy00NWVjLTk1ODQtY2UyYWQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:46|https://s3.amazonaws.com/9EE4D6A52272CA41908E9615F/17c9770a-e4a3-45ec-9584-ce2ad/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1204,3 +1204,4 @@
 |[nowup.thesoftwaresite4contentsafe.trade](https://dns.google.com/query?name=nowup.thesoftwaresite4contentsafe.trade&type=A)|
 |[testpconly12.thesoftwaresite4contentsafe.trade](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contentsafe.trade&type=A)|
 |[updatenew.thesoftwaresite4contentsafe.trade](https://dns.google.com/query?name=updatenew.thesoftwaresite4contentsafe.trade&type=A)|
+|[testpconly12.thesoftwaresite4contentsafe.win](https://dns.google.com/query?name=testpconly12.thesoftwaresite4contentsafe.win&type=A)|
