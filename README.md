@@ -1290,3 +1290,4 @@
 |[2update.your-readysystemsforcontentsnew.review](https://dns.google.com/query?name=2update.your-readysystemsforcontentsnew.review&type=A)|
 |[set2updatenow.your-readysystemsforcontentsnew.review](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.review&type=A)|
 |[2update.your-readysystemsforcontentsnew.bid](https://dns.google.com/query?name=2update.your-readysystemsforcontentsnew.bid&type=A)|
+|[2update.your-readysystemsforcontentsnew.win](https://dns.google.com/query?name=2update.your-readysystemsforcontentsnew.win&type=A)|
