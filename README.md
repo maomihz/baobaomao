@@ -1319,3 +1319,4 @@
 |[update2check.yourpointof4content.win](https://dns.google.com/query?name=update2check.yourpointof4content.win&type=A)|
 |[livecheck2update.yourpointof4contenting.bid](https://dns.google.com/query?name=livecheck2update.yourpointof4contenting.bid&type=A)|
 |[setupupgrade.yourpointof4contenting.bid](https://dns.google.com/query?name=setupupgrade.yourpointof4contenting.bid&type=A)|
+|[24check.yourpointof4contenting.date](https://dns.google.com/query?name=24check.yourpointof4contenting.date&type=A)|
