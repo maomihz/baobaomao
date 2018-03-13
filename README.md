@@ -1266,3 +1266,4 @@
 |[set2updatenow.your-readysystemsforcontentnew.trade](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentnew.trade&type=A)|
 |[upgradenow24.your-readysystemsforcontentnew.trade](https://dns.google.com/query?name=upgradenow24.your-readysystemsforcontentnew.trade&type=A)|
 |[getupgrade.your-readysystemsforcontentsafeload.stream](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentsafeload.stream&type=A)|
+|[aptitude.your-readysystemsforcontentsafeload.stream](https://dns.google.com/query?name=aptitude.your-readysystemsforcontentsafeload.stream&type=A)|
