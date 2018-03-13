@@ -1370,3 +1370,4 @@
 |[workupgrade.yourpointofforcontent.win](https://dns.google.com/query?name=workupgrade.yourpointofforcontent.win&type=A)|
 |[livecheck.yourpointofforcontentalways.bid](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.bid&type=A)|
 |[nowup.yourpointofforcontentalways.bid](https://dns.google.com/query?name=nowup.yourpointofforcontentalways.bid&type=A)|
+|[supportversion.yourpointofforcontentalways.bid](https://dns.google.com/query?name=supportversion.yourpointofforcontentalways.bid&type=A)|
