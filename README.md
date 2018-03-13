@@ -1210,3 +1210,4 @@
 |[newliveupdate.thesoftwaresiteforcontenting.download](https://dns.google.com/query?name=newliveupdate.thesoftwaresiteforcontenting.download&type=A)|
 |[upgradenow24.thesoftwaresiteforcontenting.download](https://dns.google.com/query?name=upgradenow24.thesoftwaresiteforcontenting.download&type=A)|
 |[howtoupdate.thesoftwaresitetocontent.date](https://dns.google.com/query?name=howtoupdate.thesoftwaresitetocontent.date&type=A)|
+|[soft2apt.thesoftwaresitetocontent.date](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontent.date&type=A)|
