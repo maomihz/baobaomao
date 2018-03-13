@@ -1229,3 +1229,4 @@
 |[howtoupdate.thesoftwaresitetocontentsafe.download](https://dns.google.com/query?name=howtoupdate.thesoftwaresitetocontentsafe.download&type=A)|
 |[liveupdate.thesoftwaresitetocontentsafe.download](https://dns.google.com/query?name=liveupdate.thesoftwaresitetocontentsafe.download&type=A)|
 |[soft2apt.thesoftwaresitetocontentsafe.download](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontentsafe.download&type=A)|
+|[soft2apt.thesoftwaresitetocontentsafe.stream](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontentsafe.stream&type=A)|
