@@ -1,5 +1,17 @@
 {
   "urls": {
+    "https://s3.amazonaws.com/904369d4-8cce-48ad-98f7-f1a1/bae33102-3398-/9e5759f5-1453-/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/904369d4-8cce-48ad-98f7-f1a1/bae33102-3398-/9e5759f5-1453-/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520908075.290771
+    },
+    "https://s3.amazonaws.com/zNwK_vL/25a2afdf-1c98/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/zNwK_vL/25a2afdf-1c98/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520910111.852178
+    },
+    "https://s3.amazonaws.com/16326/21958481/131222477/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/16326/21958481/131222477/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520909349.083218
+    },
     "https://s3.amazonaws.com/ae3ad7f9-8439-40/19797/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/ae3ad7f9-8439-40/19797/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520906807.664652
@@ -7,14 +19,6 @@
     "https://s3.amazonaws.com/ffd2/MlUwSg/q4A/Iy/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/ffd2/MlUwSg/q4A/Iy/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520907569.991441
-    },
-    "https://s3.amazonaws.com/904369d4-8cce-48ad-98f7-f1a1/bae33102-3398-/9e5759f5-1453-/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/904369d4-8cce-48ad-98f7-f1a1/bae33102-3398-/9e5759f5-1453-/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520908075.290771
-    },
-    "https://s3.amazonaws.com/16326/21958481/131222477/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/16326/21958481/131222477/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520909349.083218
     },
     "https://s3.amazonaws.com/194091513/EoPaO/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/194091513/EoPaO/AdobeFlashPlayerInstaller.dmg",
@@ -1220,6 +1224,7 @@
     "newliveupdate.thesoftwaresiteforcontents.date",
     "updateauto.thesoftwaresiteforcontents.date",
     "upgradenow24.thesoftwaresiteforcontents.date",
-    "get24update.thesoftwaresiteforcontentsafe.bid"
+    "get24update.thesoftwaresiteforcontentsafe.bid",
+    "updateauto.thesoftwaresiteforcontentsafe.bid"
   ]
 }
