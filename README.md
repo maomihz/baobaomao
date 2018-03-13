@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZFMjkxNzNEMUVFNDg0NEZBMzk4MUI4QzY5Qy8xODYxOTQwOC82NjMyNTQ3MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:30|https://s3.amazonaws.com/6E29173D1EE4844FA3981B8C69C/18619408/66325471/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y4Zjc5LzEzY2ZhZWM5LTkxYzctNDA1Yi05MmRjLzY5OTdlN2I2LWQ0ODctNGU3YS1hN2E5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:28|https://s3.amazonaws.com/f8f79/13cfaec9-91c7-405b-92dc/6997e7b6-d487-4e7a-a7a9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNBRUFDNUFERDk1QjQzNDc5LzYwZDc3Y2U1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:09|https://s3.amazonaws.com/3AEAC5ADD95B43479/60d77ce5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y1YzEvMTQ5ODI5LzI3MDI0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:00|https://s3.amazonaws.com/f5c1/149829/27024/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY3M0ZBNEM0MUNGOC9jdk9CL2ZiX00vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:54|https://s3.amazonaws.com/673FA4C41CF8/cvOB/fb_M/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5Mzc0ZDI5LTQzOGUtNDgvMzlCNjI0NjY5NDM3RkY0N0E2NUZDNDA0RDU1LzE0OUMwQTI2ODQ1ODRCNDA4NzEzMEJENTVDQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:41|https://s3.amazonaws.com/19374d29-438e-48/39B624669437FF47A65FC404D55/149C0A2684584B4087130BD55CA/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdhYzlhZDA0LWVmZTktNDA2Ny04MWVjLWQ0YmFhL21GQ3VZV2FZbUVpcFVZTTMvdzgvcXpIZVh5dEdMMDZTcEg4RFdEMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:31|https://s3.amazonaws.com/7ac9ad04-efe9-4067-81ec-d4baa/mFCuYWaYmEipUYM3/w8/qzHeXytGL06SpH8DWD1/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1243,3 +1243,4 @@
 |[downgradepc.thepointofforcontentsetgo.download](https://dns.google.com/query?name=downgradepc.thepointofforcontentsetgo.download&type=A)|
 |[nowgetsoft.thepointofforcontentingsetup.date](https://dns.google.com/query?name=nowgetsoft.thepointofforcontentingsetup.date&type=A)|
 |[online.thepointofforcontentsetup.bid](https://dns.google.com/query?name=online.thepointofforcontentsetup.bid&type=A)|
+|[testpc24.thepointofforcontentsetup.bid](https://dns.google.com/query?name=testpc24.thepointofforcontentsetup.bid&type=A)|
