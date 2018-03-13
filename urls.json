@@ -1318,13 +1318,10 @@
     "livecheck2update.yourpointof4contenting.win",
     "setupupgrade.yourpointof4contenting.win",
     "24check.yourpointof4contents.bid",
-    "livecheck2update.yourpointof4contents.bid"
+    "livecheck2update.yourpointof4contents.bid",
+    "setupupgrade.yourpointof4contents.bid"
   ],
   "urls": {
-    "https://s3.amazonaws.com/KZPcD/17078/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/KZPcD/17078/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520959831.481738
-    },
     "https://s3.amazonaws.com/7503/18953458/7897817/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/7503/18953458/7897817/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520958811.542171
@@ -1337,13 +1334,21 @@
       "url": "https://s3.amazonaws.com/6055/84de/e798/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520957281.448414
     },
+    "https://s3.amazonaws.com/89DF57BCD823594B9D5B/t/xjv1i93kig/J65nlUIkkECs/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/89DF57BCD823594B9D5B/t/xjv1i93kig/J65nlUIkkECs/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520958042.571206
+    },
     "https://s3.amazonaws.com/1132/2824/1281/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/1132/2824/1281/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520960591.671186
     },
-    "https://s3.amazonaws.com/89DF57BCD823594B9D5B/t/xjv1i93kig/J65nlUIkkECs/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/89DF57BCD823594B9D5B/t/xjv1i93kig/J65nlUIkkECs/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520958042.571206
+    "https://s3.amazonaws.com/KZPcD/17078/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/KZPcD/17078/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520959831.481738
+    },
+    "https://s3.amazonaws.com/8714/8841a705-9b28-4018-8792-d2c227148d7/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/8714/8841a705-9b28-4018-8792-d2c227148d7/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520960846.016954
     }
   }
 }
