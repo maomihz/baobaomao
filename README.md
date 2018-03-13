@@ -1197,3 +1197,4 @@
 |[online.thepointofforcontentssetup.download](https://dns.google.com/query?name=online.thepointofforcontentssetup.download&type=A)|
 |[testpc24.thepointofforcontentssetup.download](https://dns.google.com/query?name=testpc24.thepointofforcontentssetup.download&type=A)|
 |[online.thepointofforcontentssetup.review](https://dns.google.com/query?name=online.thepointofforcontentssetup.review&type=A)|
+|[testpc24.thepointofforcontentssetup.review](https://dns.google.com/query?name=testpc24.thepointofforcontentssetup.review&type=A)|
