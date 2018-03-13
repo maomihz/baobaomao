@@ -1274,3 +1274,4 @@
 |[2update.your-readysystemsforcontentsafenew.download](https://dns.google.com/query?name=2update.your-readysystemsforcontentsafenew.download&type=A)|
 |[set2updatenow.your-readysystemsforcontentsafenew.download](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsafenew.download&type=A)|
 |[ask24update.your-readysystemsforcontentsafeclear.bid](https://dns.google.com/query?name=ask24update.your-readysystemsforcontentsafeclear.bid&type=A)|
+|[newversionupdate.your-readysystemsforcontentsafeclear.bid](https://dns.google.com/query?name=newversionupdate.your-readysystemsforcontentsafeclear.bid&type=A)|
