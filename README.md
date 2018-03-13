@@ -6,13 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdtY3kxbDZfb2tHSUVBY0tpTS8xMzgzLzEyOTgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:21|https://s3.amazonaws.com/7mcy1l6_okGIEAcKiM/1383/1298/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNBN0JBNjgxOUQvZFFNVHlUY21lVUt2L3lnSkJSdS94TjB1ay9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|05:06|https://s3.amazonaws.com/3A7BA6819D/dQMTyTcmeUKv/ygJBRu/xN0uk/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwNjkzMy8vdVVEU3V0MmkwS2x2dGpTeUtJcFNBPS9BZG9iZUZsYXNoUGxheWVyLmRtZw==)|04:58|https://s3.amazonaws.com/206933//uUDSut2i0KlvtjSyKIpSA=/AdobeFlashPlayer.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdMbDNnTURuSGtpTnNnRVVXbTlHRC8wOUFERTlCNkMzOEI2NjQxODAyLzA5ODIwOEJGMDRBQUM2NEI5MEUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:47|https://s3.amazonaws.com/7Ll3gMDnHkiNsgEUWm9GD/09ADE9B6C38B6641802/098208BF04AAC64B90E/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzR1NG8vVXlqTnhYbDMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:37|https://s3.amazonaws.com/4u4o/UyjNxXl3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNkX21SZUtjMGsvNDc2NzdhYmItZDNlMi9mZGQ5MTY2Zi0zYTVhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|04:28|https://s3.amazonaws.com/3d_mReKc0k/47677abb-d3e2/fdd9166f-3a5a/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRFRDEzLzE1NDcvNzYxMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:22|https://s3.amazonaws.com/4ED13/1547/7611/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NiNTcwMWRjLTJlM2QtNGMyMS05YzUyLS9uZ2htel9HQmJFU1gvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:07|https://s3.amazonaws.com/cb5701dc-2e3d-4c21-9c52-/nghmz_GBbESX/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1236,3 +1235,4 @@
 |[updateauto.thesoftwaresiteforcontentsafe.review](https://dns.google.com/query?name=updateauto.thesoftwaresiteforcontentsafe.review&type=A)|
 |[get24update.thesoftwaresiteforcontentsafe.review](https://dns.google.com/query?name=get24update.thesoftwaresiteforcontentsafe.review&type=A)|
 |[downgradepc.thepointofforcontentsafego.trade](https://dns.google.com/query?name=downgradepc.thepointofforcontentsafego.trade&type=A)|
+|[downgradepc.thepointofforcontentsgo.download](https://dns.google.com/query?name=downgradepc.thepointofforcontentsgo.download&type=A)|
