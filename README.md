@@ -1258,3 +1258,4 @@
 |[2update.your-readysystemsforcontentingnew.bid](https://dns.google.com/query?name=2update.your-readysystemsforcontentingnew.bid&type=A)|
 |[upgradenow24.your-readysystemsforcontentingnew.bid](https://dns.google.com/query?name=upgradenow24.your-readysystemsforcontentingnew.bid&type=A)|
 |[2nowup.your-readysystemsforcontentload.date](https://dns.google.com/query?name=2nowup.your-readysystemsforcontentload.date&type=A)|
+|[settingupdate.your-readysystemsforcontentload.date](https://dns.google.com/query?name=settingupdate.your-readysystemsforcontentload.date&type=A)|
