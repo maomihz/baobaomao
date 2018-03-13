@@ -1326,3 +1326,4 @@
 |[setupupgrade.yourpointof4contenting.download](https://dns.google.com/query?name=setupupgrade.yourpointof4contenting.download&type=A)|
 |[update2check.yourpointof4contenting.download](https://dns.google.com/query?name=update2check.yourpointof4contenting.download&type=A)|
 |[livecheck2update.yourpointof4contenting.review](https://dns.google.com/query?name=livecheck2update.yourpointof4contenting.review&type=A)|
+|[setupupgrade.yourpointof4contenting.review](https://dns.google.com/query?name=setupupgrade.yourpointof4contenting.review&type=A)|
