@@ -1295,3 +1295,4 @@
 |[set2updatenow.your-readysystemsforcontentsnew.bid](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.bid&type=A)|
 |[set2updatenow.your-readysystemsforcontentsnew.download](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentsnew.download&type=A)|
 |[24check.yourpointof4content.bid](https://dns.google.com/query?name=24check.yourpointof4content.bid&type=A)|
+|[livecheck2update.yourpointof4content.bid](https://dns.google.com/query?name=livecheck2update.yourpointof4content.bid&type=A)|
