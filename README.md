@@ -1191,3 +1191,4 @@
 |[setupupgrade12.thepointofforcontentsperfect.trade](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentsperfect.trade&type=A)|
 |[24newsoft.thepointofforcontentsperfect.win](https://dns.google.com/query?name=24newsoft.thepointofforcontentsperfect.win&type=A)|
 |[setupupgrade12.thepointofforcontentsperfect.win](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentsperfect.win&type=A)|
+|[update2check.thepointofforcontentsperfect.win](https://dns.google.com/query?name=update2check.thepointofforcontentsperfect.win&type=A)|
