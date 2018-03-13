@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI5OWE5LzIzNzkyYTM3LWFkYTQtNDFlMy0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|18:29|https://s3.amazonaws.com/299a9/23792a37-ada4-41e3-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RDODFDQTA3MUY1OTEwNDhCQkY5QkI2MEIvODgzMC82MjkxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:23|https://s3.amazonaws.com/DC81CA071F591048BBF9BB60B/8830/6291/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkxZjUvNjMzNWI4YmYtMjM0Ny00ODkxLWI5MTktMDMxNmMxNi9jZDU0NDYwZi1kYzVhLTRiNjMtYmRmYi05ZDQ1MjhkL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:14|https://s3.amazonaws.com/91f5/6335b8bf-2347-4891-b919-0316c16/cd54460f-dc5a-4b63-bdfb-9d4528d/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RGQzUvMTgxMC8xMzc0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:00|https://s3.amazonaws.com/DFC5/1810/1374/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ExNzYxNjc5LTZjNzAtNC8xMTU5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:51|https://s3.amazonaws.com/a1761679-6c70-4/1159/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY0RjUvMzExM2NiOGEtZjYvNTk4N2Q1Y2YtOTgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:41|https://s3.amazonaws.com/64F5/3113cb8a-f6/5987d5cf-98/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYyMzczRkU2MTk4NkFGNDA4NzY4NDE1MjQ2OUY1LzA2Rjc3QThDNzQwODRBNEJBQzgyQkYxMzFBL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:32|https://s3.amazonaws.com/62373FE61986AF4087684152469F5/06F77A8C74084A4BAC82BF131A/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1353,3 +1353,4 @@
 |[livecheck2update.yourpointof4contentsafe.download](https://dns.google.com/query?name=livecheck2update.yourpointof4contentsafe.download&type=A)|
 |[livecheck2update.yourpointof4contentsafe.review](https://dns.google.com/query?name=livecheck2update.yourpointof4contentsafe.review&type=A)|
 |[24check.yourpointof4contentsafe.stream](https://dns.google.com/query?name=24check.yourpointof4contentsafe.stream&type=A)|
+|[livecheck2update.yourpointof4contentsafe.stream](https://dns.google.com/query?name=livecheck2update.yourpointof4contentsafe.stream&type=A)|
