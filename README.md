@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FvVFkvNzg3RkVDN0RDNEEwMzI0NUI2MEI2NjVCNjkwL0U0RkZDQzVEOUIwRkJENERCODJBOEQ3MTZBQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:40|https://s3.amazonaws.com/aoTY/787FEC7DC4A03245B60B665B690/E4FFCC5D9B0FBD4DB82A8D716AA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JGMjQwLzQwY2EyMWVjLWMzZDMtNDAxL2VhOTM4OThmLTM1ZDEtNGI4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:31|https://s3.amazonaws.com/BF240/40ca21ec-c3d3-401/ea93898f-35d1-4b8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY4NDkvcnpOdS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:25|https://s3.amazonaws.com/6849/rzNu/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JFMjhEODc1NEQ3QjQxNDc5QUI0NDhBQjhFQjIvaFRvSWN3WDEvR0l3S2EzYncvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:16|https://s3.amazonaws.com/BE28D8754D7B41479AB448AB8EB2/hToIcwX1/GIwKa3bw/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZDNzk5Ri85ODYwM2M0OC00YTA2LTQ4YzEtOS85MjE4Y2YxOC1hZjVjLTRmMTctOS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:02|https://s3.amazonaws.com/6C799F/98603c48-4a06-48c1-9/9218cf18-af5c-4f17-9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4OTk2Mi8yNzY1QjAwNkU2M0I0OTRCQTk5QjE0RjYzMjM3MTIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|09:47|https://s3.amazonaws.com/189962/2765B006E63B494BA99B14F6323712/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y1QkkvOTIyMEM4ODczMkZGNDM0QzkzMUJBRDVENS9DNTJDQ0JEQjlBQjBBMDQxQUEzOThDOUIyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:36|https://s3.amazonaws.com/f5BI/9220C88732FF434C931BAD5D5/C52CCBDB9AB0A041AA398C9B2/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1267,3 +1267,4 @@
 |[upgradenow24.your-readysystemsforcontentnew.trade](https://dns.google.com/query?name=upgradenow24.your-readysystemsforcontentnew.trade&type=A)|
 |[getupgrade.your-readysystemsforcontentsafeload.stream](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentsafeload.stream&type=A)|
 |[aptitude.your-readysystemsforcontentsafeload.stream](https://dns.google.com/query?name=aptitude.your-readysystemsforcontentsafeload.stream&type=A)|
+|[settingupdate.your-readysystemsforcontentsafeload.review](https://dns.google.com/query?name=settingupdate.your-readysystemsforcontentsafeload.review&type=A)|
