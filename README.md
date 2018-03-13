@@ -1216,3 +1216,4 @@
 |[newliveupdate.thesoftwaresiteforcontents.date](https://dns.google.com/query?name=newliveupdate.thesoftwaresiteforcontents.date&type=A)|
 |[updateauto.thesoftwaresiteforcontents.date](https://dns.google.com/query?name=updateauto.thesoftwaresiteforcontents.date&type=A)|
 |[upgradenow24.thesoftwaresiteforcontents.date](https://dns.google.com/query?name=upgradenow24.thesoftwaresiteforcontents.date&type=A)|
+|[get24update.thesoftwaresiteforcontentsafe.bid](https://dns.google.com/query?name=get24update.thesoftwaresiteforcontentsafe.bid&type=A)|
