@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NjOTEvOTBDMzg0MEYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:22|https://s3.amazonaws.com/cc91/90C3840F/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL09fUVFBb1ovODY0NTkyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:11|https://s3.amazonaws.com/O_QQAoZ/864592/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUyMjdiOTVjLS80MzkzLzgyMTMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:01|https://s3.amazonaws.com/5227b95c-/4393/8213/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1BERHBpSElwNlVtbmVxaUhGd2MvVjhVSWRiYmUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:48|https://s3.amazonaws.com/PDDpiHIp6UmneqiHFwc/V8UIdbbe/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1314,3 +1313,4 @@
 |[app4com.thepointofforcontentsnow.bid](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.bid&type=A)|
 |[get24update.thesoftwaresiteforcontenting.download](https://dns.google.com/query?name=get24update.thesoftwaresiteforcontenting.download&type=A)|
 |[newsoftready.thepointofforcontentsnow.download](https://dns.google.com/query?name=newsoftready.thepointofforcontentsnow.download&type=A)|
+|[howtoupdate.thepointofforcontentsload.win](https://dns.google.com/query?name=howtoupdate.thepointofforcontentsload.win&type=A)|
