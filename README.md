@@ -6,11 +6,11 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JFMjhEODc1NEQ3QjQxNDc5QUI0NDhBQjhFQjIvaFRvSWN3WDEvR0l3S2EzYncvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:16|https://s3.amazonaws.com/BE28D8754D7B41479AB448AB8EB2/hToIcwX1/GIwKa3bw/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZDNzk5Ri85ODYwM2M0OC00YTA2LTQ4YzEtOS85MjE4Y2YxOC1hZjVjLTRmMTctOS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:02|https://s3.amazonaws.com/6C799F/98603c48-4a06-48c1-9/9218cf18-af5c-4f17-9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4OTk2Mi8yNzY1QjAwNkU2M0I0OTRCQTk5QjE0RjYzMjM3MTIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|09:47|https://s3.amazonaws.com/189962/2765B006E63B494BA99B14F6323712/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y1QkkvOTIyMEM4ODczMkZGNDM0QzkzMUJBRDVENS9DNTJDQ0JEQjlBQjBBMDQxQUEzOThDOUIyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:36|https://s3.amazonaws.com/f5BI/9220C88732FF434C931BAD5D5/C52CCBDB9AB0A041AA398C9B2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzB0V2l0dVFPa0VLVXdnLzE5NDEvMzE2MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|09:17|https://s3.amazonaws.com/0tWituQOkEKUwg/1941/3161/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JYZGEvOERBMTI1MjhELzM5MDFEMTk2MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|09:09|https://s3.amazonaws.com/BXda/8DA12528D/3901D1961/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1262,3 +1262,4 @@
 |[set2updatenow.your-readysystemsforcontentnew.date](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentnew.date&type=A)|
 |[settingupdate.your-readysystemsforcontentsafeload.date](https://dns.google.com/query?name=settingupdate.your-readysystemsforcontentsafeload.date&type=A)|
 |[getupgrade.your-readysystemsforcontentsafeload.date](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentsafeload.date&type=A)|
+|[set2updatenow.your-readysystemsforcontentnew.trade](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentnew.trade&type=A)|
