@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1lVZDYvMTIzMkFEMjNBNUYyOTM0RUFFREZGODYxMkNENDQvQTAxMzk1MjBFNUZDNjY0NThBQUJBMENFQkJCMDIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:39|https://s3.amazonaws.com/YUd6/1232AD23A5F2934EAEDFF8612CD44/A0139520E5FC66458AABA0CEBBB02/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1lKTDJQanBHRlUvODc2ODUxNUU4OTkxQjUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:33|https://s3.amazonaws.com/YJL2PjpGFU/8768515E8991B5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2NTMvYjl4NnFlc3gvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:18|https://s3.amazonaws.com/1653/b9x6qesx/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZkMTYvMTFDMEQ4RTI2NDUyMTg0My9EMzQ0RDc5NjNEMzlERjQ5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:14|https://s3.amazonaws.com/6d16/11C0D8E264521843/D344D7963D39DF49/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRBMzVFNkZDQS8zMDk5MzBlYy04OWUwLTRhY2YtYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:57|https://s3.amazonaws.com/4A35E6FCA/309930ec-89e0-4acf-a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg2MkNBMjA0NEUxMjY5LzIyMjYvMTU1My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:48|https://s3.amazonaws.com/862CA2044E1269/2226/1553/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0I4RTg0NEZBRDJFNTM4NDc4NEJDMTYyMzQ3Qi8yODY5OTc3Ni9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:38|https://s3.amazonaws.com/B8E844FAD2E5384784BC162347B/28699776/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1369,3 +1369,4 @@
 |[workupgrade.yourpointofforcontent.stream](https://dns.google.com/query?name=workupgrade.yourpointofforcontent.stream&type=A)|
 |[workupgrade.yourpointofforcontent.win](https://dns.google.com/query?name=workupgrade.yourpointofforcontent.win&type=A)|
 |[livecheck.yourpointofforcontentalways.bid](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.bid&type=A)|
+|[nowup.yourpointofforcontentalways.bid](https://dns.google.com/query?name=nowup.yourpointofforcontentalways.bid&type=A)|
