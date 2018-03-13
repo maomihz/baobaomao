@@ -1268,3 +1268,4 @@
 |[getupgrade.your-readysystemsforcontentsafeload.stream](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentsafeload.stream&type=A)|
 |[aptitude.your-readysystemsforcontentsafeload.stream](https://dns.google.com/query?name=aptitude.your-readysystemsforcontentsafeload.stream&type=A)|
 |[settingupdate.your-readysystemsforcontentsafeload.review](https://dns.google.com/query?name=settingupdate.your-readysystemsforcontentsafeload.review&type=A)|
+|[getupgrade.your-readysystemsforcontentsafeload.review](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentsafeload.review&type=A)|
