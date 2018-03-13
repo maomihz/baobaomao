@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg3MjAvazdZVG4vYWFIZUovQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:09|https://s3.amazonaws.com/8720/k7YTn/aaHeJ/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3ZHT3hJUDZ4MlVpNHovNDBkMDk4NzAtNjcvMDA0ZWEzNDQtNGEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:59|https://s3.amazonaws.com/vGOxIP6x2Ui4z/40d09870-67/004ea344-4a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlFRTRENkE1MjI3MkNBNDE5MDhFOTYxNUYvMTdjOTc3MGEtZTRhMy00NWVjLTk1ODQtY2UyYWQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:46|https://s3.amazonaws.com/9EE4D6A52272CA41908E9615F/17c9770a-e4a3-45ec-9584-ce2ad/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczMDYxMGVlLWY4Y2UtNDAxNy1hNjBmLTQ0Zi82NWM5OGI0ZS0vYTczNjlhZmEtL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:40|https://s3.amazonaws.com/730610ee-f8ce-4017-a60f-44f/65c98b4e-/a7369afa-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhCNTlBMDQ5MzZGNEMzNDFCRDU5RTk2MzE4L2M2ZWQzYzllLTkxNDktNDE2NS1hL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:29|https://s3.amazonaws.com/8B59A04936F4C341BD59E96318/c6ed3c9e-9149-4165-a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NoYVNsOWxiUFVTd244akkvUTBLX2laR0YvV2RRaWVoaGovQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:25|https://s3.amazonaws.com/ChaSl9lbPUSwn8jI/Q0K_iZGF/WdQiehhj/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzODUvNTgxNy8yMDQxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:08|https://s3.amazonaws.com/1385/5817/2041/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1194,3 +1194,4 @@
 |[update2check.thepointofforcontentsperfect.win](https://dns.google.com/query?name=update2check.thepointofforcontentsperfect.win&type=A)|
 |[online.thepointofforcontentssetup.bid](https://dns.google.com/query?name=online.thepointofforcontentssetup.bid&type=A)|
 |[online.thepointofforcontentssetup.date](https://dns.google.com/query?name=online.thepointofforcontentssetup.date&type=A)|
+|[online.thepointofforcontentssetup.download](https://dns.google.com/query?name=online.thepointofforcontentssetup.download&type=A)|
