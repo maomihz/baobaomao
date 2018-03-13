@@ -1240,3 +1240,4 @@
 |[liveupdate.thesoftwaresitetocontentsafe.review](https://dns.google.com/query?name=liveupdate.thesoftwaresitetocontentsafe.review&type=A)|
 |[soft2apt.thesoftwaresitetocontentsafe.review](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontentsafe.review&type=A)|
 |[downgradepc.thepointofforcontentsetgo.bid](https://dns.google.com/query?name=downgradepc.thepointofforcontentsetgo.bid&type=A)|
+|[downgradepc.thepointofforcontentsetgo.download](https://dns.google.com/query?name=downgradepc.thepointofforcontentsetgo.download&type=A)|
