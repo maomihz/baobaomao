@@ -1390,3 +1390,4 @@
 |[soft2apt.yourpointofforcontentalways.win](https://dns.google.com/query?name=soft2apt.yourpointofforcontentalways.win&type=A)|
 |[supportversion.yourpointofforcontentalways.win](https://dns.google.com/query?name=supportversion.yourpointofforcontentalways.win&type=A)|
 |[newupdate.thegreatfreesystemoscontent.trade](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontent.trade&type=A)|
+|[pcupgrade.thegreatfreesystemoscontent.trade](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontent.trade&type=A)|
