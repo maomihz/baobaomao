@@ -1345,3 +1345,4 @@
 |[setupupgrade.yourpointof4contents.download](https://dns.google.com/query?name=setupupgrade.yourpointof4contents.download&type=A)|
 |[livecheck2update.yourpointof4contents.stream](https://dns.google.com/query?name=livecheck2update.yourpointof4contents.stream&type=A)|
 |[setupupgrade.yourpointof4contents.stream](https://dns.google.com/query?name=setupupgrade.yourpointof4contents.stream&type=A)|
+|[24check.yourpointof4contents.trade](https://dns.google.com/query?name=24check.yourpointof4contents.trade&type=A)|
