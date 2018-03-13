@@ -1347,3 +1347,4 @@
 |[setupupgrade.yourpointof4contents.stream](https://dns.google.com/query?name=setupupgrade.yourpointof4contents.stream&type=A)|
 |[24check.yourpointof4contents.trade](https://dns.google.com/query?name=24check.yourpointof4contents.trade&type=A)|
 |[livecheck2update.yourpointof4contents.trade](https://dns.google.com/query?name=livecheck2update.yourpointof4contents.trade&type=A)|
+|[livecheck2update.yourpointof4contents.win](https://dns.google.com/query?name=livecheck2update.yourpointof4contents.win&type=A)|
