@@ -1231,3 +1231,4 @@
 |[soft2apt.thesoftwaresitetocontentsafe.download](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontentsafe.download&type=A)|
 |[soft2apt.thesoftwaresitetocontentsafe.stream](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontentsafe.stream&type=A)|
 |[howtoupdate.thesoftwaresitetocontentsafe.stream](https://dns.google.com/query?name=howtoupdate.thesoftwaresitetocontentsafe.stream&type=A)|
+|[newliveupdate.thesoftwaresiteforcontentsafe.review](https://dns.google.com/query?name=newliveupdate.thesoftwaresiteforcontentsafe.review&type=A)|
