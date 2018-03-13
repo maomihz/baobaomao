@@ -1368,3 +1368,4 @@
 |[whenupgrade.yourpointofforcontent.stream](https://dns.google.com/query?name=whenupgrade.yourpointofforcontent.stream&type=A)|
 |[workupgrade.yourpointofforcontent.stream](https://dns.google.com/query?name=workupgrade.yourpointofforcontent.stream&type=A)|
 |[workupgrade.yourpointofforcontent.win](https://dns.google.com/query?name=workupgrade.yourpointofforcontent.win&type=A)|
+|[livecheck.yourpointofforcontentalways.bid](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.bid&type=A)|
