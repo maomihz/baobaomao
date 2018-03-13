@@ -1409,3 +1409,4 @@
 |[pcupgrade.thegreatfreesystemoscontents.trade](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontents.trade&type=A)|
 |[pcupgrade.thegreatfreesystemoscontents.win](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontents.win&type=A)|
 |[newupdate.thegreatfreesystemoscontentsafe.bid](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontentsafe.bid&type=A)|
+|[upgradenote.thegreatfreesystemoscontentsafe.bid](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.bid&type=A)|
