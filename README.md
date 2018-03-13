@@ -1381,3 +1381,4 @@
 |[soft2apt.yourpointofforcontentalways.review](https://dns.google.com/query?name=soft2apt.yourpointofforcontentalways.review&type=A)|
 |[livecheck.yourpointofforcontentalways.stream](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.stream&type=A)|
 |[soft2apt.yourpointofforcontentalways.stream](https://dns.google.com/query?name=soft2apt.yourpointofforcontentalways.stream&type=A)|
+|[supportversion.yourpointofforcontentalways.stream](https://dns.google.com/query?name=supportversion.yourpointofforcontentalways.stream&type=A)|
