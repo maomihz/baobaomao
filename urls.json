@@ -1,24 +1,24 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/D6939C6C2A5AE84/1692/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/D6939C6C2A5AE84/1692/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520954235.572629
+    "https://s3.amazonaws.com/89DF57BCD823594B9D5B/t/xjv1i93kig/J65nlUIkkECs/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/89DF57BCD823594B9D5B/t/xjv1i93kig/J65nlUIkkECs/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520958042.571206
     },
-    "https://s3.amazonaws.com/6055/84de/e798/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/6055/84de/e798/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520957281.448414
+    "https://s3.amazonaws.com/af292e08-c54c-440c-a01a-/27024/98892/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/af292e08-c54c-440c-a01a-/27024/98892/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520956265.791728
     },
     "https://s3.amazonaws.com/B1839E91D8DACA4EA3DEA63CE/FORjsOEGjEatluFDKjb2q/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/B1839E91D8DACA4EA3DEA63CE/FORjsOEGjEatluFDKjb2q/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520954866.729241
     },
+    "https://s3.amazonaws.com/6055/84de/e798/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/6055/84de/e798/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1520957281.448414
+    },
     "https://s3.amazonaws.com/axd_/48951/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/axd_/48951/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1520955378.125119
-    },
-    "https://s3.amazonaws.com/af292e08-c54c-440c-a01a-/27024/98892/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/af292e08-c54c-440c-a01a-/27024/98892/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1520956265.791728
     },
     "https://s3.amazonaws.com/8630/12388667/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/8630/12388667/AdobeFlashPlayerInstaller.dmg",
@@ -1332,6 +1332,7 @@
     "setupupgrade.yourpointof4contenting.date",
     "livecheck2update.yourpointof4contenting.download",
     "setupupgrade.yourpointof4contenting.download",
-    "update2check.yourpointof4contenting.download"
+    "update2check.yourpointof4contenting.download",
+    "livecheck2update.yourpointof4contenting.review"
   ]
 }
