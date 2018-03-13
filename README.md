@@ -1261,3 +1261,4 @@
 |[settingupdate.your-readysystemsforcontentload.date](https://dns.google.com/query?name=settingupdate.your-readysystemsforcontentload.date&type=A)|
 |[set2updatenow.your-readysystemsforcontentnew.date](https://dns.google.com/query?name=set2updatenow.your-readysystemsforcontentnew.date&type=A)|
 |[settingupdate.your-readysystemsforcontentsafeload.date](https://dns.google.com/query?name=settingupdate.your-readysystemsforcontentsafeload.date&type=A)|
+|[getupgrade.your-readysystemsforcontentsafeload.date](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentsafeload.date&type=A)|
