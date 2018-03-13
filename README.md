@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RkNmMvNlJZYy9rM1pXL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:00|https://s3.amazonaws.com/dd6c/6RYc/k3ZW/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0FDOTAvMWYxNzAwOWUtZmI2Mi00NGJkL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:47|https://s3.amazonaws.com/AC90/1f17009e-fb62-44bd/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzcwQTlGRjRBQjA1RDRCNERBRUUwNkMvY2lUZ0w2S1ppRS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:39|https://s3.amazonaws.com/70A9FF4AB05D4B4DAEE06C/ciTgL6KZiE/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL184TlJlX01oV0UySl9YYVRBRHBwTC9mYzkyZDg4ZS1jNGI2LTRhN2MtODVjL2YxYmIwZTJkLTExNTgtNDA5Mi04ZDIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:28|https://s3.amazonaws.com/_8NRe_MhWE2J_XaTADppL/fc92d88e-c4b6-4a7c-85c/f1bb0e2d-1158-4092-8d2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMjYvNUM1NEQ1NzExNjZEQzI0Mjg0NzVFNkYvNDU4NzI5NzVCQzU5QzI0NjgwNzAyOEEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:18|https://s3.amazonaws.com/2126/5C54D571166DC2428475E6F/45872975BC59C246807028A/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M3MGIyMjAyLWI3YjMtNDdjMC1hMzMzLS83MmFjODNhOC03ZGE0LTQzNzYtOWUxOS04MDNiZmRiZDNhLzRlMjEzZTVlLWFiOGItNGI2OS04NjhkLWUzZmNjNGQyYTQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:07|https://s3.amazonaws.com/c70b2202-b7b3-47c0-a333-/72ac83a8-7da4-4376-9e19-803bfdbd3a/4e213e5e-ab8b-4b69-868d-e3fcc4d2a4/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M0MkI2NDAyL0EzRjJFQUFGRDkvNzdCNEE3NDY0OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:57|https://s3.amazonaws.com/C42B6402/A3F2EAAFD9/77B4A74648/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1410,3 +1410,4 @@
 |[pcupgrade.thegreatfreesystemoscontents.win](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontents.win&type=A)|
 |[newupdate.thegreatfreesystemoscontentsafe.bid](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontentsafe.bid&type=A)|
 |[upgradenote.thegreatfreesystemoscontentsafe.bid](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.bid&type=A)|
+|[pcupgrade.thegreatfreesystemoscontentsafe.date](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontentsafe.date&type=A)|
