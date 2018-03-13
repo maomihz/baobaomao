@@ -1342,3 +1342,4 @@
 |[livecheck2update.yourpointof4contents.date](https://dns.google.com/query?name=livecheck2update.yourpointof4contents.date&type=A)|
 |[setupupgrade.yourpointof4contents.date](https://dns.google.com/query?name=setupupgrade.yourpointof4contents.date&type=A)|
 |[24check.yourpointof4contents.download](https://dns.google.com/query?name=24check.yourpointof4contents.download&type=A)|
+|[setupupgrade.yourpointof4contents.download](https://dns.google.com/query?name=setupupgrade.yourpointof4contents.download&type=A)|
