@@ -1412,3 +1412,4 @@
 |[upgradenote.thegreatfreesystemoscontentsafe.bid](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.bid&type=A)|
 |[pcupgrade.thegreatfreesystemoscontentsafe.date](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontentsafe.date&type=A)|
 |[newupdate.thegreatfreesystemoscontentsafe.download](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontentsafe.download&type=A)|
+|[pcupgrade.thegreatfreesystemoscontentsafe.download](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontentsafe.download&type=A)|
