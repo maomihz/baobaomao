@@ -1251,3 +1251,4 @@
 |[getupgrade.your-readysystemsforcontentingload.bid](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentingload.bid&type=A)|
 |[settingupdate.your-readysystemsforcontentingload.review](https://dns.google.com/query?name=settingupdate.your-readysystemsforcontentingload.review&type=A)|
 |[aptitude.your-readysystemsforcontentingload.review](https://dns.google.com/query?name=aptitude.your-readysystemsforcontentingload.review&type=A)|
+|[getupgrade.your-readysystemsforcontentingload.review](https://dns.google.com/query?name=getupgrade.your-readysystemsforcontentingload.review&type=A)|
