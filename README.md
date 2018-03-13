@@ -1187,3 +1187,4 @@
 |[24newsoft.thepointofforcontentsperfect.download](https://dns.google.com/query?name=24newsoft.thepointofforcontentsperfect.download&type=A)|
 |[24newsoft.thepointofforcontentsperfect.stream](https://dns.google.com/query?name=24newsoft.thepointofforcontentsperfect.stream&type=A)|
 |[setupupgrade12.thepointofforcontentsperfect.stream](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentsperfect.stream&type=A)|
+|[update2check.thepointofforcontentsperfect.stream](https://dns.google.com/query?name=update2check.thepointofforcontentsperfect.stream&type=A)|
