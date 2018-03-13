@@ -1312,3 +1312,4 @@
 |[24check.yourpointof4content.review](https://dns.google.com/query?name=24check.yourpointof4content.review&type=A)|
 |[app4com.thepointofforcontentsnow.bid](https://dns.google.com/query?name=app4com.thepointofforcontentsnow.bid&type=A)|
 |[get24update.thesoftwaresiteforcontenting.download](https://dns.google.com/query?name=get24update.thesoftwaresiteforcontenting.download&type=A)|
+|[newsoftready.thepointofforcontentsnow.download](https://dns.google.com/query?name=newsoftready.thepointofforcontentsnow.download&type=A)|
