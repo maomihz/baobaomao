@@ -1416,3 +1416,4 @@
 |[pcupgrade.thegreatfreesystemoscontentsafe.trade](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontentsafe.trade&type=A)|
 |[upgradenote.thegreatfreesystemoscontentsafe.trade](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.trade&type=A)|
 |[newupdate.thegreatfreesystemoscontentsafe.stream](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontentsafe.stream&type=A)|
+|[upgradenote.thegreatfreesystemoscontentsafe.stream](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.stream&type=A)|
