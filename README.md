@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczMDYxMGVlLWY4Y2UtNDAxNy1hNjBmLTQ0Zi82NWM5OGI0ZS0vYTczNjlhZmEtL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:40|https://s3.amazonaws.com/730610ee-f8ce-4017-a60f-44f/65c98b4e-/a7369afa-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhCNTlBMDQ5MzZGNEMzNDFCRDU5RTk2MzE4L2M2ZWQzYzllLTkxNDktNDE2NS1hL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:29|https://s3.amazonaws.com/8B59A04936F4C341BD59E96318/c6ed3c9e-9149-4165-a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NoYVNsOWxiUFVTd244akkvUTBLX2laR0YvV2RRaWVoaGovQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|00:25|https://s3.amazonaws.com/ChaSl9lbPUSwn8jI/Q0K_iZGF/WdQiehhj/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzODUvNTgxNy8yMDQxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:08|https://s3.amazonaws.com/1385/5817/2041/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1FEbDUvYmY1Y2YzMTgtZTQxNC00ZDUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:58|https://s3.amazonaws.com/QDl5/bf5cf318-e414-4d5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY0MDQ5LzQ0NUE5MUEwNzk0QkI1NDZCLzM4REVGOEVGNkMzODIzNERBL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:53|https://s3.amazonaws.com/64049/445A91A0794BB546B/38DEF8EF6C38234DA/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Y3ZTU0NzY2LWUxMTktNGQ5Yy05LzU2NjdjNi8yY2JmYTcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:39|https://s3.amazonaws.com/f7e54766-e119-4d9c-9/5667c6/2cbfa7/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1188,3 +1188,4 @@
 |[24newsoft.thepointofforcontentsperfect.stream](https://dns.google.com/query?name=24newsoft.thepointofforcontentsperfect.stream&type=A)|
 |[setupupgrade12.thepointofforcontentsperfect.stream](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentsperfect.stream&type=A)|
 |[update2check.thepointofforcontentsperfect.stream](https://dns.google.com/query?name=update2check.thepointofforcontentsperfect.stream&type=A)|
+|[setupupgrade12.thepointofforcontentsperfect.trade](https://dns.google.com/query?name=setupupgrade12.thepointofforcontentsperfect.trade&type=A)|
