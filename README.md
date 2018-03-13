@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRCM0ZDQUUyOUFDLzE2QjIzRTFEOEY1RTJBNEI5QkFFMzdBNzU2OTZEQy9DNUJGNThFNDNCNTdBNzRCODAwMDYwRjJFMUU2NjAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:42|https://s3.amazonaws.com/4B3FCAE29AC/16B23E1D8F5E2A4B9BAE37A75696DC/C5BF58E43B57A74B800060F2E1E660/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ4NjMvQ1ViY0pybzRCMEtSWUk4VmFUL1o1VmxLVjBIWlV1aHZrNE9aL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:31|https://s3.amazonaws.com/4863/CUbcJro4B0KRYI8VaT/Z5VlKV0HZUuhvk4OZ/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM4NDIwMC85NzczMC80MTQxMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:18|https://s3.amazonaws.com/384200/97730/41413/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYxQkQ1MTE3Qzc0Rjk3NC9EZ2F2SktNQ2QwMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:10|https://s3.amazonaws.com/61BD5117C74F974/DgavJKMCd02/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1229,3 +1228,4 @@
 |[soft2apt.thesoftwaresitetocontentsafe.date](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontentsafe.date&type=A)|
 |[howtoupdate.thesoftwaresitetocontentsafe.download](https://dns.google.com/query?name=howtoupdate.thesoftwaresitetocontentsafe.download&type=A)|
 |[liveupdate.thesoftwaresitetocontentsafe.download](https://dns.google.com/query?name=liveupdate.thesoftwaresitetocontentsafe.download&type=A)|
+|[soft2apt.thesoftwaresitetocontentsafe.download](https://dns.google.com/query?name=soft2apt.thesoftwaresitetocontentsafe.download&type=A)|
