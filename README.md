@@ -1507,3 +1507,4 @@
 |[upgradenote.thegreatfreesystemoscontentsafe.date](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.date&type=A)|
 |[installworking.thegreatfreesystemos2content.bid](https://dns.google.com/query?name=installworking.thegreatfreesystemos2content.bid&type=A)|
 |[testpconly12.thegreatfreesystemos2content.bid](https://dns.google.com/query?name=testpconly12.thegreatfreesystemos2content.bid&type=A)|
+|[pcupgrade.thegreatfreesystemos2content.date](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemos2content.date&type=A)|
