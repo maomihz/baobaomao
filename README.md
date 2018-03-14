@@ -1574,3 +1574,4 @@
 |[upnow2app.thegreatfreesystemoscontents.date](https://dns.google.com/query?name=upnow2app.thegreatfreesystemoscontents.date&type=A)|
 |[downgradepc.thegreatfreesystemosforcontentclear.date](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentclear.date&type=A)|
 |[checkingfree.thegreatfreesystemosforcontentclear.download](https://dns.google.com/query?name=checkingfree.thegreatfreesystemosforcontentclear.download&type=A)|
+|[downgradepc.thegreatfreesystemosforcontentclear.download](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentclear.download&type=A)|
