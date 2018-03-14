@@ -1608,3 +1608,4 @@
 |[setupnow.thegreatfreesystemosforcontentingperfect.date](https://dns.google.com/query?name=setupnow.thegreatfreesystemosforcontentingperfect.date&type=A)|
 |[getnewsoft.thegreatfreesystemosforcontentingperfect.date](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentingperfect.date&type=A)|
 |[24pcupgrade.thegreatfreesystemosforcontentingperfect.download](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentingperfect.download&type=A)|
+|[askupdate.thegreatfreesystemosforcontentingperfect.download](https://dns.google.com/query?name=askupdate.thegreatfreesystemosforcontentingperfect.download&type=A)|
