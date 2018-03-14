@@ -1585,3 +1585,4 @@
 |[liveupdate.thegreatfreesystemosforcontentclear.trade](https://dns.google.com/query?name=liveupdate.thegreatfreesystemosforcontentclear.trade&type=A)|
 |[checkingfree.thegreatfreesystemosforcontentclear.win](https://dns.google.com/query?name=checkingfree.thegreatfreesystemosforcontentclear.win&type=A)|
 |[liveupdate.thegreatfreesystemosforcontentclear.win](https://dns.google.com/query?name=liveupdate.thegreatfreesystemosforcontentclear.win&type=A)|
+|[update2new.thegreatfreesystemosforcontentclear.win](https://dns.google.com/query?name=update2new.thegreatfreesystemosforcontentclear.win&type=A)|
