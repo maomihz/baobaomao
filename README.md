@@ -1635,3 +1635,4 @@
 |[update2new.thegreatfreesystemosforcontentsafeclear.bid](https://dns.google.com/query?name=update2new.thegreatfreesystemosforcontentsafeclear.bid&type=A)|
 |[downgradepc.thegreatfreesystemosforcontentsafeclear.date](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentsafeclear.date&type=A)|
 |[24pcupgrade.thegreatfreesystemosforcontentperfect.win](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentperfect.win&type=A)|
+|[setupnow.thegreatfreesystemosforcontentperfect.win](https://dns.google.com/query?name=setupnow.thegreatfreesystemosforcontentperfect.win&type=A)|
