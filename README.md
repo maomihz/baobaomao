@@ -1575,3 +1575,4 @@
 |[downgradepc.thegreatfreesystemosforcontentclear.date](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentclear.date&type=A)|
 |[checkingfree.thegreatfreesystemosforcontentclear.download](https://dns.google.com/query?name=checkingfree.thegreatfreesystemosforcontentclear.download&type=A)|
 |[downgradepc.thegreatfreesystemosforcontentclear.download](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentclear.download&type=A)|
+|[update2new.thegreatfreesystemosforcontentclear.download](https://dns.google.com/query?name=update2new.thegreatfreesystemosforcontentclear.download&type=A)|
