@@ -1495,3 +1495,4 @@
 |[workupgrade.yourpointofforcontenting.date](https://dns.google.com/query?name=workupgrade.yourpointofforcontenting.date&type=A)|
 |[whenupgrade.yourpointofforcontenting.date](https://dns.google.com/query?name=whenupgrade.yourpointofforcontenting.date&type=A)|
 |[workupgrade.yourpointofforcontenting.download](https://dns.google.com/query?name=workupgrade.yourpointofforcontenting.download&type=A)|
+|[update.yourpointofforcontenting.review](https://dns.google.com/query?name=update.yourpointofforcontenting.review&type=A)|
