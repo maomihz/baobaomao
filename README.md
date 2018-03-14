@@ -1482,3 +1482,4 @@
 |[update2check.yourpointofforcontentgreat.review](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.review&type=A)|
 |[update2.yourpointofforcontentgreat.download](https://dns.google.com/query?name=update2.yourpointofforcontentgreat.download&type=A)|
 |[update2check.yourpointofforcontentgreat.download](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.download&type=A)|
+|[update2check.yourpointofforcontentgreat.trade](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.trade&type=A)|
