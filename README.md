@@ -1438,3 +1438,4 @@
 |[upgradecheck12.thegreatfreesystemostocontent.win](https://dns.google.com/query?name=upgradecheck12.thegreatfreesystemostocontent.win&type=A)|
 |[newupdate.thegreatfreesystemostocontenting.download](https://dns.google.com/query?name=newupdate.thegreatfreesystemostocontenting.download&type=A)|
 |[freemaintenance.thegreatfreesystemostocontenting.download](https://dns.google.com/query?name=freemaintenance.thegreatfreesystemostocontenting.download&type=A)|
+|[newupdate.thegreatfreesystemostocontenting.date](https://dns.google.com/query?name=newupdate.thegreatfreesystemostocontenting.date&type=A)|
