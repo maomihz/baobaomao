@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2pZS2VqT2IvOTQ0OTUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:20|https://s3.amazonaws.com/jYKejOb/94495/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M5OTk2OGNhLTMwZC8xMDQzLzQzMjMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:11|https://s3.amazonaws.com/c99968ca-30d/1043/4323/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhaZmIvMzE4NzdDQzcwRUQ1NTI0Nzk0NEFEMzBFNjIvMERCNUJDNTYzMUQzQzc0OUE0OUY4NDE4M0IvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:06|https://s3.amazonaws.com/8Zfb/31877CC70ED55247944AD30E62/0DB5BC5631D3C749A49F84183B/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI4ODgvODE4Mi9COENCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:53|https://s3.amazonaws.com/2888/8182/B8CB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0E2Q0UvNDY2RDNFNDE4QTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:39|https://s3.amazonaws.com/A6CE/466D3E418A1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ3MTU4Mi8wQTJGMzMxNkEyQkRCMTRCOTNDQUNGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:28|https://s3.amazonaws.com/471582/0A2F3316A2BDB14B93CACF/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzMzEvMHgvWGU1dFVGRXVjS1p3QWpvRi94d0lLRm5MMlEwXzdlU3pCZ0Y1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:22|https://s3.amazonaws.com/1331/0x/Xe5tUFEucKZwAjoF/xwIKFnL2Q0_7eSzBgF5/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1633,3 +1633,4 @@
 |[downgradepc.thegreatfreesystemosforcontentsafeclear.bid](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentsafeclear.bid&type=A)|
 |[liveupdate.thegreatfreesystemosforcontentsafeclear.bid](https://dns.google.com/query?name=liveupdate.thegreatfreesystemosforcontentsafeclear.bid&type=A)|
 |[update2new.thegreatfreesystemosforcontentsafeclear.bid](https://dns.google.com/query?name=update2new.thegreatfreesystemosforcontentsafeclear.bid&type=A)|
+|[downgradepc.thegreatfreesystemosforcontentsafeclear.date](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentsafeclear.date&type=A)|
