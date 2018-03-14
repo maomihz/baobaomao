@@ -1560,3 +1560,4 @@
 |[pcupgrade.thegreatfreesystemoscontent.date](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontent.date&type=A)|
 |[upgradenote.thegreatfreesystemoscontent.date](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontent.date&type=A)|
 |[upnow2app.thegreatfreesystemoscontent.review](https://dns.google.com/query?name=upnow2app.thegreatfreesystemoscontent.review&type=A)|
+|[pcupgrade.thegreatfreesystemoscontent.download](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontent.download&type=A)|
