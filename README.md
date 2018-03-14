@@ -1626,3 +1626,4 @@
 |[getnewsoft.thegreatfreesystemosforcontentperfect.bid](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentperfect.bid&type=A)|
 |[setupnow.thegreatfreesystemosforcontentperfect.bid](https://dns.google.com/query?name=setupnow.thegreatfreesystemosforcontentperfect.bid&type=A)|
 |[getnewsoft.thegreatfreesystemosforcontentperfect.date](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentperfect.date&type=A)|
+|[24pcupgrade.thegreatfreesystemosforcontentperfect.download](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentperfect.download&type=A)|
