@@ -1503,3 +1503,4 @@
 |[supportversion.yourpointofforcontentingalways.date](https://dns.google.com/query?name=supportversion.yourpointofforcontentingalways.date&type=A)|
 |[livecheck.yourpointofforcontentingalways.bid](https://dns.google.com/query?name=livecheck.yourpointofforcontentingalways.bid&type=A)|
 |[nowup.yourpointofforcontentingalways.bid](https://dns.google.com/query?name=nowup.yourpointofforcontentingalways.bid&type=A)|
+|[pcupgrade.thegreatfreesystemoscontentsafe.bid](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontentsafe.bid&type=A)|
