@@ -1536,3 +1536,4 @@
 |[pcupgrade.thegreatfreesystemos2contents.review](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemos2contents.review&type=A)|
 |[freemaintenance.thegreatfreesystemostocontent.bid](https://dns.google.com/query?name=freemaintenance.thegreatfreesystemostocontent.bid&type=A)|
 |[freemaintenance.thegreatfreesystemostocontent.download](https://dns.google.com/query?name=freemaintenance.thegreatfreesystemostocontent.download&type=A)|
+|[newupdate.thegreatfreesystemostocontent.download](https://dns.google.com/query?name=newupdate.thegreatfreesystemostocontent.download&type=A)|
