@@ -1646,3 +1646,4 @@
 |[newsoft24.thegreatfreesystemosforcontentsafeload.stream](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentsafeload.stream&type=A)|
 |[newsoft24.thegreatfreesystemosforcontentsafeload.trade](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentsafeload.trade&type=A)|
 |[up2date.thegreatfreesystemosforcontentingsetup.trade](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.trade&type=A)|
+|[lastversion.thegreatfreesystemosforcontentingsetup.trade](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentingsetup.trade&type=A)|
