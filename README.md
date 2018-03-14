@@ -1422,3 +1422,4 @@
 |[pcupgrade.thegreatfreesystemoscontentsafe.win](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontentsafe.win&type=A)|
 |[upgradenote.thegreatfreesystemoscontentsafe.win](https://dns.google.com/query?name=upgradenote.thegreatfreesystemoscontentsafe.win&type=A)|
 |[newupdate.thegreatfreesystemostocontent.bid](https://dns.google.com/query?name=newupdate.thegreatfreesystemostocontent.bid&type=A)|
+|[upgradecheck12.thegreatfreesystemostocontent.bid](https://dns.google.com/query?name=upgradecheck12.thegreatfreesystemostocontent.bid&type=A)|
