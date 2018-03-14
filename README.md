@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY2NmIwZC8xMDQwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:10|https://s3.amazonaws.com/666b0d/1040/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdmM2Q4ZjExLWJlYmItNDQvMDQ5RTVFQjZEMUUyNjk0Q0IxRjc3RTUvM0Q1NkU3NTkyMzg2MTk0OUI2NkFGRjkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:59|https://s3.amazonaws.com/7f3d8f11-bebb-44/049E5EB6D1E2694CB1F77E5/3D56E75923861949B66AFF9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhiZTU4ZWRmLWY1Y2UtNDg0YS1iLzE2MjcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:53|https://s3.amazonaws.com/8be58edf-f5ce-484a-b/1627/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q4MTJCRjRGQ0ZBNDkwNEJBRjYzQkIxREUvMjZjN2UyMzktMzNkZC00Zi8zNjczMzJjNS00ZDAwLTQ3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:40|https://s3.amazonaws.com/D812BF4FCFA4904BAF63BB1DE/26c7e239-33dd-4f/367332c5-4d00-47/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkyNzliMzA1LTZkYjYvZDFkOGVkMDItNmQ5OS00ODIxLWI4YmItYzgwNDkwMWYwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:32|https://s3.amazonaws.com/9279b305-6db6/d1d8ed02-6d99-4821-b8bb-c804901f0/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2pZS2VqT2IvOTQ0OTUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:20|https://s3.amazonaws.com/jYKejOb/94495/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M5OTk2OGNhLTMwZC8xMDQzLzQzMjMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:11|https://s3.amazonaws.com/c99968ca-30d/1043/4323/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1644,3 +1644,4 @@
 |[newsoft24.thegreatfreesystemosforcontentsafeload.review](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentsafeload.review&type=A)|
 |[pleaseupdate.thegreatfreesystemosforcontentsafeload.review](https://dns.google.com/query?name=pleaseupdate.thegreatfreesystemosforcontentsafeload.review&type=A)|
 |[newsoft24.thegreatfreesystemosforcontentsafeload.stream](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentsafeload.stream&type=A)|
+|[newsoft24.thegreatfreesystemosforcontentsafeload.trade](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentsafeload.trade&type=A)|
