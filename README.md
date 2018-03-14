@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FRQjlXd1JRTVVlSnBsT1dibzdvbC83NjEyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:30|https://s3.amazonaws.com/aQB9WwRQMUeJplOWbo7ol/7612/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5ODEvMTE2YjRjZTAtZi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|17:21|https://s3.amazonaws.com/1981/116b4ce0-f/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExMTQyLzE3ODY1MjYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:09|https://s3.amazonaws.com/11142/1786526/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdiYTkzMGNhLTYvMXU2bVg1VXBwRTZib20vTFZ5YzEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:00|https://s3.amazonaws.com/7ba930ca-6/1u6mX5UppE6bom/LVyc1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVFRTc3OTdEMjRCL1ZyMnZ1bnpnQlVhN19mUkUvMm1odGRVQ19ZRTJfWHlqcS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:45|https://s3.amazonaws.com/5EE7797D24B/Vr2vunzgBUa7_fRE/2mhtdUC_YE2_Xyjq/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY0YmYvMTExMjU3MjMvOTAyOTMwODcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|16:41|https://s3.amazonaws.com/64bf/11125723/90293087/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhBRjZGNzYwNUU2MDkvMTc4My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:28|https://s3.amazonaws.com/8AF6F7605E609/1783/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1607,3 +1607,4 @@
 |[newsoft24.thegreatfreesystemosforcontentingload.win](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentingload.win&type=A)|
 |[setupnow.thegreatfreesystemosforcontentingperfect.date](https://dns.google.com/query?name=setupnow.thegreatfreesystemosforcontentingperfect.date&type=A)|
 |[getnewsoft.thegreatfreesystemosforcontentingperfect.date](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentingperfect.date&type=A)|
+|[24pcupgrade.thegreatfreesystemosforcontentingperfect.download](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentingperfect.download&type=A)|
