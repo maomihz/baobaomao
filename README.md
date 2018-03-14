@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQxNjA1M2I5LTE3ZmQtNGNlMS1hZmM4LTU3NGQ5OC8xNTkzNzkyMS8xODM2MzEwNjQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:59|https://s3.amazonaws.com/416053b9-17fd-4ce1-afc8-574d98/15937921/183631064/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JEQUY1NDNDQzlBNTNCNEFBMDYxMkM1ODk2RS8xNDgzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:47|https://s3.amazonaws.com/BDAF543CC9A53B4AA0612C5896E/1483/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk2MTgvZDYwZDE2Y2EtMWJmNi00L2Q4ZGIyYThiLTEzOTktNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:40|https://s3.amazonaws.com/9618/d60d16ca-1bf6-4/d8db2a8b-1399-4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExNjczMjkvRjQyN0RENzE2MTgyNDQ0OTlGMkZDNDNCMS82RjgwOUQyNjM0OThCQzQzQUQ0Mzc3MDQ4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:30|https://s3.amazonaws.com/1167329/F427DD71618244499F2FC43B1/6F809D263498BC43AD4377048/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y4N0IyODc5RC81YTUyLzE4ZTQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:17|https://s3.amazonaws.com/F87B2879D/5a52/18e4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL213UU5hR0x3YUVfNTYzU2dGbS85ZlF6L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:09|https://s3.amazonaws.com/mwQNaGLwaE_563SgFm/9fQz/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRkOGFhYjIxLWQ2Ny9ZVGNzbHRaL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:56|https://s3.amazonaws.com/4d8aab21-d67/YTcsltZ/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1572,3 +1572,4 @@
 |[newupdate.thegreatfreesystemoscontenting.stream](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontenting.stream&type=A)|
 |[newupdate.thegreatfreesystemoscontents.date](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontents.date&type=A)|
 |[upnow2app.thegreatfreesystemoscontents.date](https://dns.google.com/query?name=upnow2app.thegreatfreesystemoscontents.date&type=A)|
+|[downgradepc.thegreatfreesystemosforcontentclear.date](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentclear.date&type=A)|
