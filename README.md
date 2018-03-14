@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI4ODgvODE4Mi9COENCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:53|https://s3.amazonaws.com/2888/8182/B8CB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0E2Q0UvNDY2RDNFNDE4QTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:39|https://s3.amazonaws.com/A6CE/466D3E418A1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ3MTU4Mi8wQTJGMzMxNkEyQkRCMTRCOTNDQUNGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:28|https://s3.amazonaws.com/471582/0A2F3316A2BDB14B93CACF/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzMzEvMHgvWGU1dFVGRXVjS1p3QWpvRi94d0lLRm5MMlEwXzdlU3pCZ0Y1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:22|https://s3.amazonaws.com/1331/0x/Xe5tUFEucKZwAjoF/xwIKFnL2Q0_7eSzBgF5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIzQzA5OEJDRjA2QzRENDNBRTMwRjRDRTEzQTlGMkQvNTM3N0YzOTZEQzNDNzk0Qy9BODVBODVCNzhFMTkxMjQ3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:11|https://s3.amazonaws.com/23C098BCF06C4D43AE30F4CE13A9F2D/5377F396DC3C794C/A85A85B78E191247/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkyNzc1NTU5LzMxN2MvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|18:59|https://s3.amazonaws.com/92775559/317c/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZFRkVEOUVERkM0QjYxNDdCMTgvMmE3ZmQyNWItZTE1NS00NDI5LWJmZjQtYjBkZTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|18:48|https://s3.amazonaws.com/FEFED9EDFC4B6147B18/2a7fd25b-e155-4429-bff4-b0de1/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1627,3 +1627,4 @@
 |[setupnow.thegreatfreesystemosforcontentperfect.bid](https://dns.google.com/query?name=setupnow.thegreatfreesystemosforcontentperfect.bid&type=A)|
 |[getnewsoft.thegreatfreesystemosforcontentperfect.date](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentperfect.date&type=A)|
 |[24pcupgrade.thegreatfreesystemosforcontentperfect.download](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentperfect.download&type=A)|
+|[setupnow.thegreatfreesystemosforcontentperfect.download](https://dns.google.com/query?name=setupnow.thegreatfreesystemosforcontentperfect.download&type=A)|
