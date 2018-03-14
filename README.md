@@ -1570,3 +1570,4 @@
 |[newupdate.thegreatfreesystemoscontenting.review](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontenting.review&type=A)|
 |[pcupgrade.thegreatfreesystemoscontenting.review](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontenting.review&type=A)|
 |[pcupgrade.thegreatfreesystemoscontenting.stream](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontenting.stream&type=A)|
+|[newupdate.thegreatfreesystemoscontenting.stream](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontenting.stream&type=A)|
