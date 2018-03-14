@@ -1501,3 +1501,4 @@
 |[update.yourpointofforcontenting.win](https://dns.google.com/query?name=update.yourpointofforcontenting.win&type=A)|
 |[livecheck.yourpointofforcontentalways.trade](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.trade&type=A)|
 |[supportversion.yourpointofforcontentingalways.date](https://dns.google.com/query?name=supportversion.yourpointofforcontentingalways.date&type=A)|
+|[livecheck.yourpointofforcontentingalways.bid](https://dns.google.com/query?name=livecheck.yourpointofforcontentingalways.bid&type=A)|
