@@ -1465,3 +1465,4 @@
 |[freechecknow.thegreatfreesystemostocontentsafe.trade](https://dns.google.com/query?name=freechecknow.thegreatfreesystemostocontentsafe.trade&type=A)|
 |[newsoft12.yourpointofforcontentgood.bid](https://dns.google.com/query?name=newsoft12.yourpointofforcontentgood.bid&type=A)|
 |[soft2apt.yourpointofforcontentalways.bid](https://dns.google.com/query?name=soft2apt.yourpointofforcontentalways.bid&type=A)|
+|[aptitude.yourpointofforcontentgood.download](https://dns.google.com/query?name=aptitude.yourpointofforcontentgood.download&type=A)|
