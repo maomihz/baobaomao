@@ -1666,3 +1666,4 @@
 |[pcupgrade.thegreatfreesystemos2contenting.stream](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemos2contenting.stream&type=A)|
 |[newtest4pc.thegreatfreesystemos2contenting.stream](https://dns.google.com/query?name=newtest4pc.thegreatfreesystemos2contenting.stream&type=A)|
 |[checksoft.thegreatfreesystemoscontentsafesetup.bid](https://dns.google.com/query?name=checksoft.thegreatfreesystemoscontentsafesetup.bid&type=A)|
+|[readynewsoft.thegreatfreesystemoscontentsafesetup.bid](https://dns.google.com/query?name=readynewsoft.thegreatfreesystemoscontentsafesetup.bid&type=A)|
