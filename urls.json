@@ -1,12 +1,8 @@
 {
   "urls": {
     "https://s3.amazonaws.com/1167329/F427DD71618244499F2FC43B1/6F809D263498BC43AD4377048/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521037823.926764,
-      "url": "https://s3.amazonaws.com/1167329/F427DD71618244499F2FC43B1/6F809D263498BC43AD4377048/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/4d8aab21-d67/YTcsltZ/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/4d8aab21-d67/YTcsltZ/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521035799.12504
+      "url": "https://s3.amazonaws.com/1167329/F427DD71618244499F2FC43B1/6F809D263498BC43AD4377048/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521037823.926764
     },
     "https://s3.amazonaws.com/a4dfd/84d52fc9-b1dc-45/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/a4dfd/84d52fc9-b1dc-45/AdobeFlashPlayerInstaller.dmg",
@@ -23,6 +19,10 @@
     "https://s3.amazonaws.com/mwQNaGLwaE_563SgFm/9fQz/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/mwQNaGLwaE_563SgFm/9fQz/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521036559.077607
+    },
+    "https://s3.amazonaws.com/4d8aab21-d67/YTcsltZ/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/4d8aab21-d67/YTcsltZ/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521035799.12504
     }
   },
   "ad_urls": [
@@ -1572,6 +1572,7 @@
     "upgradenote.thegreatfreesystemoscontent.review",
     "freechecknow.thegreatfreesystemostocontenting.bid",
     "pcupgrade.thegreatfreesystemoscontent.stream",
-    "pcupgrade.thegreatfreesystemoscontenting.bid"
+    "pcupgrade.thegreatfreesystemoscontenting.bid",
+    "upgradenote.thegreatfreesystemoscontenting.bid"
   ]
 }
