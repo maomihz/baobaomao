@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2YxMjA1MmEyLWUwYS9kZmI1N2Y5OS02YmFjLTRiMS9lMzY4OWYxMS0zMTBlLTRjYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:59|https://s3.amazonaws.com/f12052a2-e0a/dfb57f99-6bac-4b1/e3689f11-310e-4ca/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAzMjc2MmQ1LWIxZGMtNDUxMy04NmI4LWMxNDkxOTIvMDc0M0U1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:51|https://s3.amazonaws.com/032762d5-b1dc-4513-86b8-c149192/0743E5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBqRHVCWjFNd2thUndickEvMjQzMDYxOS8yMjQ4OTYzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:38|https://s3.amazonaws.com/0jDuBZ1MwkaRwbrA/2430619/2248963/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3MDI0OTcvY3JnMi9VQ0huL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:27|https://s3.amazonaws.com/1702497/crg2/UCHn/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdiNjk3MzE1LTc2YjktNGNkOS1hLzYxNGE4ZmMyLTEyYzAtNGNmMS05ODg0LTUwN2ExZDM0ZmYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:19|https://s3.amazonaws.com/7b697315-76b9-4cd9-a/614a8fc2-12c0-4cf1-9884-507a1d34ff/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL092T2xTSG1mWkVxVS80QWwwL3VlWTAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:08|https://s3.amazonaws.com/OvOlSHmfZEqU/4Al0/ueY0/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzcwZDM0MmU2LS8xMTA4LzgzMTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:58|https://s3.amazonaws.com/70d342e6-/1108/8311/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1547,3 +1547,4 @@
 |[installworking.thegreatfreesystemos2contentsafe.stream](https://dns.google.com/query?name=installworking.thegreatfreesystemos2contentsafe.stream&type=A)|
 |[installworking.thegreatfreesystemos2contentsafe.trade](https://dns.google.com/query?name=installworking.thegreatfreesystemos2contentsafe.trade&type=A)|
 |[pcupgrade.thegreatfreesystemos2contentsafe.trade](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemos2contentsafe.trade&type=A)|
+|[newtest4pc.thegreatfreesystemos2contentsafe.win](https://dns.google.com/query?name=newtest4pc.thegreatfreesystemos2contentsafe.win&type=A)|
