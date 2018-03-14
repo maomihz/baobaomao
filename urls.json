@@ -1,28 +1,28 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/7972/69LLBWo/KUS28yR/HBN3TyaY20SWemU/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520992174.398124,
-      "url": "https://s3.amazonaws.com/7972/69LLBWo/KUS28yR/HBN3TyaY20SWemU/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/c002649c-f5aa-4e/uCSX/EH7z/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520991026.464955,
-      "url": "https://s3.amazonaws.com/c002649c-f5aa-4e/uCSX/EH7z/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/9C15E15B36381/qXjq89Z8/Umt/Nw0Uhc7UVUaF/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520993952.557186,
-      "url": "https://s3.amazonaws.com/9C15E15B36381/qXjq89Z8/Umt/Nw0Uhc7UVUaF/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/F07ADA84ACB55648AB7D9C2B5A2C84/84c49861-c8b8-4d90-bd7a-d74c0c/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520992811.270469,
+      "url": "https://s3.amazonaws.com/F07ADA84ACB55648AB7D9C2B5A2C84/84c49861-c8b8-4d90-bd7a-d74c0c/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/9840/YeMmhqlAQ0ayiCuqTwG/CyFVJ/UIqUKtlZv8ziT/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520991531.408727,
       "url": "https://s3.amazonaws.com/9840/YeMmhqlAQ0ayiCuqTwG/CyFVJ/UIqUKtlZv8ziT/AdobeFlashPlayerInstaller.dmg"
     },
+    "https://s3.amazonaws.com/c002649c-f5aa-4e/uCSX/EH7z/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520991026.464955,
+      "url": "https://s3.amazonaws.com/c002649c-f5aa-4e/uCSX/EH7z/AdobeFlashPlayerInstaller.dmg"
+    },
     "https://s3.amazonaws.com/572245a9-4d7a-4f1b-b3eb-ea6a6c34/897935/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1520993446.086454,
       "url": "https://s3.amazonaws.com/572245a9-4d7a-4f1b-b3eb-ea6a6c34/897935/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/F07ADA84ACB55648AB7D9C2B5A2C84/84c49861-c8b8-4d90-bd7a-d74c0c/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1520992811.270469,
-      "url": "https://s3.amazonaws.com/F07ADA84ACB55648AB7D9C2B5A2C84/84c49861-c8b8-4d90-bd7a-d74c0c/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/9C15E15B36381/qXjq89Z8/Umt/Nw0Uhc7UVUaF/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520993952.557186,
+      "url": "https://s3.amazonaws.com/9C15E15B36381/qXjq89Z8/Umt/Nw0Uhc7UVUaF/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/7972/69LLBWo/KUS28yR/HBN3TyaY20SWemU/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1520992174.398124,
+      "url": "https://s3.amazonaws.com/7972/69LLBWo/KUS28yR/HBN3TyaY20SWemU/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -1438,6 +1438,7 @@
     "freechecknow.thegreatfreesystemostocontent.download",
     "upgradecheck12.thegreatfreesystemostocontent.download",
     "freechecknow.thegreatfreesystemostocontent.review",
-    "freemaintenance.thegreatfreesystemostocontent.stream"
+    "freemaintenance.thegreatfreesystemostocontent.stream",
+    "upgradecheck12.thegreatfreesystemostocontent.stream"
   ]
 }
