@@ -1571,3 +1571,4 @@
 |[pcupgrade.thegreatfreesystemoscontenting.stream](https://dns.google.com/query?name=pcupgrade.thegreatfreesystemoscontenting.stream&type=A)|
 |[newupdate.thegreatfreesystemoscontenting.stream](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontenting.stream&type=A)|
 |[newupdate.thegreatfreesystemoscontents.date](https://dns.google.com/query?name=newupdate.thegreatfreesystemoscontents.date&type=A)|
+|[upnow2app.thegreatfreesystemoscontents.date](https://dns.google.com/query?name=upnow2app.thegreatfreesystemoscontents.date&type=A)|
