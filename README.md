@@ -1625,3 +1625,4 @@
 |[newsoft24.thegreatfreesystemosforcontentload.win](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentload.win&type=A)|
 |[getnewsoft.thegreatfreesystemosforcontentperfect.bid](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentperfect.bid&type=A)|
 |[setupnow.thegreatfreesystemosforcontentperfect.bid](https://dns.google.com/query?name=setupnow.thegreatfreesystemosforcontentperfect.bid&type=A)|
+|[getnewsoft.thegreatfreesystemosforcontentperfect.date](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentperfect.date&type=A)|
