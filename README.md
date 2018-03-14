@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwODIxMDkvMjMzMS8zMzEwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:29|https://s3.amazonaws.com/2082109/2331/3310/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0VERjhBM0RCQjNFM0MwNEM4QkZDLzMxMzEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:18|https://s3.amazonaws.com/EDF8A3DBB3E3C04C8BFC/3131/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL05fMGhOaGd4MDBPV196WGMvNkEyMzk0QTZERTlBMy9FREExODAwQzdCMzNCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:10|https://s3.amazonaws.com/N_0hNhgx00OW_zXc/6A2394A6DE9A3/EDA1800C7B33B/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwNzMwNDc1LzEyNjAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:59|https://s3.amazonaws.com/20730475/1260/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI2NTgvYzA3MS9mZDFkL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:53|https://s3.amazonaws.com/2658/c071/fd1d/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3NmYl9UZElRWi8xMjczMTUwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:40|https://s3.amazonaws.com/sfb_TdIQZ/1273150/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzcyNzEvdXNnL0JGa1QvVWUyM3FVMUdadWYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:30|https://s3.amazonaws.com/7271/usg/BFkT/Ue23qU1GZuf/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1483,3 +1483,4 @@
 |[update2.yourpointofforcontentgreat.download](https://dns.google.com/query?name=update2.yourpointofforcontentgreat.download&type=A)|
 |[update2check.yourpointofforcontentgreat.download](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.download&type=A)|
 |[update2check.yourpointofforcontentgreat.trade](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.trade&type=A)|
+|[update.yourpointofforcontentgreat.trade](https://dns.google.com/query?name=update.yourpointofforcontentgreat.trade&type=A)|
