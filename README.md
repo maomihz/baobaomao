@@ -1493,3 +1493,4 @@
 |[upgradeinstall24.yourpointofforcontenting.date](https://dns.google.com/query?name=upgradeinstall24.yourpointofforcontenting.date&type=A)|
 |[update.yourpointofforcontenting.date](https://dns.google.com/query?name=update.yourpointofforcontenting.date&type=A)|
 |[workupgrade.yourpointofforcontenting.date](https://dns.google.com/query?name=workupgrade.yourpointofforcontenting.date&type=A)|
+|[whenupgrade.yourpointofforcontenting.date](https://dns.google.com/query?name=whenupgrade.yourpointofforcontenting.date&type=A)|
