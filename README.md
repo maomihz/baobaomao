@@ -1469,3 +1469,4 @@
 |[newsoft12.yourpointofforcontentgood.download](https://dns.google.com/query?name=newsoft12.yourpointofforcontentgood.download&type=A)|
 |[preparevideo.yourpointofforcontentgood.download](https://dns.google.com/query?name=preparevideo.yourpointofforcontentgood.download&type=A)|
 |[newsoft12.yourpointofforcontentgood.review](https://dns.google.com/query?name=newsoft12.yourpointofforcontentgood.review&type=A)|
+|[aptitude.yourpointofforcontentgood.review](https://dns.google.com/query?name=aptitude.yourpointofforcontentgood.review&type=A)|
