@@ -1477,3 +1477,4 @@
 |[update2.yourpointofforcontentgreat.bid](https://dns.google.com/query?name=update2.yourpointofforcontentgreat.bid&type=A)|
 |[update2check.yourpointofforcontentgreat.bid](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.bid&type=A)|
 |[update2.yourpointofforcontentgreat.date](https://dns.google.com/query?name=update2.yourpointofforcontentgreat.date&type=A)|
+|[nowuptime.yourpointofforcontentgreat.date](https://dns.google.com/query?name=nowuptime.yourpointofforcontentgreat.date&type=A)|
