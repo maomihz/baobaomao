@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU1NjM3LzA4MTY3ZWEyLTVkMTktNGUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:44|https://s3.amazonaws.com/55637/08167ea2-5d19-4e/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q3NzRlNzkxLWQ4NWMtNDgwYi04ZDYvODUwMy8xOTI1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:29|https://s3.amazonaws.com/d774e791-d85c-480b-8d6/8503/1925/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBGUFlsWnJFYVVhL0UxNTI5QkU5NkRGQUE0NC85NDdBMjQ4MEY4Mzg3NDQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:23|https://s3.amazonaws.com/0FPYlZrEaUa/E1529BE96DFAA44/947A2480F838744/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY2NmIwZC8xMDQwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:10|https://s3.amazonaws.com/666b0d/1040/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdmM2Q4ZjExLWJlYmItNDQvMDQ5RTVFQjZEMUUyNjk0Q0IxRjc3RTUvM0Q1NkU3NTkyMzg2MTk0OUI2NkFGRjkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:59|https://s3.amazonaws.com/7f3d8f11-bebb-44/049E5EB6D1E2694CB1F77E5/3D56E75923861949B66AFF9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhiZTU4ZWRmLWY1Y2UtNDg0YS1iLzE2MjcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:53|https://s3.amazonaws.com/8be58edf-f5ce-484a-b/1627/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q4MTJCRjRGQ0ZBNDkwNEJBRjYzQkIxREUvMjZjN2UyMzktMzNkZC00Zi8zNjczMzJjNS00ZDAwLTQ3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:40|https://s3.amazonaws.com/D812BF4FCFA4904BAF63BB1DE/26c7e239-33dd-4f/367332c5-4d00-47/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1652,3 +1652,4 @@
 |[askupdate.thegreatfreesystemosforcontentsafeperfect.date](https://dns.google.com/query?name=askupdate.thegreatfreesystemosforcontentsafeperfect.date&type=A)|
 |[24pcupgrade.thegreatfreesystemosforcontentsafeperfect.date](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentsafeperfect.date&type=A)|
 |[lastworking.thegreatfreesystemosforcontentingset.trade](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentingset.trade&type=A)|
+|[newversionupdate.thegreatfreesystemosforcontentingset.trade](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentingset.trade&type=A)|
