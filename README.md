@@ -1485,3 +1485,4 @@
 |[update2check.yourpointofforcontentgreat.trade](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.trade&type=A)|
 |[update.yourpointofforcontentgreat.trade](https://dns.google.com/query?name=update.yourpointofforcontentgreat.trade&type=A)|
 |[nowuptime.yourpointofforcontentgreat.trade](https://dns.google.com/query?name=nowuptime.yourpointofforcontentgreat.trade&type=A)|
+|[update2.yourpointofforcontentgreat.trade](https://dns.google.com/query?name=update2.yourpointofforcontentgreat.trade&type=A)|
