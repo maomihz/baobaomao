@@ -1436,3 +1436,4 @@
 |[freechecknow.thegreatfreesystemostocontent.trade](https://dns.google.com/query?name=freechecknow.thegreatfreesystemostocontent.trade&type=A)|
 |[freemaintenance.thegreatfreesystemostocontent.win](https://dns.google.com/query?name=freemaintenance.thegreatfreesystemostocontent.win&type=A)|
 |[upgradecheck12.thegreatfreesystemostocontent.win](https://dns.google.com/query?name=upgradecheck12.thegreatfreesystemostocontent.win&type=A)|
+|[newupdate.thegreatfreesystemostocontenting.download](https://dns.google.com/query?name=newupdate.thegreatfreesystemostocontenting.download&type=A)|
