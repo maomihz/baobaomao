@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL05fMGhOaGd4MDBPV196WGMvNkEyMzk0QTZERTlBMy9FREExODAwQzdCMzNCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:10|https://s3.amazonaws.com/N_0hNhgx00OW_zXc/6A2394A6DE9A3/EDA1800C7B33B/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwNzMwNDc1LzEyNjAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:59|https://s3.amazonaws.com/20730475/1260/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI2NTgvYzA3MS9mZDFkL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:53|https://s3.amazonaws.com/2658/c071/fd1d/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3NmYl9UZElRWi8xMjczMTUwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:40|https://s3.amazonaws.com/sfb_TdIQZ/1273150/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzcyNzEvdXNnL0JGa1QvVWUyM3FVMUdadWYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:30|https://s3.amazonaws.com/7271/usg/BFkT/Ue23qU1GZuf/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZmNjRmYTQzLWQ4ZmMtNDFjNS9GNTQ0NjE1OTY2NkQyRDQ0QjZDRkQ2Qy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:19|https://s3.amazonaws.com/6f64fa43-d8fc-41c5/F5446159666D2D44B6CFD6C/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJBdzkvMGRjN2E0NDgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:08|https://s3.amazonaws.com/2Aw9/0dc7a448/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1478,3 +1478,4 @@
 |[update2check.yourpointofforcontentgreat.bid](https://dns.google.com/query?name=update2check.yourpointofforcontentgreat.bid&type=A)|
 |[update2.yourpointofforcontentgreat.date](https://dns.google.com/query?name=update2.yourpointofforcontentgreat.date&type=A)|
 |[nowuptime.yourpointofforcontentgreat.date](https://dns.google.com/query?name=nowuptime.yourpointofforcontentgreat.date&type=A)|
+|[update.yourpointofforcontentgreat.review](https://dns.google.com/query?name=update.yourpointofforcontentgreat.review&type=A)|
