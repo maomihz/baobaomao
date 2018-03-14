@@ -1619,3 +1619,4 @@
 |[24pcupgrade.thegreatfreesystemosforcontentingperfect.win](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentingperfect.win&type=A)|
 |[pleaseupdate.thegreatfreesystemosforcontentload.date](https://dns.google.com/query?name=pleaseupdate.thegreatfreesystemosforcontentload.date&type=A)|
 |[versionlast.thegreatfreesystemosforcontentload.download](https://dns.google.com/query?name=versionlast.thegreatfreesystemosforcontentload.download&type=A)|
+|[newsoft24.thegreatfreesystemosforcontentload.review](https://dns.google.com/query?name=newsoft24.thegreatfreesystemosforcontentload.review&type=A)|
