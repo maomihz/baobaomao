@@ -1593,3 +1593,4 @@
 |[update2new.thegreatfreesystemosforcontentingclear.trade](https://dns.google.com/query?name=update2new.thegreatfreesystemosforcontentingclear.trade&type=A)|
 |[update2new.thegreatfreesystemosforcontentingclear.stream](https://dns.google.com/query?name=update2new.thegreatfreesystemosforcontentingclear.stream&type=A)|
 |[checkingfree.thegreatfreesystemosforcontentingclear.win](https://dns.google.com/query?name=checkingfree.thegreatfreesystemosforcontentingclear.win&type=A)|
+|[downgradepc.thegreatfreesystemosforcontentingclear.win](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentingclear.win&type=A)|
