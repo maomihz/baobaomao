@@ -1499,3 +1499,4 @@
 |[update.yourpointofforcontenting.stream](https://dns.google.com/query?name=update.yourpointofforcontenting.stream&type=A)|
 |[whenupgrade.yourpointofforcontenting.stream](https://dns.google.com/query?name=whenupgrade.yourpointofforcontenting.stream&type=A)|
 |[update.yourpointofforcontenting.win](https://dns.google.com/query?name=update.yourpointofforcontenting.win&type=A)|
+|[livecheck.yourpointofforcontentalways.trade](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.trade&type=A)|
