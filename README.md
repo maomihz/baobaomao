@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkwMzkvMTE0Mi8xNTc4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:02|https://s3.amazonaws.com/9039/1142/1578/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3BSb2dsOEoxbVVLVHgyLzE4OTYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:51|https://s3.amazonaws.com/pRogl8J1mUKTx2/1896/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NUQm0vNjkxMS80ODMxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:36|https://s3.amazonaws.com/cTBm/6911/4831/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEyMzcwMS9aZmVWQ2IySC9IaUtsYThJRS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|08:26|https://s3.amazonaws.com/123701/ZfeVCb2H/HiKla8IE/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0E4RURBNDg4NUZCRC82MzYzMi8xMTk0OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|08:20|https://s3.amazonaws.com/A8EDA4885FBD/63632/11948/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3MjQvY29JUFFjY3hrRTYvMmhhS1d5VXEvSmNWWU9COVNWa0NmN3ZBY2tTZDgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:11|https://s3.amazonaws.com/1724/coIPQccxkE6/2haKWyUq/JcVYOB9SVkCf7vAckSd8/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEyMDA4Mzk2Ni80XzI2aC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:56|https://s3.amazonaws.com/120083966/4_26h/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1502,3 +1502,4 @@
 |[livecheck.yourpointofforcontentalways.trade](https://dns.google.com/query?name=livecheck.yourpointofforcontentalways.trade&type=A)|
 |[supportversion.yourpointofforcontentingalways.date](https://dns.google.com/query?name=supportversion.yourpointofforcontentingalways.date&type=A)|
 |[livecheck.yourpointofforcontentingalways.bid](https://dns.google.com/query?name=livecheck.yourpointofforcontentingalways.bid&type=A)|
+|[nowup.yourpointofforcontentingalways.bid](https://dns.google.com/query?name=nowup.yourpointofforcontentingalways.bid&type=A)|
