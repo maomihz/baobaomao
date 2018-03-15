@@ -1816,3 +1816,4 @@
 |[newsoft12.yourpointofforcontentinggood.date](https://dns.google.com/query?name=newsoft12.yourpointofforcontentinggood.date&type=A)|
 |[preparevideo.yourpointofforcontentinggood.download](https://dns.google.com/query?name=preparevideo.yourpointofforcontentinggood.download&type=A)|
 |[newsoft12.yourpointofforcontentinggood.download](https://dns.google.com/query?name=newsoft12.yourpointofforcontentinggood.download&type=A)|
+|[aptitude.yourpointofforcontentinggood.review](https://dns.google.com/query?name=aptitude.yourpointofforcontentinggood.review&type=A)|
