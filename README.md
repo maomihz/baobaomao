@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJCNEY0QzNFOTg2RDNENDhBQTFBNTUxRDZBLzA1MTBCLzVCNzA4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:29|https://s3.amazonaws.com/2B4F4C3E986D3D48AA1A551D6A/0510B/5B708/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk4NDI2NC9EOURDNDc5OTUwN0YxNDQ3OS8xMTM4QkI1QkI3RkQ4NDQ1OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:21|https://s3.amazonaws.com/984264/D9DC4799507F14479/1138BB5BB7FD84459/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3pwaGZNUlBVQTBtV1BTLzc1NTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:10|https://s3.amazonaws.com/zphfMRPUA0mWPS/7551/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk1YzY3YzhlLWVlN2UtNDk5MS0vODAxOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:00|https://s3.amazonaws.com/95c67c8e-ee7e-4991-/8018/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYzMjc1NGY1LS9ERUQwNDA2ODZDQzVDQzRGOTVDQUI1Njk1RC83OUZGNzIyNzgzNTE4QTRGQUVGRTRFMzQ2My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:49|https://s3.amazonaws.com/632754f5-/DED040686CC5CC4F95CAB5695D/79FF722783518A4FAEFE4E3463/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNDMEU4QTgyMjQyMEMvNkJBRjNCMDZCRTY4Nzc0MjhCM0UxRTdDQUEwLzI4RENGQTFBREUzQjk1NDY5RTEyMENBOTMwQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:39|https://s3.amazonaws.com/3C0E8A822420C/6BAF3B06BE6877428B3E1E7CAA0/28DCFA1ADE3B95469E120CA930A/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RGQ0Y4RkE4Rjk4NkU0NEE5MjUyRC85eVBmNWM2Zy9ScDJlbW9WRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:28|https://s3.amazonaws.com/DFCF8FA8F986E44A9252D/9yPf5c6g/Rp2emoVD/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2116,3 +2116,4 @@
 |[nowcheck.thereadysitegoodcontentsafe.stream](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontentsafe.stream&type=A)|
 |[testupgrade.thereadysitegoodcontentsafe.stream](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontentsafe.stream&type=A)|
 |[24online.thereadysitegoodforcontent.download](https://dns.google.com/query?name=24online.thereadysitegoodforcontent.download&type=A)|
+|[alwaysup.thereadysitegoodforcontent.download](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontent.download&type=A)|
