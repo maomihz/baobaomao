@@ -2063,3 +2063,4 @@
 |[installworking.thereadysitegoodtocontents.bid](https://dns.google.com/query?name=installworking.thereadysitegoodtocontents.bid&type=A)|
 |[liveupgrade.thereadysitegoodtocontents.bid](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.bid&type=A)|
 |[liveupgrade.thereadysitegoodtocontents.date](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.date&type=A)|
+|[liveupgrade.thereadysitegoodtocontents.download](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.download&type=A)|
