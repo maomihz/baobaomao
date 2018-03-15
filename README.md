@@ -1923,3 +1923,4 @@
 |[set2updatenow.thereadysitegood2contents.date](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contents.date&type=A)|
 |[testpconly12.thereadysitegood2contents.date](https://dns.google.com/query?name=testpconly12.thereadysitegood2contents.date&type=A)|
 |[set2updatenow.thereadysitegood2contents.download](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contents.download&type=A)|
+|[aptitude.thereadysitegood2contents.download](https://dns.google.com/query?name=aptitude.thereadysitegood2contents.download&type=A)|
