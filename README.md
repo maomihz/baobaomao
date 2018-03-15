@@ -1700,3 +1700,4 @@
 |[up2date.thegreatfreesystemosforcontentingsetup.win](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.win&type=A)|
 |[lastversion.thegreatfreesystemosforcontentingsetup.win](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentingsetup.win&type=A)|
 |[upgradenote.thegreatfreesystemosforcontentingsetup.win](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentingsetup.win&type=A)|
+|[24pcupgrade.thegreatfreesystemosforcontentsafeperfect.download](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentsafeperfect.download&type=A)|
