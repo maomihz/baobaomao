@@ -2018,3 +2018,4 @@
 |[newsoft24.thereadysitegoodforcontent.bid](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontent.bid&type=A)|
 |[24online.thereadysitegoodforcontent.review](https://dns.google.com/query?name=24online.thereadysitegoodforcontent.review&type=A)|
 |[newsoft24.thereadysitegoodforcontent.review](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontent.review&type=A)|
+|[newsoft24.thereadysitegoodforcontent.win](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontent.win&type=A)|
