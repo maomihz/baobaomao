@@ -2052,3 +2052,4 @@
 |[app4com.thereadysitegoodtocontent.win](https://dns.google.com/query?name=app4com.thereadysitegoodtocontent.win&type=A)|
 |[softnewready.thereadysitegoodtocontent.win](https://dns.google.com/query?name=softnewready.thereadysitegoodtocontent.win&type=A)|
 |[liveupgrade.thereadysitegoodtocontent.win](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.win&type=A)|
+|[app4com.thereadysitegoodtocontenting.bid](https://dns.google.com/query?name=app4com.thereadysitegoodtocontenting.bid&type=A)|
