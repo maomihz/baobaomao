@@ -1782,3 +1782,4 @@
 |[newversionupdate.thegreatfreesystemosforcontentsset.date](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentsset.date&type=A)|
 |[futureupdates.thegreatfreesystemosforcontentsset.download](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentsset.download&type=A)|
 |[lastworking.thegreatfreesystemosforcontentsset.download](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentsset.download&type=A)|
+|[newversionupdate.thegreatfreesystemosforcontentsset.download](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentsset.download&type=A)|
