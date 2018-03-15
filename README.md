@@ -2066,3 +2066,4 @@
 |[liveupgrade.thereadysitegoodtocontents.date](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.date&type=A)|
 |[liveupgrade.thereadysitegoodtocontents.download](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.download&type=A)|
 |[app4com.thereadysitegoodtocontents.review](https://dns.google.com/query?name=app4com.thereadysitegoodtocontents.review&type=A)|
+|[app4com.thereadysitegoodtocontentsafe.bid](https://dns.google.com/query?name=app4com.thereadysitegoodtocontentsafe.bid&type=A)|
