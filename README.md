@@ -1860,3 +1860,4 @@
 |[checksoft.thegreatfreesystemoscontentsafesetup.win](https://dns.google.com/query?name=checksoft.thegreatfreesystemoscontentsafesetup.win&type=A)|
 |[preparevideo.thegreatfreesystemoscontentsafesetup.win](https://dns.google.com/query?name=preparevideo.thegreatfreesystemoscontentsafesetup.win&type=A)|
 |[checksoft.thegreatfreesystemoscontentsetup.bid](https://dns.google.com/query?name=checksoft.thegreatfreesystemoscontentsetup.bid&type=A)|
+|[readynewsoft.thegreatfreesystemoscontentsetup.bid](https://dns.google.com/query?name=readynewsoft.thegreatfreesystemoscontentsetup.bid&type=A)|
