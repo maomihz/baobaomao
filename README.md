@@ -1800,3 +1800,4 @@
 |[lastversion.thegreatfreesystemosforcontentssetup.bid](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.bid&type=A)|
 |[lastversion.thegreatfreesystemosforcontentssetup.date](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.date&type=A)|
 |[lastversion.thegreatfreesystemosforcontentssetup.download](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.download&type=A)|
+|[up2date.thegreatfreesystemosforcontentssetup.download](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentssetup.download&type=A)|
