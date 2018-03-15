@@ -1714,3 +1714,4 @@
 |[newversionupdate.thegreatfreesystemosforcontentsafeset.date](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentsafeset.date&type=A)|
 |[futureupdates.thegreatfreesystemosforcontentsafeset.stream](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentsafeset.stream&type=A)|
 |[lastworking.thegreatfreesystemosforcontentsafeset.stream](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentsafeset.stream&type=A)|
+|[lastversion.thegreatfreesystemosforcontentsafesetup.bid](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsafesetup.bid&type=A)|
