@@ -2118,3 +2118,4 @@
 |[24online.thereadysitegoodforcontent.download](https://dns.google.com/query?name=24online.thereadysitegoodforcontent.download&type=A)|
 |[alwaysup.thereadysitegoodforcontent.download](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontent.download&type=A)|
 |[nowinstallupgrade.thereadysitegoodforcontent.download](https://dns.google.com/query?name=nowinstallupgrade.thereadysitegoodforcontent.download&type=A)|
+|[alwaysup.thereadysitegoodforcontent.stream](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontent.stream&type=A)|
