@@ -1880,3 +1880,4 @@
 |[lastworking.thegreatfreesystemosforcontentingset.win](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentingset.win&type=A)|
 |[newversionupdate.thegreatfreesystemosforcontentingset.win](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentingset.win&type=A)|
 |[softwareupdate.thegreatfreesystemosforcontentingset.win](https://dns.google.com/query?name=softwareupdate.thegreatfreesystemosforcontentingset.win&type=A)|
+|[up2date.thegreatfreesystemosforcontentingsetup.date](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.date&type=A)|
