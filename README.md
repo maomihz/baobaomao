@@ -2076,3 +2076,4 @@
 |[nowcheck.thereadysitegoodcontenting.date](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontenting.date&type=A)|
 |[workupgrade.thereadysitegoodcontenting.date](https://dns.google.com/query?name=workupgrade.thereadysitegoodcontenting.date&type=A)|
 |[set2updatenow.thereadysitegood2content.trade](https://dns.google.com/query?name=set2updatenow.thereadysitegood2content.trade&type=A)|
+|[aptitude.thereadysitegood2content.trade](https://dns.google.com/query?name=aptitude.thereadysitegood2content.trade&type=A)|
