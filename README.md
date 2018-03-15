@@ -1720,3 +1720,4 @@
 |[upgradenote.thegreatfreesystemosforcontentsafesetup.date](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentsafesetup.date&type=A)|
 |[lastversion.thegreatfreesystemosforcontentsafesetup.date](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsafesetup.date&type=A)|
 |[downgradepc.thegreatfreesystemosforcontentclear.win](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentclear.win&type=A)|
+|[lastversion.thegreatfreesystemosforcontentsafesetup.download](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsafesetup.download&type=A)|
