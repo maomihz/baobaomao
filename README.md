@@ -1750,3 +1750,4 @@
 |[lastversion.thegreatfreesystemosforcontentsetup.bid](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsetup.bid&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentsetup.bid](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsetup.bid&type=A)|
 |[lastversion.thegreatfreesystemosforcontentsetup.date](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsetup.date&type=A)|
+|[upgradenote.thegreatfreesystemosforcontentsetup.date](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentsetup.date&type=A)|
