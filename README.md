@@ -1973,3 +1973,4 @@
 |[nowcheck.thereadysitegood4contents.stream](https://dns.google.com/query?name=nowcheck.thereadysitegood4contents.stream&type=A)|
 |[updatehere.thereadysitegood4contents.trade](https://dns.google.com/query?name=updatehere.thereadysitegood4contents.trade&type=A)|
 |[2update.thereadysitegood4contentsafe.bid](https://dns.google.com/query?name=2update.thereadysitegood4contentsafe.bid&type=A)|
+|[nowcheck.thereadysitegood4contentsafe.date](https://dns.google.com/query?name=nowcheck.thereadysitegood4contentsafe.date&type=A)|
