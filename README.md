@@ -2048,3 +2048,4 @@
 |[liveupgrade.thereadysitegoodtocontent.stream](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.stream&type=A)|
 |[app4com.thereadysitegoodtocontent.trade](https://dns.google.com/query?name=app4com.thereadysitegoodtocontent.trade&type=A)|
 |[installworking.thereadysitegoodtocontent.trade](https://dns.google.com/query?name=installworking.thereadysitegoodtocontent.trade&type=A)|
+|[liveupgrade.thereadysitegoodtocontent.trade](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.trade&type=A)|
