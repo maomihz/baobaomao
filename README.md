@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI4QjRCOTJBNkZFOEFGNEZCNjUvYUl2RmVaclpHMHVqSnZObVIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:30|https://s3.amazonaws.com/28B4B92A6FE8AF4FB65/aIvFeZrZG0ujJvNmR/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIzNTAvMEI5MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:20|https://s3.amazonaws.com/2350/0B90/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk2NTkyL2IxOWY2YTRjLTBhZWUtNDJmMy1hYi9hNjI1YTdmMy0yYzc4LTQzNTMtYjYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:09|https://s3.amazonaws.com/96592/b19f6a4c-0aee-42f3-ab/a625a7f3-2c78-4353-b6/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2IxODI5ZmUxLWFkYzEtNGNmMy1iNWIvM1Q4M3R2TUEzRWEyWXYvQmd3ZGhobm43MDJYYjcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:59|https://s3.amazonaws.com/b1829fe1-adc1-4cf3-b5b/3T83tvMA3Ea2Yv/Bgwdhhnn702Xb7/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0ODgvYmQwZDA3ZTAtMjQxMC00OWFlLWEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:48|https://s3.amazonaws.com/1488/bd0d07e0-2410-49ae-a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQyODhGMzE2QUQ0RkFCNDNCMkVFODMwREQxMEFDL1MxRjlodS9zL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:38|https://s3.amazonaws.com/4288F316AD4FAB43B2EE830DD10AC/S1F9hu/s/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0QwODQ3RTY3OTU4RDBBNDk4OS81YzUxMTc2OC05Zi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:29|https://s3.amazonaws.com/D0847E67958D0A4989/5c511768-9f/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1926,3 +1926,4 @@
 |[aptitude.thereadysitegood2contents.download](https://dns.google.com/query?name=aptitude.thereadysitegood2contents.download&type=A)|
 |[aptitude.thereadysitegood2contents.review](https://dns.google.com/query?name=aptitude.thereadysitegood2contents.review&type=A)|
 |[testpconly12.thereadysitegood2contents.review](https://dns.google.com/query?name=testpconly12.thereadysitegood2contents.review&type=A)|
+|[set2updatenow.thereadysitegood2contents.review](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contents.review&type=A)|
