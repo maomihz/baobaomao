@@ -1827,3 +1827,4 @@
 |[aptitude.yourpointofforcontentinggood.win](https://dns.google.com/query?name=aptitude.yourpointofforcontentinggood.win&type=A)|
 |[preparevideo.yourpointofforcontentinggood.win](https://dns.google.com/query?name=preparevideo.yourpointofforcontentinggood.win&type=A)|
 |[nowuptime.yourpointofforcontentinggreat.download](https://dns.google.com/query?name=nowuptime.yourpointofforcontentinggreat.download&type=A)|
+|[update.yourpointofforcontentinggreat.download](https://dns.google.com/query?name=update.yourpointofforcontentinggreat.download&type=A)|
