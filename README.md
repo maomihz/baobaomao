@@ -2072,3 +2072,4 @@
 |[nowcheck.thereadysitegoodcontent.trade](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontent.trade&type=A)|
 |[workupgrade.thereadysitegoodcontent.win](https://dns.google.com/query?name=workupgrade.thereadysitegoodcontent.win&type=A)|
 |[nowcheck.thereadysitegoodcontenting.bid](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontenting.bid&type=A)|
+|[keyupgrade.thereadysitegoodcontenting.date](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontenting.date&type=A)|
