@@ -1683,3 +1683,4 @@
 |[readynewsoft.thegreatfreesystemoscontentsetup.win](https://dns.google.com/query?name=readynewsoft.thegreatfreesystemoscontentsetup.win&type=A)|
 |[checksoft.thegreatfreesystemoscontentsetup.win](https://dns.google.com/query?name=checksoft.thegreatfreesystemoscontentsetup.win&type=A)|
 |[newupdate.thegreatfreesystemostocontent.win](https://dns.google.com/query?name=newupdate.thegreatfreesystemostocontent.win&type=A)|
+|[softwareupdate.thegreatfreesystemosforcontentingset.stream](https://dns.google.com/query?name=softwareupdate.thegreatfreesystemosforcontentingset.stream&type=A)|
