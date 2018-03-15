@@ -1984,3 +1984,4 @@
 |[testupgrade.thereadysitegoodcontent.bid](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontent.bid&type=A)|
 |[keyupgrade.thereadysitegoodcontent.date](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontent.date&type=A)|
 |[testupgrade.thereadysitegoodcontent.date](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontent.date&type=A)|
+|[nowcheck.thereadysitegoodcontent.download](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontent.download&type=A)|
