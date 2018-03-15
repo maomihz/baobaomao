@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAxQ0ZBQTFBNUMzRDkzNDNBQTk3NUEvMmRiMWM1YWQtMmFkNS00Y2RhLWE2NDAtMDc0ZmJiNzZiZC9lMzU4YjY0MC04ODM1LTQ2NDAtOTA3Zi0wNzQ4OWYzYjdhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:59|https://s3.amazonaws.com/01CFAA1A5C3D9343AA975A/2db1c5ad-2ad5-4cda-a640-074fbb76bd/e358b640-8835-4640-907f-07489f3b7a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1RWV2ZBQVBoRGsvMTAyOTE1NjkvMTU2NzM4NDk5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:48|https://s3.amazonaws.com/TVWfAAPhDk/10291569/156738499/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1NTQvNjMxNS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:38|https://s3.amazonaws.com/1554/6315/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0VDMzBGRUE3MDJGNUI3LzIwMzAwMDM5Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:29|https://s3.amazonaws.com/EC30FEA702F5B7/203000392/AdobeFlashPlayerInstaller.dmg|
@@ -2022,3 +2023,4 @@
 |[nowinstallupgrade.thereadysitegoodforcontent.win](https://dns.google.com/query?name=nowinstallupgrade.thereadysitegoodforcontent.win&type=A)|
 |[24online.thereadysitegoodforcontenting.bid](https://dns.google.com/query?name=24online.thereadysitegoodforcontenting.bid&type=A)|
 |[24online.thereadysitegoodforcontenting.date](https://dns.google.com/query?name=24online.thereadysitegoodforcontenting.date&type=A)|
+|[newsoft24.thereadysitegoodforcontenting.download](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontenting.download&type=A)|
