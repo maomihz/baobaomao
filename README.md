@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBmMzg1Njk0LTUzZWQtNDBjYi1hYjIwLWNlODYwMjYvNjU5ODQzMDZCNEQxNDUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:19|https://s3.amazonaws.com/0f385694-53ed-40cb-ab20-ce86026/65984306B4D145/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzNjgwNTc4NS85ZjlmZDhkMi0yMjNmL2IxYjg2OTkzLTg4NTcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:08|https://s3.amazonaws.com/136805785/9f9fd8d2-223f/b1b86993-8857/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1BSU1gvMjA1OS8xMDg3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:59|https://s3.amazonaws.com/PRSX/2059/1087/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3FZaU1TdTRfbmtHUi8zMjc2ODQ3RENGRENDQjQxQS8xM0REMjZBREEyMzM5MTQ2OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|09:49|https://s3.amazonaws.com/qYiMSu4_nkGR/3276847DCFDCCB41A/13DD26ADA23391469/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1875,3 +1874,4 @@
 |[preparevideo.thegreatfreesystemoscontentssetup.download](https://dns.google.com/query?name=preparevideo.thegreatfreesystemoscontentssetup.download&type=A)|
 |[lastworking.thegreatfreesystemosforcontentingset.bid](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentingset.bid&type=A)|
 |[softwareupdate.thegreatfreesystemosforcontentingset.bid](https://dns.google.com/query?name=softwareupdate.thegreatfreesystemosforcontentingset.bid&type=A)|
+|[futureupdates.thegreatfreesystemosforcontentingset.date](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentingset.date&type=A)|
