@@ -1940,3 +1940,4 @@
 |[aptitude.thereadysitegood2contentsafe.download](https://dns.google.com/query?name=aptitude.thereadysitegood2contentsafe.download&type=A)|
 |[set2updatenow.thereadysitegood2contentsafe.download](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contentsafe.download&type=A)|
 |[testpconly12.thereadysitegood2contentsafe.review](https://dns.google.com/query?name=testpconly12.thereadysitegood2contentsafe.review&type=A)|
+|[aptitude.thereadysitegood2contentsafe.stream](https://dns.google.com/query?name=aptitude.thereadysitegood2contentsafe.stream&type=A)|
