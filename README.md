@@ -1942,3 +1942,4 @@
 |[testpconly12.thereadysitegood2contentsafe.review](https://dns.google.com/query?name=testpconly12.thereadysitegood2contentsafe.review&type=A)|
 |[aptitude.thereadysitegood2contentsafe.stream](https://dns.google.com/query?name=aptitude.thereadysitegood2contentsafe.stream&type=A)|
 |[set2updatenow.thereadysitegood2contentsafe.stream](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contentsafe.stream&type=A)|
+|[aptitude.thereadysitegood2contentsafe.win](https://dns.google.com/query?name=aptitude.thereadysitegood2contentsafe.win&type=A)|
