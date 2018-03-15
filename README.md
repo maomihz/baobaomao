@@ -1900,3 +1900,4 @@
 |[newversionupdate.thegreatfreesystemosforcontentset.stream](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentset.stream&type=A)|
 |[newversionupdate.thegreatfreesystemosforcontentset.trade](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentset.trade&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentsafesetup.stream](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsafesetup.stream&type=A)|
+|[upgradenote.thegreatfreesystemosforcontentsafesetup.stream](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentsafesetup.stream&type=A)|
