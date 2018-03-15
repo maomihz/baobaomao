@@ -1896,3 +1896,4 @@
 |[newversionupdate.thegreatfreesystemosforcontentsafeset.trade](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentsafeset.trade&type=A)|
 |[futureupdates.thegreatfreesystemosforcontentset.download](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentset.download&type=A)|
 |[lastworking.thegreatfreesystemosforcontentset.download](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentset.download&type=A)|
+|[newversionupdate.thegreatfreesystemosforcontentset.download](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentset.download&type=A)|
