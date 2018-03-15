@@ -2106,3 +2106,4 @@
 |[nowcheck.thereadysitegoodcontenting.download](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontenting.download&type=A)|
 |[workupgrade.thereadysitegoodcontenting.download](https://dns.google.com/query?name=workupgrade.thereadysitegoodcontenting.download&type=A)|
 |[keyupgrade.thereadysitegoodcontenting.stream](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontenting.stream&type=A)|
+|[testupgrade.thereadysitegoodcontenting.stream](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontenting.stream&type=A)|
