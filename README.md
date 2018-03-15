@@ -1872,3 +1872,4 @@
 |[readynewsoft.thegreatfreesystemoscontentssetup.download](https://dns.google.com/query?name=readynewsoft.thegreatfreesystemoscontentssetup.download&type=A)|
 |[preparevideo.thegreatfreesystemoscontentssetup.date](https://dns.google.com/query?name=preparevideo.thegreatfreesystemoscontentssetup.date&type=A)|
 |[preparevideo.thegreatfreesystemoscontentssetup.download](https://dns.google.com/query?name=preparevideo.thegreatfreesystemoscontentssetup.download&type=A)|
+|[lastworking.thegreatfreesystemosforcontentingset.bid](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentingset.bid&type=A)|
