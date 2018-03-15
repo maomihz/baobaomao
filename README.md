@@ -1796,3 +1796,4 @@
 |[futureupdates.thegreatfreesystemosforcontentsset.win](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentsset.win&type=A)|
 |[newversionupdate.thegreatfreesystemosforcontentsset.win](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentsset.win&type=A)|
 |[lastworking.thegreatfreesystemosforcontentsset.win](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentsset.win&type=A)|
+|[up2date.thegreatfreesystemosforcontentssetup.bid](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentssetup.bid&type=A)|
