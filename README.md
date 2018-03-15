@@ -1813,3 +1813,4 @@
 |[nowup.yourpointofforcontentingalways.win](https://dns.google.com/query?name=nowup.yourpointofforcontentingalways.win&type=A)|
 |[soft2apt.yourpointofforcontentingalways.win](https://dns.google.com/query?name=soft2apt.yourpointofforcontentingalways.win&type=A)|
 |[aptitude.yourpointofforcontentinggood.date](https://dns.google.com/query?name=aptitude.yourpointofforcontentinggood.date&type=A)|
+|[newsoft12.yourpointofforcontentinggood.date](https://dns.google.com/query?name=newsoft12.yourpointofforcontentinggood.date&type=A)|
