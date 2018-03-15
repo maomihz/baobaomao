@@ -1,28 +1,28 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/3368/DF19F52B82C/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521150517.402165,
-      "url": "https://s3.amazonaws.com/3368/DF19F52B82C/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/a2a2bd67/188760587/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521151781.673275,
-      "url": "https://s3.amazonaws.com/a2a2bd67/188760587/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/lHB51XuMt0ieXa/0770BC47848400429A068DA1E/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521152289.226081,
-      "url": "https://s3.amazonaws.com/lHB51XuMt0ieXa/0770BC47848400429A068DA1E/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/tpsFsmh8pUuEyEm3f1/CA06C1F8FC46A2428AE11A4C6B1A0D/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521149245.897497,
-      "url": "https://s3.amazonaws.com/tpsFsmh8pUuEyEm3f1/CA06C1F8FC46A2428AE11A4C6B1A0D/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/63bc7052-849e-42db-82b/18499/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521151151.033716,
-      "url": "https://s3.amazonaws.com/63bc7052-849e-42db-82b/18499/AdobeFlashPlayerInstaller.dmg"
+      "url": "https://s3.amazonaws.com/a2a2bd67/188760587/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521151781.673275
     },
     "https://s3.amazonaws.com/4b81ee4f-4fe/45DACAB450CD9742A31A/D2A0E89E65A1DA48B772/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521149883.794139,
-      "url": "https://s3.amazonaws.com/4b81ee4f-4fe/45DACAB450CD9742A31A/D2A0E89E65A1DA48B772/AdobeFlashPlayerInstaller.dmg"
+      "url": "https://s3.amazonaws.com/4b81ee4f-4fe/45DACAB450CD9742A31A/D2A0E89E65A1DA48B772/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521149883.794139
+    },
+    "https://s3.amazonaws.com/3368/DF19F52B82C/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/3368/DF19F52B82C/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521150517.402165
+    },
+    "https://s3.amazonaws.com/tpsFsmh8pUuEyEm3f1/CA06C1F8FC46A2428AE11A4C6B1A0D/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/tpsFsmh8pUuEyEm3f1/CA06C1F8FC46A2428AE11A4C6B1A0D/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521149245.897497
+    },
+    "https://s3.amazonaws.com/lHB51XuMt0ieXa/0770BC47848400429A068DA1E/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/lHB51XuMt0ieXa/0770BC47848400429A068DA1E/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521152289.226081
+    },
+    "https://s3.amazonaws.com/63bc7052-849e-42db-82b/18499/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/63bc7052-849e-42db-82b/18499/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521151151.033716
     }
   },
   "ad_urls": [
@@ -2099,6 +2099,7 @@
     "set2updatenow.thereadysitegood2contenting.stream",
     "aptitude.thereadysitegood2contenting.trade",
     "set2updatenow.thereadysitegood2contenting.win",
-    "set2updatenow.thereadysitegood2contents.bid"
+    "set2updatenow.thereadysitegood2contents.bid",
+    "upgradecircle.thereadysitegood2contents.bid"
   ]
 }
