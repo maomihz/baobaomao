@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y0MTAvMTg5MjA3NC8xOTc5MjQ4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:50|https://s3.amazonaws.com/F410/1892074/1979248/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1YyeTVrRDVwS2tHbFdPMnZXYTgvUXJkQ05QalNLRVdiQl9LZFhjbkYwdz0vdE9VR0tQdEhuazJ3X2NTS0VVZDMvQT0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|16:41|https://s3.amazonaws.com/V2y5kD5pKkGlWO2vWa8/QrdCNPjSKEWbB_KdXcnF0w=/tOUGKPtHnk2w_cSKEUd3/A=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMDQvMDQ5NkE3NTZDQ0U5MDA0RUExNDAyQzJFRjYvRUZBMzY3N0UzRjRGMDA0QzkyOUQyN0IyMDIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|16:28|https://s3.amazonaws.com/2104/0496A756CCE9004EA1402C2EF6/EFA3677E3F4F004C929D27B202/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgzNmUvMTUzMjAyLzg3ODAzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:18|https://s3.amazonaws.com/836e/153202/87803/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwMTMyNTkxL2ZLclIvUkFxRjBLRy9HMVE0Z1FJRC9FS1MvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|16:07|https://s3.amazonaws.com/10132591/fKrR/RAqF0KG/G1Q4gQID/EKS/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q1NTA5NkMxMjZCMENCNC81MjcwNi8xMjM2NzUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|15:57|https://s3.amazonaws.com/D55096C126B0CB4/52706/123675/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdFNTFDOTgvMzExMjFlY2UtZTk0NS00NjllLWEzMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:48|https://s3.amazonaws.com/7E51C98/31121ece-e945-469e-a31/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1982,3 +1982,4 @@
 |[updatehere.thereadysitegood4contentsafe.trade](https://dns.google.com/query?name=updatehere.thereadysitegood4contentsafe.trade&type=A)|
 |[2update.thereadysitegood4contentsafe.trade](https://dns.google.com/query?name=2update.thereadysitegood4contentsafe.trade&type=A)|
 |[testupgrade.thereadysitegoodcontent.bid](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontent.bid&type=A)|
+|[keyupgrade.thereadysitegoodcontent.date](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontent.date&type=A)|
