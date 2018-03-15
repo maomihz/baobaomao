@@ -1724,3 +1724,4 @@
 |[updatesoft.thegreatfreesystemosforcontentsafesetup.download](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsafesetup.download&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentsafesetup.trade](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsafesetup.trade&type=A)|
 |[up2date.thegreatfreesystemosforcontentsafesetup.trade](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentsafesetup.trade&type=A)|
+|[upgradenote.thegreatfreesystemosforcontentsafesetup.trade](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentsafesetup.trade&type=A)|
