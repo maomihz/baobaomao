@@ -1820,3 +1820,4 @@
 |[preparevideo.yourpointofforcontentinggood.review](https://dns.google.com/query?name=preparevideo.yourpointofforcontentinggood.review&type=A)|
 |[updatenewversion.yourpointofforcontentinggood.stream](https://dns.google.com/query?name=updatenewversion.yourpointofforcontentinggood.stream&type=A)|
 |[preparevideo.yourpointofforcontentinggood.stream](https://dns.google.com/query?name=preparevideo.yourpointofforcontentinggood.stream&type=A)|
+|[newsoft12.yourpointofforcontentinggood.trade](https://dns.google.com/query?name=newsoft12.yourpointofforcontentinggood.trade&type=A)|
