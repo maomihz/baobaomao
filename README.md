@@ -1746,3 +1746,4 @@
 |[softwareupdate.thegreatfreesystemosforcontentset.date](https://dns.google.com/query?name=softwareupdate.thegreatfreesystemosforcontentset.date&type=A)|
 |[lastworking.thegreatfreesystemosforcontentset.win](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentset.win&type=A)|
 |[futureupdates.thegreatfreesystemosforcontentset.win](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentset.win&type=A)|
+|[up2date.thegreatfreesystemosforcontentsetup.bid](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentsetup.bid&type=A)|
