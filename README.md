@@ -1907,3 +1907,4 @@
 |[lastversion.thegreatfreesystemosforcontentssetup.trade](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.trade&type=A)|
 |[lastversion.thegreatfreesystemosforcontentssetup.win](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.win&type=A)|
 |[up2date.thegreatfreesystemosforcontentssetup.win](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentssetup.win&type=A)|
+|[aptitude.thereadysitegood2content.bid](https://dns.google.com/query?name=aptitude.thereadysitegood2content.bid&type=A)|
