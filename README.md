@@ -1975,3 +1975,4 @@
 |[2update.thereadysitegood4contentsafe.bid](https://dns.google.com/query?name=2update.thereadysitegood4contentsafe.bid&type=A)|
 |[nowcheck.thereadysitegood4contentsafe.date](https://dns.google.com/query?name=nowcheck.thereadysitegood4contentsafe.date&type=A)|
 |[updatehere.thereadysitegood4contentsafe.date](https://dns.google.com/query?name=updatehere.thereadysitegood4contentsafe.date&type=A)|
+|[2update.thereadysitegood4contentsafe.download](https://dns.google.com/query?name=2update.thereadysitegood4contentsafe.download&type=A)|
