@@ -1935,3 +1935,4 @@
 |[aptitude.thereadysitegood2contents.win](https://dns.google.com/query?name=aptitude.thereadysitegood2contents.win&type=A)|
 |[aptitude.thereadysitegood2contentsafe.bid](https://dns.google.com/query?name=aptitude.thereadysitegood2contentsafe.bid&type=A)|
 |[set2updatenow.thereadysitegood2contentsafe.bid](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contentsafe.bid&type=A)|
+|[aptitude.thereadysitegood2contentsafe.date](https://dns.google.com/query?name=aptitude.thereadysitegood2contentsafe.date&type=A)|
