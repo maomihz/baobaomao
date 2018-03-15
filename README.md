@@ -1694,3 +1694,4 @@
 |[newtest4pc.thegreatfreesystemos2contentsafe.trade](https://dns.google.com/query?name=newtest4pc.thegreatfreesystemos2contentsafe.trade&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentingsetup.stream](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentingsetup.stream&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentingsetup.bid](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentingsetup.bid&type=A)|
+|[up2date.thegreatfreesystemosforcontentingsetup.bid](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.bid&type=A)|
