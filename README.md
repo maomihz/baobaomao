@@ -2126,3 +2126,4 @@
 |[24online.thereadysitegoodforcontenting.win](https://dns.google.com/query?name=24online.thereadysitegoodforcontenting.win&type=A)|
 |[alwaysup.thereadysitegoodforcontenting.win](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontenting.win&type=A)|
 |[alwaysup.thereadysitegoodforcontents.date](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontents.date&type=A)|
+|[newsoft24.thereadysitegoodforcontents.date](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontents.date&type=A)|
