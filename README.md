@@ -1957,3 +1957,4 @@
 |[updatesoftware.thereadysitegood4contenting.trade](https://dns.google.com/query?name=updatesoftware.thereadysitegood4contenting.trade&type=A)|
 |[nowcheck.thereadysitegood4contenting.win](https://dns.google.com/query?name=nowcheck.thereadysitegood4contenting.win&type=A)|
 |[updatehere.thereadysitegood4contenting.win](https://dns.google.com/query?name=updatehere.thereadysitegood4contenting.win&type=A)|
+|[updatesoftware.thereadysitegood4contenting.win](https://dns.google.com/query?name=updatesoftware.thereadysitegood4contenting.win&type=A)|
