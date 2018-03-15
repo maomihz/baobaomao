@@ -1848,3 +1848,4 @@
 |[checksoft.thegreatfreesystemoscontentingsetup.stream](https://dns.google.com/query?name=checksoft.thegreatfreesystemoscontentingsetup.stream&type=A)|
 |[preparevideo.thegreatfreesystemoscontentingsetup.stream](https://dns.google.com/query?name=preparevideo.thegreatfreesystemoscontentingsetup.stream&type=A)|
 |[whenupdate.thegreatfreesystemoscontentingsetup.stream](https://dns.google.com/query?name=whenupdate.thegreatfreesystemoscontentingsetup.stream&type=A)|
+|[readynewsoft.thegreatfreesystemoscontentingsetup.stream](https://dns.google.com/query?name=readynewsoft.thegreatfreesystemoscontentingsetup.stream&type=A)|
