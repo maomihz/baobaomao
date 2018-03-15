@@ -2004,3 +2004,4 @@
 |[nowcheck.thereadysitegoodcontents.win](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontents.win&type=A)|
 |[testupgrade.thereadysitegoodcontents.win](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontents.win&type=A)|
 |[keyupgrade.thereadysitegoodcontentsafe.bid](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontentsafe.bid&type=A)|
+|[keyupgrade.thereadysitegoodcontentsafe.date](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontentsafe.date&type=A)|
