@@ -1779,3 +1779,4 @@
 |[24pcupgrade.thegreatfreesystemosforcontentsperfect.win](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentsperfect.win&type=A)|
 |[futureupdates.thegreatfreesystemosforcontentsset.bid](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentsset.bid&type=A)|
 |[lastworking.thegreatfreesystemosforcontentsset.date](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentsset.date&type=A)|
+|[newversionupdate.thegreatfreesystemosforcontentsset.date](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentsset.date&type=A)|
