@@ -2062,3 +2062,4 @@
 |[installworking.thereadysitegoodtocontenting.win](https://dns.google.com/query?name=installworking.thereadysitegoodtocontenting.win&type=A)|
 |[installworking.thereadysitegoodtocontents.bid](https://dns.google.com/query?name=installworking.thereadysitegoodtocontents.bid&type=A)|
 |[liveupgrade.thereadysitegoodtocontents.bid](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.bid&type=A)|
+|[liveupgrade.thereadysitegoodtocontents.date](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.date&type=A)|
