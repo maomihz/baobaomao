@@ -2040,3 +2040,4 @@
 |[alwaysup.thereadysitegoodforcontentsafe.review](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontentsafe.review&type=A)|
 |[app4com.thereadysitegoodtocontent.bid](https://dns.google.com/query?name=app4com.thereadysitegoodtocontent.bid&type=A)|
 |[installworking.thereadysitegoodtocontent.bid](https://dns.google.com/query?name=installworking.thereadysitegoodtocontent.bid&type=A)|
+|[liveupgrade.thereadysitegoodtocontent.bid](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.bid&type=A)|
