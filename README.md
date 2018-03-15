@@ -1829,3 +1829,4 @@
 |[nowuptime.yourpointofforcontentinggreat.download](https://dns.google.com/query?name=nowuptime.yourpointofforcontentinggreat.download&type=A)|
 |[update.yourpointofforcontentinggreat.download](https://dns.google.com/query?name=update.yourpointofforcontentinggreat.download&type=A)|
 |[update2check.yourpointofforcontentinggreat.download](https://dns.google.com/query?name=update2check.yourpointofforcontentinggreat.download&type=A)|
+|[nowuptime.yourpointofforcontentinggreat.review](https://dns.google.com/query?name=nowuptime.yourpointofforcontentinggreat.review&type=A)|
