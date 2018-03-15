@@ -1695,3 +1695,4 @@
 |[updatesoft.thegreatfreesystemosforcontentingsetup.bid](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentingsetup.bid&type=A)|
 |[up2date.thegreatfreesystemosforcontentingsetup.bid](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.bid&type=A)|
 |[lastversion.thegreatfreesystemosforcontentingsetup.review](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentingsetup.review&type=A)|
+|[updatesoft.thegreatfreesystemosforcontentingsetup.review](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentingsetup.review&type=A)|
