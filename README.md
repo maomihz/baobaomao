@@ -2057,3 +2057,4 @@
 |[liveupgrade.thereadysitegoodtocontenting.bid](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontenting.bid&type=A)|
 |[softnewready.thereadysitegoodtocontenting.bid](https://dns.google.com/query?name=softnewready.thereadysitegoodtocontenting.bid&type=A)|
 |[installworking.thereadysitegoodtocontenting.stream](https://dns.google.com/query?name=installworking.thereadysitegoodtocontenting.stream&type=A)|
+|[app4com.thereadysitegoodtocontenting.stream](https://dns.google.com/query?name=app4com.thereadysitegoodtocontenting.stream&type=A)|
