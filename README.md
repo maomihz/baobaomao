@@ -2007,3 +2007,4 @@
 |[keyupgrade.thereadysitegoodcontentsafe.date](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontentsafe.date&type=A)|
 |[testupgrade.thereadysitegoodcontentsafe.bid](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontentsafe.bid&type=A)|
 |[testupgrade.thereadysitegoodcontentsafe.date](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontentsafe.date&type=A)|
+|[keyupgrade.thereadysitegoodcontentsafe.download](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontentsafe.download&type=A)|
