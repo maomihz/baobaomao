@@ -1996,3 +1996,4 @@
 |[nowcheck.thereadysitegoodcontents.bid](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontents.bid&type=A)|
 |[workupgrade.thereadysitegoodcontents.bid](https://dns.google.com/query?name=workupgrade.thereadysitegoodcontents.bid&type=A)|
 |[keyupgrade.thereadysitegoodcontents.review](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontents.review&type=A)|
+|[keyupgrade.thereadysitegoodcontents.stream](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontents.stream&type=A)|
