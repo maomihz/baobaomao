@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczOTUxNjgyL0MyRUFFMjEzRTFEODg3NEU4ODQzMEVCNDA0RkUxL0I0OTlBMkNGQzY1RkNCNDQ5MjBENERDQUE4NzRGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:26|https://s3.amazonaws.com/73951682/C2EAE213E1D8874E88430EB404FE1/B499A2CFC65FCB44920D4DCAA874F/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI2NzQ5NENENTVFNUNBNDk4ODM5ODE2NjI3QjVGOTcvODA2NS8xNDM3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:19|https://s3.amazonaws.com/267494CD55E5CA498839816627B5F97/8065/1437/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2QwM2RlNWNmLWViMzkvb21TL0pFTUdyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:09|https://s3.amazonaws.com/d03de5cf-eb39/omS/JEMGr/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ2RUE1RjQyNzg1RUVCNDdBL2M5Mzc2YTQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:56|https://s3.amazonaws.com/46EA5F42785EEB47A/c9376a4/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2067,3 +2066,4 @@
 |[liveupgrade.thereadysitegoodtocontents.download](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.download&type=A)|
 |[app4com.thereadysitegoodtocontents.review](https://dns.google.com/query?name=app4com.thereadysitegoodtocontents.review&type=A)|
 |[app4com.thereadysitegoodtocontentsafe.bid](https://dns.google.com/query?name=app4com.thereadysitegoodtocontentsafe.bid&type=A)|
+|[installworking.thereadysitegoodtocontentsafe.bid](https://dns.google.com/query?name=installworking.thereadysitegoodtocontentsafe.bid&type=A)|
