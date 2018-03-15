@@ -2013,3 +2013,4 @@
 |[nowcheck.thereadysitegoodcontentsafe.trade](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontentsafe.trade&type=A)|
 |[keyupgrade.thereadysitegoodcontentsafe.win](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontentsafe.win&type=A)|
 |[testupgrade.thereadysitegoodcontentsafe.trade](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontentsafe.trade&type=A)|
+|[24online.thereadysitegoodforcontent.bid](https://dns.google.com/query?name=24online.thereadysitegoodforcontent.bid&type=A)|
