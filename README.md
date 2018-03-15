@@ -1960,3 +1960,4 @@
 |[updatesoftware.thereadysitegood4contenting.win](https://dns.google.com/query?name=updatesoftware.thereadysitegood4contenting.win&type=A)|
 |[updatesoftware.thereadysitegood4contents.bid](https://dns.google.com/query?name=updatesoftware.thereadysitegood4contents.bid&type=A)|
 |[2update.thereadysitegood4contents.date](https://dns.google.com/query?name=2update.thereadysitegood4contents.date&type=A)|
+|[updatehere.thereadysitegood4contents.date](https://dns.google.com/query?name=updatehere.thereadysitegood4contents.date&type=A)|
