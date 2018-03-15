@@ -1978,3 +1978,4 @@
 |[2update.thereadysitegood4contentsafe.download](https://dns.google.com/query?name=2update.thereadysitegood4contentsafe.download&type=A)|
 |[nowcheck.thereadysitegood4contentsafe.download](https://dns.google.com/query?name=nowcheck.thereadysitegood4contentsafe.download&type=A)|
 |[nowcheck.thereadysitegood4contentsafe.review](https://dns.google.com/query?name=nowcheck.thereadysitegood4contentsafe.review&type=A)|
+|[nowcheck.thereadysitegood4contentsafe.stream](https://dns.google.com/query?name=nowcheck.thereadysitegood4contentsafe.stream&type=A)|
