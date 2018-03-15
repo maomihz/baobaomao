@@ -4,14 +4,6 @@
       "discovered": 1521132096.120706,
       "url": "https://s3.amazonaws.com/V2y5kD5pKkGlWO2vWa8/QrdCNPjSKEWbB_KdXcnF0w=/tOUGKPtHnk2w_cSKEUd3/A=/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/F410/1892074/1979248/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521132601.587464,
-      "url": "https://s3.amazonaws.com/F410/1892074/1979248/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/836e/153202/87803/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521130699.067868,
-      "url": "https://s3.amazonaws.com/836e/153202/87803/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/D55096C126B0CB4/52706/123675/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521129433.382294,
       "url": "https://s3.amazonaws.com/D55096C126B0CB4/52706/123675/AdobeFlashPlayerInstaller.dmg"
@@ -19,6 +11,14 @@
     "https://s3.amazonaws.com/2104/0496A756CCE9004EA1402C2EF6/EFA3677E3F4F004C929D27B202/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521131333.254082,
       "url": "https://s3.amazonaws.com/2104/0496A756CCE9004EA1402C2EF6/EFA3677E3F4F004C929D27B202/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/F410/1892074/1979248/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521132601.587464,
+      "url": "https://s3.amazonaws.com/F410/1892074/1979248/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/836e/153202/87803/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521130699.067868,
+      "url": "https://s3.amazonaws.com/836e/153202/87803/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/10132591/fKrR/RAqF0KG/G1Q4gQID/EKS/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521130063.470598,
@@ -1992,6 +1992,7 @@
     "testupgrade.thereadysitegoodcontent.bid",
     "keyupgrade.thereadysitegoodcontent.date",
     "testupgrade.thereadysitegoodcontent.date",
-    "nowcheck.thereadysitegoodcontent.download"
+    "nowcheck.thereadysitegoodcontent.download",
+    "testupgrade.thereadysitegoodcontent.download"
   ]
 }
