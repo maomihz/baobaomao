@@ -2035,3 +2035,4 @@
 |[alwaysup.thereadysitegoodforcontentsafe.date](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontentsafe.date&type=A)|
 |[24online.thereadysitegoodforcontentsafe.date](https://dns.google.com/query?name=24online.thereadysitegoodforcontentsafe.date&type=A)|
 |[24online.thereadysitegoodforcontentsafe.download](https://dns.google.com/query?name=24online.thereadysitegoodforcontentsafe.download&type=A)|
+|[newsoft24.thereadysitegoodforcontentsafe.date](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontentsafe.date&type=A)|
