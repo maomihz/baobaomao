@@ -1951,3 +1951,4 @@
 |[nowcheck.thereadysitegood4content.stream](https://dns.google.com/query?name=nowcheck.thereadysitegood4content.stream&type=A)|
 |[nowcheck.thereadysitegood4content.trade](https://dns.google.com/query?name=nowcheck.thereadysitegood4content.trade&type=A)|
 |[updatehere.thereadysitegood4content.trade](https://dns.google.com/query?name=updatehere.thereadysitegood4content.trade&type=A)|
+|[nowcheck.thereadysitegood4content.win](https://dns.google.com/query?name=nowcheck.thereadysitegood4content.win&type=A)|
