@@ -1987,3 +1987,4 @@
 |[nowcheck.thereadysitegoodcontent.download](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontent.download&type=A)|
 |[testupgrade.thereadysitegoodcontent.download](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontent.download&type=A)|
 |[keyupgrade.thereadysitegoodcontent.review](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontent.review&type=A)|
+|[testupgrade.thereadysitegoodcontent.review](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontent.review&type=A)|
