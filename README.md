@@ -2050,3 +2050,4 @@
 |[installworking.thereadysitegoodtocontent.trade](https://dns.google.com/query?name=installworking.thereadysitegoodtocontent.trade&type=A)|
 |[liveupgrade.thereadysitegoodtocontent.trade](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.trade&type=A)|
 |[app4com.thereadysitegoodtocontent.win](https://dns.google.com/query?name=app4com.thereadysitegoodtocontent.win&type=A)|
+|[softnewready.thereadysitegoodtocontent.win](https://dns.google.com/query?name=softnewready.thereadysitegoodtocontent.win&type=A)|
