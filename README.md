@@ -1905,3 +1905,4 @@
 |[lastversion.thegreatfreesystemosforcontentsetup.trade](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsetup.trade&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentsetup.trade](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsetup.trade&type=A)|
 |[lastversion.thegreatfreesystemosforcontentssetup.trade](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.trade&type=A)|
+|[lastversion.thegreatfreesystemosforcontentssetup.win](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.win&type=A)|
