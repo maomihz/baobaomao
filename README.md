@@ -2114,3 +2114,4 @@
 |[workupgrade.thereadysitegoodcontents.date](https://dns.google.com/query?name=workupgrade.thereadysitegoodcontents.date&type=A)|
 |[testupgrade.thereadysitegoodcontents.download](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontents.download&type=A)|
 |[nowcheck.thereadysitegoodcontentsafe.stream](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontentsafe.stream&type=A)|
+|[testupgrade.thereadysitegoodcontentsafe.stream](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontentsafe.stream&type=A)|
