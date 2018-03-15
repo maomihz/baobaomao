@@ -1933,3 +1933,4 @@
 |[aptitude.thereadysitegood2contents.trade](https://dns.google.com/query?name=aptitude.thereadysitegood2contents.trade&type=A)|
 |[set2updatenow.thereadysitegood2contents.trade](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contents.trade&type=A)|
 |[testpconly12.thereadysitegood2contents.trade](https://dns.google.com/query?name=testpconly12.thereadysitegood2contents.trade&type=A)|
+|[aptitude.thereadysitegood2contents.win](https://dns.google.com/query?name=aptitude.thereadysitegood2contents.win&type=A)|

@@ -1,4 +1,34 @@
 {
+  "urls": {
+    "https://s3.amazonaws.com/1488/bd0d07e0-2410-49ae-a/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521118124.84676,
+      "url": "https://s3.amazonaws.com/1488/bd0d07e0-2410-49ae-a/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/28B4B92A6FE8AF4FB65/aIvFeZrZG0ujJvNmR/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521120658.312312,
+      "url": "https://s3.amazonaws.com/28B4B92A6FE8AF4FB65/aIvFeZrZG0ujJvNmR/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/175173/b6075b66-408b-458/1632320c-41fe-48e/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521121544.510625,
+      "url": "https://s3.amazonaws.com/175173/b6075b66-408b-458/1632320c-41fe-48e/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/b1829fe1-adc1-4cf3-b5b/3T83tvMA3Ea2Yv/Bgwdhhnn702Xb7/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521118757.622563,
+      "url": "https://s3.amazonaws.com/b1829fe1-adc1-4cf3-b5b/3T83tvMA3Ea2Yv/Bgwdhhnn702Xb7/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/a1e4c5ad-a49b-/7dca5b6a-b912-4338-9e2e/a3ba3b4a-563a-448e-81dd/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521121163.611391,
+      "url": "https://s3.amazonaws.com/a1e4c5ad-a49b-/7dca5b6a-b912-4338-9e2e/a3ba3b4a-563a-448e-81dd/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/2350/0B90/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521120022.327604,
+      "url": "https://s3.amazonaws.com/2350/0B90/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/96592/b19f6a4c-0aee-42f3-ab/a625a7f3-2c78-4353-b6/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521119390.013394,
+      "url": "https://s3.amazonaws.com/96592/b19f6a4c-0aee-42f3-ab/a625a7f3-2c78-4353-b6/AdobeFlashPlayerInstaller.dmg"
+    }
+  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -1913,36 +1943,7 @@
     "testpconly12.thereadysitegood2contents.stream",
     "aptitude.thereadysitegood2contents.trade",
     "set2updatenow.thereadysitegood2contents.trade",
-    "testpconly12.thereadysitegood2contents.trade"
-  ],
-  "urls": {
-    "https://s3.amazonaws.com/96592/b19f6a4c-0aee-42f3-ab/a625a7f3-2c78-4353-b6/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/96592/b19f6a4c-0aee-42f3-ab/a625a7f3-2c78-4353-b6/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521119390.013394
-    },
-    "https://s3.amazonaws.com/b1829fe1-adc1-4cf3-b5b/3T83tvMA3Ea2Yv/Bgwdhhnn702Xb7/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/b1829fe1-adc1-4cf3-b5b/3T83tvMA3Ea2Yv/Bgwdhhnn702Xb7/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521118757.622563
-    },
-    "https://s3.amazonaws.com/2350/0B90/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/2350/0B90/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521120022.327604
-    },
-    "https://s3.amazonaws.com/175173/b6075b66-408b-458/1632320c-41fe-48e/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/175173/b6075b66-408b-458/1632320c-41fe-48e/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521121544.510625
-    },
-    "https://s3.amazonaws.com/28B4B92A6FE8AF4FB65/aIvFeZrZG0ujJvNmR/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/28B4B92A6FE8AF4FB65/aIvFeZrZG0ujJvNmR/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521120658.312312
-    },
-    "https://s3.amazonaws.com/a1e4c5ad-a49b-/7dca5b6a-b912-4338-9e2e/a3ba3b4a-563a-448e-81dd/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/a1e4c5ad-a49b-/7dca5b6a-b912-4338-9e2e/a3ba3b4a-563a-448e-81dd/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521121163.611391
-    },
-    "https://s3.amazonaws.com/1488/bd0d07e0-2410-49ae-a/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/1488/bd0d07e0-2410-49ae-a/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521118124.84676
-    }
-  }
+    "testpconly12.thereadysitegood2contents.trade",
+    "aptitude.thereadysitegood2contents.win"
+  ]
 }
