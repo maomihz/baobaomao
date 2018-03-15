@@ -2045,3 +2045,4 @@
 |[installworking.thereadysitegoodtocontent.review](https://dns.google.com/query?name=installworking.thereadysitegoodtocontent.review&type=A)|
 |[liveupgrade.thereadysitegoodtocontent.review](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.review&type=A)|
 |[softnewready.thereadysitegoodtocontent.stream](https://dns.google.com/query?name=softnewready.thereadysitegoodtocontent.stream&type=A)|
+|[liveupgrade.thereadysitegoodtocontent.stream](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.stream&type=A)|
