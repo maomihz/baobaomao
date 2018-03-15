@@ -1736,3 +1736,4 @@
 |[checkingfree.thegreatfreesystemosforcontentsclear.trade](https://dns.google.com/query?name=checkingfree.thegreatfreesystemosforcontentsclear.trade&type=A)|
 |[downgradepc.thegreatfreesystemosforcontentsclear.trade](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentsclear.trade&type=A)|
 |[liveupdate.thegreatfreesystemosforcontentsclear.trade](https://dns.google.com/query?name=liveupdate.thegreatfreesystemosforcontentsclear.trade&type=A)|
+|[checkingfree.thegreatfreesystemosforcontentsclear.win](https://dns.google.com/query?name=checkingfree.thegreatfreesystemosforcontentsclear.win&type=A)|
