@@ -1767,3 +1767,4 @@
 |[updatesoft.thegreatfreesystemosforcontentsetup.stream](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsetup.stream&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentsetup.win](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsetup.win&type=A)|
 |[askupdate.thegreatfreesystemosforcontentsperfect.bid](https://dns.google.com/query?name=askupdate.thegreatfreesystemosforcontentsperfect.bid&type=A)|
+|[24pcupgrade.thegreatfreesystemosforcontentsperfect.bid](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentsperfect.bid&type=A)|
