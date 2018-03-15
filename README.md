@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMzgwLzEwOTkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:18|https://s3.amazonaws.com/21380/1099/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdEN0Y0LzIxMzQvMTc2MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:07|https://s3.amazonaws.com/7D7F4/2134/1761/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2RkJDRkZCQjYzNDYwNDIvWFBtMEhyd083VS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|05:56|https://s3.amazonaws.com/16FBCFFBB6346042/XPm0HrwO7U/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1NMdUpBdS82QUVCQzM4RUUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:46|https://s3.amazonaws.com/SLuJAu/6AEBC38EE/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1799,3 +1798,4 @@
 |[lastworking.thegreatfreesystemosforcontentsset.win](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentsset.win&type=A)|
 |[up2date.thegreatfreesystemosforcontentssetup.bid](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentssetup.bid&type=A)|
 |[lastversion.thegreatfreesystemosforcontentssetup.bid](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.bid&type=A)|
+|[lastversion.thegreatfreesystemosforcontentssetup.date](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.date&type=A)|
