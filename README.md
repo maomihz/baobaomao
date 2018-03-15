@@ -2069,3 +2069,4 @@
 |[app4com.thereadysitegoodtocontentsafe.bid](https://dns.google.com/query?name=app4com.thereadysitegoodtocontentsafe.bid&type=A)|
 |[installworking.thereadysitegoodtocontentsafe.bid](https://dns.google.com/query?name=installworking.thereadysitegoodtocontentsafe.bid&type=A)|
 |[app4com.thereadysitegoodtocontentsafe.win](https://dns.google.com/query?name=app4com.thereadysitegoodtocontentsafe.win&type=A)|
+|[newsoft24.thereadysitegoodforcontentsafe.trade](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontentsafe.trade&type=A)|
