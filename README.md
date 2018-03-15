@@ -1718,3 +1718,4 @@
 |[lastversion.thegreatfreesystemosforcontentsafesetup.bid](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsafesetup.bid&type=A)|
 |[upgradenote.thegreatfreesystemosforcontentsafesetup.bid](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentsafesetup.bid&type=A)|
 |[upgradenote.thegreatfreesystemosforcontentsafesetup.date](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentsafesetup.date&type=A)|
+|[lastversion.thegreatfreesystemosforcontentsafesetup.date](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsafesetup.date&type=A)|
