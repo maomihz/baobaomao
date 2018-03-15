@@ -1721,3 +1721,4 @@
 |[downgradepc.thegreatfreesystemosforcontentclear.win](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentclear.win&type=A)|
 |[lastversion.thegreatfreesystemosforcontentsafesetup.download](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsafesetup.download&type=A)|
 |[up2date.thegreatfreesystemosforcontentsafesetup.download](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentsafesetup.download&type=A)|
+|[updatesoft.thegreatfreesystemosforcontentsafesetup.download](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsafesetup.download&type=A)|

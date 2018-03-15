@@ -4,6 +4,10 @@
       "discovered": 1521079701.94692,
       "url": "https://s3.amazonaws.com/9A40B3C62/1401/1241/AdobeFlashPlayerInstaller.dmg"
     },
+    "https://s3.amazonaws.com/1025/2ce4/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521080209.940878,
+      "url": "https://s3.amazonaws.com/1025/2ce4/AdobeFlashPlayerInstaller.dmg"
+    },
     "https://s3.amazonaws.com/230f12e2-f9dc-4f3c-8771-73b7baee2a4/e9de76cf-62/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521081354.902703,
       "url": "https://s3.amazonaws.com/230f12e2-f9dc-4f3c-8771-73b7baee2a4/e9de76cf-62/AdobeFlashPlayerInstaller.dmg"
@@ -12,17 +16,13 @@
       "discovered": 1521081995.297231,
       "url": "https://s3.amazonaws.com/co5JpoqmX0/SJortbvDKk6r9Gr/fuOCxrK2Zkmemab/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/1025/2ce4/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521080209.940878,
-      "url": "https://s3.amazonaws.com/1025/2ce4/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/Ca_tUpPZl0qSJpVDfkhRH/48d3346a-0bc0-4fb8-bb1c-/dea645ad-27fc-4a28-b917-/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521079065.130338,
+      "url": "https://s3.amazonaws.com/Ca_tUpPZl0qSJpVDfkhRH/48d3346a-0bc0-4fb8-bb1c-/dea645ad-27fc-4a28-b917-/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/8DE0CAE2F0/5047/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521080845.478871,
       "url": "https://s3.amazonaws.com/8DE0CAE2F0/5047/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/Ca_tUpPZl0qSJpVDfkhRH/48d3346a-0bc0-4fb8-bb1c-/dea645ad-27fc-4a28-b917-/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521079065.130338,
-      "url": "https://s3.amazonaws.com/Ca_tUpPZl0qSJpVDfkhRH/48d3346a-0bc0-4fb8-bb1c-/dea645ad-27fc-4a28-b917-/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -1728,6 +1728,7 @@
     "lastversion.thegreatfreesystemosforcontentsafesetup.date",
     "downgradepc.thegreatfreesystemosforcontentclear.win",
     "lastversion.thegreatfreesystemosforcontentsafesetup.download",
-    "up2date.thegreatfreesystemosforcontentsafesetup.download"
+    "up2date.thegreatfreesystemosforcontentsafesetup.download",
+    "updatesoft.thegreatfreesystemosforcontentsafesetup.download"
   ]
 }
