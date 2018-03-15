@@ -1902,3 +1902,4 @@
 |[updatesoft.thegreatfreesystemosforcontentsafesetup.stream](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsafesetup.stream&type=A)|
 |[upgradenote.thegreatfreesystemosforcontentsafesetup.stream](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentsafesetup.stream&type=A)|
 |[up2date.thegreatfreesystemosforcontentsetup.download](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentsetup.download&type=A)|
+|[lastversion.thegreatfreesystemosforcontentsetup.trade](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsetup.trade&type=A)|
