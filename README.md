@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ5M0IyQzI1Qjc1Qzg0NDVBMkVDNzg0LzZDOTMvQjMyRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:59|https://s3.amazonaws.com/493B2C25B75C8445A2EC784/6C93/B32D/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJFODkvZTg3OTUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:47|https://s3.amazonaws.com/2E89/e8795/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwNDU4Ni90WVBoVDYvOVYvX2xIL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:36|https://s3.amazonaws.com/104586/tYPhT6/9V/_lH/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0UxRHdYUDZmLzlCNEMvOUVFNS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:25|https://s3.amazonaws.com/E1DwXP6f/9B4C/9EE5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0EyRTc3QTc2QTNCMTEwNDNCRDYwQTc4OURBMDQ0MkMvel94VV9ZbGUwMHlEL1RvdWpiZzllOEV1dS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:17|https://s3.amazonaws.com/A2E77A76A3B11043BD60A789DA0442C/z_xU_Yle00yD/Toujbg9e8Euu/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwODY4MjgzLzIxMDQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:08|https://s3.amazonaws.com/10868283/2104/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3NjAvNTg0NS8xODMxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:58|https://s3.amazonaws.com/1760/5845/1831/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1955,3 +1955,4 @@
 |[2update.thereadysitegood4contenting.trade](https://dns.google.com/query?name=2update.thereadysitegood4contenting.trade&type=A)|
 |[2update.thereadysitegood4contenting.win](https://dns.google.com/query?name=2update.thereadysitegood4contenting.win&type=A)|
 |[updatesoftware.thereadysitegood4contenting.trade](https://dns.google.com/query?name=updatesoftware.thereadysitegood4contenting.trade&type=A)|
+|[nowcheck.thereadysitegood4contenting.win](https://dns.google.com/query?name=nowcheck.thereadysitegood4contenting.win&type=A)|
