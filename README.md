@@ -2021,3 +2021,4 @@
 |[newsoft24.thereadysitegoodforcontent.win](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontent.win&type=A)|
 |[nowinstallupgrade.thereadysitegoodforcontent.win](https://dns.google.com/query?name=nowinstallupgrade.thereadysitegoodforcontent.win&type=A)|
 |[24online.thereadysitegoodforcontenting.bid](https://dns.google.com/query?name=24online.thereadysitegoodforcontenting.bid&type=A)|
+|[24online.thereadysitegoodforcontenting.date](https://dns.google.com/query?name=24online.thereadysitegoodforcontenting.date&type=A)|
