@@ -1882,3 +1882,4 @@
 |[softwareupdate.thegreatfreesystemosforcontentingset.win](https://dns.google.com/query?name=softwareupdate.thegreatfreesystemosforcontentingset.win&type=A)|
 |[up2date.thegreatfreesystemosforcontentingsetup.date](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.date&type=A)|
 |[upgradenote.thegreatfreesystemosforcontentingsetup.date](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentingsetup.date&type=A)|
+|[updatesoft.thegreatfreesystemosforcontentingsetup.download](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentingsetup.download&type=A)|
