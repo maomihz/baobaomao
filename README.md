@@ -1740,3 +1740,4 @@
 |[downgradepc.thegreatfreesystemosforcontentsclear.win](https://dns.google.com/query?name=downgradepc.thegreatfreesystemosforcontentsclear.win&type=A)|
 |[liveupdate.thegreatfreesystemosforcontentsclear.win](https://dns.google.com/query?name=liveupdate.thegreatfreesystemosforcontentsclear.win&type=A)|
 |[lastworking.thegreatfreesystemosforcontentset.bid](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentset.bid&type=A)|
+|[futureupdates.thegreatfreesystemosforcontentset.bid](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentset.bid&type=A)|
