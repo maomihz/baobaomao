@@ -2000,3 +2000,4 @@
 |[testupgrade.thereadysitegoodcontents.review](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontents.review&type=A)|
 |[nowcheck.thereadysitegoodcontents.stream](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontents.stream&type=A)|
 |[keyupgrade.thereadysitegoodcontents.trade](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontents.trade&type=A)|
+|[nowcheck.thereadysitegoodcontents.trade](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontents.trade&type=A)|
