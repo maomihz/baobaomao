@@ -1679,3 +1679,4 @@
 |[checksoft.thegreatfreesystemoscontentsetup.trade](https://dns.google.com/query?name=checksoft.thegreatfreesystemoscontentsetup.trade&type=A)|
 |[readynewsoft.thegreatfreesystemoscontentsetup.trade](https://dns.google.com/query?name=readynewsoft.thegreatfreesystemoscontentsetup.trade&type=A)|
 |[whenupdate.thegreatfreesystemoscontentsetup.trade](https://dns.google.com/query?name=whenupdate.thegreatfreesystemoscontentsetup.trade&type=A)|
+|[preparevideo.thegreatfreesystemoscontentsetup.win](https://dns.google.com/query?name=preparevideo.thegreatfreesystemoscontentsetup.win&type=A)|
