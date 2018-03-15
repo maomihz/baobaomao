@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2VhM2EzOGI3LTQzYWEtNDNkNy1iMWY5LS9mZTBmLzZjZGIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:29|https://s3.amazonaws.com/ea3a38b7-43aa-43d7-b1f9-/fe0f/6cdb/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk3RUQ5OTQwNUE1OTY5NDI5MTdBRjAvclo0RTdPbkZIRWlQVmUxYWlCRjBEZy9CUEp5dDA0MjAweXRTaWpGL1BrdFNBL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:19|https://s3.amazonaws.com/97ED99405A596942917AF0/rZ4E7OnFHEiPVe1aiBF0Dg/BPJyt04200ytSijF/PktSA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3RTQvNTBCMTc0NTlFMzc1MkY0Qjk4QURGREYwNC8xN0UzRTdDODkwRjdBQzRDOUM1MTQyMzE1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:08|https://s3.amazonaws.com/17E4/50B17459E3752F4B98ADFDF04/17E3E7C890F7AC4C9C5142315/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMwQ0IzMzdFM0NGL0JGN0IwQjI5N0RGREJFNDc5QjM3NDQ2OTkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:58|https://s3.amazonaws.com/30CB337E3CF/BF7B0B297DFDBE479B3744699/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3RUYzRDQ2NTAxNzhENDc5NzUyNDM5OEEvNTUyMDkwYmEtNjU1Zi00MTE4LTk1LzU1OTQ0ZGYxLTU4ZGEtNGU0Ny1hMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:47|https://s3.amazonaws.com/17EF3D4650178D4797524398A/552090ba-655f-4118-95/55944df1-58da-4e47-a2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRGNzdCNy8yN0JGQjVFQUZBNjk3MDRCQkEzMzgzRDgvMEExNjNCNDEyRjE5Qzg0REFCNkFENTBGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:39|https://s3.amazonaws.com/4F77B7/27BFB5EAFA69704BBA3383D8/0A163B412F19C84DAB6AD50F/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg0N2EzY2I5LTBjZi83YzQzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:28|https://s3.amazonaws.com/847a3cb9-0cf/7c43/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1812,3 +1812,4 @@
 |[supportversion.yourpointofforcontentingalways.stream](https://dns.google.com/query?name=supportversion.yourpointofforcontentingalways.stream&type=A)|
 |[nowup.yourpointofforcontentingalways.win](https://dns.google.com/query?name=nowup.yourpointofforcontentingalways.win&type=A)|
 |[soft2apt.yourpointofforcontentingalways.win](https://dns.google.com/query?name=soft2apt.yourpointofforcontentingalways.win&type=A)|
+|[aptitude.yourpointofforcontentinggood.date](https://dns.google.com/query?name=aptitude.yourpointofforcontentinggood.date&type=A)|
