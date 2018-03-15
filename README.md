@@ -1711,3 +1711,4 @@
 |[getnewsoft.thegreatfreesystemosforcontentsafeperfect.trade](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentsafeperfect.trade&type=A)|
 |[askupdate.thegreatfreesystemosforcontentsafeperfect.win](https://dns.google.com/query?name=askupdate.thegreatfreesystemosforcontentsafeperfect.win&type=A)|
 |[24pcupgrade.thegreatfreesystemosforcontentsafeperfect.win](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentsafeperfect.win&type=A)|
+|[getnewsoft.thegreatfreesystemosforcontentsafeperfect.win](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentsafeperfect.win&type=A)|
