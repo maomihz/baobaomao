@@ -1707,3 +1707,4 @@
 |[askupdate.thegreatfreesystemosforcontentsafeperfect.stream](https://dns.google.com/query?name=askupdate.thegreatfreesystemosforcontentsafeperfect.stream&type=A)|
 |[askupdate.thegreatfreesystemosforcontentsafeperfect.trade](https://dns.google.com/query?name=askupdate.thegreatfreesystemosforcontentsafeperfect.trade&type=A)|
 |[24pcupgrade.thegreatfreesystemosforcontentsafeperfect.trade](https://dns.google.com/query?name=24pcupgrade.thegreatfreesystemosforcontentsafeperfect.trade&type=A)|
+|[getnewsoft.thegreatfreesystemosforcontentsafeperfect.trade](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentsafeperfect.trade&type=A)|
