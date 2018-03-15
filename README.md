@@ -2010,3 +2010,4 @@
 |[keyupgrade.thereadysitegoodcontentsafe.download](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontentsafe.download&type=A)|
 |[keyupgrade.thereadysitegoodcontentsafe.review](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontentsafe.review&type=A)|
 |[testupgrade.thereadysitegoodcontentsafe.review](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontentsafe.review&type=A)|
+|[nowcheck.thereadysitegoodcontentsafe.trade](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontentsafe.trade&type=A)|
