@@ -2055,3 +2055,4 @@
 |[liveupgrade.thereadysitegoodtocontent.win](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontent.win&type=A)|
 |[app4com.thereadysitegoodtocontenting.bid](https://dns.google.com/query?name=app4com.thereadysitegoodtocontenting.bid&type=A)|
 |[installworking.thereadysitegoodtocontenting.bid](https://dns.google.com/query?name=installworking.thereadysitegoodtocontenting.bid&type=A)|
+|[liveupgrade.thereadysitegoodtocontenting.bid](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontenting.bid&type=A)|
