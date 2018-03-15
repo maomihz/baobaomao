@@ -2037,3 +2037,4 @@
 |[24online.thereadysitegoodforcontentsafe.download](https://dns.google.com/query?name=24online.thereadysitegoodforcontentsafe.download&type=A)|
 |[newsoft24.thereadysitegoodforcontentsafe.date](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontentsafe.date&type=A)|
 |[alwaysup.thereadysitegoodforcontentsafe.review](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontentsafe.review&type=A)|
+|[app4com.thereadysitegoodtocontent.bid](https://dns.google.com/query?name=app4com.thereadysitegoodtocontent.bid&type=A)|
