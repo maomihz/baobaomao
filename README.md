@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q3MjMvMjU1ODNmNzItY2E1Yy00L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:20|https://s3.amazonaws.com/D723/25583f72-ca5c-4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3MTQ5MTE5NS9BRThFNjM5QzFGQi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:11|https://s3.amazonaws.com/171491195/AE8E639C1FB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RhdGwvYjU1YmM2YTgtNTYzZC00ZjViLWJkZTQtODZhYzM4Ny9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:01|https://s3.amazonaws.com/Datl/b55bc6a8-563d-4f5b-bde4-86ac387/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVKWHRDQ0cvNDEzMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:46|https://s3.amazonaws.com/5JXtCCG/4131/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwMDcyOTgvMzlFQkFEOTZDNzRBOTk0MUE3OUMzREYyLzRDQjBGMDg2MDdEMTc4NEFBM0RBOEQ1Ni9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:35|https://s3.amazonaws.com/2007298/39EBAD96C74A9941A79C3DF2/4CB0F08607D1784AA3DA8D56/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk4NkY4MDBEQjkwREU4NEFBNUVBQkY0LzU0OTU4NC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:29|https://s3.amazonaws.com/986F800DB90DE84AA5EABF4/549584/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBmMzg1Njk0LTUzZWQtNDBjYi1hYjIwLWNlODYwMjYvNjU5ODQzMDZCNEQxNDUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:19|https://s3.amazonaws.com/0f385694-53ed-40cb-ab20-ce86026/65984306B4D145/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -1883,3 +1883,4 @@
 |[up2date.thegreatfreesystemosforcontentingsetup.date](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.date&type=A)|
 |[upgradenote.thegreatfreesystemosforcontentingsetup.date](https://dns.google.com/query?name=upgradenote.thegreatfreesystemosforcontentingsetup.date&type=A)|
 |[updatesoft.thegreatfreesystemosforcontentingsetup.download](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentingsetup.download&type=A)|
+|[up2date.thegreatfreesystemosforcontentingsetup.download](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentingsetup.download&type=A)|
