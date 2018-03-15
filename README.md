@@ -1954,3 +1954,4 @@
 |[nowcheck.thereadysitegood4content.win](https://dns.google.com/query?name=nowcheck.thereadysitegood4content.win&type=A)|
 |[2update.thereadysitegood4contenting.trade](https://dns.google.com/query?name=2update.thereadysitegood4contenting.trade&type=A)|
 |[2update.thereadysitegood4contenting.win](https://dns.google.com/query?name=2update.thereadysitegood4contenting.win&type=A)|
+|[updatesoftware.thereadysitegood4contenting.trade](https://dns.google.com/query?name=updatesoftware.thereadysitegood4contenting.trade&type=A)|
