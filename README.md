@@ -1822,3 +1822,4 @@
 |[preparevideo.yourpointofforcontentinggood.stream](https://dns.google.com/query?name=preparevideo.yourpointofforcontentinggood.stream&type=A)|
 |[newsoft12.yourpointofforcontentinggood.trade](https://dns.google.com/query?name=newsoft12.yourpointofforcontentinggood.trade&type=A)|
 |[preparevideo.yourpointofforcontentinggood.trade](https://dns.google.com/query?name=preparevideo.yourpointofforcontentinggood.trade&type=A)|
+|[aptitude.thesafestandultimatesystemupdate.win](https://dns.google.com/query?name=aptitude.thesafestandultimatesystemupdate.win&type=A)|
