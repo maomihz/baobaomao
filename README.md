@@ -1811,3 +1811,4 @@
 |[soft2apt.yourpointofforcontentingalways.stream](https://dns.google.com/query?name=soft2apt.yourpointofforcontentingalways.stream&type=A)|
 |[supportversion.yourpointofforcontentingalways.stream](https://dns.google.com/query?name=supportversion.yourpointofforcontentingalways.stream&type=A)|
 |[nowup.yourpointofforcontentingalways.win](https://dns.google.com/query?name=nowup.yourpointofforcontentingalways.win&type=A)|
+|[soft2apt.yourpointofforcontentingalways.win](https://dns.google.com/query?name=soft2apt.yourpointofforcontentingalways.win&type=A)|
