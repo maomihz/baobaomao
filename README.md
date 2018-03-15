@@ -1908,3 +1908,4 @@
 |[lastversion.thegreatfreesystemosforcontentssetup.win](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentssetup.win&type=A)|
 |[up2date.thegreatfreesystemosforcontentssetup.win](https://dns.google.com/query?name=up2date.thegreatfreesystemosforcontentssetup.win&type=A)|
 |[aptitude.thereadysitegood2content.bid](https://dns.google.com/query?name=aptitude.thereadysitegood2content.bid&type=A)|
+|[updatesoft.thegreatfreesystemosforcontentssetup.win](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentssetup.win&type=A)|
