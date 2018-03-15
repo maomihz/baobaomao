@@ -1869,24 +1869,25 @@
     "lastworking.thegreatfreesystemosforcontentsafeset.bid",
     "newversionupdate.thegreatfreesystemosforcontentsafeset.bid",
     "softwareupdate.thegreatfreesystemosforcontentsafeset.bid",
-    "futureupdates.thegreatfreesystemosforcontentsafeset.download"
+    "futureupdates.thegreatfreesystemosforcontentsafeset.download",
+    "softwareupdate.thegreatfreesystemosforcontentsafeset.download"
   ],
   "urls": {
-    "https://s3.amazonaws.com/5JXtCCG/4131/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521110782.226878,
-      "url": "https://s3.amazonaws.com/5JXtCCG/4131/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/D723/25583f72-ca5c-4/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521112817.977025,
-      "url": "https://s3.amazonaws.com/D723/25583f72-ca5c-4/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/171491195/AE8E639C1FB/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521112313.085119,
       "url": "https://s3.amazonaws.com/171491195/AE8E639C1FB/AdobeFlashPlayerInstaller.dmg"
     },
+    "https://s3.amazonaws.com/5JXtCCG/4131/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521110782.226878,
+      "url": "https://s3.amazonaws.com/5JXtCCG/4131/AdobeFlashPlayerInstaller.dmg"
+    },
     "https://s3.amazonaws.com/9cdda05b-64b3-4387-82f/4C5F/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521113195.723952,
       "url": "https://s3.amazonaws.com/9cdda05b-64b3-4387-82f/4C5F/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/D723/25583f72-ca5c-4/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521112817.977025,
+      "url": "https://s3.amazonaws.com/D723/25583f72-ca5c-4/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/Datl/b55bc6a8-563d-4f5b-bde4-86ac387/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521111671.68801,
