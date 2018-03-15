@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4OTg1OTgvZTc1NTU2MWEtMmEwYy00ZDMxLTgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:20|https://s3.amazonaws.com/1898598/e755561a-2a0c-4d31-8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1MjA1Mi8xOTk1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:09|https://s3.amazonaws.com/152052/1995/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzAxQ0ZBQTFBNUMzRDkzNDNBQTk3NUEvMmRiMWM1YWQtMmFkNS00Y2RhLWE2NDAtMDc0ZmJiNzZiZC9lMzU4YjY0MC04ODM1LTQ2NDAtOTA3Zi0wNzQ4OWYzYjdhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:59|https://s3.amazonaws.com/01CFAA1A5C3D9343AA975A/2db1c5ad-2ad5-4cda-a640-074fbb76bd/e358b640-8835-4640-907f-07489f3b7a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1RWV2ZBQVBoRGsvMTAyOTE1NjkvMTU2NzM4NDk5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:48|https://s3.amazonaws.com/TVWfAAPhDk/10291569/156738499/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1NTQvNjMxNS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:38|https://s3.amazonaws.com/1554/6315/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0VDMzBGRUE3MDJGNUI3LzIwMzAwMDM5Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:29|https://s3.amazonaws.com/EC30FEA702F5B7/203000392/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQyN2MzYjA1LTU1YjktNGM5NC04M2I4LTFiYy8xMjg3LzE4ODAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|18:19|https://s3.amazonaws.com/427c3b05-55b9-4c94-83b8-1bc/1287/1880/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2029,3 +2029,4 @@
 |[newsoft24.thereadysitegoodforcontents.bid](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontents.bid&type=A)|
 |[nowinstallupgrade.thereadysitegoodforcontents.bid](https://dns.google.com/query?name=nowinstallupgrade.thereadysitegoodforcontents.bid&type=A)|
 |[alwaysup.thereadysitegoodforcontents.trade](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontents.trade&type=A)|
+|[newsoft24.thereadysitegoodforcontents.trade](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontents.trade&type=A)|
