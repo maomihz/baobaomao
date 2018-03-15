@@ -1897,3 +1897,4 @@
 |[lastworking.thegreatfreesystemosforcontentset.download](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentset.download&type=A)|
 |[newversionupdate.thegreatfreesystemosforcontentset.download](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentset.download&type=A)|
 |[lastworking.thegreatfreesystemosforcontentset.stream](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentset.stream&type=A)|
+|[newversionupdate.thegreatfreesystemosforcontentset.stream](https://dns.google.com/query?name=newversionupdate.thegreatfreesystemosforcontentset.stream&type=A)|
