@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3pwaGZNUlBVQTBtV1BTLzc1NTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:10|https://s3.amazonaws.com/zphfMRPUA0mWPS/7551/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk1YzY3YzhlLWVlN2UtNDk5MS0vODAxOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:00|https://s3.amazonaws.com/95c67c8e-ee7e-4991-/8018/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYzMjc1NGY1LS9ERUQwNDA2ODZDQzVDQzRGOTVDQUI1Njk1RC83OUZGNzIyNzgzNTE4QTRGQUVGRTRFMzQ2My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:49|https://s3.amazonaws.com/632754f5-/DED040686CC5CC4F95CAB5695D/79FF722783518A4FAEFE4E3463/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNDMEU4QTgyMjQyMEMvNkJBRjNCMDZCRTY4Nzc0MjhCM0UxRTdDQUEwLzI4RENGQTFBREUzQjk1NDY5RTEyMENBOTMwQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:39|https://s3.amazonaws.com/3C0E8A822420C/6BAF3B06BE6877428B3E1E7CAA0/28DCFA1ADE3B95469E120CA930A/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RGQ0Y4RkE4Rjk4NkU0NEE5MjUyRC85eVBmNWM2Zy9ScDJlbW9WRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:28|https://s3.amazonaws.com/DFCF8FA8F986E44A9252D/9yPf5c6g/Rp2emoVD/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2xIQjUxWHVNdDBpZVhhLzA3NzBCQzQ3ODQ4NDAwNDI5QTA2OERBMUUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:18|https://s3.amazonaws.com/lHB51XuMt0ieXa/0770BC47848400429A068DA1E/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2EyYTJiZDY3LzE4ODc2MDU4Ny9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:09|https://s3.amazonaws.com/a2a2bd67/188760587/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2108,3 +2108,4 @@
 |[keyupgrade.thereadysitegoodcontenting.stream](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontenting.stream&type=A)|
 |[testupgrade.thereadysitegoodcontenting.stream](https://dns.google.com/query?name=testupgrade.thereadysitegoodcontenting.stream&type=A)|
 |[keyupgrade.thereadysitegoodcontenting.trade](https://dns.google.com/query?name=keyupgrade.thereadysitegoodcontenting.trade&type=A)|
+|[workupgrade.thereadysitegoodcontenting.trade](https://dns.google.com/query?name=workupgrade.thereadysitegoodcontenting.trade&type=A)|
