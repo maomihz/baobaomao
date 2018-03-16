@@ -2394,3 +2394,4 @@
 |[preparevideo.thebigforupdatethisyearall.bid](https://dns.google.com/query?name=preparevideo.thebigforupdatethisyearall.bid&type=A)|
 |[aptitude.thebigforupdatethisyearall.bid](https://dns.google.com/query?name=aptitude.thebigforupdatethisyearall.bid&type=A)|
 |[newsoft12.thebigforupdatethisyearall.bid](https://dns.google.com/query?name=newsoft12.thebigforupdatethisyearall.bid&type=A)|
+|[preparevideo.thebigforupdatethisyearall.download](https://dns.google.com/query?name=preparevideo.thebigforupdatethisyearall.download&type=A)|
