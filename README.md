@@ -2178,3 +2178,4 @@
 |[setupupgrade.yourbestcornerforcontentgreat.stream](https://dns.google.com/query?name=setupupgrade.yourbestcornerforcontentgreat.stream&type=A)|
 |[upalways.yourbestcornerforcontentgreat.stream](https://dns.google.com/query?name=upalways.yourbestcornerforcontentgreat.stream&type=A)|
 |[newupdate.yourbestcornerforcontentgreat.win](https://dns.google.com/query?name=newupdate.yourbestcornerforcontentgreat.win&type=A)|
+|[installworking.yourbestcornerforcontentgreat.win](https://dns.google.com/query?name=installworking.yourbestcornerforcontentgreat.win&type=A)|
