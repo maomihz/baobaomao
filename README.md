@@ -2188,3 +2188,4 @@
 |[updatenew.yourbestcornerforcontentingfree.download](https://dns.google.com/query?name=updatenew.yourbestcornerforcontentingfree.download&type=A)|
 |[installworking.yourbestcornerforcontentingfree.review](https://dns.google.com/query?name=installworking.yourbestcornerforcontentingfree.review&type=A)|
 |[getupdate.yourbestcornerforcontentingfree.review](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentingfree.review&type=A)|
+|[livecheck.yourbestcornerforcontentingfree.review](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.review&type=A)|
