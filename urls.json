@@ -1,12 +1,16 @@
 {
   "urls": {
+    "https://s3.amazonaws.com/1971159/XNlFqURyBEGbvMBQapoa/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/1971159/XNlFqURyBEGbvMBQapoa/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521233900.183487
+    },
     "https://s3.amazonaws.com/c7f64580-8db4-42df-be8f-c072/bbaaedf3-7408-4165-8576-e119a4/1c03c0f0-8072-4222-90d7-67449a/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/c7f64580-8db4-42df-be8f-c072/bbaaedf3-7408-4165-8576-e119a4/1c03c0f0-8072-4222-90d7-67449a/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521234406.326892
     },
-    "https://s3.amazonaws.com/1971159/XNlFqURyBEGbvMBQapoa/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/1971159/XNlFqURyBEGbvMBQapoa/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521233900.183487
+    "https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521232126.456641
     },
     "https://s3.amazonaws.com/xsHtIt0r/8cce9eca-d388-4beb-/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/xsHtIt0r/8cce9eca-d388-4beb-/AdobeFlashPlayerInstaller.dmg",
@@ -19,10 +23,6 @@
     "https://s3.amazonaws.com/80717314/a5b6541d-a863-4b38-a41/780e80af-a1ea-44f8-a19/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/80717314/a5b6541d-a863-4b38-a41/780e80af-a1ea-44f8-a19/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521231495.57063
-    },
-    "https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521232126.456641
     }
   },
   "ad_urls": [
@@ -2500,6 +2500,7 @@
     "installupgrade.yourbestcornerforcontentingup.trade",
     "readyupdate.yourbestcornerforcontentingup.trade",
     "updatesoft.yourbestcornerforcontentingup.trade",
-    "checkupdate.yourbestcornerforcontentprepared.bid"
+    "checkupdate.yourbestcornerforcontentprepared.bid",
+    "how2update.yourbestcornerforcontentprepared.bid"
   ]
 }
