@@ -2319,3 +2319,4 @@
 |[futureupdates.thegreatfreesystemosforcontentsset.date](https://dns.google.com/query?name=futureupdates.thegreatfreesystemosforcontentsset.date&type=A)|
 |[getnewsoft.thegreatfreesystemosforcontentsperfect.win](https://dns.google.com/query?name=getnewsoft.thegreatfreesystemosforcontentsperfect.win&type=A)|
 |[lastworking.thegreatfreesystemosforcontentsafeset.trade](https://dns.google.com/query?name=lastworking.thegreatfreesystemosforcontentsafeset.trade&type=A)|
+|[newsoft12.pprxsa.net](https://dns.google.com/query?name=newsoft12.pprxsa.net&type=A)|
