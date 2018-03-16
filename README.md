@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdlMTczLzA2MWRmNDRiLTZmMWEtLzgyMDU4OWJhLTQxZTktL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:19|https://s3.amazonaws.com/7e173/061df44b-6f1a-/820589ba-41e9-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM3NTNiNDE3LWJmOTQtNGNlZS05YWNkLzQ4N2U5YS8xM2Y3NjAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:09|https://s3.amazonaws.com/3753b417-bf94-4cee-9acd/487e9a/13f760/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc5RUIvNjM3OTAyLzEyOTI4OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:00|https://s3.amazonaws.com/79EB/637902/129288/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZFRjZGQzQ0NTk3RjU2L0I4QUU1NkRCRDZBNkM0NDhBNDcxRkQ2ODQvQkY5NkYxNjM3NDVEQjU0NTlBNjA5QzBCNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:47|https://s3.amazonaws.com/FEF6FC44597F56/B8AE56DBD6A6C448A471FD684/BF96F163745DB5459A609C0B4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc2ZDY0OTVmLTg1NWQtNDkwZC1iNTExLTUvNjI5MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:41|https://s3.amazonaws.com/76d6495f-855d-490d-b511-5/6291/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMjY5NzkveWZDX2VvTnlfa2FnSkNQSUttMVBGQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:31|https://s3.amazonaws.com/2126979/yfC_eoNy_kagJCPIKm1PFA/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0I3REM2RkJEQjE0RUNDNDg4Qy8xOTEwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:18|https://s3.amazonaws.com/B7DC6FBDB14ECC488C/1910/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2527,3 +2527,4 @@
 |[softupdate.thebig-centeralplaceforcontentingnew.bid](https://dns.google.com/query?name=softupdate.thebig-centeralplaceforcontentingnew.bid&type=A)|
 |[up2date.thebig-centeralplaceforcontentingnew.bid](https://dns.google.com/query?name=up2date.thebig-centeralplaceforcontentingnew.bid&type=A)|
 |[check.thebig-centeralplaceforcontentingnew.date](https://dns.google.com/query?name=check.thebig-centeralplaceforcontentingnew.date&type=A)|
+|[readyupdate.thebig-centeralplaceforcontentingnew.date](https://dns.google.com/query?name=readyupdate.thebig-centeralplaceforcontentingnew.date&type=A)|
