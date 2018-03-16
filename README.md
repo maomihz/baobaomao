@@ -2380,3 +2380,4 @@
 |[newsoft12.thebetterandreliable4updating.top](https://dns.google.com/query?name=newsoft12.thebetterandreliable4updating.top&type=A)|
 |[preparevideo.thebigandsofisticated2update.bid](https://dns.google.com/query?name=preparevideo.thebigandsofisticated2update.bid&type=A)|
 |[newsoft12.thebigandsofisticated2update.bid](https://dns.google.com/query?name=newsoft12.thebigandsofisticated2update.bid&type=A)|
+|[aptitude.thebigandsofisticated2update.bid](https://dns.google.com/query?name=aptitude.thebigandsofisticated2update.bid&type=A)|
