@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExNjMvZGM5ODY0Yy84MTc4MThmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|04:59|https://s3.amazonaws.com/1163/dc9864c/817818f/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0luXzZkaE9vNTBPTmZhQmltZmU0LzExOTQyMDUxOS8yMjcwNzcwOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:49|https://s3.amazonaws.com/In_6dhOo50ONfaBimfe4/119420519/22707708/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5MDZmZWNmLTZjYTYtNDE5My0vMzY1OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:38|https://s3.amazonaws.com/9906fecf-6ca6-4193-/3659/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkzODMvYjdkNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:26|https://s3.amazonaws.com/9383/b7d6/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFrdW16VVdhU2ttdjZGMFQvMTYxMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:17|https://s3.amazonaws.com/1kumzUWaSkmv6F0T/1613/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NFNzEyMDMzOEREQzkyNEVCMTMvOUE5MzlDRjM3OUMxQTQ0OEE1M0UvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:09|https://s3.amazonaws.com/CE7120338DDC924EB13/9A939CF379C1A448A53E/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0ODIvMTUyNDQ4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:56|https://s3.amazonaws.com/1482/152448/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2231,3 +2231,4 @@
 |[24newsoft.yourbestcornerforcontentnow.stream](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentnow.stream&type=A)|
 |[installupgrade.yourbestcornerforcontentnow.stream](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentnow.stream&type=A)|
 |[getupdate.yourbestcornerforcontentnow.trade](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentnow.trade&type=A)|
+|[installupgrade.yourbestcornerforcontentnow.trade](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentnow.trade&type=A)|
