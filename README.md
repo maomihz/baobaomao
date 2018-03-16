@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0luXzZkaE9vNTBPTmZhQmltZmU0LzExOTQyMDUxOS8yMjcwNzcwOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:49|https://s3.amazonaws.com/In_6dhOo50ONfaBimfe4/119420519/22707708/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk5MDZmZWNmLTZjYTYtNDE5My0vMzY1OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:38|https://s3.amazonaws.com/9906fecf-6ca6-4193-/3659/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkzODMvYjdkNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:26|https://s3.amazonaws.com/9383/b7d6/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFrdW16VVdhU2ttdjZGMFQvMTYxMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:17|https://s3.amazonaws.com/1kumzUWaSkmv6F0T/1613/AdobeFlashPlayerInstaller.dmg|
@@ -2227,3 +2228,4 @@
 |[upgradenow24.yourbestcornerforcontentnow.date](https://dns.google.com/query?name=upgradenow24.yourbestcornerforcontentnow.date&type=A)|
 |[getupdate.yourbestcornerforcontentnow.download](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentnow.download&type=A)|
 |[24newsoft.yourbestcornerforcontentnow.download](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentnow.download&type=A)|
+|[installupgrade.yourbestcornerforcontentnow.download](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentnow.download&type=A)|
