@@ -2464,3 +2464,4 @@
 |[how2update.yourbestcornerforcontentingprepared.date](https://dns.google.com/query?name=how2update.yourbestcornerforcontentingprepared.date&type=A)|
 |[livecheck.yourbestcornerforcontentingprepared.date](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingprepared.date&type=A)|
 |[checkupdate.yourbestcornerforcontentingprepared.download](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentingprepared.download&type=A)|
+|[how2update.yourbestcornerforcontentingprepared.download](https://dns.google.com/query?name=how2update.yourbestcornerforcontentingprepared.download&type=A)|
