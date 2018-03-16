@@ -2275,3 +2275,4 @@
 |[checkingfree.yourpointofforcontentload.review](https://dns.google.com/query?name=checkingfree.yourpointofforcontentload.review&type=A)|
 |[livecheck.yourpointofforcontentload.review](https://dns.google.com/query?name=livecheck.yourpointofforcontentload.review&type=A)|
 |[updateauto.yourpointofforcontentload.review](https://dns.google.com/query?name=updateauto.yourpointofforcontentload.review&type=A)|
+|[whenupgrade.yourpointofforcontents.bid](https://dns.google.com/query?name=whenupgrade.yourpointofforcontents.bid&type=A)|
