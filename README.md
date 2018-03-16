@@ -2280,3 +2280,4 @@
 |[upgradeinstall24.yourpointofforcontents.win](https://dns.google.com/query?name=upgradeinstall24.yourpointofforcontents.win&type=A)|
 |[update.yourpointofforcontentsafe.bid](https://dns.google.com/query?name=update.yourpointofforcontentsafe.bid&type=A)|
 |[upgradeinstall24.yourpointofforcontentsafe.bid](https://dns.google.com/query?name=upgradeinstall24.yourpointofforcontentsafe.bid&type=A)|
+|[update.yourpointofforcontentsafe.review](https://dns.google.com/query?name=update.yourpointofforcontentsafe.review&type=A)|
