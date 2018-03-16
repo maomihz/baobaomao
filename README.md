@@ -2437,3 +2437,4 @@
 |[newsoft12.thesafeandfunupgrade.bid](https://dns.google.com/query?name=newsoft12.thesafeandfunupgrade.bid&type=A)|
 |[aptitude.thesafeandoriginalupdate.bid](https://dns.google.com/query?name=aptitude.thesafeandoriginalupdate.bid&type=A)|
 |[newsoft12.thesafeandoriginalupdate.bid](https://dns.google.com/query?name=newsoft12.thesafeandoriginalupdate.bid&type=A)|
+|[aptitude.thesafeandoriginalupdate.download](https://dns.google.com/query?name=aptitude.thesafeandoriginalupdate.download&type=A)|
