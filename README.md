@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI1NDhlYjZkLTY2MzktNGI2Ni1iODNmLTNjYy9iZGU4MmQ4MS02L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:30|https://s3.amazonaws.com/2548eb6d-6639-4b66-b83f-3cc/bde82d81-6/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0YzREJGNTAxQzREL2VjNGZjNjgzLTFkZWEtNGM0NS05MjA4LS8wNmMxM2UzNS00MGFhLTQ0ODYtODM5MS0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:19|https://s3.amazonaws.com/F3DBF501C4D/ec4fc683-1dea-4c45-9208-/06c13e35-40aa-4486-8391-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVGMDc0ODYvMTk1QjUvMjBCQjQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:08|https://s3.amazonaws.com/5F07486/195B5/20BB4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUxYjQzNDEwLTY0MmMtNGUzNi1hYzkvYTM1OC9hYjg4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:58|https://s3.amazonaws.com/51b43410-642c-4e36-ac9/a358/ab88/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2F1eDZ4eWJ0Z0UyclVuXy81Q0Q5MTQzQzAxQUI3MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:52|https://s3.amazonaws.com/aux6xybtgE2rUn_/5CD9143C01AB70/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M5NGM2NzY1LWIzZTEtNDc3OC1iZmEvMTU2Ni81NTU5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:37|https://s3.amazonaws.com/c94c6765-b3e1-4778-bfa/1566/5559/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY3NEY3QkU1RTVBREUwNENCOTYzNjdDRTgyOS83UzkveDNDQkoweTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:26|https://s3.amazonaws.com/674F7BE5E5ADE04CB96367CE829/7S9/x3CBJ0y1/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2350,3 +2350,4 @@
 |[preparevideo.thebetterandreliable4update.bid](https://dns.google.com/query?name=preparevideo.thebetterandreliable4update.bid&type=A)|
 |[aptitude.thebetterandreliable4update.bid](https://dns.google.com/query?name=aptitude.thebetterandreliable4update.bid&type=A)|
 |[preparevideo.thebetterandreliable4update.download](https://dns.google.com/query?name=preparevideo.thebetterandreliable4update.download&type=A)|
+|[aptitude.thebetterandreliable4update.download](https://dns.google.com/query?name=aptitude.thebetterandreliable4update.download&type=A)|
