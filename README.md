@@ -2360,3 +2360,4 @@
 |[preparevideo.thebetterandreliable4updates.bid](https://dns.google.com/query?name=preparevideo.thebetterandreliable4updates.bid&type=A)|
 |[aptitude.thebetterandreliable4updates.bid](https://dns.google.com/query?name=aptitude.thebetterandreliable4updates.bid&type=A)|
 |[newsoft12.thebetterandreliable4updates.bid](https://dns.google.com/query?name=newsoft12.thebetterandreliable4updates.bid&type=A)|
+|[preparevideo.thebetterandreliable4updates.download](https://dns.google.com/query?name=preparevideo.thebetterandreliable4updates.download&type=A)|
