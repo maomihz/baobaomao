@@ -2500,3 +2500,4 @@
 |[livecheck.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentprepared.date&type=A)|
 |[onlineupdate.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentprepared.date&type=A)|
 |[how2update.yourbestcornerforcontentprepared.download](https://dns.google.com/query?name=how2update.yourbestcornerforcontentprepared.download&type=A)|
+|[checkupdate.yourbestcornerforcontentprepared.review](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentprepared.review&type=A)|
