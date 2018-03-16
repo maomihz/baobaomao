@@ -2241,3 +2241,4 @@
 |[getupdate.yourbestcornerforcontentsafefree.download](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsafefree.download&type=A)|
 |[installworking.yourbestcornerforcontentsafefree.review](https://dns.google.com/query?name=installworking.yourbestcornerforcontentsafefree.review&type=A)|
 |[livecheck.yourbestcornerforcontentsafefree.review](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentsafefree.review&type=A)|
+|[getupdate.yourbestcornerforcontentsafefree.win](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsafefree.win&type=A)|
