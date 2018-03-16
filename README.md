@@ -2133,3 +2133,4 @@
 |[24online.thereadysitegoodforcontentsafe.win](https://dns.google.com/query?name=24online.thereadysitegoodforcontentsafe.win&type=A)|
 |[newsoft24.thereadysitegoodforcontents.win](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontents.win&type=A)|
 |[app4com.thereadysitegoodtocontenting.download](https://dns.google.com/query?name=app4com.thereadysitegoodtocontenting.download&type=A)|
+|[newsoft24.thereadysitegoodforcontentsafe.win](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontentsafe.win&type=A)|
