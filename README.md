@@ -2309,3 +2309,4 @@
 |[update2.yourpointofforcontentsafegreat.trade](https://dns.google.com/query?name=update2.yourpointofforcontentsafegreat.trade&type=A)|
 |[lastversion.thegreatfreesystemosforcontentingsetup.date](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentingsetup.date&type=A)|
 |[lastversion.thegreatfreesystemosforcontentsetup.download](https://dns.google.com/query?name=lastversion.thegreatfreesystemosforcontentsetup.download&type=A)|
+|[updatesoft.thegreatfreesystemosforcontentsetup.download](https://dns.google.com/query?name=updatesoft.thegreatfreesystemosforcontentsetup.download&type=A)|
