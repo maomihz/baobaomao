@@ -2142,3 +2142,4 @@
 |[app4com.thereadysitegoodtocontents.trade](https://dns.google.com/query?name=app4com.thereadysitegoodtocontents.trade&type=A)|
 |[liveupgrade.thereadysitegoodtocontents.trade](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontents.trade&type=A)|
 |[installworking.thereadysitegoodtocontents.win](https://dns.google.com/query?name=installworking.thereadysitegoodtocontents.win&type=A)|
+|[installworking.thereadysitegoodtocontentsafe.download](https://dns.google.com/query?name=installworking.thereadysitegoodtocontentsafe.download&type=A)|
