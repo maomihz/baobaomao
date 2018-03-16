@@ -2148,3 +2148,4 @@
 |[installworking.thereadysitegoodtocontentsafe.review](https://dns.google.com/query?name=installworking.thereadysitegoodtocontentsafe.review&type=A)|
 |[app4com.thereadysitegoodtocontentsafe.review](https://dns.google.com/query?name=app4com.thereadysitegoodtocontentsafe.review&type=A)|
 |[app4com.thereadysitegoodtocontentsafe.stream](https://dns.google.com/query?name=app4com.thereadysitegoodtocontentsafe.stream&type=A)|
+|[liveupgrade.thereadysitegoodtocontentsafe.stream](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontentsafe.stream&type=A)|
