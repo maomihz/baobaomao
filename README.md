@@ -2222,3 +2222,4 @@
 |[installupgrade.yourbestcornerforcontentingnow.win](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentingnow.win&type=A)|
 |[getupdate.yourbestcornerforcontentingnow.win](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentingnow.win&type=A)|
 |[installupgrade.yourbestcornerforcontentnow.bid](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentnow.bid&type=A)|
+|[upgradenow24.yourbestcornerforcontentnow.bid](https://dns.google.com/query?name=upgradenow24.yourbestcornerforcontentnow.bid&type=A)|
