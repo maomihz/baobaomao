@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY1NDRDMjE5MDM4QkZENEY5MDcvcDdpRDA5NlpMMFNSUHhEL012Y0hieWl6cmt1amhXSy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:00|https://s3.amazonaws.com/6544C219038BFD4F907/p7iD096ZL0SRPxD/MvcHbyizrkujhWK/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL21YWHdPeWxPSGtHLzBkZjg2NzQ3LWVmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:49|https://s3.amazonaws.com/mXXwOylOHkG/0df86747-ef/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2U5ZjlhY2Y3LTk0ZGEtNDc1My1hL2QzZDAyMmY2LWMyYjItNGViYS1iNWQ4LzA1ZjU2ZDRhLTQ0OTEtNDU4Ni1hNTc3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:39|https://s3.amazonaws.com/e9f9acf7-94da-4753-a/d3d022f6-c2b2-4eba-b5d8/05f56d4a-4491-4586-a577/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlEREQ1NjRDQTdCMzdGNEZCNjhGNDAwOEYxQ0UvQTA5My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:28|https://s3.amazonaws.com/9DDD564CA7B37F4FB68F4008F1CE/A093/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzNzYvN0dLby9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:18|https://s3.amazonaws.com/1376/7GKo/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdFOUE2NTBCNEZGM0IvMUVCMy9FOTE3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:07|https://s3.amazonaws.com/7E9A650B4FF3B/1EB3/E917/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhhY2VkNjJhLWViNmItNDlkYS05L0ZEMDgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:59|https://s3.amazonaws.com/8aced62a-eb6b-49da-9/FD08/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2273,3 +2273,4 @@
 |[checkingfree.yourpointofforcontentingload.stream](https://dns.google.com/query?name=checkingfree.yourpointofforcontentingload.stream&type=A)|
 |[up2date.yourpointofforcontentingload.stream](https://dns.google.com/query?name=up2date.yourpointofforcontentingload.stream&type=A)|
 |[checkingfree.yourpointofforcontentload.review](https://dns.google.com/query?name=checkingfree.yourpointofforcontentload.review&type=A)|
+|[livecheck.yourpointofforcontentload.review](https://dns.google.com/query?name=livecheck.yourpointofforcontentload.review&type=A)|
