@@ -2253,3 +2253,4 @@
 |[setupupgrade.yourbestcornerforcontentsafegreat.win](https://dns.google.com/query?name=setupupgrade.yourbestcornerforcontentsafegreat.win&type=A)|
 |[newupdate.yourbestcornerforcontentsafegreat.win](https://dns.google.com/query?name=newupdate.yourbestcornerforcontentsafegreat.win&type=A)|
 |[24newsoft.yourbestcornerforcontentsafenow.date](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsafenow.date&type=A)|
+|[getupdate.yourbestcornerforcontentsafenow.download](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsafenow.download&type=A)|
