@@ -2256,3 +2256,4 @@
 |[getupdate.yourbestcornerforcontentsafenow.download](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsafenow.download&type=A)|
 |[24newsoft.yourbestcornerforcontentsafenow.review](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsafenow.review&type=A)|
 |[24newsoft.yourbestcornerforcontentsafenow.stream](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsafenow.stream&type=A)|
+|[getupdate.yourbestcornerforcontentsafenow.stream](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsafenow.stream&type=A)|
