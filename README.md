@@ -2322,3 +2322,4 @@
 |[aptitude.pprxsa.net](https://dns.google.com/query?name=aptitude.pprxsa.net&type=A)|
 |[preparevideo.admedit-inc.solutions](https://dns.google.com/query?name=preparevideo.admedit-inc.solutions&type=A)|
 |[preparevideo.thanks4updating.download](https://dns.google.com/query?name=preparevideo.thanks4updating.download&type=A)|
+|[newsoft12.thanks4updating.download](https://dns.google.com/query?name=newsoft12.thanks4updating.download&type=A)|
