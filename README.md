@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M4ODIyNUQ5Q0UxOUNENEFCNzAwRDg1RTc5LzE1NTMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:48|https://s3.amazonaws.com/C88225D9CE19CD4AB700D85E79/1553/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0NzUvMTA4OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|05:37|https://s3.amazonaws.com/1475/1089/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ2NDgvREE2RkZDQjBCQ0Y4RC9CNzY5NTYyMzdCQzc4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|05:27|https://s3.amazonaws.com/4648/DA6FFCB0BCF8D/B76956237BC78/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBERUIxMTA2OTI5RjQyNDdCRDkyMjc0Q0Q2MURFODAvNEUzMzBDN0ZGMDIyMjk0NUI4N0RDMTFGMi9BN0I5RkIzMDkxODVBRTQ1QjlBRjQwREQ2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|05:18|https://s3.amazonaws.com/0DEB1106929F4247BD92274CD61DE80/4E330C7FF0222945B87DC11F2/A7B9FB309185AE45B9AF40DD6/AdobeFlashPlayerInstaller.dmg|
@@ -2248,3 +2249,4 @@
 |[installworking.yourbestcornerforcontentsafegreat.date](https://dns.google.com/query?name=installworking.yourbestcornerforcontentsafegreat.date&type=A)|
 |[setupupgrade.yourbestcornerforcontentsafegreat.date](https://dns.google.com/query?name=setupupgrade.yourbestcornerforcontentsafegreat.date&type=A)|
 |[installworking.yourbestcornerforcontentsafegreat.review](https://dns.google.com/query?name=installworking.yourbestcornerforcontentsafegreat.review&type=A)|
+|[newupdate.yourbestcornerforcontentsafegreat.review](https://dns.google.com/query?name=newupdate.yourbestcornerforcontentsafegreat.review&type=A)|
