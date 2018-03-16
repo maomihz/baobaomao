@@ -2213,3 +2213,4 @@
 |[24newsoft.yourbestcornerforcontentingnow.date](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentingnow.date&type=A)|
 |[installupgrade.yourbestcornerforcontentingnow.date](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentingnow.date&type=A)|
 |[24newsoft.yourbestcornerforcontentingnow.download](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentingnow.download&type=A)|
+|[upgradenow24.yourbestcornerforcontentingnow.download](https://dns.google.com/query?name=upgradenow24.yourbestcornerforcontentingnow.download&type=A)|
