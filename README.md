@@ -2257,3 +2257,4 @@
 |[24newsoft.yourbestcornerforcontentsafenow.review](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsafenow.review&type=A)|
 |[24newsoft.yourbestcornerforcontentsafenow.stream](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsafenow.stream&type=A)|
 |[getupdate.yourbestcornerforcontentsafenow.stream](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsafenow.stream&type=A)|
+|[installupgrade.yourbestcornerforcontentsafenow.stream](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentsafenow.stream&type=A)|
