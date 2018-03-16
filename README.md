@@ -2232,3 +2232,4 @@
 |[installupgrade.yourbestcornerforcontentnow.stream](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentnow.stream&type=A)|
 |[getupdate.yourbestcornerforcontentnow.trade](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentnow.trade&type=A)|
 |[installupgrade.yourbestcornerforcontentnow.trade](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentnow.trade&type=A)|
+|[24newsoft.yourbestcornerforcontentnow.win](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentnow.win&type=A)|
