@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0MDE2ZWMwLWVmNmYtNGE2NC8xOTgxLzUzNDQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:50|https://s3.amazonaws.com/54016ec0-ef6f-4a64/1981/5344/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2VkZGs1bDU5VUV5RmR3L3lhVy8wOS9FSGt5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:40|https://s3.amazonaws.com/eddk5l59UEyFdw/yaW/09/EHky/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1NTX3hlRV8zLzgxMjMvNzgxMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:27|https://s3.amazonaws.com/SS_xeE_3/8123/7813/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL05RZ2pXd0hJN1VpUFNpMC8xODM5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:20|https://s3.amazonaws.com/NQgjWwHI7UiPSi0/1839/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU5MTdmNTJlLWYxMzgtLzEzOTM5ZjMzLTYzYTMtNDc1My1hOTk3LTZlZWE1NTBmMC80OTA1MDlhMC03YTYyLTQyNDctYjVhMS01ZDJhNDk0MWUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:06|https://s3.amazonaws.com/5917f52e-f138-/13939f33-63a3-4753-a997-6eea550f0/490509a0-7a62-4247-b5a1-5d2a4941e/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL19EVVUvMzMwODcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:59|https://s3.amazonaws.com/_DUU/33087/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL19OY2tRYkxSZms2X0IvYzQ2YWM1ZTAtM2NlMy00NzYxLWE2MWYtZi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:49|https://s3.amazonaws.com/_NckQbLRfk6_B/c46ac5e0-3ce3-4761-a61f-f/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2377,3 +2377,4 @@
 |[aptitude.thebest4utoupdating.bid](https://dns.google.com/query?name=aptitude.thebest4utoupdating.bid&type=A)|
 |[preparevideo.thebest4utoupdating.bid](https://dns.google.com/query?name=preparevideo.thebest4utoupdating.bid&type=A)|
 |[preparevideo.thebetterandreliable4updating.top](https://dns.google.com/query?name=preparevideo.thebetterandreliable4updating.top&type=A)|
+|[newsoft12.thebetterandreliable4updating.top](https://dns.google.com/query?name=newsoft12.thebetterandreliable4updating.top&type=A)|
