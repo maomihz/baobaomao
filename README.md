@@ -2194,3 +2194,4 @@
 |[getupdate.yourbestcornerforcontentingfree.trade](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentingfree.trade&type=A)|
 |[livecheck.yourbestcornerforcontentingfree.trade](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.trade&type=A)|
 |[updatenew.yourbestcornerforcontentingfree.win](https://dns.google.com/query?name=updatenew.yourbestcornerforcontentingfree.win&type=A)|
+|[livecheck.yourbestcornerforcontentingfree.win](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.win&type=A)|
