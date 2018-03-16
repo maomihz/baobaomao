@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVDM0ExNjQ0NjBCNUZGNENCRTQ1N0NFQzBELzMyTzkvOVZhTC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:32|https://s3.amazonaws.com/5C3A164460B5FF4CBE457CEC0D/32O9/9VaL/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExNzMwODcwOS8yMDUxLzQ2NTkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:17|https://s3.amazonaws.com/117308709/2051/4659/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M3ZjY0NTgwLThkYjQtNDJkZi1iZThmLWMwNzIvYmJhYWVkZjMtNzQwOC00MTY1LTg1NzYtZTExOWE0LzFjMDNjMGYwLTgwNzItNDIyMi05MGQ3LTY3NDQ5YS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:06|https://s3.amazonaws.com/c7f64580-8db4-42df-be8f-c072/bbaaedf3-7408-4165-8576-e119a4/1c03c0f0-8072-4222-90d7-67449a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5NzExNTkvWE5sRnFVUnlCRUdidk1CUWFwb2EvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:58|https://s3.amazonaws.com/1971159/XNlFqURyBEGbvMBQapoa/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RTNzUvZmZjNC84ODc5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:47|https://s3.amazonaws.com/dS75/ffc4/8879/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3hzSHRJdDByLzhjY2U5ZWNhLWQzODgtNGJlYi0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:37|https://s3.amazonaws.com/xsHtIt0r/8cce9eca-d388-4beb-/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJLSWRCR0dyVDBpLzEzMzI4ODgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:28|https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2499,3 +2499,4 @@
 |[how2update.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=how2update.yourbestcornerforcontentprepared.date&type=A)|
 |[livecheck.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentprepared.date&type=A)|
 |[onlineupdate.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentprepared.date&type=A)|
+|[how2update.yourbestcornerforcontentprepared.download](https://dns.google.com/query?name=how2update.yourbestcornerforcontentprepared.download&type=A)|
