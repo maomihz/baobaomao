@@ -2509,3 +2509,4 @@
 |[checkupdate.yourbestcornerforcontentprepared.trade](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentprepared.trade&type=A)|
 |[onlineupdate.yourbestcornerforcontentprepared.trade](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentprepared.trade&type=A)|
 |[24newsoft.yourbestcornerforcontentsafenow.win](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsafenow.win&type=A)|
+|[installupgrade.yourbestcornerforcontentsafenow.win](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentsafenow.win&type=A)|
