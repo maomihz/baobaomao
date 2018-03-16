@@ -2471,3 +2471,4 @@
 |[onlineupdate.yourbestcornerforcontentingprepared.stream](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentingprepared.stream&type=A)|
 |[checkupdate.yourbestcornerforcontentingprepared.trade](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentingprepared.trade&type=A)|
 |[onlineupdate.yourbestcornerforcontentingprepared.trade](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentingprepared.trade&type=A)|
+|[checkupdate.yourbestcornerforcontentingprepared.win](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentingprepared.win&type=A)|
