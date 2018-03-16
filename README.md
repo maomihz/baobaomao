@@ -2298,3 +2298,4 @@
 |[newsoft12.yourpointofforcontentsafegood.bid](https://dns.google.com/query?name=newsoft12.yourpointofforcontentsafegood.bid&type=A)|
 |[aptitude.yourpointofforcontentsafegood.stream](https://dns.google.com/query?name=aptitude.yourpointofforcontentsafegood.stream&type=A)|
 |[newsoft12.yourpointofforcontentsafegood.download](https://dns.google.com/query?name=newsoft12.yourpointofforcontentsafegood.download&type=A)|
+|[preparevideo.yourpointofforcontentsafegood.download](https://dns.google.com/query?name=preparevideo.yourpointofforcontentsafegood.download&type=A)|
