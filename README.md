@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3hzSHRJdDByLzhjY2U5ZWNhLWQzODgtNGJlYi0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:37|https://s3.amazonaws.com/xsHtIt0r/8cce9eca-d388-4beb-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJLSWRCR0dyVDBpLzEzMzI4ODgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:28|https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgwNzE3MzE0L2E1YjY1NDFkLWE4NjMtNGIzOC1hNDEvNzgwZTgwYWYtYTFlYS00NGY4LWExOS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:18|https://s3.amazonaws.com/80717314/a5b6541d-a863-4b38-a41/780e80af-a1ea-44f8-a19/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0tmQWMyLzQ4Qjc5NjMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:07|https://s3.amazonaws.com/KfAc2/48B7963/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2492,3 +2491,4 @@
 |[installupgrade.yourbestcornerforcontentingup.win](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentingup.win&type=A)|
 |[installupgrade.yourbestcornerforcontentingup.trade](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentingup.trade&type=A)|
 |[readyupdate.yourbestcornerforcontentingup.trade](https://dns.google.com/query?name=readyupdate.yourbestcornerforcontentingup.trade&type=A)|
+|[updatesoft.yourbestcornerforcontentingup.trade](https://dns.google.com/query?name=updatesoft.yourbestcornerforcontentingup.trade&type=A)|
