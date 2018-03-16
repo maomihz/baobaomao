@@ -2346,3 +2346,4 @@
 |[aptitude.thebest4uupdate.download](https://dns.google.com/query?name=aptitude.thebest4uupdate.download&type=A)|
 |[newsoft12.thebest4uupdate.download](https://dns.google.com/query?name=newsoft12.thebest4uupdate.download&type=A)|
 |[preparevideo.thebest4uupdates.download](https://dns.google.com/query?name=preparevideo.thebest4uupdates.download&type=A)|
+|[newsoft12.thebest4uupdates.download](https://dns.google.com/query?name=newsoft12.thebest4uupdates.download&type=A)|
