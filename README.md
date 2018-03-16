@@ -2297,3 +2297,4 @@
 |[soft2apt.yourpointofforcontentsafealways.review](https://dns.google.com/query?name=soft2apt.yourpointofforcontentsafealways.review&type=A)|
 |[newsoft12.yourpointofforcontentsafegood.bid](https://dns.google.com/query?name=newsoft12.yourpointofforcontentsafegood.bid&type=A)|
 |[aptitude.yourpointofforcontentsafegood.stream](https://dns.google.com/query?name=aptitude.yourpointofforcontentsafegood.stream&type=A)|
+|[newsoft12.yourpointofforcontentsafegood.download](https://dns.google.com/query?name=newsoft12.yourpointofforcontentsafegood.download&type=A)|
