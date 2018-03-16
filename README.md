@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVGMDc0ODYvMTk1QjUvMjBCQjQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:08|https://s3.amazonaws.com/5F07486/195B5/20BB4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUxYjQzNDEwLTY0MmMtNGUzNi1hYzkvYTM1OC9hYjg4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:58|https://s3.amazonaws.com/51b43410-642c-4e36-ac9/a358/ab88/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2F1eDZ4eWJ0Z0UyclVuXy81Q0Q5MTQzQzAxQUI3MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:52|https://s3.amazonaws.com/aux6xybtgE2rUn_/5CD9143C01AB70/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M5NGM2NzY1LWIzZTEtNDc3OC1iZmEvMTU2Ni81NTU5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:37|https://s3.amazonaws.com/c94c6765-b3e1-4778-bfa/1566/5559/AdobeFlashPlayerInstaller.dmg|
@@ -2344,3 +2345,4 @@
 |[newsoft12.thebest4uupdate.bid](https://dns.google.com/query?name=newsoft12.thebest4uupdate.bid&type=A)|
 |[preparevideo.thebest4uupdate.download](https://dns.google.com/query?name=preparevideo.thebest4uupdate.download&type=A)|
 |[aptitude.thebest4uupdate.download](https://dns.google.com/query?name=aptitude.thebest4uupdate.download&type=A)|
+|[newsoft12.thebest4uupdate.download](https://dns.google.com/query?name=newsoft12.thebest4uupdate.download&type=A)|
