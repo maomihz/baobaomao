@@ -2410,3 +2410,4 @@
 |[aptitude.thebigtoupdatesthisyear.stream](https://dns.google.com/query?name=aptitude.thebigtoupdatesthisyear.stream&type=A)|
 |[newsoft12.thebigtoupdatesthisyear.stream](https://dns.google.com/query?name=newsoft12.thebigtoupdatesthisyear.stream&type=A)|
 |[preparevideo.thebigforupdatingthisyearall.bid](https://dns.google.com/query?name=preparevideo.thebigforupdatingthisyearall.bid&type=A)|
+|[newsoft12.thebigforupdatingthisyearall.bid](https://dns.google.com/query?name=newsoft12.thebigforupdatingthisyearall.bid&type=A)|
