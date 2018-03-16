@@ -2404,3 +2404,4 @@
 |[preparevideo.thebigtoupdatesthisyear.bid](https://dns.google.com/query?name=preparevideo.thebigtoupdatesthisyear.bid&type=A)|
 |[newsoft12.thebigtoupdatesthisyear.bid](https://dns.google.com/query?name=newsoft12.thebigtoupdatesthisyear.bid&type=A)|
 |[preparevideo.thebigtoupdatesthisyear.download](https://dns.google.com/query?name=preparevideo.thebigtoupdatesthisyear.download&type=A)|
+|[aptitude.thebigtoupdatesthisyear.download](https://dns.google.com/query?name=aptitude.thebigtoupdatesthisyear.download&type=A)|
