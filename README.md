@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI3ODQvRTg4NzQ3MTgxQTc3NkQ0REIxMUZDL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:20|https://s3.amazonaws.com/2784/E88747181A776D4DB11FC/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NhMWY0YWFiLTQ1ZDktNDgzMi04MWE5LTcxLzQ5MUE4NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:13|https://s3.amazonaws.com/ca1f4aab-45d9-4832-81a9-71/491A85/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0cwY2hiWlh1VVVXLzQ1MjA0Ny9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:59|https://s3.amazonaws.com/G0chbZXuUUW/452047/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0MDE2ZWMwLWVmNmYtNGE2NC8xOTgxLzUzNDQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|13:50|https://s3.amazonaws.com/54016ec0-ef6f-4a64/1981/5344/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2VkZGs1bDU5VUV5RmR3L3lhVy8wOS9FSGt5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:40|https://s3.amazonaws.com/eddk5l59UEyFdw/yaW/09/EHky/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1NTX3hlRV8zLzgxMjMvNzgxMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:27|https://s3.amazonaws.com/SS_xeE_3/8123/7813/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL05RZ2pXd0hJN1VpUFNpMC8xODM5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:20|https://s3.amazonaws.com/NQgjWwHI7UiPSi0/1839/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2383,3 +2383,4 @@
 |[aptitude.thebigandsofisticated2update.bid](https://dns.google.com/query?name=aptitude.thebigandsofisticated2update.bid&type=A)|
 |[aptitude.thebigforupdatesthisyearall.bid](https://dns.google.com/query?name=aptitude.thebigforupdatesthisyearall.bid&type=A)|
 |[preparevideo.thebigforupdatesthisyearall.download](https://dns.google.com/query?name=preparevideo.thebigforupdatesthisyearall.download&type=A)|
+|[aptitude.thebigforupdatesthisyearall.download](https://dns.google.com/query?name=aptitude.thebigforupdatesthisyearall.download&type=A)|
