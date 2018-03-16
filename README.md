@@ -2376,3 +2376,4 @@
 |[newsoft12.thebest4utoupdating.bid](https://dns.google.com/query?name=newsoft12.thebest4utoupdating.bid&type=A)|
 |[aptitude.thebest4utoupdating.bid](https://dns.google.com/query?name=aptitude.thebest4utoupdating.bid&type=A)|
 |[preparevideo.thebest4utoupdating.bid](https://dns.google.com/query?name=preparevideo.thebest4utoupdating.bid&type=A)|
+|[preparevideo.thebetterandreliable4updating.top](https://dns.google.com/query?name=preparevideo.thebetterandreliable4updating.top&type=A)|
