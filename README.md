@@ -2387,3 +2387,4 @@
 |[newsoft12.thebigforupdatesthisyearall.download](https://dns.google.com/query?name=newsoft12.thebigforupdatesthisyearall.download&type=A)|
 |[preparevideo.thebigforupdatesthisyearall.stream](https://dns.google.com/query?name=preparevideo.thebigforupdatesthisyearall.stream&type=A)|
 |[aptitude.thebigforupdatesthisyearall.stream](https://dns.google.com/query?name=aptitude.thebigforupdatesthisyearall.stream&type=A)|
+|[newsoft12.thebigforupdatesthisyearall.stream](https://dns.google.com/query?name=newsoft12.thebigforupdatesthisyearall.stream&type=A)|
