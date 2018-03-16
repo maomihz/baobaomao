@@ -2162,3 +2162,4 @@
 |[getupdate.yourbestcornerforcontentfree.stream](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentfree.stream&type=A)|
 |[updatenew.yourbestcornerforcontentfree.stream](https://dns.google.com/query?name=updatenew.yourbestcornerforcontentfree.stream&type=A)|
 |[getupdate.yourbestcornerforcontentfree.trade](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentfree.trade&type=A)|
+|[livecheck.yourbestcornerforcontentfree.trade](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentfree.trade&type=A)|
