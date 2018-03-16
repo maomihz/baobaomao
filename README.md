@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0U5NjYvNDM1MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:17|https://s3.amazonaws.com/E966/4350/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczRjMyMjRFNjU0QzgvMjAzNC8xMDA2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:10|https://s3.amazonaws.com/73F3224E654C8/2034/1006/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2MDQ5MzQ1NS8vb3ZkUUdyM20vTlF2QzRQS2RmL0Fkb2JlRmxhc2hQbGF5ZXIuZG1n)|10:00|https://s3.amazonaws.com/160493455//ovdQGr3m/NQvC4PKdf/AdobeFlashPlayer.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL01OWkFVb2h4aTBDT2t1UFYwTmYvWVZjVy9hOWh3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|09:49|https://s3.amazonaws.com/MNZAUohxi0COkuPV0Nf/YVcW/a9hw/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2325,3 +2324,4 @@
 |[preparevideo.thanks4updating.download](https://dns.google.com/query?name=preparevideo.thanks4updating.download&type=A)|
 |[newsoft12.thanks4updating.download](https://dns.google.com/query?name=newsoft12.thanks4updating.download&type=A)|
 |[preparevideo.pressultimateupgradingthesebuttons.pw](https://dns.google.com/query?name=preparevideo.pressultimateupgradingthesebuttons.pw&type=A)|
+|[aptitude.pressultimateupgradingthesebuttons.pw](https://dns.google.com/query?name=aptitude.pressultimateupgradingthesebuttons.pw&type=A)|
