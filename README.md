@@ -2483,3 +2483,4 @@
 |[readyupdate.yourbestcornerforcontentingup.date](https://dns.google.com/query?name=readyupdate.yourbestcornerforcontentingup.date&type=A)|
 |[readyupdate.yourbestcornerforcontentingup.download](https://dns.google.com/query?name=readyupdate.yourbestcornerforcontentingup.download&type=A)|
 |[workingversion.yourbestcornerforcontentingup.download](https://dns.google.com/query?name=workingversion.yourbestcornerforcontentingup.download&type=A)|
+|[installupgrade.yourbestcornerforcontentingup.review](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentingup.review&type=A)|
