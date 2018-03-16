@@ -2314,3 +2314,4 @@
 |[nowcheck.thereadysitegoodcontents.review](https://dns.google.com/query?name=nowcheck.thereadysitegoodcontents.review&type=A)|
 |[set2updatenow.thereadysitegood2contentsafe.review](https://dns.google.com/query?name=set2updatenow.thereadysitegood2contentsafe.review&type=A)|
 |[askupdate.thegreatfreesystemosforcontentsperfect.download](https://dns.google.com/query?name=askupdate.thegreatfreesystemosforcontentsperfect.download&type=A)|
+|[aptitude.thereadysitegood2contentsafe.review](https://dns.google.com/query?name=aptitude.thereadysitegood2contentsafe.review&type=A)|
