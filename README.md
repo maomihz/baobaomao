@@ -2295,3 +2295,4 @@
 |[nowup.yourpointofforcontentsafealways.date](https://dns.google.com/query?name=nowup.yourpointofforcontentsafealways.date&type=A)|
 |[supportversion.yourpointofforcontentsafealways.date](https://dns.google.com/query?name=supportversion.yourpointofforcontentsafealways.date&type=A)|
 |[nowup.yourpointofforcontentsafealways.review](https://dns.google.com/query?name=nowup.yourpointofforcontentsafealways.review&type=A)|
+|[soft2apt.yourpointofforcontentsafealways.review](https://dns.google.com/query?name=soft2apt.yourpointofforcontentsafealways.review&type=A)|
