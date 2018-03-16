@@ -2430,3 +2430,4 @@
 |[aptitude.thebigtoupdatingthisyear.stream](https://dns.google.com/query?name=aptitude.thebigtoupdatingthisyear.stream&type=A)|
 |[newsoft12.thebigtoupdatingthisyear.stream](https://dns.google.com/query?name=newsoft12.thebigtoupdatingthisyear.stream&type=A)|
 |[preparevideo.thebigforupdatingthisyearall.download](https://dns.google.com/query?name=preparevideo.thebigforupdatingthisyearall.download&type=A)|
+|[aptitude.thebigforupdatingthisyearall.download](https://dns.google.com/query?name=aptitude.thebigforupdatingthisyearall.download&type=A)|
