@@ -2514,3 +2514,4 @@
 |[livecheck.yourbestcornerforcontentsafefree.stream](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentsafefree.stream&type=A)|
 |[installworking.yourbestcornerforcontentsafegreat.download](https://dns.google.com/query?name=installworking.yourbestcornerforcontentsafegreat.download&type=A)|
 |[newupdate.yourbestcornerforcontentsafegreat.download](https://dns.google.com/query?name=newupdate.yourbestcornerforcontentsafegreat.download&type=A)|
+|[setupupgrade.yourbestcornerforcontentsafegreat.download](https://dns.google.com/query?name=setupupgrade.yourbestcornerforcontentsafegreat.download&type=A)|

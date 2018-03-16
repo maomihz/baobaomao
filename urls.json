@@ -1,9 +1,5 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/5C3A164460B5FF4CBE457CEC0D/32O9/9VaL/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/5C3A164460B5FF4CBE457CEC0D/32O9/9VaL/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521235923.900778
-    },
     "https://s3.amazonaws.com/414cc83b-8978-4d2b-ab1d-418702b/6F16/9CB3/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/414cc83b-8978-4d2b-ab1d-418702b/6F16/9CB3/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521236303.633821
@@ -16,13 +12,17 @@
       "url": "https://s3.amazonaws.com/B7DC6FBDB14ECC488C/1910/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521238704.120276
     },
-    "https://s3.amazonaws.com/159728/109292044/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/159728/109292044/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521237439.714948
-    },
     "https://s3.amazonaws.com/BBA702A92BF0BF/1731/FE75/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/BBA702A92BF0BF/1731/FE75/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521238198.172418
+    },
+    "https://s3.amazonaws.com/5C3A164460B5FF4CBE457CEC0D/32O9/9VaL/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/5C3A164460B5FF4CBE457CEC0D/32O9/9VaL/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521235923.900778
+    },
+    "https://s3.amazonaws.com/159728/109292044/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/159728/109292044/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521237439.714948
     }
   },
   "ad_urls": [
@@ -2521,6 +2521,7 @@
     "onlineupdate.yourbestcornerforcontentsafeprepared.bid",
     "livecheck.yourbestcornerforcontentsafefree.stream",
     "installworking.yourbestcornerforcontentsafegreat.download",
-    "newupdate.yourbestcornerforcontentsafegreat.download"
+    "newupdate.yourbestcornerforcontentsafegreat.download",
+    "setupupgrade.yourbestcornerforcontentsafegreat.download"
   ]
 }
