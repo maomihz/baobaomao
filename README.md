@@ -2156,3 +2156,4 @@
 |[livecheck.yourbestcornerforcontentfree.date](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentfree.date&type=A)|
 |[installworking.yourbestcornerforcontentfree.download](https://dns.google.com/query?name=installworking.yourbestcornerforcontentfree.download&type=A)|
 |[getupdate.yourbestcornerforcontentfree.download](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentfree.download&type=A)|
+|[livecheck.yourbestcornerforcontentfree.download](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentfree.download&type=A)|
