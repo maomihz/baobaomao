@@ -2428,3 +2428,4 @@
 |[aptitude.thebigtoupdatingthisyear.download](https://dns.google.com/query?name=aptitude.thebigtoupdatingthisyear.download&type=A)|
 |[preparevideo.thebigtoupdatingthisyear.stream](https://dns.google.com/query?name=preparevideo.thebigtoupdatingthisyear.stream&type=A)|
 |[aptitude.thebigtoupdatingthisyear.stream](https://dns.google.com/query?name=aptitude.thebigtoupdatingthisyear.stream&type=A)|
+|[newsoft12.thebigtoupdatingthisyear.stream](https://dns.google.com/query?name=newsoft12.thebigtoupdatingthisyear.stream&type=A)|
