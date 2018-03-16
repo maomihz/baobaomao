@@ -2235,32 +2235,37 @@
     "setupupgrade.yourbestcornerforcontentsafegreat.win",
     "newupdate.yourbestcornerforcontentsafegreat.win",
     "24newsoft.yourbestcornerforcontentsafenow.date",
-    "getupdate.yourbestcornerforcontentsafenow.download"
+    "getupdate.yourbestcornerforcontentsafenow.download",
+    "24newsoft.yourbestcornerforcontentsafenow.review"
   ],
   "urls": {
-    "https://s3.amazonaws.com/0DEB1106929F4247BD92274CD61DE80/4E330C7FF0222945B87DC11F2/A7B9FB309185AE45B9AF40DD6/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521177533.062227,
-      "url": "https://s3.amazonaws.com/0DEB1106929F4247BD92274CD61DE80/4E330C7FF0222945B87DC11F2/A7B9FB309185AE45B9AF40DD6/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/C88225D9CE19CD4AB700D85E79/1553/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521179313.123418,
-      "url": "https://s3.amazonaws.com/C88225D9CE19CD4AB700D85E79/1553/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/7E9A650B4FF3B/1EB3/E917/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521180454.442576,
+      "url": "https://s3.amazonaws.com/7E9A650B4FF3B/1EB3/E917/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/4648/DA6FFCB0BCF8D/B76956237BC78/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521178045.073992,
       "url": "https://s3.amazonaws.com/4648/DA6FFCB0BCF8D/B76956237BC78/AdobeFlashPlayerInstaller.dmg"
     },
+    "https://s3.amazonaws.com/0DEB1106929F4247BD92274CD61DE80/4E330C7FF0222945B87DC11F2/A7B9FB309185AE45B9AF40DD6/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521177533.062227,
+      "url": "https://s3.amazonaws.com/0DEB1106929F4247BD92274CD61DE80/4E330C7FF0222945B87DC11F2/A7B9FB309185AE45B9AF40DD6/AdobeFlashPlayerInstaller.dmg"
+    },
     "https://s3.amazonaws.com/1475/1089/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521178676.174103,
       "url": "https://s3.amazonaws.com/1475/1089/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521176897.457278,
+      "url": "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/8aced62a-eb6b-49da-9/FD08/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521179949.646623,
       "url": "https://s3.amazonaws.com/8aced62a-eb6b-49da-9/FD08/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521176897.457278,
-      "url": "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/C88225D9CE19CD4AB700D85E79/1553/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521179313.123418,
+      "url": "https://s3.amazonaws.com/C88225D9CE19CD4AB700D85E79/1553/AdobeFlashPlayerInstaller.dmg"
     }
   }
 }
