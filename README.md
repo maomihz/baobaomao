@@ -2296,3 +2296,4 @@
 |[supportversion.yourpointofforcontentsafealways.date](https://dns.google.com/query?name=supportversion.yourpointofforcontentsafealways.date&type=A)|
 |[nowup.yourpointofforcontentsafealways.review](https://dns.google.com/query?name=nowup.yourpointofforcontentsafealways.review&type=A)|
 |[soft2apt.yourpointofforcontentsafealways.review](https://dns.google.com/query?name=soft2apt.yourpointofforcontentsafealways.review&type=A)|
+|[newsoft12.yourpointofforcontentsafegood.bid](https://dns.google.com/query?name=newsoft12.yourpointofforcontentsafegood.bid&type=A)|
