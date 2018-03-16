@@ -4,9 +4,13 @@
       "discovered": 1521178676.174103,
       "url": "https://s3.amazonaws.com/1475/1089/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/4648/DA6FFCB0BCF8D/B76956237BC78/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521178045.073992,
-      "url": "https://s3.amazonaws.com/4648/DA6FFCB0BCF8D/B76956237BC78/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521176897.457278,
+      "url": "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/1163/dc9864c/817818f/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521176392.538506,
+      "url": "https://s3.amazonaws.com/1163/dc9864c/817818f/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/C88225D9CE19CD4AB700D85E79/1553/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521179313.123418,
@@ -16,13 +20,9 @@
       "discovered": 1521177533.062227,
       "url": "https://s3.amazonaws.com/0DEB1106929F4247BD92274CD61DE80/4E330C7FF0222945B87DC11F2/A7B9FB309185AE45B9AF40DD6/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/1163/dc9864c/817818f/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521176392.538506,
-      "url": "https://s3.amazonaws.com/1163/dc9864c/817818f/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521176897.457278,
-      "url": "https://s3.amazonaws.com/7145/1957/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/4648/DA6FFCB0BCF8D/B76956237BC78/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521178045.073992,
+      "url": "https://s3.amazonaws.com/4648/DA6FFCB0BCF8D/B76956237BC78/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -2258,6 +2258,7 @@
     "installworking.yourbestcornerforcontentsafegreat.review",
     "newupdate.yourbestcornerforcontentsafegreat.review",
     "installworking.yourbestcornerforcontentsafegreat.trade",
-    "setupupgrade.yourbestcornerforcontentsafegreat.win"
+    "setupupgrade.yourbestcornerforcontentsafegreat.win",
+    "newupdate.yourbestcornerforcontentsafegreat.win"
   ]
 }
