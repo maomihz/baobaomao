@@ -2511,3 +2511,4 @@
 |[24newsoft.yourbestcornerforcontentsafenow.win](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsafenow.win&type=A)|
 |[installupgrade.yourbestcornerforcontentsafenow.win](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentsafenow.win&type=A)|
 |[onlineupdate.yourbestcornerforcontentsafeprepared.bid](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentsafeprepared.bid&type=A)|
+|[livecheck.yourbestcornerforcontentsafefree.stream](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentsafefree.stream&type=A)|
