@@ -4,21 +4,21 @@
       "url": "https://s3.amazonaws.com/xsHtIt0r/8cce9eca-d388-4beb-/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521232635.875964
     },
-    "https://s3.amazonaws.com/dS75/ffc4/8879/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/dS75/ffc4/8879/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521233267.728175
+    "https://s3.amazonaws.com/KfAc2/48B7963/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/KfAc2/48B7963/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521230859.976147
     },
     "https://s3.amazonaws.com/80717314/a5b6541d-a863-4b38-a41/780e80af-a1ea-44f8-a19/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/80717314/a5b6541d-a863-4b38-a41/780e80af-a1ea-44f8-a19/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521231495.57063
     },
+    "https://s3.amazonaws.com/dS75/ffc4/8879/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/dS75/ffc4/8879/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521233267.728175
+    },
     "https://s3.amazonaws.com/1971159/XNlFqURyBEGbvMBQapoa/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/1971159/XNlFqURyBEGbvMBQapoa/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521233900.183487
-    },
-    "https://s3.amazonaws.com/KfAc2/48B7963/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/KfAc2/48B7963/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521230859.976147
     },
     "https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/2KIdBGGrT0i/1332888/AdobeFlashPlayerInstaller.dmg",
@@ -2495,6 +2495,7 @@
     "readyupdate.yourbestcornerforcontentingup.review",
     "updatesoft.yourbestcornerforcontentingup.review",
     "readyupdate.yourbestcornerforcontentingup.stream",
-    "updatesoft.yourbestcornerforcontentingup.win"
+    "updatesoft.yourbestcornerforcontentingup.win",
+    "installupgrade.yourbestcornerforcontentingup.win"
   ]
 }

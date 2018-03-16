@@ -2488,3 +2488,4 @@
 |[updatesoft.yourbestcornerforcontentingup.review](https://dns.google.com/query?name=updatesoft.yourbestcornerforcontentingup.review&type=A)|
 |[readyupdate.yourbestcornerforcontentingup.stream](https://dns.google.com/query?name=readyupdate.yourbestcornerforcontentingup.stream&type=A)|
 |[updatesoft.yourbestcornerforcontentingup.win](https://dns.google.com/query?name=updatesoft.yourbestcornerforcontentingup.win&type=A)|
+|[installupgrade.yourbestcornerforcontentingup.win](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentingup.win&type=A)|
