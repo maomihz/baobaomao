@@ -2218,3 +2218,4 @@
 |[installupgrade.yourbestcornerforcontentingnow.stream](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentingnow.stream&type=A)|
 |[24newsoft.yourbestcornerforcontentingnow.trade](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentingnow.trade&type=A)|
 |[upgradenow24.yourbestcornerforcontentingnow.trade](https://dns.google.com/query?name=upgradenow24.yourbestcornerforcontentingnow.trade&type=A)|
+|[24newsoft.yourbestcornerforcontentingnow.win](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentingnow.win&type=A)|
