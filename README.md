@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUxOTIvV0xRNG5aTUNta1dCdGU1enBEMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:31|https://s3.amazonaws.com/5192/WLQ4nZMCmkWBte5zpD1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1OTgxMjQvNzAwNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:21|https://s3.amazonaws.com/1598124/7004/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJMTVhfLzYxNDQ4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:08|https://s3.amazonaws.com/2LMX_/61448/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1MDgvODYxODE1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:55|https://s3.amazonaws.com/1508/861815/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2425,3 +2424,4 @@
 |[preparevideo.thebigtoupdatethisyear.top](https://dns.google.com/query?name=preparevideo.thebigtoupdatethisyear.top&type=A)|
 |[aptitude.thebigtoupdatingthisyear.bid](https://dns.google.com/query?name=aptitude.thebigtoupdatingthisyear.bid&type=A)|
 |[newsoft12.thebigtoupdatingthisyear.bid](https://dns.google.com/query?name=newsoft12.thebigtoupdatingthisyear.bid&type=A)|
+|[preparevideo.thebigtoupdatingthisyear.download](https://dns.google.com/query?name=preparevideo.thebigtoupdatingthisyear.download&type=A)|
