@@ -2374,3 +2374,4 @@
 |[newsoft12.thebetterandreliable4updating.download](https://dns.google.com/query?name=newsoft12.thebetterandreliable4updating.download&type=A)|
 |[preparevideo.thebetterandreliable4updating.stream](https://dns.google.com/query?name=preparevideo.thebetterandreliable4updating.stream&type=A)|
 |[newsoft12.thebest4utoupdating.bid](https://dns.google.com/query?name=newsoft12.thebest4utoupdating.bid&type=A)|
+|[aptitude.thebest4utoupdating.bid](https://dns.google.com/query?name=aptitude.thebest4utoupdating.bid&type=A)|
