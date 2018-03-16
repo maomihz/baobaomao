@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FCekcvNTYxRi9COTM1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:09|https://s3.amazonaws.com/aBzG/561F/B935/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzNzYvNDI3OUY4MEE3MUY2NUM0OUJGQzVGNkExODcwLzA3REI0M0Q1RkU2MUQwNEFCQjIzOUNEODQzQi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:57|https://s3.amazonaws.com/1376/4279F80A71F65C49BFC5F6A1870/07DB43D5FE61D04ABB239CD843B/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4MjQzMDUvNzIxMGI5YjAtMzgxNi8wN2VmZDkwNy0yMjNhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:50|https://s3.amazonaws.com/1824305/7210b9b0-3816/07efd907-223a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNFM0MwRkU2RjE5MDJBNEY5L0ZFMDQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:36|https://s3.amazonaws.com/3E3C0FE6F1902A4F9/FE04/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1JUbnAvYW81WTlFR3Zva3lYcFF3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:29|https://s3.amazonaws.com/RTnp/ao5Y9EGvokyXpQw/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNkNzQwMy95RnN0aU8vN3NWUDBoL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:17|https://s3.amazonaws.com/3d7403/yFstiO/7sVP0h/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhmYWNlMDIyLTFkMTYtNDIvNzgwNGFkNGEtNzhjZS00YTQzLTg0MWMtMjk0OTU1NGYvZTUyNzU3YWItN2UxZC00OWNlLThiNzEtNmNkNTIxZmMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:10|https://s3.amazonaws.com/8face022-1d16-42/7804ad4a-78ce-4a43-841c-2949554f/e52757ab-7e1d-49ce-8b71-6cd521fc/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2193,3 +2193,4 @@
 |[livecheck.yourbestcornerforcontentingfree.stream](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.stream&type=A)|
 |[getupdate.yourbestcornerforcontentingfree.trade](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentingfree.trade&type=A)|
 |[livecheck.yourbestcornerforcontentingfree.trade](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.trade&type=A)|
+|[updatenew.yourbestcornerforcontentingfree.win](https://dns.google.com/query?name=updatenew.yourbestcornerforcontentingfree.win&type=A)|
