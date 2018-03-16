@@ -2441,3 +2441,4 @@
 |[newsoft12.thesafeandoriginalupdate.download](https://dns.google.com/query?name=newsoft12.thesafeandoriginalupdate.download&type=A)|
 |[preparevideo.thesafeandoriginalupdate.top](https://dns.google.com/query?name=preparevideo.thesafeandoriginalupdate.top&type=A)|
 |[aptitude.thesafeandoriginalupdate.top](https://dns.google.com/query?name=aptitude.thesafeandoriginalupdate.top&type=A)|
+|[preparevideo.thesafeandoriginalupdate.win](https://dns.google.com/query?name=preparevideo.thesafeandoriginalupdate.win&type=A)|
