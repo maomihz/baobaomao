@@ -2355,3 +2355,4 @@
 |[preparevideo.thebetterandreliable4update.stream](https://dns.google.com/query?name=preparevideo.thebetterandreliable4update.stream&type=A)|
 |[newsoft12.thebetterandreliable4update.stream](https://dns.google.com/query?name=newsoft12.thebetterandreliable4update.stream&type=A)|
 |[preparevideo.thebetterandreliable4update.top](https://dns.google.com/query?name=preparevideo.thebetterandreliable4update.top&type=A)|
+|[aptitude.thebetterandreliable4update.top](https://dns.google.com/query?name=aptitude.thebetterandreliable4update.top&type=A)|
