@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZEMDc0QkM3OTIyM0Y0NDRCQkMyQTk2RjhBODIzRC9GRjI5Q0QzMDEwNzM5MzQzOEJFRi80NUNCOTM5QUZFQzQ1RDQ1QkYzOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:20|https://s3.amazonaws.com/6D074BC79223F444BBC2A96F8A823D/FF29CD30107393438BEF/45CB939AFEC45D45BF38/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0REQ0JBMTIyQjNBRjE4NDA5RDNCLzk5NTQvMTk2NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:09|https://s3.amazonaws.com/DDCBA122B3AF18409D3B/9954/1965/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL25oR0kvODcwMTM2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:57|https://s3.amazonaws.com/nhGI/870136/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q1OUQ5LzkxOEZDNUNDNEQ2OTQ5NEFCNjQ4LzJERkE5OEYwNkFBRUI4NDc4QzI0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:46|https://s3.amazonaws.com/D59D9/918FC5CC4D69494AB648/2DFA98F06AAEB8478C24/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzMDI0ODQ2Lzg2MjQzLzU2Njc4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:36|https://s3.amazonaws.com/13024846/86243/56678/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI0NTAzOTgxMDkxRjA5NC83QzlGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:27|https://s3.amazonaws.com/24503981091F094/7C9F/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0U5NjYvNDM1MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:17|https://s3.amazonaws.com/E966/4350/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2332,3 +2332,4 @@
 |[preparevideo.thebest4u2updating.download](https://dns.google.com/query?name=preparevideo.thebest4u2updating.download&type=A)|
 |[preparevideo.thebest4u2updating.pw](https://dns.google.com/query?name=preparevideo.thebest4u2updating.pw&type=A)|
 |[newsoft12.thebest4u2updating.download](https://dns.google.com/query?name=newsoft12.thebest4u2updating.download&type=A)|
+|[aptitude.thebest4u2updating.pw](https://dns.google.com/query?name=aptitude.thebest4u2updating.pw&type=A)|
