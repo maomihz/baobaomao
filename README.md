@@ -2260,3 +2260,4 @@
 |[installupgrade.yourbestcornerforcontentsafenow.stream](https://dns.google.com/query?name=installupgrade.yourbestcornerforcontentsafenow.stream&type=A)|
 |[installworking.yourbestcornerforcontentsfree.date](https://dns.google.com/query?name=installworking.yourbestcornerforcontentsfree.date&type=A)|
 |[installworking.yourbestcornerforcontentsfree.download](https://dns.google.com/query?name=installworking.yourbestcornerforcontentsfree.download&type=A)|
+|[livecheck.yourbestcornerforcontentsfree.download](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentsfree.download&type=A)|
