@@ -2192,3 +2192,4 @@
 |[installworking.yourbestcornerforcontentingfree.stream](https://dns.google.com/query?name=installworking.yourbestcornerforcontentingfree.stream&type=A)|
 |[livecheck.yourbestcornerforcontentingfree.stream](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.stream&type=A)|
 |[getupdate.yourbestcornerforcontentingfree.trade](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentingfree.trade&type=A)|
+|[livecheck.yourbestcornerforcontentingfree.trade](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.trade&type=A)|
