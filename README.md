@@ -2137,3 +2137,4 @@
 |[softnewready.thereadysitegoodtocontenting.download](https://dns.google.com/query?name=softnewready.thereadysitegoodtocontenting.download&type=A)|
 |[installworking.thereadysitegoodtocontenting.trade](https://dns.google.com/query?name=installworking.thereadysitegoodtocontenting.trade&type=A)|
 |[softnewready.thereadysitegoodtocontenting.trade](https://dns.google.com/query?name=softnewready.thereadysitegoodtocontenting.trade&type=A)|
+|[liveupgrade.thereadysitegoodtocontenting.trade](https://dns.google.com/query?name=liveupgrade.thereadysitegoodtocontenting.trade&type=A)|
