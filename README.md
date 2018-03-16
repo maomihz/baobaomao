@@ -2264,3 +2264,4 @@
 |[getupdate.yourbestcornerforcontentsfree.review](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsfree.review&type=A)|
 |[livecheck.yourbestcornerforcontentsfree.review](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentsfree.review&type=A)|
 |[installworking.yourbestcornerforcontentsfree.trade](https://dns.google.com/query?name=installworking.yourbestcornerforcontentsfree.trade&type=A)|
+|[getupdate.yourbestcornerforcontentsfree.win](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsfree.win&type=A)|
