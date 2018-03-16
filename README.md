@@ -2331,3 +2331,4 @@
 |[newsoft12.thebest4u2updating.bid](https://dns.google.com/query?name=newsoft12.thebest4u2updating.bid&type=A)|
 |[preparevideo.thebest4u2updating.download](https://dns.google.com/query?name=preparevideo.thebest4u2updating.download&type=A)|
 |[preparevideo.thebest4u2updating.pw](https://dns.google.com/query?name=preparevideo.thebest4u2updating.pw&type=A)|
+|[newsoft12.thebest4u2updating.download](https://dns.google.com/query?name=newsoft12.thebest4u2updating.download&type=A)|
