@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUzODAvNThmNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:00|https://s3.amazonaws.com/5380/58f4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1dwRHNVbzZUSkU2eDFfci9EMjk0NTA5N0Y2NjBCNTQyQTQvMjQ3MTQ3MTE1MjkzOTQ0RDg1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:47|https://s3.amazonaws.com/WpDsUo6TJE6x1_r/D2945097F660B542A4/247147115293944D85/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRiOTIwM2Y5LS9GNzcxQ0Q3NDk5MTU3QzQ1QTQ3NTlCMjUzMkMxNTNGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:37|https://s3.amazonaws.com/4b9203f9-/F771CD7499157C45A4759B2532C153F/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdDQjMvMEI1NURFNjMxRTkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:28|https://s3.amazonaws.com/7CB3/0B55DE631E9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI3ODQvRTg4NzQ3MTgxQTc3NkQ0REIxMUZDL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:20|https://s3.amazonaws.com/2784/E88747181A776D4DB11FC/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NhMWY0YWFiLTQ1ZDktNDgzMi04MWE5LTcxLzQ5MUE4NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|14:13|https://s3.amazonaws.com/ca1f4aab-45d9-4832-81a9-71/491A85/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0cwY2hiWlh1VVVXLzQ1MjA0Ny9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:59|https://s3.amazonaws.com/G0chbZXuUUW/452047/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2393,3 +2393,4 @@
 |[newsoft12.thebigforupdatesthisyearall.top](https://dns.google.com/query?name=newsoft12.thebigforupdatesthisyearall.top&type=A)|
 |[preparevideo.thebigforupdatethisyearall.bid](https://dns.google.com/query?name=preparevideo.thebigforupdatethisyearall.bid&type=A)|
 |[aptitude.thebigforupdatethisyearall.bid](https://dns.google.com/query?name=aptitude.thebigforupdatethisyearall.bid&type=A)|
+|[newsoft12.thebigforupdatethisyearall.bid](https://dns.google.com/query?name=newsoft12.thebigforupdatethisyearall.bid&type=A)|
