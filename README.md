@@ -2504,3 +2504,4 @@
 |[livecheck.yourbestcornerforcontentprepared.review](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentprepared.review&type=A)|
 |[checkupdate.yourbestcornerforcontentprepared.stream](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentprepared.stream&type=A)|
 |[how2update.yourbestcornerforcontentprepared.stream](https://dns.google.com/query?name=how2update.yourbestcornerforcontentprepared.stream&type=A)|
+|[onlineupdate.yourbestcornerforcontentprepared.win](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentprepared.win&type=A)|
