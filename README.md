@@ -2531,3 +2531,4 @@
 |[softupdate.thebig-centeralplaceforcontentingnew.date](https://dns.google.com/query?name=softupdate.thebig-centeralplaceforcontentingnew.date&type=A)|
 |[up2date.thebig-centeralplaceforcontentingnew.date](https://dns.google.com/query?name=up2date.thebig-centeralplaceforcontentingnew.date&type=A)|
 |[freechecknow.thebig-centeralplaceforcontentfree.date](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentfree.date&type=A)|
+|[lastversion.thebig-centeralplaceforcontentfree.date](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentfree.date&type=A)|
