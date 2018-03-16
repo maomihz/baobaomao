@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZFRjZGQzQ0NTk3RjU2L0I4QUU1NkRCRDZBNkM0NDhBNDcxRkQ2ODQvQkY5NkYxNjM3NDVEQjU0NTlBNjA5QzBCNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:47|https://s3.amazonaws.com/FEF6FC44597F56/B8AE56DBD6A6C448A471FD684/BF96F163745DB5459A609C0B4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc2ZDY0OTVmLTg1NWQtNDkwZC1iNTExLTUvNjI5MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:41|https://s3.amazonaws.com/76d6495f-855d-490d-b511-5/6291/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMjY5NzkveWZDX2VvTnlfa2FnSkNQSUttMVBGQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:31|https://s3.amazonaws.com/2126979/yfC_eoNy_kagJCPIKm1PFA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0I3REM2RkJEQjE0RUNDNDg4Qy8xOTEwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:18|https://s3.amazonaws.com/B7DC6FBDB14ECC488C/1910/AdobeFlashPlayerInstaller.dmg|
@@ -2521,3 +2522,4 @@
 |[2nowup.yourbestcornerforcontentsafeset.download](https://dns.google.com/query?name=2nowup.yourbestcornerforcontentsafeset.download&type=A)|
 |[checkupdate.yourbestcornerforcontentsafeprepared.review](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentsafeprepared.review&type=A)|
 |[how2update.yourbestcornerforcontentsafeprepared.review](https://dns.google.com/query?name=how2update.yourbestcornerforcontentsafeprepared.review&type=A)|
+|[how2update.yourbestcornerforcontentsafeprepared.win](https://dns.google.com/query?name=how2update.yourbestcornerforcontentsafeprepared.win&type=A)|
