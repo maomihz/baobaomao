@@ -2184,3 +2184,4 @@
 |[livecheck.yourbestcornerforcontentingfree.bid](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingfree.bid&type=A)|
 |[installworking.yourbestcornerforcontentingfree.date](https://dns.google.com/query?name=installworking.yourbestcornerforcontentingfree.date&type=A)|
 |[updatenew.yourbestcornerforcontentingfree.date](https://dns.google.com/query?name=updatenew.yourbestcornerforcontentingfree.date&type=A)|
+|[installworking.yourbestcornerforcontentingfree.download](https://dns.google.com/query?name=installworking.yourbestcornerforcontentingfree.download&type=A)|
