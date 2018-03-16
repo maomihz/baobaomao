@@ -2528,3 +2528,4 @@
 |[up2date.thebig-centeralplaceforcontentingnew.bid](https://dns.google.com/query?name=up2date.thebig-centeralplaceforcontentingnew.bid&type=A)|
 |[check.thebig-centeralplaceforcontentingnew.date](https://dns.google.com/query?name=check.thebig-centeralplaceforcontentingnew.date&type=A)|
 |[readyupdate.thebig-centeralplaceforcontentingnew.date](https://dns.google.com/query?name=readyupdate.thebig-centeralplaceforcontentingnew.date&type=A)|
+|[softupdate.thebig-centeralplaceforcontentingnew.date](https://dns.google.com/query?name=softupdate.thebig-centeralplaceforcontentingnew.date&type=A)|
