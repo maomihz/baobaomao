@@ -2450,3 +2450,4 @@
 |[preparevideo.thesafeandoriginalupdates.download](https://dns.google.com/query?name=preparevideo.thesafeandoriginalupdates.download&type=A)|
 |[aptitude.thesafeandoriginalupdates.download](https://dns.google.com/query?name=aptitude.thesafeandoriginalupdates.download&type=A)|
 |[preparevideo.thesafeandfunupgrade.download](https://dns.google.com/query?name=preparevideo.thesafeandfunupgrade.download&type=A)|
+|[aptitude.thesafeandfunupgrade.download](https://dns.google.com/query?name=aptitude.thesafeandfunupgrade.download&type=A)|
