@@ -2497,3 +2497,4 @@
 |[onlineupdate.yourbestcornerforcontentprepared.bid](https://dns.google.com/query?name=onlineupdate.yourbestcornerforcontentprepared.bid&type=A)|
 |[checkupdate.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentprepared.date&type=A)|
 |[how2update.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=how2update.yourbestcornerforcontentprepared.date&type=A)|
+|[livecheck.yourbestcornerforcontentprepared.date](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentprepared.date&type=A)|
