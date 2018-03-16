@@ -2339,3 +2339,4 @@
 |[preparevideo.thebest4utoupdates.pw](https://dns.google.com/query?name=preparevideo.thebest4utoupdates.pw&type=A)|
 |[newsoft12.thebest4utoupdates.pw](https://dns.google.com/query?name=newsoft12.thebest4utoupdates.pw&type=A)|
 |[aptitude.thebest4utoupdates.pw](https://dns.google.com/query?name=aptitude.thebest4utoupdates.pw&type=A)|
+|[preparevideo.thebest4uupdate.bid](https://dns.google.com/query?name=preparevideo.thebest4uupdate.bid&type=A)|
