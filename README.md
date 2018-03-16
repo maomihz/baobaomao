@@ -2283,3 +2283,4 @@
 |[update.yourpointofforcontentsafe.review](https://dns.google.com/query?name=update.yourpointofforcontentsafe.review&type=A)|
 |[update.yourpointofforcontentsafe.stream](https://dns.google.com/query?name=update.yourpointofforcontentsafe.stream&type=A)|
 |[whenupgrade.yourpointofforcontentsafe.review](https://dns.google.com/query?name=whenupgrade.yourpointofforcontentsafe.review&type=A)|
+|[upgradeinstall24.yourpointofforcontentsafe.stream](https://dns.google.com/query?name=upgradeinstall24.yourpointofforcontentsafe.stream&type=A)|
