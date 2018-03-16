@@ -2358,3 +2358,4 @@
 |[aptitude.thebetterandreliable4update.top](https://dns.google.com/query?name=aptitude.thebetterandreliable4update.top&type=A)|
 |[newsoft12.thebetterandreliable4update.top](https://dns.google.com/query?name=newsoft12.thebetterandreliable4update.top&type=A)|
 |[preparevideo.thebetterandreliable4updates.bid](https://dns.google.com/query?name=preparevideo.thebetterandreliable4updates.bid&type=A)|
+|[aptitude.thebetterandreliable4updates.bid](https://dns.google.com/query?name=aptitude.thebetterandreliable4updates.bid&type=A)|
