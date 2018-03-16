@@ -2155,3 +2155,4 @@
 |[installworking.yourbestcornerforcontentfree.date](https://dns.google.com/query?name=installworking.yourbestcornerforcontentfree.date&type=A)|
 |[livecheck.yourbestcornerforcontentfree.date](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentfree.date&type=A)|
 |[installworking.yourbestcornerforcontentfree.download](https://dns.google.com/query?name=installworking.yourbestcornerforcontentfree.download&type=A)|
+|[getupdate.yourbestcornerforcontentfree.download](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentfree.download&type=A)|
