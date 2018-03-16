@@ -2440,3 +2440,4 @@
 |[newsoft12.thesafeandoriginalupdate.bid](https://dns.google.com/query?name=newsoft12.thesafeandoriginalupdate.bid&type=A)|
 |[aptitude.thesafeandoriginalupdate.download](https://dns.google.com/query?name=aptitude.thesafeandoriginalupdate.download&type=A)|
 |[newsoft12.thesafeandoriginalupdate.download](https://dns.google.com/query?name=newsoft12.thesafeandoriginalupdate.download&type=A)|
+|[preparevideo.thesafeandoriginalupdate.top](https://dns.google.com/query?name=preparevideo.thesafeandoriginalupdate.top&type=A)|
