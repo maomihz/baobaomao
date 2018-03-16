@@ -2445,3 +2445,4 @@
 |[aptitude.thesafeandoriginalupdate.win](https://dns.google.com/query?name=aptitude.thesafeandoriginalupdate.win&type=A)|
 |[newsoft12.thesafeandoriginalupdate.win](https://dns.google.com/query?name=newsoft12.thesafeandoriginalupdate.win&type=A)|
 |[preparevideo.thesafeandoriginalupdates.bid](https://dns.google.com/query?name=preparevideo.thesafeandoriginalupdates.bid&type=A)|
+|[aptitude.thesafeandoriginalupdates.bid](https://dns.google.com/query?name=aptitude.thesafeandoriginalupdates.bid&type=A)|
