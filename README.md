@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzYzOEFFL040WFd1dUcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|18:47|https://s3.amazonaws.com/638AE/N4XWuuG/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3NDMvL2kwR20vQWRvYmVGbGFzaFBsYXllci5kbWc=)|18:38|https://s3.amazonaws.com/1743//i0Gm/AdobeFlashPlayer.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU3RDcwM0I3Qzc2QkJDNDdCRDIxNzI3MjEwQ0ZGRS8xMjY4MDMyODIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|18:28|https://s3.amazonaws.com/57D703B7C76BBC47BD21727210CFFE/126803282/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwMzQ3LzExMDE5MDkvMTc3Njc3Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:17|https://s3.amazonaws.com/20347/1101909/1776772/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2460,3 +2459,4 @@
 |[newsoft12.thesafestandultimatesystem2update.pw](https://dns.google.com/query?name=newsoft12.thesafestandultimatesystem2update.pw&type=A)|
 |[preparevideo.thesafestandultimatesystem2updates.download](https://dns.google.com/query?name=preparevideo.thesafestandultimatesystem2updates.download&type=A)|
 |[aptitude.thesafestandultimatesystem2updates.download](https://dns.google.com/query?name=aptitude.thesafestandultimatesystem2updates.download&type=A)|
+|[newsoft12.thesafestandultimatesystem2updates.download](https://dns.google.com/query?name=newsoft12.thesafestandultimatesystem2updates.download&type=A)|
