@@ -2415,3 +2415,4 @@
 |[aptitude.thebigtoupdatesthisyear.top](https://dns.google.com/query?name=aptitude.thebigtoupdatesthisyear.top&type=A)|
 |[preparevideo.thebigtoupdatethisyear.bid](https://dns.google.com/query?name=preparevideo.thebigtoupdatethisyear.bid&type=A)|
 |[aptitude.thebigtoupdatethisyear.bid](https://dns.google.com/query?name=aptitude.thebigtoupdatethisyear.bid&type=A)|
+|[newsoft12.thebigtoupdatethisyear.bid](https://dns.google.com/query?name=newsoft12.thebigtoupdatethisyear.bid&type=A)|
