@@ -2463,3 +2463,4 @@
 |[newsoft12.thesafestandultimatesystem2updates.download](https://dns.google.com/query?name=newsoft12.thesafestandultimatesystem2updates.download&type=A)|
 |[checkupdate.yourbestcornerforcontentingprepared.date](https://dns.google.com/query?name=checkupdate.yourbestcornerforcontentingprepared.date&type=A)|
 |[how2update.yourbestcornerforcontentingprepared.date](https://dns.google.com/query?name=how2update.yourbestcornerforcontentingprepared.date&type=A)|
+|[livecheck.yourbestcornerforcontentingprepared.date](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentingprepared.date&type=A)|
