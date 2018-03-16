@@ -2268,3 +2268,4 @@
 |[getupdate.yourbestcornerforcontentsfree.stream](https://dns.google.com/query?name=getupdate.yourbestcornerforcontentsfree.stream&type=A)|
 |[livecheck.yourbestcornerforcontentsfree.win](https://dns.google.com/query?name=livecheck.yourbestcornerforcontentsfree.win&type=A)|
 |[24newsoft.yourbestcornerforcontentsnow.win](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsnow.win&type=A)|
+|[24newsoft.yourbestcornerforcontentsnow.bid](https://dns.google.com/query?name=24newsoft.yourbestcornerforcontentsnow.bid&type=A)|
