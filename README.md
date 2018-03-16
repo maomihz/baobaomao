@@ -2325,3 +2325,4 @@
 |[newsoft12.thanks4updating.download](https://dns.google.com/query?name=newsoft12.thanks4updating.download&type=A)|
 |[preparevideo.pressultimateupgradingthesebuttons.pw](https://dns.google.com/query?name=preparevideo.pressultimateupgradingthesebuttons.pw&type=A)|
 |[aptitude.pressultimateupgradingthesebuttons.pw](https://dns.google.com/query?name=aptitude.pressultimateupgradingthesebuttons.pw&type=A)|
+|[aptitude.pressforultimateupgradethisbutton.pw](https://dns.google.com/query?name=aptitude.pressforultimateupgradethisbutton.pw&type=A)|
