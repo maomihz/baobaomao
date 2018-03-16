@@ -2535,3 +2535,4 @@
 |[learn2upgrade.thebig-centeralplaceforcontentfree.date](https://dns.google.com/query?name=learn2upgrade.thebig-centeralplaceforcontentfree.date&type=A)|
 |[livecheck.thebig-centeralplaceforcontentfree.date](https://dns.google.com/query?name=livecheck.thebig-centeralplaceforcontentfree.date&type=A)|
 |[freechecknow.thebig-centeralplaceforcontentingfree.bid](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentingfree.bid&type=A)|
+|[lastversion.thebig-centeralplaceforcontentingfree.bid](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentingfree.bid&type=A)|
