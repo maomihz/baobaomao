@@ -2629,3 +2629,4 @@
 |[alwaysnewsoft.coolupdgradeswinmacforyou.stream](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyou.stream&type=A)|
 |[alwaysnew.coolupdgradeswinmacforyou.stream](https://dns.google.com/query?name=alwaysnew.coolupdgradeswinmacforyou.stream&type=A)|
 |[2nowup.coolupdgradeswinmacforyou.stream](https://dns.google.com/query?name=2nowup.coolupdgradeswinmacforyou.stream&type=A)|
+|[readysoft.coolupdgradeswinmacforyou.stream](https://dns.google.com/query?name=readysoft.coolupdgradeswinmacforyou.stream&type=A)|
