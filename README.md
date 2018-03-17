@@ -2684,3 +2684,4 @@
 |[alwaysnewsoft.set4newandfreetoupdating.site](https://dns.google.com/query?name=alwaysnewsoft.set4newandfreetoupdating.site&type=A)|
 |[alwaysnew.set4newandfreetoupdating.site](https://dns.google.com/query?name=alwaysnew.set4newandfreetoupdating.site&type=A)|
 |[2nowup.set4newandfreetoupdating.site](https://dns.google.com/query?name=2nowup.set4newandfreetoupdating.site&type=A)|
+|[readysoft.set4newandfreetoupdating.site](https://dns.google.com/query?name=readysoft.set4newandfreetoupdating.site&type=A)|
