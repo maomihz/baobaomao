@@ -2545,3 +2545,4 @@
 |[livecheck.thebig-centeralplaceforcontentingfree.review](https://dns.google.com/query?name=livecheck.thebig-centeralplaceforcontentingfree.review&type=A)|
 |[freechecknow.thebig-centeralplaceforcontentingfree.review](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentingfree.review&type=A)|
 |[learn2upgrade.thebig-centeralplaceforcontentingfree.review](https://dns.google.com/query?name=learn2upgrade.thebig-centeralplaceforcontentingfree.review&type=A)|
+|[lastversion.thebig-centeralplaceforcontentingfree.review](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentingfree.review&type=A)|
