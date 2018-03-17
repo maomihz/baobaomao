@@ -2677,3 +2677,4 @@
 |[alwaysnew.coolupdgradeswinmacforyoutiday.bid](https://dns.google.com/query?name=alwaysnew.coolupdgradeswinmacforyoutiday.bid&type=A)|
 |[2nowup.coolupdgradeswinmacforyoutiday.bid](https://dns.google.com/query?name=2nowup.coolupdgradeswinmacforyoutiday.bid&type=A)|
 |[readysoft.coolupdgradeswinmacforyoutiday.bid](https://dns.google.com/query?name=readysoft.coolupdgradeswinmacforyoutiday.bid&type=A)|
+|[alwaysnewsoft.coolupdgradeswinmacforyoutiday.top](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyoutiday.top&type=A)|
