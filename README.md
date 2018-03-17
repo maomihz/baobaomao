@@ -2551,3 +2551,4 @@
 |[update.yourpointofforcontents.win](https://dns.google.com/query?name=update.yourpointofforcontents.win&type=A)|
 |[whenupgrade.yourpointofforcontents.win](https://dns.google.com/query?name=whenupgrade.yourpointofforcontents.win&type=A)|
 |[alwaysup.thereadysitegoodforcontents.win](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontents.win&type=A)|
+|[24online.thereadysitegoodforcontents.win](https://dns.google.com/query?name=24online.thereadysitegoodforcontents.win&type=A)|
