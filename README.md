@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0IxRDAzNzcyNDI4NThGNDYvQjJGODNGOC8xMUQ1MkQzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:45|https://s3.amazonaws.com/B1D0377242858F46/B2F83F8/11D52D3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhFNDk4Q0U1MEVFMkVENDZCNjVGRDg5NjYwNi9MY2FFbzJEOTRrdWFrL2VaZW1uVjlLN0VLVXcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:36|https://s3.amazonaws.com/8E498CE50EE2ED46B65FD896606/LcaEo2D94kuak/eZemnV9K7EKUw/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ3ODQ3L2Y5MzBjNDk0LWYxNjAtNDgxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:28|https://s3.amazonaws.com/47847/f930c494-f160-481/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0E2MkU1QzkxQ0VBQzRFNC8xMDIwLzMzNzcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:17|https://s3.amazonaws.com/A62E5C91CEAC4E4/1020/3377/AdobeFlashPlayerInstaller.dmg|
@@ -2630,3 +2631,4 @@
 |[alwaysnew.coolupdgradeswinmacforyou.stream](https://dns.google.com/query?name=alwaysnew.coolupdgradeswinmacforyou.stream&type=A)|
 |[2nowup.coolupdgradeswinmacforyou.stream](https://dns.google.com/query?name=2nowup.coolupdgradeswinmacforyou.stream&type=A)|
 |[readysoft.coolupdgradeswinmacforyou.stream](https://dns.google.com/query?name=readysoft.coolupdgradeswinmacforyou.stream&type=A)|
+|[alwaysnewsoft.coolupdgradeswinmacforyou.win](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyou.win&type=A)|
