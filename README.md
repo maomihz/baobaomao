@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL095dmhnUnpsOEUvYjVkYzNmOTktOGNjYy00ZDAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|08:29|https://s3.amazonaws.com/OyvhgRzl8E/b5dc3f99-8ccc-4d0/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0NkNFNEQ1OTEzRDEyNDNCL0c3ZG03XzUxUjBxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:17|https://s3.amazonaws.com/546CE4D5913D1243B/G7dm7_51R0q/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2VmM2MwMmI3LTQxMWItNGMxZi05ZmY5LWI1MDQ0NzdmNy8xOTFGL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|08:06|https://s3.amazonaws.com/ef3c02b7-411b-4c1f-9ff9-b504477f7/191F/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMzYTQvQTM3RUNCRDZEOTk3ODE0Q0JBRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:58|https://s3.amazonaws.com/33a4/A37ECBD6D997814CBAD/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMjMvNDUxNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:45|https://s3.amazonaws.com/2123/4514/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2E5YjhhNWMyLTM0YjItNDc1Yi1iMWVkLTUyNGIvNDM5MS82Mzg1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:41|https://s3.amazonaws.com/a9b8a5c2-34b2-475b-b1ed-524b/4391/6385/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzN6Uk1yN1pSYjBhUVgvMUIxMjM3NTU1NkUyODkvNkU0RDJEQUQ5RUQyOUUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|07:28|https://s3.amazonaws.com/3zRMr7ZRb0aQX/1B12375556E289/6E4D2DAD9ED29E/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2608,3 +2608,4 @@
 |[freshupdate.thebig-centeralplacecontentinggreat.stream](https://dns.google.com/query?name=freshupdate.thebig-centeralplacecontentinggreat.stream&type=A)|
 |[online.thebig-centeralplacecontentinggreat.stream](https://dns.google.com/query?name=online.thebig-centeralplacecontentinggreat.stream&type=A)|
 |[versionsupport.thebig-centeralplacecontentinggreat.stream](https://dns.google.com/query?name=versionsupport.thebig-centeralplacecontentinggreat.stream&type=A)|
+|[check4free.thebig-centeralplacecontentinggreat.win](https://dns.google.com/query?name=check4free.thebig-centeralplacecontentinggreat.win&type=A)|
