@@ -2631,24 +2631,13 @@
     "alwaysnew.coolupdgradeswinmacforyounow.stream",
     "2nowup.coolupdgradeswinmacforyounow.stream",
     "readysoft.coolupdgradeswinmacforyounow.stream",
-    "alwaysnewsoft.coolupdgradeswinmacforyouthismonth.bid"
+    "alwaysnewsoft.coolupdgradeswinmacforyouthismonth.bid",
+    "alwaysnew.coolupdgradeswinmacforyouthismonth.bid"
   ],
   "urls": {
-    "https://s3.amazonaws.com/C06C/7117/1263/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/C06C/7117/1263/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521299850.374443
-    },
-    "https://s3.amazonaws.com/kOsGyIDThEGupse4_ok/5614/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/kOsGyIDThEGupse4_ok/5614/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521301760.950977
-    },
     "https://s3.amazonaws.com/b870/6AD7826/CA87966/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/b870/6AD7826/CA87966/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521299471.226848
-    },
-    "https://s3.amazonaws.com/tQ5CnA3Y6UiX/4a8ccf31-79ac-4/601589ee-7496-4/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/tQ5CnA3Y6UiX/4a8ccf31-79ac-4/601589ee-7496-4/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521298579.860718
     },
     "https://s3.amazonaws.com/20799799/41696743/162384287/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/20799799/41696743/162384287/AdobeFlashPlayerInstaller.dmg",
@@ -2657,6 +2646,18 @@
     "https://s3.amazonaws.com/1423/9d8f423/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/1423/9d8f423/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521301121.288647
+    },
+    "https://s3.amazonaws.com/tQ5CnA3Y6UiX/4a8ccf31-79ac-4/601589ee-7496-4/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/tQ5CnA3Y6UiX/4a8ccf31-79ac-4/601589ee-7496-4/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521298579.860718
+    },
+    "https://s3.amazonaws.com/C06C/7117/1263/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/C06C/7117/1263/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521299850.374443
+    },
+    "https://s3.amazonaws.com/kOsGyIDThEGupse4_ok/5614/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/kOsGyIDThEGupse4_ok/5614/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521301760.950977
     }
   }
 }
