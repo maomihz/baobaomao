@@ -2686,3 +2686,4 @@
 |[2nowup.set4newandfreetoupdating.site](https://dns.google.com/query?name=2nowup.set4newandfreetoupdating.site&type=A)|
 |[readysoft.set4newandfreetoupdating.site](https://dns.google.com/query?name=readysoft.set4newandfreetoupdating.site&type=A)|
 |[free4allup.thebig-centeralplacecontentgood.stream](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentgood.stream&type=A)|
+|[24check4updates.thebig-centeralplacecontentgood.stream](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentgood.stream&type=A)|
