@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0E5MTdERDZBL1VZN08xenRFRFVTODNMZ0hCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:59|https://s3.amazonaws.com/A917DD6A/UY7O1ztEDUS83LgHB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4MTM3MzgvNjU2MzE2OWEtYWIxZC00Y2NiLWE2M2QvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:49|https://s3.amazonaws.com/1813738/6563169a-ab1d-4ccb-a63d/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU0MjUwODE5LzFEQTYvMEUzMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:38|https://s3.amazonaws.com/54250819/1DA6/0E33/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MTIvOTYzMC8zMDU4L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:28|https://s3.amazonaws.com/1912/9630/3058/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRBOWgvREEwRTUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:15|https://s3.amazonaws.com/4A9h/DA0E5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0YxNTVCMTJCN0I5NkE3NDc4MkY0OUMwL0s5VmZfRDU1VWtlNG1lb21ybk1aM1E9L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:07|https://s3.amazonaws.com/F155B12B7B96A74782F49C0/K9Vf_D55Uke4meomrnMZ3Q=/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1dHcHVVeFRCSjBleVBYci96NlZHQzJScmNFVzlOOWtzbW1IaFFRL3p2RVFtMEF6aTB1RXAzNVlMdzUyRmcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|09:56|https://s3.amazonaws.com/WGpuUxTBJ0eyPXr/z6VGC2RrcEW9N9ksmmHhQQ/zvEQm0Azi0uEp35YLw52Fg/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2624,3 +2624,4 @@
 |[preparevideo.thesafeandfunupgrade.bid](https://dns.google.com/query?name=preparevideo.thesafeandfunupgrade.bid&type=A)|
 |[readysoft.coolupdgradeswinmacforyou.bid](https://dns.google.com/query?name=readysoft.coolupdgradeswinmacforyou.bid&type=A)|
 |[alwaysnewsoft.coolupdgradeswinmacforyou.bid](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyou.bid&type=A)|
+|[alwaysnew.coolupdgradeswinmacforyou.bid](https://dns.google.com/query?name=alwaysnew.coolupdgradeswinmacforyou.bid&type=A)|
