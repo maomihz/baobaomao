@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUwM2QwL2VjM2Q3N2ExLTUxZGMtNGUxNi1hMmE5LS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:19|https://s3.amazonaws.com/503d0/ec3d77a1-51dc-4e16-a2a9-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0UwMjUwM0Q3NkYzOURFNDc4NUI4Qi80RUVCLzI4QjUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:11|https://s3.amazonaws.com/E02503D76F39DE4785B8B/4EEB/28B5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUxNzE5Ni9zZzRPVmJaYTRVZTJva3k3V1hwaEJRPS9vWUlTcXdaUUxVbTNRbHZad0EwMFN3PS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:56|https://s3.amazonaws.com/517196/sg4OVbZa4Ue2oky7WXphBQ=/oYISqwZQLUm3QlvZwA00Sw=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RCMUEzNUM3Mzg2MzdDNEQ4MjIzQTVFMDUzRDM3RkIvZmRlNGUzNzQtMTUxYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:46|https://s3.amazonaws.com/DB1A35C738637C4D8223A5E053D37FB/fde4e374-151a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZFQkFFQUYxNjFDRDJFNDU4NjFBQzg1QjgyMjVGRC91QXdpQ1hwQXNFZXJvL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:35|https://s3.amazonaws.com/6EBAEAF161CD2E45861AC85B8225FD/uAwiCXpAsEero/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NiMTVjZjYvVkp4NjVMRnRERUdXa3RnXy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:27|https://s3.amazonaws.com/cb15cf6/VJx65LFtDEGWktg_/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5QkNBQTQ3NDA4MDAvMTEzMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:16|https://s3.amazonaws.com/19BCAA4740800/1133/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2548,3 +2548,4 @@
 |[newsoft12.pressforultimateupgradesthisbutton.pw](https://dns.google.com/query?name=newsoft12.pressforultimateupgradesthisbutton.pw&type=A)|
 |[preparevideo.pressforultimateupgradesthisbutton.pw](https://dns.google.com/query?name=preparevideo.pressforultimateupgradesthisbutton.pw&type=A)|
 |[update.yourpointofforcontents.win](https://dns.google.com/query?name=update.yourpointofforcontents.win&type=A)|
+|[whenupgrade.yourpointofforcontents.win](https://dns.google.com/query?name=whenupgrade.yourpointofforcontents.win&type=A)|
