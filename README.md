@@ -2643,3 +2643,4 @@
 |[alwaysnewsoft.coolupdgradeswinmacforyounow.bid](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyounow.bid&type=A)|
 |[alwaysnewsoft.coolupdgradeswinmacforyounow.top](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyounow.top&type=A)|
 |[alwaysnew.coolupdgradeswinmacforyounow.top](https://dns.google.com/query?name=alwaysnew.coolupdgradeswinmacforyounow.top&type=A)|
+|[2nowup.coolupdgradeswinmacforyounow.top](https://dns.google.com/query?name=2nowup.coolupdgradeswinmacforyounow.top&type=A)|
