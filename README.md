@@ -2671,3 +2671,4 @@
 |[alwaysnewsoft.coolupdgradeswinmacforyouthisyear.stream](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyouthisyear.stream&type=A)|
 |[alwaysnewsoft.coolupdgradeswinmacforyoutiday.stream](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyoutiday.stream&type=A)|
 |[alwaysnew.coolupdgradeswinmacforyoutiday.stream](https://dns.google.com/query?name=alwaysnew.coolupdgradeswinmacforyoutiday.stream&type=A)|
+|[2nowup.coolupdgradeswinmacforyoutiday.stream](https://dns.google.com/query?name=2nowup.coolupdgradeswinmacforyoutiday.stream&type=A)|
