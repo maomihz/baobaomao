@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ4OTAxODEveHpJN2QvcEdOQlkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|15:59|https://s3.amazonaws.com/4890181/xzI7d/pGNBY/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tPc0d5SURUaEVHdXBzZTRfb2svNTYxNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:49|https://s3.amazonaws.com/kOsGyIDThEGupse4_ok/5614/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0MjMvOWQ4ZjQyMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:38|https://s3.amazonaws.com/1423/9d8f423/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwNzk5Nzk5LzQxNjk2NzQzLzE2MjM4NDI4Ny9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:30|https://s3.amazonaws.com/20799799/41696743/162384287/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0MwNkMvNzExNy8xMjYzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:17|https://s3.amazonaws.com/C06C/7117/1263/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2I4NzAvNkFENzgyNi9DQTg3OTY2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:11|https://s3.amazonaws.com/b870/6AD7826/CA87966/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3RRNUNuQTNZNlVpWC80YThjY2YzMS03OWFjLTQvNjAxNTg5ZWUtNzQ5Ni00L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|14:56|https://s3.amazonaws.com/tQ5CnA3Y6UiX/4a8ccf31-79ac-4/601589ee-7496-4/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2651,3 +2651,4 @@
 |[readysoft.coolupdgradeswinmacforyounow.stream](https://dns.google.com/query?name=readysoft.coolupdgradeswinmacforyounow.stream&type=A)|
 |[alwaysnewsoft.coolupdgradeswinmacforyouthismonth.bid](https://dns.google.com/query?name=alwaysnewsoft.coolupdgradeswinmacforyouthismonth.bid&type=A)|
 |[alwaysnew.coolupdgradeswinmacforyouthismonth.bid](https://dns.google.com/query?name=alwaysnew.coolupdgradeswinmacforyouthismonth.bid&type=A)|
+|[2nowup.coolupdgradeswinmacforyouthismonth.bid](https://dns.google.com/query?name=2nowup.coolupdgradeswinmacforyouthismonth.bid&type=A)|
