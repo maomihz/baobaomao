@@ -2576,3 +2576,4 @@
 |[versionsupport.thebig-centeralplacecontentgreat.bid](https://dns.google.com/query?name=versionsupport.thebig-centeralplacecontentgreat.bid&type=A)|
 |[versionsupport.thebig-centeralplacecontentgreat.stream](https://dns.google.com/query?name=versionsupport.thebig-centeralplacecontentgreat.stream&type=A)|
 |[online.thebig-centeralplacecontentgreat.stream](https://dns.google.com/query?name=online.thebig-centeralplacecontentgreat.stream&type=A)|
+|[freshupdate.thebig-centeralplacecontentgreat.stream](https://dns.google.com/query?name=freshupdate.thebig-centeralplacecontentgreat.stream&type=A)|
