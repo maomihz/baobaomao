@@ -2619,3 +2619,4 @@
 |[livecheck2update.thebig-centeralplacecontentgood.download](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentgood.download&type=A)|
 |[free4allup.thebig-centeralplacecontentgood.download](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentgood.download&type=A)|
 |[24check4updates.thebig-centeralplacecontentgood.download](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentgood.download&type=A)|
+|[free4allup.thebig-centeralplacecontentgood.date](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentgood.date&type=A)|
