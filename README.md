@@ -2557,3 +2557,4 @@
 |[preparevideo.thebest4u2updating.bid](https://dns.google.com/query?name=preparevideo.thebest4u2updating.bid&type=A)|
 |[aptitude.thebest4u2updating.bid](https://dns.google.com/query?name=aptitude.thebest4u2updating.bid&type=A)|
 |[newsoft24.thereadysitegoodforcontentsafe.bid](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontentsafe.bid&type=A)|
+|[alwaysup.thereadysitegoodforcontentsafe.win](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontentsafe.win&type=A)|
