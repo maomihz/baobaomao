@@ -2559,3 +2559,4 @@
 |[newsoft24.thereadysitegoodforcontentsafe.bid](https://dns.google.com/query?name=newsoft24.thereadysitegoodforcontentsafe.bid&type=A)|
 |[alwaysup.thereadysitegoodforcontentsafe.win](https://dns.google.com/query?name=alwaysup.thereadysitegoodforcontentsafe.win&type=A)|
 |[whenupgrade.yourpointofforcontentsafe.stream](https://dns.google.com/query?name=whenupgrade.yourpointofforcontentsafe.stream&type=A)|
+|[whenupgrade.yourpointofforcontentsafe.trade](https://dns.google.com/query?name=whenupgrade.yourpointofforcontentsafe.trade&type=A)|
