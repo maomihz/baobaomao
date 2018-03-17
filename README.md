@@ -2622,3 +2622,4 @@
 |[free4allup.thebig-centeralplacecontentgood.date](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentgood.date&type=A)|
 |[24check4updates.thebig-centeralplacecontentgood.date](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentgood.date&type=A)|
 |[preparevideo.thesafeandfunupgrade.bid](https://dns.google.com/query?name=preparevideo.thesafeandfunupgrade.bid&type=A)|
+|[readysoft.coolupdgradeswinmacforyou.bid](https://dns.google.com/query?name=readysoft.coolupdgradeswinmacforyou.bid&type=A)|
