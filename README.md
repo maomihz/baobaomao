@@ -2732,3 +2732,4 @@
 |[keyupgrade.thebig-centeralplacecontentprepared.date](https://dns.google.com/query?name=keyupgrade.thebig-centeralplacecontentprepared.date&type=A)|
 |[getupdate.thebig-centeralplacecontentprepared.date](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentprepared.date&type=A)|
 |[checkingfree.thebig-centeralplacecontentprepared.date](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentprepared.date&type=A)|
+|[updatesoftware.thebig-centeralplacecontentingprepared.stream](https://dns.google.com/query?name=updatesoftware.thebig-centeralplacecontentingprepared.stream&type=A)|
