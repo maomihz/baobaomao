@@ -2755,3 +2755,4 @@
 |[free4allup.thebig-centeralplacecontentsafegood.trade](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentsafegood.trade&type=A)|
 |[24check4updates.thebig-centeralplacecontentsafegood.trade](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentsafegood.trade&type=A)|
 |[livecheck2update.thebig-centeralplacecontentsafegood.download](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentsafegood.download&type=A)|
+|[24check4updates.thebig-centeralplacecontentsafegood.download](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentsafegood.download&type=A)|
