@@ -2774,3 +2774,4 @@
 |[getupdate.thebig-centeralplacecontentsafeprepared.download](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentsafeprepared.download&type=A)|
 |[checkingfree.thebig-centeralplacecontentsafeprepared.download](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentsafeprepared.download&type=A)|
 |[livecheck2update.thebig-centeralplacecontentsgood.review](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentsgood.review&type=A)|
+|[24check4updates.thebig-centeralplacecontentsgood.review](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentsgood.review&type=A)|
