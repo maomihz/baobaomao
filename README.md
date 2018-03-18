@@ -2749,3 +2749,4 @@
 |[getupdate.thebig-centeralplacecontentprepared.win](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentprepared.win&type=A)|
 |[24check4updates.thebig-centeralplacecontentsafegood.bid](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentsafegood.bid&type=A)|
 |[free4allup.thebig-centeralplacecontentsafegood.bid](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentsafegood.bid&type=A)|
+|[livecheck2update.thebig-centeralplacecontentsafegood.bid](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentsafegood.bid&type=A)|
