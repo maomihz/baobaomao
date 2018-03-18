@@ -2699,3 +2699,4 @@
 |[pc4maintainance.thebig-centeralplacecontentinggood.download](https://dns.google.com/query?name=pc4maintainance.thebig-centeralplacecontentinggood.download&type=A)|
 |[livecheck2update.thebig-centeralplacecontentinggood.download](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentinggood.download&type=A)|
 |[24check4updates.thebig-centeralplacecontentinggood.download](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentinggood.download&type=A)|
+|[free4allup.thebig-centeralplacecontentinggood.download](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentinggood.download&type=A)|
