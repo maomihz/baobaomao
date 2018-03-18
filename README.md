@@ -2740,3 +2740,4 @@
 |[keyupgrade.thebig-centeralplacecontentprepared.trade](https://dns.google.com/query?name=keyupgrade.thebig-centeralplacecontentprepared.trade&type=A)|
 |[getupdate.thebig-centeralplacecontentprepared.trade](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentprepared.trade&type=A)|
 |[checkingfree.thebig-centeralplacecontentprepared.trade](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentprepared.trade&type=A)|
+|[updatesoftware.thebig-centeralplacecontentprepared.review](https://dns.google.com/query?name=updatesoftware.thebig-centeralplacecontentprepared.review&type=A)|
