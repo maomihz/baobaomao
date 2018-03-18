@@ -2715,3 +2715,4 @@
 |[updatesoftware.thebig-centeralplacecontentingprepared.bid](https://dns.google.com/query?name=updatesoftware.thebig-centeralplacecontentingprepared.bid&type=A)|
 |[getupdate.thebig-centeralplacecontentingprepared.bid](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentingprepared.bid&type=A)|
 |[keyupgrade.thebig-centeralplacecontentingprepared.bid](https://dns.google.com/query?name=keyupgrade.thebig-centeralplacecontentingprepared.bid&type=A)|
+|[checkingfree.thebig-centeralplacecontentingprepared.bid](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentingprepared.bid&type=A)|
