@@ -2727,7 +2727,8 @@
     "getupdate.thebig-centeralplacecontentprepared.review",
     "checkingfree.thebig-centeralplacecontentprepared.review",
     "updatesoftware.thebig-centeralplacecontentprepared.win",
-    "keyupgrade.thebig-centeralplacecontentprepared.win"
+    "keyupgrade.thebig-centeralplacecontentprepared.win",
+    "getupdate.thebig-centeralplacecontentprepared.win"
   ],
   "urls": {
     "https://s3.amazonaws.com/7489/N2/LHGsqlEy/AdobeFlashPlayerInstaller.dmg": {

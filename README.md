@@ -2746,3 +2746,4 @@
 |[checkingfree.thebig-centeralplacecontentprepared.review](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentprepared.review&type=A)|
 |[updatesoftware.thebig-centeralplacecontentprepared.win](https://dns.google.com/query?name=updatesoftware.thebig-centeralplacecontentprepared.win&type=A)|
 |[keyupgrade.thebig-centeralplacecontentprepared.win](https://dns.google.com/query?name=keyupgrade.thebig-centeralplacecontentprepared.win&type=A)|
+|[getupdate.thebig-centeralplacecontentprepared.win](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentprepared.win&type=A)|
