@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJiYjUvYmJhNjVkYjgtMTg4Ny00MjMxLWE2ZTctYS8wZTRkNzEwNC0zYzAwLTRiODItOTdkNy1mL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:40|https://s3.amazonaws.com/2bb5/bba65db8-1887-4231-a6e7-a/0e4d7104-3c00-4b82-97d7-f/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVFQzkvMTE5MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:29|https://s3.amazonaws.com/5EC9/1190/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczMjAvNjVqSi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:19|https://s3.amazonaws.com/7320/65jJ/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdDRjQwQjU4M0UxOTg5NEM4RkRBQTEyMjQwQTE0MC81ODgyNDg0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:08|https://s3.amazonaws.com/7CF40B583E19894C8FDAA12240A140/5882484/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM3MjdjZmRkLTgyMjktNDA1NC0vRS85TVFnMi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:58|https://s3.amazonaws.com/3727cfdd-8229-4054-/E/9MQg2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU3M0U0ODJGNjQ3QUNDNEVCNjBGRURCRjQwNUU0RkIvMjA1NjczNjYvMjQ5Nzg4Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:49|https://s3.amazonaws.com/573E482F647ACC4EB60FEDBF405E4FB/20567366/2497882/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2E0NmIyNS9ERTU3NTlFREVCNDAxNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:39|https://s3.amazonaws.com/a46b25/DE5759EDEB4016/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2772,3 +2772,4 @@
 |[freshupdate.thebig-centeralplacecontentsafegreat.trade](https://dns.google.com/query?name=freshupdate.thebig-centeralplacecontentsafegreat.trade&type=A)|
 |[keyupgrade.thebig-centeralplacecontentsafeprepared.download](https://dns.google.com/query?name=keyupgrade.thebig-centeralplacecontentsafeprepared.download&type=A)|
 |[getupdate.thebig-centeralplacecontentsafeprepared.download](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentsafeprepared.download&type=A)|
+|[checkingfree.thebig-centeralplacecontentsafeprepared.download](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentsafeprepared.download&type=A)|
