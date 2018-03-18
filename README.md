@@ -2777,3 +2777,4 @@
 |[24check4updates.thebig-centeralplacecontentsgood.review](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentsgood.review&type=A)|
 |[free4allup.thebig-centeralplacecontentsgood.date](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentsgood.date&type=A)|
 |[livecheck2update.thebig-centeralplacecontentsgood.date](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentsgood.date&type=A)|
+|[livecheck2update.thebig-centeralplacecontentsgood.win](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentsgood.win&type=A)|
