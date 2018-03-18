@@ -2727,3 +2727,4 @@
 |[keyupgrade.thebig-centeralplacecontentingprepared.date](https://dns.google.com/query?name=keyupgrade.thebig-centeralplacecontentingprepared.date&type=A)|
 |[getupdate.thebig-centeralplacecontentingprepared.date](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentingprepared.date&type=A)|
 |[updatesoftware.thebig-centeralplacecontentingprepared.date](https://dns.google.com/query?name=updatesoftware.thebig-centeralplacecontentingprepared.date&type=A)|
+|[checkingfree.thebig-centeralplacecontentingprepared.date](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentingprepared.date&type=A)|
