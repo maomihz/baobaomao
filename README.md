@@ -2707,3 +2707,4 @@
 |[pc4maintainance.thebig-centeralplacecontentinggood.stream](https://dns.google.com/query?name=pc4maintainance.thebig-centeralplacecontentinggood.stream&type=A)|
 |[livecheck2update.thebig-centeralplacecontentinggood.stream](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentinggood.stream&type=A)|
 |[free4allup.thebig-centeralplacecontentinggood.stream](https://dns.google.com/query?name=free4allup.thebig-centeralplacecontentinggood.stream&type=A)|
+|[24check4updates.thebig-centeralplacecontentinggood.stream](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentinggood.stream&type=A)|
