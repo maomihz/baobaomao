@@ -2787,3 +2787,4 @@
 |[24check4updates.thebig-centeralplacecontentsgood.stream](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentsgood.stream&type=A)|
 |[livecheck2update.thebig-centeralplacecontentsgood.stream](https://dns.google.com/query?name=livecheck2update.thebig-centeralplacecontentsgood.stream&type=A)|
 |[online.thebig-centeralplacecontentsgreat.download](https://dns.google.com/query?name=online.thebig-centeralplacecontentsgreat.download&type=A)|
+|[freshupdate.thebig-centeralplacecontentsgreat.download](https://dns.google.com/query?name=freshupdate.thebig-centeralplacecontentsgreat.download&type=A)|
