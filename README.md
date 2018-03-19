@@ -2861,3 +2861,4 @@
 |[checkupdate.thebig-centeralplaceforcontentsafenow.download](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentsafenow.download&type=A)|
 |[howtoupdate.thebig-centeralplaceforcontentsafenow.download](https://dns.google.com/query?name=howtoupdate.thebig-centeralplaceforcontentsafenow.download&type=A)|
 |[upgradeget.thebig-centeralplaceforcontentsafenow.download](https://dns.google.com/query?name=upgradeget.thebig-centeralplaceforcontentsafenow.download&type=A)|
+|[learn2upgrade.thebig-centeralplaceforcontentsfree.win](https://dns.google.com/query?name=learn2upgrade.thebig-centeralplaceforcontentsfree.win&type=A)|
