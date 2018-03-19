@@ -2871,3 +2871,4 @@
 |[freechecknow.thebig-centeralplaceforcontentsfree.download](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentsfree.download&type=A)|
 |[upgradeget.thebig-centeralplaceforcontentsnow.win](https://dns.google.com/query?name=upgradeget.thebig-centeralplaceforcontentsnow.win&type=A)|
 |[howtoupdate.thebig-centeralplaceforcontentsnow.win](https://dns.google.com/query?name=howtoupdate.thebig-centeralplaceforcontentsnow.win&type=A)|
+|[checkupdate.thebig-centeralplaceforcontentsnow.win](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentsnow.win&type=A)|
