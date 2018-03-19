@@ -2856,3 +2856,4 @@
 |[lastversion.thebig-centeralplaceforcontentsfree.bid](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentsfree.bid&type=A)|
 |[freechecknow.thebig-centeralplaceforcontentsfree.bid](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentsfree.bid&type=A)|
 |[upgradeget.thebig-centeralplaceforcontentsafenow.stream](https://dns.google.com/query?name=upgradeget.thebig-centeralplaceforcontentsafenow.stream&type=A)|
+|[checkupdate.thebig-centeralplaceforcontentsafenow.stream](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentsafenow.stream&type=A)|
