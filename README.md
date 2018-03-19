@@ -2814,3 +2814,4 @@
 |[checkingfree.thebig-centeralplacecontentsoprepared.bid](https://dns.google.com/query?name=checkingfree.thebig-centeralplacecontentsoprepared.bid&type=A)|
 |[getupdate.thebig-centeralplacecontentsoprepared.bid](https://dns.google.com/query?name=getupdate.thebig-centeralplacecontentsoprepared.bid&type=A)|
 |[24check4updates.thebig-centeralplacecontentsgood.date](https://dns.google.com/query?name=24check4updates.thebig-centeralplacecontentsgood.date&type=A)|
+|[keyupgrade.thebig-centeralplacecontentsoprepared.win](https://dns.google.com/query?name=keyupgrade.thebig-centeralplacecontentsoprepared.win&type=A)|
