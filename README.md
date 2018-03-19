@@ -2834,3 +2834,4 @@
 |[checkupdate.thebig-centeralplaceforcontentingnow.bid](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentingnow.bid&type=A)|
 |[howtoupdate.thebig-centeralplaceforcontentingnow.bid](https://dns.google.com/query?name=howtoupdate.thebig-centeralplaceforcontentingnow.bid&type=A)|
 |[howtoupdate.thebig-centeralplaceforcontentingnow.download](https://dns.google.com/query?name=howtoupdate.thebig-centeralplaceforcontentingnow.download&type=A)|
+|[upgradeget.thebig-centeralplaceforcontentingnow.download](https://dns.google.com/query?name=upgradeget.thebig-centeralplaceforcontentingnow.download&type=A)|
