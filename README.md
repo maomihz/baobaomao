@@ -2851,3 +2851,4 @@
 |[check.thebig-centeralplaceforcontentsafenew.win](https://dns.google.com/query?name=check.thebig-centeralplaceforcontentsafenew.win&type=A)|
 |[check.thebig-centeralplaceforcontentsafenew.stream](https://dns.google.com/query?name=check.thebig-centeralplaceforcontentsafenew.stream&type=A)|
 |[readyupdate.thebig-centeralplaceforcontentsafenew.stream](https://dns.google.com/query?name=readyupdate.thebig-centeralplaceforcontentsafenew.stream&type=A)|
+|[softupdate.thebig-centeralplaceforcontentsafenew.stream](https://dns.google.com/query?name=softupdate.thebig-centeralplaceforcontentsafenew.stream&type=A)|
