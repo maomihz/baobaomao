@@ -2825,3 +2825,4 @@
 |[freechecknow.thebig-centeralplaceforcontentingfree.win](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentingfree.win&type=A)|
 |[livecheck.thebig-centeralplaceforcontentingfree.win](https://dns.google.com/query?name=livecheck.thebig-centeralplaceforcontentingfree.win&type=A)|
 |[learn2upgrade.thebig-centeralplaceforcontentingfree.win](https://dns.google.com/query?name=learn2upgrade.thebig-centeralplaceforcontentingfree.win&type=A)|
+|[lastversion.thebig-centeralplaceforcontentingfree.win](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentingfree.win&type=A)|
