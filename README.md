@@ -2859,3 +2859,4 @@
 |[checkupdate.thebig-centeralplaceforcontentsafenow.stream](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentsafenow.stream&type=A)|
 |[howtoupdate.thebig-centeralplaceforcontentsafenow.stream](https://dns.google.com/query?name=howtoupdate.thebig-centeralplaceforcontentsafenow.stream&type=A)|
 |[checkupdate.thebig-centeralplaceforcontentsafenow.download](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentsafenow.download&type=A)|
+|[howtoupdate.thebig-centeralplaceforcontentsafenow.download](https://dns.google.com/query?name=howtoupdate.thebig-centeralplaceforcontentsafenow.download&type=A)|
