@@ -2869,3 +2869,4 @@
 |[softupdate.thebig-centeralplaceforcontentsnew.trade](https://dns.google.com/query?name=softupdate.thebig-centeralplaceforcontentsnew.trade&type=A)|
 |[lastversion.thebig-centeralplaceforcontentsfree.download](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentsfree.download&type=A)|
 |[freechecknow.thebig-centeralplaceforcontentsfree.download](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentsfree.download&type=A)|
+|[upgradeget.thebig-centeralplaceforcontentsnow.win](https://dns.google.com/query?name=upgradeget.thebig-centeralplaceforcontentsnow.win&type=A)|
