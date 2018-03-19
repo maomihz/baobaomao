@@ -2831,3 +2831,4 @@
 |[learn2upgrade.thebig-centeralplaceforcontentfree.win](https://dns.google.com/query?name=learn2upgrade.thebig-centeralplaceforcontentfree.win&type=A)|
 |[upnow2app.thebig-centeralplaceforcontentingnow.bid](https://dns.google.com/query?name=upnow2app.thebig-centeralplaceforcontentingnow.bid&type=A)|
 |[upgradeget.thebig-centeralplaceforcontentingnow.bid](https://dns.google.com/query?name=upgradeget.thebig-centeralplaceforcontentingnow.bid&type=A)|
+|[checkupdate.thebig-centeralplaceforcontentingnow.bid](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentingnow.bid&type=A)|
