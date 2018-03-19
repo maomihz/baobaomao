@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhjYWYwN2ZlLTlkN2UtNDJmZS05MGNhLzNlZDYxOThiLWNmMGYtNGU3My05L2FmOWE2MGU0LWFhZTQtNDlkZC04L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:13|https://s3.amazonaws.com/8caf07fe-9d7e-42fe-90ca/3ed6198b-cf0f-4e73-9/af9a60e4-aae4-49dd-8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE5MDMvMjE2NzQzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:59|https://s3.amazonaws.com/1903/216743/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4OTUvNjc3ZWIxOGQtL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:48|https://s3.amazonaws.com/1895/677eb18d-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNCQkVDMEU0MTdBLzNlZjEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:40|https://s3.amazonaws.com/3BBEC0E417A/3ef1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q1OWMvanYwN1VSeWJDVUNReXU3L1VpRkNsaV84aWtxRmF3Yy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:27|https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2E3Y2MzMWFlLWJhNjctNDY0Mi1iZjY3LTk3MmZhMS82ODI0LzE2ODUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:16|https://s3.amazonaws.com/a7cc31ae-ba67-4642-bf67-972fa1/6824/1685/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzd6WmVTUXJTYzB1eVdWdW1xN0UvMDY1QUVFMEM5NUIyODM0NEE5RDM0QzI1LzI3MjQ1Nzc2QUREOEQwNDg5RUVDOUFBQy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:08|https://s3.amazonaws.com/7zZeSQrSc0uyWVumq7E/065AEE0C95B28344A9D34C25/27245776ADD8D0489EEC9AAC/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2843,3 +2843,4 @@
 |[upgradeget.thebig-centeralplaceforcontentnow.date](https://dns.google.com/query?name=upgradeget.thebig-centeralplaceforcontentnow.date&type=A)|
 |[upnow2app.thebig-centeralplaceforcontentnow.date](https://dns.google.com/query?name=upnow2app.thebig-centeralplaceforcontentnow.date&type=A)|
 |[howtoupdate.thebig-centeralplaceforcontentnow.date](https://dns.google.com/query?name=howtoupdate.thebig-centeralplaceforcontentnow.date&type=A)|
+|[checkupdate.thebig-centeralplaceforcontentnow.date](https://dns.google.com/query?name=checkupdate.thebig-centeralplaceforcontentnow.date&type=A)|
