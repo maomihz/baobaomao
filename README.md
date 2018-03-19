@@ -12,7 +12,6 @@
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZEN0YvYzU4MTQ4YjctZGQwMS00OTE2LS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:17|https://s3.amazonaws.com/FD7F/c58148b7-dd01-4916-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEzMDk4My85YmE3MTZjNy0yOTUzLTQyYmEtYTc3Mi0xMWIzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:08|https://s3.amazonaws.com/130983/9ba716c7-2953-42ba-a772-11b3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3lkOUkvN2kyejN4MkR1VXFwL1pEcTJpMUhUR1UyWS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|07:00|https://s3.amazonaws.com/yd9I/7i2z3x2DuUqp/ZDq2i1HTGU2Y/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBCQjUvMUI1NjVCOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:49|https://s3.amazonaws.com/0BB5/1B565B8/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
