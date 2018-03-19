@@ -2827,3 +2827,4 @@
 |[learn2upgrade.thebig-centeralplaceforcontentingfree.win](https://dns.google.com/query?name=learn2upgrade.thebig-centeralplaceforcontentingfree.win&type=A)|
 |[lastversion.thebig-centeralplaceforcontentingfree.win](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentingfree.win&type=A)|
 |[freechecknow.thebig-centeralplaceforcontentfree.win](https://dns.google.com/query?name=freechecknow.thebig-centeralplaceforcontentfree.win&type=A)|
+|[lastversion.thebig-centeralplaceforcontentfree.win](https://dns.google.com/query?name=lastversion.thebig-centeralplaceforcontentfree.win&type=A)|
