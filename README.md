@@ -2930,3 +2930,4 @@
 |[softwareupdate.mypointofforcontentingfree.bid](https://dns.google.com/query?name=softwareupdate.mypointofforcontentingfree.bid&type=A)|
 |[howupdateworks.mypointofforcontentingfree.bid](https://dns.google.com/query?name=howupdateworks.mypointofforcontentingfree.bid&type=A)|
 |[how2update.mypointofforcontentingfree.bid](https://dns.google.com/query?name=how2update.mypointofforcontentingfree.bid&type=A)|
+|[softwareupdate.mypointofforcontentfree.stream](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.stream&type=A)|
