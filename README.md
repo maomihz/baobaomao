@@ -2884,3 +2884,4 @@
 |[newsoft12.thehighsystemforcontentfree.date](https://dns.google.com/query?name=newsoft12.thehighsystemforcontentfree.date&type=A)|
 |[setupdate24.thehighsystemforcontentfree.bid](https://dns.google.com/query?name=setupdate24.thehighsystemforcontentfree.bid&type=A)|
 |[setting4upgrade.thehighsystemforcontentfree.bid](https://dns.google.com/query?name=setting4upgrade.thehighsystemforcontentfree.bid&type=A)|
+|[nowcheck.thehighsystemforcontentfree.bid](https://dns.google.com/query?name=nowcheck.thehighsystemforcontentfree.bid&type=A)|
