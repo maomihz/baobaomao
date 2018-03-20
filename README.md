@@ -2938,3 +2938,4 @@
 |[howupdateworks.mypointofforcontentingfree.download](https://dns.google.com/query?name=howupdateworks.mypointofforcontentingfree.download&type=A)|
 |[how2update.mypointofforcontentingfree.download](https://dns.google.com/query?name=how2update.mypointofforcontentingfree.download&type=A)|
 |[futureupdates.mypointofforcontentingfree.download](https://dns.google.com/query?name=futureupdates.mypointofforcontentingfree.download&type=A)|
+|[softwareupdate.mypointofforcontentingfree.date](https://dns.google.com/query?name=softwareupdate.mypointofforcontentingfree.date&type=A)|
