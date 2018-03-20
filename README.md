@@ -2926,3 +2926,4 @@
 |[softwareupdate.mypointofforcontentfree.download](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.download&type=A)|
 |[howupdateworks.mypointofforcontentfree.download](https://dns.google.com/query?name=howupdateworks.mypointofforcontentfree.download&type=A)|
 |[how2update.mypointofforcontentfree.download](https://dns.google.com/query?name=how2update.mypointofforcontentfree.download&type=A)|
+|[futureupdates.mypointofforcontentfree.download](https://dns.google.com/query?name=futureupdates.mypointofforcontentfree.download&type=A)|
