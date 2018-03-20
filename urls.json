@@ -2874,25 +2874,17 @@
     "newsoft12.thehighsystemforcontentfree.download"
   ],
   "urls": {
-    "https://s3.amazonaws.com/0759C170C103EB45B55BACCEE8741/i6bF8z9czEuL23Qq_AB69g/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/0759C170C103EB45B55BACCEE8741/i6bF8z9czEuL23Qq_AB69g/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521529196.568543
-    },
-    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521487643.979616
-    },
     "https://s3.amazonaws.com/Tj5N/9722/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/Tj5N/9722/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521528567.232438
     },
-    "https://s3.amazonaws.com/LOW8WBKJgUq/9AA4DDD03AD3FF/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/LOW8WBKJgUq/9AA4DDD03AD3FF/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521527423.696309
-    },
     "https://s3.amazonaws.com/3wUo7ziLP0OVksjKJ/1915/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/3wUo7ziLP0OVksjKJ/1915/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521530471.06501
+    },
+    "https://s3.amazonaws.com/0759C170C103EB45B55BACCEE8741/i6bF8z9czEuL23Qq_AB69g/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/0759C170C103EB45B55BACCEE8741/i6bF8z9czEuL23Qq_AB69g/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521529196.568543
     },
     "https://s3.amazonaws.com/2520254/b1d1b6d3-e8c1-4a96-9fc5-5177db421c8/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/2520254/b1d1b6d3-e8c1-4a96-9fc5-5177db421c8/AdobeFlashPlayerInstaller.dmg",
