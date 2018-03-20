@@ -2890,3 +2890,4 @@
 |[setting4upgrade.thehighsystemforcontentfree.download](https://dns.google.com/query?name=setting4upgrade.thehighsystemforcontentfree.download&type=A)|
 |[nowcheck.thehighsystemforcontentfree.download](https://dns.google.com/query?name=nowcheck.thehighsystemforcontentfree.download&type=A)|
 |[newsoft12.thehighsystemforcontentfree.download](https://dns.google.com/query?name=newsoft12.thehighsystemforcontentfree.download&type=A)|
+|[setupdate24.thehighsystemforcontentingfree.win](https://dns.google.com/query?name=setupdate24.thehighsystemforcontentingfree.win&type=A)|
