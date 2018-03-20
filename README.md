@@ -2940,3 +2940,4 @@
 |[futureupdates.mypointofforcontentingfree.download](https://dns.google.com/query?name=futureupdates.mypointofforcontentingfree.download&type=A)|
 |[softwareupdate.mypointofforcontentingfree.date](https://dns.google.com/query?name=softwareupdate.mypointofforcontentingfree.date&type=A)|
 |[futureupdates.mypointofforcontentingfree.date](https://dns.google.com/query?name=futureupdates.mypointofforcontentingfree.date&type=A)|
+|[softwareupdate.mypointofforcontentingfree.stream](https://dns.google.com/query?name=softwareupdate.mypointofforcontentingfree.stream&type=A)|
