@@ -1,34 +1,4 @@
 {
-  "urls": {
-    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521487643.979616
-    },
-    "https://s3.amazonaws.com/RL0GoadA30awce/i/M7poAmZk_DVY8aWhlZHQ/1pU3/Mi7BU67bk1I7DgOvg/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/RL0GoadA30awce/i/M7poAmZk_DVY8aWhlZHQ/1pU3/Mi7BU67bk1I7DgOvg/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521525523.082638
-    },
-    "https://s3.amazonaws.com/2f61/E3729EB4D78C8648A96D8717F61/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/2f61/E3729EB4D78C8648A96D8717F61/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521526664.206121
-    },
-    "https://s3.amazonaws.com/06a2b8f8-ea6f-4/1762/3282/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/06a2b8f8-ea6f-4/1762/3282/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521524764.334928
-    },
-    "https://s3.amazonaws.com/9976A2D061892C4593D2/F196/A66F/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/9976A2D061892C4593D2/F196/A66F/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521524258.651412
-    },
-    "https://s3.amazonaws.com/LOW8WBKJgUq/9AA4DDD03AD3FF/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/LOW8WBKJgUq/9AA4DDD03AD3FF/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521527423.696309
-    },
-    "https://s3.amazonaws.com/9b1fc36c-7429-48b9-a22e/211B5ED45907B1439883A32F6E57FF/9957EDA776011C4FA523BE907F1B9D/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/9b1fc36c-7429-48b9-a22e/211B5ED45907B1439883A32F6E57FF/9957EDA776011C4FA523BE907F1B9D/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521526157.790481
-    }
-  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -2897,5 +2867,35 @@
     "setting4upgrade.thehighsystemforcontentfree.bid",
     "nowcheck.thehighsystemforcontentfree.bid",
     "newsoft12.thehighsystemforcontentfree.bid"
-  ]
+  ],
+  "urls": {
+    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521487643.979616
+    },
+    "https://s3.amazonaws.com/LOW8WBKJgUq/9AA4DDD03AD3FF/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/LOW8WBKJgUq/9AA4DDD03AD3FF/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521527423.696309
+    },
+    "https://s3.amazonaws.com/9b1fc36c-7429-48b9-a22e/211B5ED45907B1439883A32F6E57FF/9957EDA776011C4FA523BE907F1B9D/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/9b1fc36c-7429-48b9-a22e/211B5ED45907B1439883A32F6E57FF/9957EDA776011C4FA523BE907F1B9D/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521526157.790481
+    },
+    "https://s3.amazonaws.com/2f61/E3729EB4D78C8648A96D8717F61/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/2f61/E3729EB4D78C8648A96D8717F61/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521526664.206121
+    },
+    "https://s3.amazonaws.com/06a2b8f8-ea6f-4/1762/3282/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/06a2b8f8-ea6f-4/1762/3282/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521524764.334928
+    },
+    "https://s3.amazonaws.com/9976A2D061892C4593D2/F196/A66F/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/9976A2D061892C4593D2/F196/A66F/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521524258.651412
+    },
+    "https://s3.amazonaws.com/RL0GoadA30awce/i/M7poAmZk_DVY8aWhlZHQ/1pU3/Mi7BU67bk1I7DgOvg/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/RL0GoadA30awce/i/M7poAmZk_DVY8aWhlZHQ/1pU3/Mi7BU67bk1I7DgOvg/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521525523.082638
+    }
+  }
 }
