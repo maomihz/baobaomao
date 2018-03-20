@@ -2944,3 +2944,4 @@
 |[howupdateworks.mypointofforcontentingfree.stream](https://dns.google.com/query?name=howupdateworks.mypointofforcontentingfree.stream&type=A)|
 |[how2update.mypointofforcontentingfree.stream](https://dns.google.com/query?name=how2update.mypointofforcontentingfree.stream&type=A)|
 |[futureupdates.mypointofforcontentingfree.stream](https://dns.google.com/query?name=futureupdates.mypointofforcontentingfree.stream&type=A)|
+|[softwareupdate.mypointofforcontentingfree.review](https://dns.google.com/query?name=softwareupdate.mypointofforcontentingfree.review&type=A)|
