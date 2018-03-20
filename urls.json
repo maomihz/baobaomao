@@ -1,16 +1,12 @@
 {
   "urls": {
+    "https://s3.amazonaws.com/06091c35-2247-470c-8b17/2C6iY/RAjEebuH/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521513579.93326,
+      "url": "https://s3.amazonaws.com/06091c35-2247-470c-8b17/2C6iY/RAjEebuH/AdobeFlashPlayerInstaller.dmg"
+    },
     "https://s3.amazonaws.com/26d0/131237511/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521512940.803941,
       "url": "https://s3.amazonaws.com/26d0/131237511/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/c156/caa6/56a9/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521510522.704177,
-      "url": "https://s3.amazonaws.com/c156/caa6/56a9/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521487643.979616,
-      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/c62cdc7e-209a-4a27-b/d398/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521511669.210525,
@@ -24,9 +20,13 @@
       "discovered": 1521511165.546914,
       "url": "https://s3.amazonaws.com/2af3a782-f752-4908-a34f-ae366225/5w91YFNnzUe/dBZY0DeexUG/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/06091c35-2247-470c-8b17/2C6iY/RAjEebuH/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521513579.93326,
-      "url": "https://s3.amazonaws.com/06091c35-2247-470c-8b17/2C6iY/RAjEebuH/AdobeFlashPlayerInstaller.dmg"
+    "https://s3.amazonaws.com/c156/caa6/56a9/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521510522.704177,
+      "url": "https://s3.amazonaws.com/c156/caa6/56a9/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521487643.979616,
+      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -2895,6 +2895,7 @@
     "newsoft12.thehighsystemforcontentfree.date",
     "setupdate24.thehighsystemforcontentfree.bid",
     "setting4upgrade.thehighsystemforcontentfree.bid",
-    "nowcheck.thehighsystemforcontentfree.bid"
+    "nowcheck.thehighsystemforcontentfree.bid",
+    "newsoft12.thehighsystemforcontentfree.bid"
   ]
 }
