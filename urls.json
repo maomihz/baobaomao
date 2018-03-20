@@ -1,38 +1,4 @@
 {
-  "urls": {
-    "https://s3.amazonaws.com/50790fe7-5c0f-/gBVTzM0QtUGBX/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/50790fe7-5c0f-/gBVTzM0QtUGBX/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521516630.399137
-    },
-    "https://s3.amazonaws.com/C5E8/qS90ddCejUaoSNd8W4ouHQ=/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/C5E8/qS90ddCejUaoSNd8W4ouHQ=/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521517780.12958
-    },
-    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521487643.979616
-    },
-    "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521519433.61232
-    },
-    "https://s3.amazonaws.com/1187/nIudkviWKEG8X/CANo5JZv8EKl6/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/1187/nIudkviWKEG8X/CANo5JZv8EKl6/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521517269.073448
-    },
-    "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521518159.75918
-    },
-    "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521519051.916227
-    },
-    "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521520068.05171
-    }
-  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -2901,5 +2867,35 @@
     "setting4upgrade.thehighsystemforcontentfree.bid",
     "nowcheck.thehighsystemforcontentfree.bid",
     "newsoft12.thehighsystemforcontentfree.bid"
-  ]
+  ],
+  "urls": {
+    "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521518159.75918,
+      "url": "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521520068.05171,
+      "url": "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521519433.61232,
+      "url": "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521487643.979616,
+      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/1187/nIudkviWKEG8X/CANo5JZv8EKl6/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521517269.073448,
+      "url": "https://s3.amazonaws.com/1187/nIudkviWKEG8X/CANo5JZv8EKl6/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/C5E8/qS90ddCejUaoSNd8W4ouHQ=/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521517780.12958,
+      "url": "https://s3.amazonaws.com/C5E8/qS90ddCejUaoSNd8W4ouHQ=/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521519051.916227,
+      "url": "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg"
+    }
+  }
 }
