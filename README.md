@@ -2929,3 +2929,4 @@
 |[futureupdates.mypointofforcontentfree.download](https://dns.google.com/query?name=futureupdates.mypointofforcontentfree.download&type=A)|
 |[softwareupdate.mypointofforcontentingfree.bid](https://dns.google.com/query?name=softwareupdate.mypointofforcontentingfree.bid&type=A)|
 |[howupdateworks.mypointofforcontentingfree.bid](https://dns.google.com/query?name=howupdateworks.mypointofforcontentingfree.bid&type=A)|
+|[how2update.mypointofforcontentingfree.bid](https://dns.google.com/query?name=how2update.mypointofforcontentingfree.bid&type=A)|
