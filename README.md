@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJENTBBREQ4NjBBNTM1NDM5QTY5MjYwMzg5RC8wNjQyNWNhYy1hZGQxLTQxMWQtYjYwOS01MmI4OGEyZGEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:09|https://s3.amazonaws.com/2D50ADD860A535439A69260389D/06425cac-add1-411d-b609-52b88a2da/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkzQkU1NjM1NkU5QjYwNDhCQjA3MjQyRTQ3NEFBMjMvM0Q3MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:58|https://s3.amazonaws.com/93BE56356E9B6048BB07242E474AA23/3D71/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q1NGE1NmExLTc5ZTgtNGUvbnNLblgzWWQ5RWl2R2xoVnBWc2JIUT0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:48|https://s3.amazonaws.com/d54a56a1-79e8-4e/nsKnX3Yd9EivGlhVpVsbHQ=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3ZTNkMDYxLTRmOGYtNGQ5MC05NzI0LTI0YzUyYTE0NzQ3LzhBNkYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:39|https://s3.amazonaws.com/17e3d061-4f8f-4d90-9724-24c52a14747/8A6F/AdobeFlashPlayerInstaller.dmg|
@@ -2931,3 +2932,4 @@
 |[howupdateworks.mypointofforcontentingfree.bid](https://dns.google.com/query?name=howupdateworks.mypointofforcontentingfree.bid&type=A)|
 |[how2update.mypointofforcontentingfree.bid](https://dns.google.com/query?name=how2update.mypointofforcontentingfree.bid&type=A)|
 |[softwareupdate.mypointofforcontentfree.stream](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.stream&type=A)|
+|[futureupdates.mypointofforcontentfree.stream](https://dns.google.com/query?name=futureupdates.mypointofforcontentfree.stream&type=A)|
