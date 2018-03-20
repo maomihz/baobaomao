@@ -2908,3 +2908,4 @@
 |[onlineupgrade.mypointofforcontentingnew.review](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.review&type=A)|
 |[online.mypointofforcontentingnew.review](https://dns.google.com/query?name=online.mypointofforcontentingnew.review&type=A)|
 |[maintainpc.mypointofforcontentingnew.review](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.review&type=A)|
+|[24newsoft.mypointofforcontentingnew.review](https://dns.google.com/query?name=24newsoft.mypointofforcontentingnew.review&type=A)|
