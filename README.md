@@ -2912,3 +2912,4 @@
 |[onlineupgrade.mypointofforcontentingnew.download](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.download&type=A)|
 |[maintainpc.mypointofforcontentingnew.download](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.download&type=A)|
 |[softwareupdate.mypointofforcontentfree.date](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.date&type=A)|
+|[howupdateworks.mypointofforcontentfree.date](https://dns.google.com/query?name=howupdateworks.mypointofforcontentfree.date&type=A)|
