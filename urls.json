@@ -1,4 +1,38 @@
 {
+  "urls": {
+    "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521519051.916227,
+      "url": "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521518159.75918,
+      "url": "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521519433.61232,
+      "url": "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/44b7c1ad-f838-49bb-a/42941/122245/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521520579.146468,
+      "url": "https://s3.amazonaws.com/44b7c1ad-f838-49bb-a/42941/122245/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/5424caed-f/89066/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521521593.414395,
+      "url": "https://s3.amazonaws.com/5424caed-f/89066/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521520068.05171,
+      "url": "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521487643.979616,
+      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/B684B884E47F624FACCDF2EEB1E6/1825623/1971226/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521521847.233964,
+      "url": "https://s3.amazonaws.com/B684B884E47F624FACCDF2EEB1E6/1825623/1971226/AdobeFlashPlayerInstaller.dmg"
+    }
+  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -2867,35 +2901,5 @@
     "setting4upgrade.thehighsystemforcontentfree.bid",
     "nowcheck.thehighsystemforcontentfree.bid",
     "newsoft12.thehighsystemforcontentfree.bid"
-  ],
-  "urls": {
-    "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521518159.75918,
-      "url": "https://s3.amazonaws.com/4c24d518-c75b-43e7-a9e4-5ee3fb1/5059D/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/44b7c1ad-f838-49bb-a/42941/122245/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521520579.146468,
-      "url": "https://s3.amazonaws.com/44b7c1ad-f838-49bb-a/42941/122245/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521519433.61232,
-      "url": "https://s3.amazonaws.com/0349e6de-862a-4/0ef90a32-83af-4e0d-bd21-/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/5424caed-f/89066/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521521593.414395,
-      "url": "https://s3.amazonaws.com/5424caed-f/89066/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521487643.979616,
-      "url": "https://s3.amazonaws.com/d59c/jv07URybCUCQyu7/UiFCli_8ikqFawc/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521520068.05171,
-      "url": "https://s3.amazonaws.com/8da3/7530433e-5309-4d8/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521519051.916227,
-      "url": "https://s3.amazonaws.com/b7839377-abca-4c62/atQp/ryWI0KhgRS/AdobeFlashPlayerInstaller.dmg"
-    }
-  }
+  ]
 }
