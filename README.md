@@ -2896,3 +2896,4 @@
 |[nowcheck.thehighsystemforcontentingfree.win](https://dns.google.com/query?name=nowcheck.thehighsystemforcontentingfree.win&type=A)|
 |[newsoft12.thehighsystemforcontentingfree.win](https://dns.google.com/query?name=newsoft12.thehighsystemforcontentingfree.win&type=A)|
 |[setupdate24.thehighsystemforcontentingfree.stream](https://dns.google.com/query?name=setupdate24.thehighsystemforcontentingfree.stream&type=A)|
+|[setting4upgrade.thehighsystemforcontentingfree.stream](https://dns.google.com/query?name=setting4upgrade.thehighsystemforcontentingfree.stream&type=A)|
