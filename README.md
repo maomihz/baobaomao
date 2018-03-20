@@ -2915,3 +2915,4 @@
 |[howupdateworks.mypointofforcontentfree.date](https://dns.google.com/query?name=howupdateworks.mypointofforcontentfree.date&type=A)|
 |[how2update.mypointofforcontentfree.date](https://dns.google.com/query?name=how2update.mypointofforcontentfree.date&type=A)|
 |[futureupdates.mypointofforcontentfree.date](https://dns.google.com/query?name=futureupdates.mypointofforcontentfree.date&type=A)|
+|[softwareupdate.mypointofforcontentfree.bid](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.bid&type=A)|
