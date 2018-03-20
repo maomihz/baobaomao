@@ -2922,3 +2922,4 @@
 |[softwareupdate.mypointofforcontentfree.review](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.review&type=A)|
 |[howupdateworks.mypointofforcontentfree.review](https://dns.google.com/query?name=howupdateworks.mypointofforcontentfree.review&type=A)|
 |[how2update.mypointofforcontentfree.review](https://dns.google.com/query?name=how2update.mypointofforcontentfree.review&type=A)|
+|[futureupdates.mypointofforcontentfree.review](https://dns.google.com/query?name=futureupdates.mypointofforcontentfree.review&type=A)|
