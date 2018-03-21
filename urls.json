@@ -1,5 +1,13 @@
 {
   "urls": {
+    "https://s3.amazonaws.com/fWtZDi49K/C45DB9736AD9CC4B9/47B096EA9E7E1749A/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/fWtZDi49K/C45DB9736AD9CC4B9/47B096EA9E7E1749A/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521657596.676302
+    },
+    "https://s3.amazonaws.com/39610197/jbJvUdci3kKCujHlx/gvj/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/39610197/jbJvUdci3kKCujHlx/gvj/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521657090.096146
+    },
     "https://s3.amazonaws.com/054AD3C2F4A17E459ACDB0E68F069B9/1603/2030/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/054AD3C2F4A17E459ACDB0E68F069B9/1603/2030/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521655823.503851
@@ -12,17 +20,9 @@
       "url": "https://s3.amazonaws.com/136F7044ACF918/4bdc46d3-8221-4154-9189-a146ec9f/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521655181.950931
     },
-    "https://s3.amazonaws.com/fWtZDi49K/C45DB9736AD9CC4B9/47B096EA9E7E1749A/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/fWtZDi49K/C45DB9736AD9CC4B9/47B096EA9E7E1749A/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521657596.676302
-    },
     "https://s3.amazonaws.com/78C88D1D6070D/Q0vCpBAEf06OsPCw/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/78C88D1D6070D/Q0vCpBAEf06OsPCw/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521656458.953418
-    },
-    "https://s3.amazonaws.com/39610197/jbJvUdci3kKCujHlx/gvj/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/39610197/jbJvUdci3kKCujHlx/gvj/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521657090.096146
     }
   },
   "ad_urls": [
@@ -3018,6 +3018,7 @@
     "onlineupgrade.mypointofforcontentnew.date",
     "online.mypointofforcontentnew.date",
     "24newsoft.mypointofforcontentnew.bid",
-    "maintainpc.mypointofforcontentnew.bid"
+    "maintainpc.mypointofforcontentnew.bid",
+    "online.mypointofforcontentnew.bid"
   ]
 }
