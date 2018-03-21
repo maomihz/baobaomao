@@ -2971,3 +2971,4 @@
 |[online.mypointofforcontentingnew.bid](https://dns.google.com/query?name=online.mypointofforcontentingnew.bid&type=A)|
 |[onlineupgrade.mypointofforcontentingnew.bid](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.bid&type=A)|
 |[onlineupgrade.mypointofforcontentingnew.trade](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.trade&type=A)|
+|[online.mypointofforcontentingnew.trade](https://dns.google.com/query?name=online.mypointofforcontentingnew.trade&type=A)|
