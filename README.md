@@ -3024,3 +3024,4 @@
 |[onlineupgrade.mypointofforcontentnew.win](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.win&type=A)|
 |[24newsoft.mypointofforcontentnew.win](https://dns.google.com/query?name=24newsoft.mypointofforcontentnew.win&type=A)|
 |[online.mypointofforcontentnew.win](https://dns.google.com/query?name=online.mypointofforcontentnew.win&type=A)|
+|[maintainpc.mypointofforcontentnew.win](https://dns.google.com/query?name=maintainpc.mypointofforcontentnew.win&type=A)|
