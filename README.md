@@ -3022,3 +3022,4 @@
 |[online.mypointofforcontentnew.review](https://dns.google.com/query?name=online.mypointofforcontentnew.review&type=A)|
 |[onlineupgrade.mypointofforcontentnew.review](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.review&type=A)|
 |[onlineupgrade.mypointofforcontentnew.win](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.win&type=A)|
+|[24newsoft.mypointofforcontentnew.win](https://dns.google.com/query?name=24newsoft.mypointofforcontentnew.win&type=A)|
