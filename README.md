@@ -2977,3 +2977,4 @@
 |[onlineupgrade.mypointofforcontentingnew.stream](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.stream&type=A)|
 |[online.mypointofforcontentingnew.stream](https://dns.google.com/query?name=online.mypointofforcontentingnew.stream&type=A)|
 |[maintainpc.mypointofforcontentingnew.stream](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.stream&type=A)|
+|[24newsoft.mypointofforcontentingnew.stream](https://dns.google.com/query?name=24newsoft.mypointofforcontentingnew.stream&type=A)|
