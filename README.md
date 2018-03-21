@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0YxNUYvQ0U1QjJFN0JFMzNDNjc0QjlFQTU4MTUyREYvRjgwRkFDMjNCRjhCQTk0OUI0ODVBMDAzNzUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:50|https://s3.amazonaws.com/F15F/CE5B2E7BE33C674B9EA58152DF/F80FAC23BF8BA949B485A00375/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1OTI0L2EyM2VkMWU2LThjMWUtNC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:39|https://s3.amazonaws.com/15924/a23ed1e6-8c1e-4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBhNWJkN2Q0LWE3ZTQtNGViMC1iYjdkLTQvTUFjYmRpWFE5a1dIbi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:28|https://s3.amazonaws.com/0a5bd7d4-a7e4-4eb0-bb7d-4/MAcbdiXQ9kWHn/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzExMzEzNjkvODA2OTI5MzgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:18|https://s3.amazonaws.com/1131369/80692938/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL245UEovZ2kwaWs2dlBsa081eS9yalptWS9pWFZOOVNnbmgwR2VwQktCSU5RL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:07|https://s3.amazonaws.com/n9PJ/gi0ik6vPlkO5y/rjZmY/iXVN9Sgnh0GepBKBINQ/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgwRUNERUFERTYvZDE3NThiZGItYjc3L2RlZjExOTEzLWE0Ni9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:59|https://s3.amazonaws.com/80ECDEADE6/d1758bdb-b77/def11913-a46/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFmOWU0ZWQvZTUwZjRjMTMtMTUxNS00NWIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:46|https://s3.amazonaws.com/1f9e4ed/e50f4c13-1515-45b/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3028,3 +3028,4 @@
 |[online.mypointofforcontentnew.trade](https://dns.google.com/query?name=online.mypointofforcontentnew.trade&type=A)|
 |[24newsoft.mypointofforcontentnew.trade](https://dns.google.com/query?name=24newsoft.mypointofforcontentnew.trade&type=A)|
 |[maintainpc.mypointofforcontentnew.trade](https://dns.google.com/query?name=maintainpc.mypointofforcontentnew.trade&type=A)|
+|[onlineupgrade.mypointofforcontentnew.trade](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.trade&type=A)|
