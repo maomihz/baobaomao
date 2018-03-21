@@ -2989,3 +2989,4 @@
 |[update2new.mypointofforcontentingnow.date](https://dns.google.com/query?name=update2new.mypointofforcontentingnow.date&type=A)|
 |[setupdate24.mypointofforcontentingnow.date](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.date&type=A)|
 |[learn2upgrade.mypointofforcontentingnow.download](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentingnow.download&type=A)|
+|[liveupdate.mypointofforcontentingnow.download](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.download&type=A)|
