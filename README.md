@@ -3006,3 +3006,4 @@
 |[liveupdate.mypointofforcontentingnow.win](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.win&type=A)|
 |[liveupdate.mypointofforcontentingnow.trade](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.trade&type=A)|
 |[setupdate24.mypointofforcontentingnow.trade](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.trade&type=A)|
+|[update2new.mypointofforcontentingnow.trade](https://dns.google.com/query?name=update2new.mypointofforcontentingnow.trade&type=A)|
