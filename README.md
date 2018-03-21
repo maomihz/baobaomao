@@ -3016,3 +3016,4 @@
 |[onlineupgrade.mypointofforcontentnew.stream](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.stream&type=A)|
 |[online.mypointofforcontentnew.stream](https://dns.google.com/query?name=online.mypointofforcontentnew.stream&type=A)|
 |[maintainpc.mypointofforcontentnew.stream](https://dns.google.com/query?name=maintainpc.mypointofforcontentnew.stream&type=A)|
+|[24newsoft.mypointofforcontentnew.stream](https://dns.google.com/query?name=24newsoft.mypointofforcontentnew.stream&type=A)|
