@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0FENjY3RTdCRDgxNS82U0JIdHRZb3JrT2pNbC9iMHNwL3F0d0c3ZlBOams2eXFQYzV3OVovQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:31|https://s3.amazonaws.com/AD667E7BD815/6SBHttYorkOjMl/b0sp/qtwG7fPNjk6yqPc5w9Z/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgzMjMvNDA3MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:16|https://s3.amazonaws.com/8323/4071/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBCMDY0ODVDQUFCMTQzNDg5QjlBNTUzQzZDQzZBRi8yYmM4NzVjZi0xYzY1LTQyN2YtYTgxZi04MTllLzkxNjg2YzYzLTQzOTQtNDhmZS04MWEwLTZmZTIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:08|https://s3.amazonaws.com/0B06485CAAB143489B9A553C6CC6AF/2bc875cf-1c65-427f-a81f-819e/91686c63-4394-48fe-81a0-6fe2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMxODEyMEYxNzdGMzI5NEM4N0E4LzEwODE4NzMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:55|https://s3.amazonaws.com/318120F177F3294C87A8/1081873/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkxMjQwODEvQnh1VndNNWRxVUcvZTBUR3hMU1FGMEsvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:49|https://s3.amazonaws.com/9124081/BxuVwM5dqUG/e0TGxLSQF0K/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2U0OTA3MjEwLTUwZDctNGVlZC1hNjcyLWZiMDUvMzZFM0ZFMUZERDlBN0Y0NTlBMDc2NTMxMDE1M0MvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|19:38|https://s3.amazonaws.com/e4907210-50d7-4eed-a672-fb05/36E3FE1FDD9A7F459A0765310153C/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFiNWVmZDNkLTlkYTItNDEvRjAzQkFEQkI3MjFDQTA0RTlCQkI2MDMyMTg0Njc5LzIzNUE2QzRBQUY3NDQ5NDdBRUUwQ0U1OTBCNDY1Qi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:28|https://s3.amazonaws.com/1b5efd3d-9da2-41/F03BADBB721CA04E9BBB6032184679/235A6C4AAF744947AEE0CE590B465B/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3013,3 +3013,4 @@
 |[maintainpc.mypointofforcontentnew.bid](https://dns.google.com/query?name=maintainpc.mypointofforcontentnew.bid&type=A)|
 |[online.mypointofforcontentnew.bid](https://dns.google.com/query?name=online.mypointofforcontentnew.bid&type=A)|
 |[onlineupgrade.mypointofforcontentnew.bid](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.bid&type=A)|
+|[onlineupgrade.mypointofforcontentnew.stream](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.stream&type=A)|
