@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2YxOTkvRTQ4RDI2RkZDLzQwRDU2QUQ3NC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|05:30|https://s3.amazonaws.com/f199/E48D26FFC/40D56AD74/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2MjRmMDQxL0Q2ODRBMzUwM0VENjA4NEQ5LzEyRERGNkZDNUEyMURENDlCL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|05:19|https://s3.amazonaws.com/1624f041/D684A3503ED6084D9/12DDF6FC5A21DD49B/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL09BUHo3aWUweVUvMmUxYTdlMzAtL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|05:06|https://s3.amazonaws.com/OAPz7ie0yU/2e1a7e30-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1JLNGFkd2d2Vy8yNzQwLzMwODUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:56|https://s3.amazonaws.com/RK4adwgvW/2740/3085/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0NDU4MTMvNEZCNjUwRTk5QzM3NDQ0NjlCQTY1RUQ4N0U3REMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|04:47|https://s3.amazonaws.com/1445813/4FB650E99C3744469BA65ED87E7DC/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0UwODkxMEQ3RDE2RUY5NDNCMy8xMTgxNjQ1ODMvMTc3NjkxMDA5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|04:37|https://s3.amazonaws.com/E08910D7D16EF943B3/118164583/177691009/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzcwNUQ0NzI0QS84YjhlZmM2MS01N2U1LTQwZTgtOWU5ZS05ZmQxYS85ZDk1MTBkMi02MjNhLTQ2OGItYjE5ZC1hYWU1Yi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|04:26|https://s3.amazonaws.com/705D4724A/8b8efc61-57e5-40e8-9e9e-9fd1a/9d9510d2-623a-468b-b19d-aae5b/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -2968,3 +2968,4 @@
 |[maintainpc.mypointofforcontentingnew.date](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.date&type=A)|
 |[24newsoft.mypointofforcontentingnew.bid](https://dns.google.com/query?name=24newsoft.mypointofforcontentingnew.bid&type=A)|
 |[maintainpc.mypointofforcontentingnew.bid](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.bid&type=A)|
+|[online.mypointofforcontentingnew.bid](https://dns.google.com/query?name=online.mypointofforcontentingnew.bid&type=A)|
