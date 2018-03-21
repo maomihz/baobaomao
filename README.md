@@ -2969,3 +2969,4 @@
 |[24newsoft.mypointofforcontentingnew.bid](https://dns.google.com/query?name=24newsoft.mypointofforcontentingnew.bid&type=A)|
 |[maintainpc.mypointofforcontentingnew.bid](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.bid&type=A)|
 |[online.mypointofforcontentingnew.bid](https://dns.google.com/query?name=online.mypointofforcontentingnew.bid&type=A)|
+|[onlineupgrade.mypointofforcontentingnew.bid](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.bid&type=A)|
