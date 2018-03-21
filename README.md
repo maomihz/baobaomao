@@ -2963,3 +2963,4 @@
 |[how2update.mypointofforcontentingfree.trade](https://dns.google.com/query?name=how2update.mypointofforcontentingfree.trade&type=A)|
 |[futureupdates.mypointofforcontentingfree.trade](https://dns.google.com/query?name=futureupdates.mypointofforcontentingfree.trade&type=A)|
 |[onlineupgrade.mypointofforcontentingnew.date](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.date&type=A)|
+|[online.mypointofforcontentingnew.date](https://dns.google.com/query?name=online.mypointofforcontentingnew.date&type=A)|
