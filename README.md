@@ -2958,3 +2958,4 @@
 |[howupdateworks.mypointofforcontentingfree.win](https://dns.google.com/query?name=howupdateworks.mypointofforcontentingfree.win&type=A)|
 |[how2update.mypointofforcontentingfree.win](https://dns.google.com/query?name=how2update.mypointofforcontentingfree.win&type=A)|
 |[futureupdates.mypointofforcontentingfree.win](https://dns.google.com/query?name=futureupdates.mypointofforcontentingfree.win&type=A)|
+|[softwareupdate.mypointofforcontentingfree.trade](https://dns.google.com/query?name=softwareupdate.mypointofforcontentingfree.trade&type=A)|
