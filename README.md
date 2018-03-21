@@ -3012,3 +3012,4 @@
 |[24newsoft.mypointofforcontentnew.bid](https://dns.google.com/query?name=24newsoft.mypointofforcontentnew.bid&type=A)|
 |[maintainpc.mypointofforcontentnew.bid](https://dns.google.com/query?name=maintainpc.mypointofforcontentnew.bid&type=A)|
 |[online.mypointofforcontentnew.bid](https://dns.google.com/query?name=online.mypointofforcontentnew.bid&type=A)|
+|[onlineupgrade.mypointofforcontentnew.bid](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.bid&type=A)|
