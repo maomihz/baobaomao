@@ -2949,3 +2949,4 @@
 |[softwareupdate.mypointofforcontentfree.win](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.win&type=A)|
 |[howupdateworks.mypointofforcontentfree.win](https://dns.google.com/query?name=howupdateworks.mypointofforcontentfree.win&type=A)|
 |[how2update.mypointofforcontentfree.win](https://dns.google.com/query?name=how2update.mypointofforcontentfree.win&type=A)|
+|[futureupdates.mypointofforcontentfree.win](https://dns.google.com/query?name=futureupdates.mypointofforcontentfree.win&type=A)|
