@@ -2963,16 +2963,17 @@
     "update2new.mypointofforcontentingnow.bid",
     "setupdate24.mypointofforcontentingnow.bid",
     "liveupdate.mypointofforcontentingnow.bid",
-    "learn2upgrade.mypointofforcontentingnow.bid"
+    "learn2upgrade.mypointofforcontentingnow.bid",
+    "onlineupgrade.mypointofforcontentingnew.win"
   ],
   "urls": {
-    "https://s3.amazonaws.com/94A5F6EA6C1585449097/6296/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/94A5F6EA6C1585449097/6296/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521632819.138647
-    },
     "https://s3.amazonaws.com/5574/2092/1846/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/5574/2092/1846/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521631043.27428
+    },
+    "https://s3.amazonaws.com/94A5F6EA6C1585449097/6296/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/94A5F6EA6C1585449097/6296/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521632819.138647
     },
     "https://s3.amazonaws.com/394d/e0a871a0/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/394d/e0a871a0/AdobeFlashPlayerInstaller.dmg",

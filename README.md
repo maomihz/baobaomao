@@ -2982,3 +2982,4 @@
 |[setupdate24.mypointofforcontentingnow.bid](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.bid&type=A)|
 |[liveupdate.mypointofforcontentingnow.bid](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.bid&type=A)|
 |[learn2upgrade.mypointofforcontentingnow.bid](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentingnow.bid&type=A)|
+|[onlineupgrade.mypointofforcontentingnew.win](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.win&type=A)|
