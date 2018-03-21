@@ -2973,3 +2973,4 @@
 |[onlineupgrade.mypointofforcontentingnew.trade](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.trade&type=A)|
 |[online.mypointofforcontentingnew.trade](https://dns.google.com/query?name=online.mypointofforcontentingnew.trade&type=A)|
 |[maintainpc.mypointofforcontentingnew.trade](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.trade&type=A)|
+|[24newsoft.mypointofforcontentingnew.trade](https://dns.google.com/query?name=24newsoft.mypointofforcontentingnew.trade&type=A)|
