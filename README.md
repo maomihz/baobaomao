@@ -2996,3 +2996,4 @@
 |[setupdate24.mypointofforcontentingnow.stream](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.stream&type=A)|
 |[liveupdate.mypointofforcontentingnow.stream](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.stream&type=A)|
 |[learn2upgrade.mypointofforcontentingnow.stream](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentingnow.stream&type=A)|
+|[liveupdate.mypointofforcontentingnow.review](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.review&type=A)|
