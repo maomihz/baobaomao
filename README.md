@@ -3031,3 +3031,4 @@
 |[onlineupgrade.mypointofforcontentnew.trade](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentnew.trade&type=A)|
 |[update2new.mypointofforcontentnow.download](https://dns.google.com/query?name=update2new.mypointofforcontentnow.download&type=A)|
 |[setupdate24.mypointofforcontentnow.download](https://dns.google.com/query?name=setupdate24.mypointofforcontentnow.download&type=A)|
+|[liveupdate.mypointofforcontentnow.download](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.download&type=A)|
