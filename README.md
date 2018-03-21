@@ -2986,3 +2986,4 @@
 |[onlineupgrade.mypointofforcontentingnew.win](https://dns.google.com/query?name=onlineupgrade.mypointofforcontentingnew.win&type=A)|
 |[online.mypointofforcontentingnew.win](https://dns.google.com/query?name=online.mypointofforcontentingnew.win&type=A)|
 |[maintainpc.mypointofforcontentingnew.win](https://dns.google.com/query?name=maintainpc.mypointofforcontentingnew.win&type=A)|
+|[24newsoft.mypointofforcontentingnew.win](https://dns.google.com/query?name=24newsoft.mypointofforcontentingnew.win&type=A)|
