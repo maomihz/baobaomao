@@ -2994,3 +2994,4 @@
 |[setupdate24.mypointofforcontentingnow.download](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.download&type=A)|
 |[update2new.mypointofforcontentingnow.stream](https://dns.google.com/query?name=update2new.mypointofforcontentingnow.stream&type=A)|
 |[setupdate24.mypointofforcontentingnow.stream](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.stream&type=A)|
+|[liveupdate.mypointofforcontentingnow.stream](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.stream&type=A)|
