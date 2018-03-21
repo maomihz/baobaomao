@@ -3001,3 +3001,4 @@
 |[update2new.mypointofforcontentingnow.review](https://dns.google.com/query?name=update2new.mypointofforcontentingnow.review&type=A)|
 |[setupdate24.mypointofforcontentingnow.review](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.review&type=A)|
 |[learn2upgrade.mypointofforcontentingnow.win](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentingnow.win&type=A)|
+|[update2new.mypointofforcontentingnow.win](https://dns.google.com/query?name=update2new.mypointofforcontentingnow.win&type=A)|
