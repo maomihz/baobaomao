@@ -2951,3 +2951,4 @@
 |[how2update.mypointofforcontentfree.win](https://dns.google.com/query?name=how2update.mypointofforcontentfree.win&type=A)|
 |[futureupdates.mypointofforcontentfree.win](https://dns.google.com/query?name=futureupdates.mypointofforcontentfree.win&type=A)|
 |[softwareupdate.mypointofforcontentfree.trade](https://dns.google.com/query?name=softwareupdate.mypointofforcontentfree.trade&type=A)|
+|[howupdateworks.mypointofforcontentfree.trade](https://dns.google.com/query?name=howupdateworks.mypointofforcontentfree.trade&type=A)|
