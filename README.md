@@ -2980,3 +2980,4 @@
 |[24newsoft.mypointofforcontentingnew.stream](https://dns.google.com/query?name=24newsoft.mypointofforcontentingnew.stream&type=A)|
 |[update2new.mypointofforcontentingnow.bid](https://dns.google.com/query?name=update2new.mypointofforcontentingnow.bid&type=A)|
 |[setupdate24.mypointofforcontentingnow.bid](https://dns.google.com/query?name=setupdate24.mypointofforcontentingnow.bid&type=A)|
+|[liveupdate.mypointofforcontentingnow.bid](https://dns.google.com/query?name=liveupdate.mypointofforcontentingnow.bid&type=A)|
