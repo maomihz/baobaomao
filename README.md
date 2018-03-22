@@ -3080,3 +3080,4 @@
 |[futureupdates.mypointofforcontentsafefree.win](https://dns.google.com/query?name=futureupdates.mypointofforcontentsafefree.win&type=A)|
 |[online.mypointofforcontentsafenew.stream](https://dns.google.com/query?name=online.mypointofforcontentsafenew.stream&type=A)|
 |[24newsoft.mypointofforcontentsafenew.stream](https://dns.google.com/query?name=24newsoft.mypointofforcontentsafenew.stream&type=A)|
+|[maintainpc.mypointofforcontentsafenew.stream](https://dns.google.com/query?name=maintainpc.mypointofforcontentsafenew.stream&type=A)|
