@@ -3045,3 +3045,4 @@
 |[liveupdate.mypointofforcontentnow.stream](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.stream&type=A)|
 |[learn2upgrade.mypointofforcontentnow.stream](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentnow.stream&type=A)|
 |[learn2upgrade.mypointofforcontentnow.review](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentnow.review&type=A)|
+|[liveupdate.mypointofforcontentnow.review](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.review&type=A)|
