@@ -3042,3 +3042,4 @@
 |[liveupdate.mypointofforcontentnow.bid](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.bid&type=A)|
 |[update2new.mypointofforcontentnow.stream](https://dns.google.com/query?name=update2new.mypointofforcontentnow.stream&type=A)|
 |[setupdate24.mypointofforcontentnow.stream](https://dns.google.com/query?name=setupdate24.mypointofforcontentnow.stream&type=A)|
+|[liveupdate.mypointofforcontentnow.stream](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.stream&type=A)|
