@@ -3102,3 +3102,4 @@
 |[liveupdate.mypointofforcontentsafenow.date](https://dns.google.com/query?name=liveupdate.mypointofforcontentsafenow.date&type=A)|
 |[setupdate24.mypointofforcontentsafenow.date](https://dns.google.com/query?name=setupdate24.mypointofforcontentsafenow.date&type=A)|
 |[setupdate24.mypointofforcontentsafenow.trade](https://dns.google.com/query?name=setupdate24.mypointofforcontentsafenow.trade&type=A)|
+|[liveupdate.mypointofforcontentsafenow.trade](https://dns.google.com/query?name=liveupdate.mypointofforcontentsafenow.trade&type=A)|
