@@ -3058,3 +3058,4 @@
 |[update2new.mypointofforcontentnow.trade](https://dns.google.com/query?name=update2new.mypointofforcontentnow.trade&type=A)|
 |[softwareupdate.mypointofforcontentsafefree.date](https://dns.google.com/query?name=softwareupdate.mypointofforcontentsafefree.date&type=A)|
 |[howupdateworks.mypointofforcontentsafefree.date](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsafefree.date&type=A)|
+|[how2update.mypointofforcontentsafefree.date](https://dns.google.com/query?name=how2update.mypointofforcontentsafefree.date&type=A)|
