@@ -3074,3 +3074,4 @@
 |[how2update.mypointofforcontentsafefree.stream](https://dns.google.com/query?name=how2update.mypointofforcontentsafefree.stream&type=A)|
 |[howupdateworks.mypointofforcontentsafefree.download](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsafefree.download&type=A)|
 |[how2update.mypointofforcontentsafefree.download](https://dns.google.com/query?name=how2update.mypointofforcontentsafefree.download&type=A)|
+|[howupdateworks.mypointofforcontentsafefree.win](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsafefree.win&type=A)|

@@ -1,5 +1,13 @@
 {
   "urls": {
+    "https://s3.amazonaws.com/b1f6332c-39b4-4a29-ad5c-1feac7d4c5a/25597035/157126316/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521719357.722328,
+      "url": "https://s3.amazonaws.com/b1f6332c-39b4-4a29-ad5c-1feac7d4c5a/25597035/157126316/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/3017/B0097/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521718082.990766,
+      "url": "https://s3.amazonaws.com/3017/B0097/AdobeFlashPlayerInstaller.dmg"
+    },
     "https://s3.amazonaws.com/2F0BEFBCD8B0C642/17403464/16428981/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521720372.395016,
       "url": "https://s3.amazonaws.com/2F0BEFBCD8B0C642/17403464/16428981/AdobeFlashPlayerInstaller.dmg"
@@ -12,17 +20,9 @@
       "discovered": 1521721006.853309,
       "url": "https://s3.amazonaws.com/ad7b39e6/L5M9X/lpuTI/AdobeFlashPlayerInstaller.dmg"
     },
-    "https://s3.amazonaws.com/b1f6332c-39b4-4a29-ad5c-1feac7d4c5a/25597035/157126316/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521719357.722328,
-      "url": "https://s3.amazonaws.com/b1f6332c-39b4-4a29-ad5c-1feac7d4c5a/25597035/157126316/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/F08ECC571297904DA/6253/D946/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521719862.94329,
       "url": "https://s3.amazonaws.com/F08ECC571297904DA/6253/D946/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/3017/B0097/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521718082.990766,
-      "url": "https://s3.amazonaws.com/3017/B0097/AdobeFlashPlayerInstaller.dmg"
     }
   },
   "ad_urls": [
@@ -3081,6 +3081,7 @@
     "howupdateworks.mypointofforcontentsafefree.stream",
     "how2update.mypointofforcontentsafefree.stream",
     "howupdateworks.mypointofforcontentsafefree.download",
-    "how2update.mypointofforcontentsafefree.download"
+    "how2update.mypointofforcontentsafefree.download",
+    "howupdateworks.mypointofforcontentsafefree.win"
   ]
 }
