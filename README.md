@@ -3093,3 +3093,4 @@
 |[maintainpc.mypointofforcontentsafenew.trade](https://dns.google.com/query?name=maintainpc.mypointofforcontentsafenew.trade&type=A)|
 |[setupdate24.mypointofforcontentsafenow.review](https://dns.google.com/query?name=setupdate24.mypointofforcontentsafenow.review&type=A)|
 |[liveupdate.mypointofforcontentsafenow.review](https://dns.google.com/query?name=liveupdate.mypointofforcontentsafenow.review&type=A)|
+|[learn2upgrade.mypointofforcontentsafenow.review](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsafenow.review&type=A)|
