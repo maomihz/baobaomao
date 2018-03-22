@@ -3033,3 +3033,4 @@
 |[setupdate24.mypointofforcontentnow.download](https://dns.google.com/query?name=setupdate24.mypointofforcontentnow.download&type=A)|
 |[liveupdate.mypointofforcontentnow.download](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.download&type=A)|
 |[learn2upgrade.mypointofforcontentnow.download](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentnow.download&type=A)|
+|[setupdate24.mypointofforcontentnow.date](https://dns.google.com/query?name=setupdate24.mypointofforcontentnow.date&type=A)|
