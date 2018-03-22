@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0FWYjlBUmphX0VlOVpJb0tKN0UvOEVESVlVbm9XMG1XbjIvOWEwQ3VNWHJ3RTJRNFQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:31|https://s3.amazonaws.com/AVb9ARja_Ee9ZIoKJ7E/8EDIYUnoW0mWn2/9a0CuMXrwE2Q4T/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FkN2IzOWU2L0w1TTlYL2xwdVRJL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:16|https://s3.amazonaws.com/ad7b39e6/L5M9X/lpuTI/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJGMEJFRkJDRDhCMEM2NDIvMTc0MDM0NjQvMTY0Mjg5ODEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:06|https://s3.amazonaws.com/2F0BEFBCD8B0C642/17403464/16428981/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0YwOEVDQzU3MTI5NzkwNERBLzYyNTMvRDk0Ni9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:57|https://s3.amazonaws.com/F08ECC571297904DA/6253/D946/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2IxZjYzMzJjLTM5YjQtNGEyOS1hZDVjLTFmZWFjN2Q0YzVhLzI1NTk3MDM1LzE1NzEyNjMxNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:49|https://s3.amazonaws.com/b1f6332c-39b4-4a29-ad5c-1feac7d4c5a/25597035/157126316/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RkNDUxYjdiLTliODgtNC9ERjQ4LzlEMUMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:38|https://s3.amazonaws.com/dd451b7b-9b88-4/DF48/9D1C/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMwMTcvQjAwOTcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:28|https://s3.amazonaws.com/3017/B0097/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3075,3 +3075,4 @@
 |[howupdateworks.mypointofforcontentsafefree.download](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsafefree.download&type=A)|
 |[how2update.mypointofforcontentsafefree.download](https://dns.google.com/query?name=how2update.mypointofforcontentsafefree.download&type=A)|
 |[howupdateworks.mypointofforcontentsafefree.win](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsafefree.win&type=A)|
+|[how2update.mypointofforcontentsafefree.win](https://dns.google.com/query?name=how2update.mypointofforcontentsafefree.win&type=A)|
