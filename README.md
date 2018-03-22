@@ -3037,3 +3037,4 @@
 |[setupdate24.mypointofforcontentnow.date](https://dns.google.com/query?name=setupdate24.mypointofforcontentnow.date&type=A)|
 |[liveupdate.mypointofforcontentnow.date](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.date&type=A)|
 |[learn2upgrade.mypointofforcontentnow.date](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentnow.date&type=A)|
+|[update2new.mypointofforcontentnow.bid](https://dns.google.com/query?name=update2new.mypointofforcontentnow.bid&type=A)|
