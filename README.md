@@ -3063,3 +3063,4 @@
 |[softwareupdate.mypointofforcontentsafefree.bid](https://dns.google.com/query?name=softwareupdate.mypointofforcontentsafefree.bid&type=A)|
 |[howupdateworks.mypointofforcontentsafefree.bid](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsafefree.bid&type=A)|
 |[how2update.mypointofforcontentsafefree.bid](https://dns.google.com/query?name=how2update.mypointofforcontentsafefree.bid&type=A)|
+|[futureupdates.mypointofforcontentsafefree.bid](https://dns.google.com/query?name=futureupdates.mypointofforcontentsafefree.bid&type=A)|
