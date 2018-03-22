@@ -3098,3 +3098,4 @@
 |[liveupdate.mypointofforcontentsafenow.download](https://dns.google.com/query?name=liveupdate.mypointofforcontentsafenow.download&type=A)|
 |[learn2upgrade.mypointofforcontentsafenow.download](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsafenow.download&type=A)|
 |[update2new.mypointofforcontentsafenow.date](https://dns.google.com/query?name=update2new.mypointofforcontentsafenow.date&type=A)|
+|[learn2upgrade.mypointofforcontentsafenow.date](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsafenow.date&type=A)|
