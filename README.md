@@ -3096,3 +3096,4 @@
 |[learn2upgrade.mypointofforcontentsafenow.review](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsafenow.review&type=A)|
 |[setupdate24.mypointofforcontentsafenow.download](https://dns.google.com/query?name=setupdate24.mypointofforcontentsafenow.download&type=A)|
 |[liveupdate.mypointofforcontentsafenow.download](https://dns.google.com/query?name=liveupdate.mypointofforcontentsafenow.download&type=A)|
+|[learn2upgrade.mypointofforcontentsafenow.download](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsafenow.download&type=A)|
