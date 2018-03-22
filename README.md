@@ -3107,3 +3107,4 @@
 |[setupdate24.mypointofforcontentsafenow.stream](https://dns.google.com/query?name=setupdate24.mypointofforcontentsafenow.stream&type=A)|
 |[learn2upgrade.mypointofforcontentsafenow.win](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsafenow.win&type=A)|
 |[liveupdate.mypointofforcontentsafenow.win](https://dns.google.com/query?name=liveupdate.mypointofforcontentsafenow.win&type=A)|
+|[setupdate24.mypointofforcontentsafenow.win](https://dns.google.com/query?name=setupdate24.mypointofforcontentsafenow.win&type=A)|
