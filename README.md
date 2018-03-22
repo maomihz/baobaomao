@@ -3051,3 +3051,4 @@
 |[update2new.mypointofforcontentnow.win](https://dns.google.com/query?name=update2new.mypointofforcontentnow.win&type=A)|
 |[setupdate24.mypointofforcontentnow.win](https://dns.google.com/query?name=setupdate24.mypointofforcontentnow.win&type=A)|
 |[liveupdate.mypointofforcontentnow.win](https://dns.google.com/query?name=liveupdate.mypointofforcontentnow.win&type=A)|
+|[learn2upgrade.mypointofforcontentnow.win](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentnow.win&type=A)|
