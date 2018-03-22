@@ -3060,3 +3060,4 @@
 |[howupdateworks.mypointofforcontentsafefree.date](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsafefree.date&type=A)|
 |[how2update.mypointofforcontentsafefree.date](https://dns.google.com/query?name=how2update.mypointofforcontentsafefree.date&type=A)|
 |[futureupdates.mypointofforcontentsafefree.date](https://dns.google.com/query?name=futureupdates.mypointofforcontentsafefree.date&type=A)|
+|[softwareupdate.mypointofforcontentsafefree.bid](https://dns.google.com/query?name=softwareupdate.mypointofforcontentsafefree.bid&type=A)|
