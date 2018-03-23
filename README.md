@@ -3130,3 +3130,4 @@
 |[maintainpc.mypointofforcontentsnew.win](https://dns.google.com/query?name=maintainpc.mypointofforcontentsnew.win&type=A)|
 |[24newsoft.mypointofforcontentsnew.win](https://dns.google.com/query?name=24newsoft.mypointofforcontentsnew.win&type=A)|
 |[online.mypointofforcontentsnew.win](https://dns.google.com/query?name=online.mypointofforcontentsnew.win&type=A)|
+|[online.mypointofforcontentsnew.stream](https://dns.google.com/query?name=online.mypointofforcontentsnew.stream&type=A)|
