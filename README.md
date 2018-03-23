@@ -3136,3 +3136,4 @@
 |[maintainpc.mypointofforcontentsnew.stream](https://dns.google.com/query?name=maintainpc.mypointofforcontentsnew.stream&type=A)|
 |[setupdate24.mypointofforcontentsnow.stream](https://dns.google.com/query?name=setupdate24.mypointofforcontentsnow.stream&type=A)|
 |[liveupdate.mypointofforcontentsnow.stream](https://dns.google.com/query?name=liveupdate.mypointofforcontentsnow.stream&type=A)|
+|[learn2upgrade.mypointofforcontentsnow.stream](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsnow.stream&type=A)|
