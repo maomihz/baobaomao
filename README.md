@@ -3141,3 +3141,4 @@
 |[setupdate24.mypointofforcontentsnow.download](https://dns.google.com/query?name=setupdate24.mypointofforcontentsnow.download&type=A)|
 |[liveupdate.mypointofforcontentsnow.download](https://dns.google.com/query?name=liveupdate.mypointofforcontentsnow.download&type=A)|
 |[learn2upgrade.mypointofforcontentsnow.download](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsnow.download&type=A)|
+|[soft2apt.gettingallyoursupdatesononeplace.date](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplace.date&type=A)|
