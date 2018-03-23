@@ -3124,3 +3124,4 @@
 |[online.mypointofforcontentsnew.bid](https://dns.google.com/query?name=online.mypointofforcontentsnew.bid&type=A)|
 |[maintainpc.mypointofforcontentsnew.bid](https://dns.google.com/query?name=maintainpc.mypointofforcontentsnew.bid&type=A)|
 |[24newsoft.mypointofforcontentsnew.bid](https://dns.google.com/query?name=24newsoft.mypointofforcontentsnew.bid&type=A)|
+|[online.mypointofforcontentsnew.trade](https://dns.google.com/query?name=online.mypointofforcontentsnew.trade&type=A)|
