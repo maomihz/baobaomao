@@ -3139,3 +3139,4 @@
 |[liveupdate.mypointofforcontentsnow.stream](https://dns.google.com/query?name=liveupdate.mypointofforcontentsnow.stream&type=A)|
 |[learn2upgrade.mypointofforcontentsnow.stream](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsnow.stream&type=A)|
 |[liveupdate.mypointofforcontentsnow.review](https://dns.google.com/query?name=liveupdate.mypointofforcontentsnow.review&type=A)|
+|[learn2upgrade.mypointofforcontentsnow.review](https://dns.google.com/query?name=learn2upgrade.mypointofforcontentsnow.review&type=A)|
