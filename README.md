@@ -3145,3 +3145,4 @@
 |[downgradepc.gettingallyoursupdatesononeplace.date](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplace.date&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplace.date](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplace.date&type=A)|
 |[2update.gettingallyoursupdatesononeplace.date](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplace.date&type=A)|
+|[soft2apt.gettingallyoursupdatesononeplace.bid](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplace.bid&type=A)|
