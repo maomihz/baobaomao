@@ -3109,3 +3109,4 @@
 |[liveupdate.mypointofforcontentsafenow.win](https://dns.google.com/query?name=liveupdate.mypointofforcontentsafenow.win&type=A)|
 |[setupdate24.mypointofforcontentsafenow.win](https://dns.google.com/query?name=setupdate24.mypointofforcontentsafenow.win&type=A)|
 |[howupdateworks.mypointofforcontentsfree.win](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsfree.win&type=A)|
+|[how2update.mypointofforcontentsfree.win](https://dns.google.com/query?name=how2update.mypointofforcontentsfree.win&type=A)|
