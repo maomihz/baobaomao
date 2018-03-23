@@ -3116,3 +3116,4 @@
 |[how2update.mypointofforcontentsfree.stream](https://dns.google.com/query?name=how2update.mypointofforcontentsfree.stream&type=A)|
 |[futureupdates.mypointofforcontentsfree.stream](https://dns.google.com/query?name=futureupdates.mypointofforcontentsfree.stream&type=A)|
 |[howupdateworks.mypointofforcontentsfree.date](https://dns.google.com/query?name=howupdateworks.mypointofforcontentsfree.date&type=A)|
+|[online.mypointofforcontentsnew.download](https://dns.google.com/query?name=online.mypointofforcontentsnew.download&type=A)|
