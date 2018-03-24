@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RYR18wZmNtM0Vfcklsai9pWVVLelQ0dy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:40|https://s3.amazonaws.com/dXG_0fcm3E_rIlj/iYUKzT4w/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgyODUvNzZmOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:25|https://s3.amazonaws.com/8285/76f8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdGNjMvOWVlYWM0YTItYTE3My00ZDc5LWFhMTAtYy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|13:19|https://s3.amazonaws.com/7F63/9eeac4a2-a173-4d79-aa10-c/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZlN0w3S3MwbTBXMS8xMjUxL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|13:08|https://s3.amazonaws.com/fe7L7Ks0m0W1/1251/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0ODUvMTQ5OTk1OTYvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|12:58|https://s3.amazonaws.com/1485/14999596/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL256X2hfVjJsN2tHY2MvMTU5NC83MzY2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:45|https://s3.amazonaws.com/nz_h_V2l7kGcc/1594/7366/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1phUGswNUFzTTBHWnhzNTh3di9KUmxzUmVhWVRVR3VoZjFTWVUwRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|12:41|https://s3.amazonaws.com/ZaPk05AsM0GZxs58wv/JRlsReaYTUGuhf1SYU0D/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3327,3 +3327,4 @@
 |[prepare2upvideo.alwaysgettobefirsttohavesafestupdatesthisyear.stream](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdatesthisyear.stream&type=A)|
 |[supportversion.alwaystendtobefirsttohavesafestupdates.review](https://dns.google.com/query?name=supportversion.alwaystendtobefirsttohavesafestupdates.review&type=A)|
 |[safe.alwaystendtobefirsttohavesafestupdates.review](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdates.review&type=A)|
+|[12updatenew.alwaystendtobefirsttohavesafestupdates.review](https://dns.google.com/query?name=12updatenew.alwaystendtobefirsttohavesafestupdates.review&type=A)|
