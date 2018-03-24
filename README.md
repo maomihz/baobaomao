@@ -3155,3 +3155,4 @@
 |[check4upgrade.gettingallyoursupdatesononeplace.review](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplace.review&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplace.review](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplace.review&type=A)|
 |[2update.gettingallyoursupdatesononeplace.stream](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplace.stream&type=A)|
+|[check4upgrade.gettingallyoursupdatesononeplace.stream](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplace.stream&type=A)|
