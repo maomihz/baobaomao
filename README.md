@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQxQTA3NzM0MzgvQWVRei9zellYL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:09|https://s3.amazonaws.com/41A0773438/AeQz/szYX/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2I4MTUxZDhmLTU5OGQtNGZlNy1hYTI0LTc2NDdiMmE0LzA1YjAwOTIzLTQ2NTQvMTczNGQ0MGItYWIzYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:59|https://s3.amazonaws.com/b8151d8f-598d-4fe7-aa24-7647b2a4/05b00923-4654/1734d40b-ab3a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0VOdDYvdS93UGpkMndJa0tzWC80NEE2c183VWRrR28yL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:48|https://s3.amazonaws.com/ENt6/u/wPjd2wIkKsX/44A6s_7UdkGo2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdhMDYvMzEwMTc4NzgtZjM0Ny00YjlkLWE2ZWYtZjExZTk4MDQ0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:36|https://s3.amazonaws.com/7a06/31017878-f347-4b9d-a6ef-f11e98044/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzRDMkIwLzE1ODk2MTQvMTY4OTA2OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:27|https://s3.amazonaws.com/4C2B0/1589614/1689068/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0VCM0QyRjgwMTI1MDNENDRCL2FhMmM5YTJkLTRmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:21|https://s3.amazonaws.com/EB3D2F8012503D44B/aa2c9a2d-4f/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2U5NGQ3ODQyLTk3NDUtNGU5Zi04MjViLTFjYzFlYjYva21KaGwvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:06|https://s3.amazonaws.com/e94d7842-9745-4e9f-825b-1cc1eb6/kmJhl/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3173,3 +3173,4 @@
 |[check4upgrade.gettingallyoursupdatesononeplacealways.review](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacealways.review&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplacealways.review](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacealways.review&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplacealways.review](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacealways.review&type=A)|
+|[downgradepc.gettingallyoursupdatesononeplacetohave.bid](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetohave.bid&type=A)|
