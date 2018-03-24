@@ -3422,3 +3422,4 @@
 |[ask24update.takingallupdatesactuallysafethisweek.date](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethisweek.date&type=A)|
 |[newsoft12.takingallupdatesactuallysafethisweek.date](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafethisweek.date&type=A)|
 |[readyupdate.takingallupdatesactuallysafethisweek.date](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafethisweek.date&type=A)|
+|[update2now.takingallupdatesactuallysafethisweek.date](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafethisweek.date&type=A)|
