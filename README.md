@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0VCM0QyRjgwMTI1MDNENDRCL2FhMmM5YTJkLTRmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:21|https://s3.amazonaws.com/EB3D2F8012503D44B/aa2c9a2d-4f/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2U5NGQ3ODQyLTk3NDUtNGU5Zi04MjViLTFjYzFlYjYva21KaGwvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:06|https://s3.amazonaws.com/e94d7842-9745-4e9f-825b-1cc1eb6/kmJhl/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0QzNUY4OTY3NTBDRDY5NDY5MzI3RjkzLzFBMjAvNjUzOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:57|https://s3.amazonaws.com/D35F896750CD69469327F93/1A20/6538/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M1MTcyQUE2MEVERTNFNEI4NjMxM0EyQi9iMjUxOGVmMi02NjY1LTRhZTItYjhiYS1lYjk0MWNmMzkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:47|https://s3.amazonaws.com/C5172AA60EDE3E4B86313A2B/b2518ef2-6665-4ae2-b8ba-eb941cf39/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2EwMzRiZDEyLTMyMTEtNDljZC1iOC8xMjU3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:38|https://s3.amazonaws.com/a034bd12-3211-49cd-b8/1257/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1VaTGpaaVlYN0V5Ri82MDA2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:26|https://s3.amazonaws.com/UZLjZiYX7EyF/6006/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1hzNDcvY21RYjlpbm01VTJjN3FKL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:19|https://s3.amazonaws.com/Xs47/cmQb9inm5U2c7qJ/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3162,3 +3162,4 @@
 |[2update.gettingallyoursupdatesononeplacealways.date](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacealways.date&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacealways.date](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacealways.date&type=A)|
 |[2update.gettingallyoursupdatesononeplacealways.bid](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacealways.bid&type=A)|
+|[check4upgrade.gettingallyoursupdatesononeplacealways.bid](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacealways.bid&type=A)|
