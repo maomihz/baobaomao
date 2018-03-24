@@ -3205,3 +3205,4 @@
 |[check4upgrade.gettingallyoursupdatesononeplacetotake.date](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetotake.date&type=A)|
 |[2update.gettingallyoursupdatesononeplacetotake.date](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetotake.date&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplacetotake.bid](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetotake.bid&type=A)|
+|[downgradepc.gettingallyoursupdatesononeplacetotake.bid](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetotake.bid&type=A)|
