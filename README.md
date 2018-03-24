@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3RBY3J2U1ZoazBHQzNocUVnNXcvMGU4MGQ1YjMtZWJhNi00OGUyLWEzMmQtMjg1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|12:11|https://s3.amazonaws.com/tAcrvSVhk0GC3hqEg5w/0e80d5b3-eba6-48e2-a32d-285/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3NjIxNC9DdERtNVdQV1hVT2hrTEVzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:59|https://s3.amazonaws.com/176214/CtDm5WPWXUOhkLEs/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RhNTcwNWZlLTFlYTctNGZmYS1iOTRiLS9ZeWo4bnQ3QURrV1BWN2QvY003dkhaMEw0azZpckNWL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:50|https://s3.amazonaws.com/da5705fe-1ea7-4ffa-b94b-/Yyj8nt7ADkWPV7d/cM7vHZ0L4k6irCV/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMTc2NTIva1lWeElpL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:39|https://s3.amazonaws.com/2117652/kYVxIi/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q3Yjc3NTM3LWNkZWEtNGU4OS04NS82YTRmNDc0Zi03MjM5LS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:29|https://s3.amazonaws.com/d7b77537-cdea-4e89-85/6a4f474f-7239-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdEQjczQ0FFRDFENTdCLzEyMDk5Mi8xOTYxMjgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:18|https://s3.amazonaws.com/7DB73CAED1D57B/120992/196128/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FlMWU0L0VCNEIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:08|https://s3.amazonaws.com/ae1e4/EB4B/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3305,3 +3305,4 @@
 |[prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.review](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.review&type=A)|
 |[askupdate.alwaysgettobefirsttohavesafestupdatesnow.review](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatesnow.review&type=A)|
 |[check24.alwaysgettobefirsttohavesafestupdatesnow.review](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatesnow.review&type=A)|
+|[askupdate.alwaysgettobefirsttohavesafestupdatesnow.date](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatesnow.date&type=A)|
