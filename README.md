@@ -3174,3 +3174,4 @@
 |[soft2apt.gettingallyoursupdatesononeplacealways.review](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacealways.review&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplacealways.review](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacealways.review&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplacetohave.bid](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetohave.bid&type=A)|
+|[check4upgrade.gettingallyoursupdatesononeplacetohave.bid](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetohave.bid&type=A)|
