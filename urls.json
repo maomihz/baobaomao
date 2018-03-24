@@ -1,9 +1,5 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/19049611/JZOkpwO9Zk/IOUomZeg2U/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/19049611/JZOkpwO9Zk/IOUomZeg2U/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521878886.09409
-    },
     "https://s3.amazonaws.com/EDB7/7c167388-4/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/EDB7/7c167388-4/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521878250.975157
@@ -12,21 +8,21 @@
       "url": "https://s3.amazonaws.com/31AF2/8285/1013/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521877232.215853
     },
-    "https://s3.amazonaws.com/8ChC/85/ccPOmR0Wi/ql0mDcL8WECg/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/8ChC/85/ccPOmR0Wi/ql0mDcL8WECg/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521877741.0405
-    },
     "https://s3.amazonaws.com/5096911/1012423/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/5096911/1012423/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521875831.734768
     },
-    "https://s3.amazonaws.com/1063/4512/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/1063/4512/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521875448.680821
+    "https://s3.amazonaws.com/19049611/JZOkpwO9Zk/IOUomZeg2U/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/19049611/JZOkpwO9Zk/IOUomZeg2U/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521878886.09409
     },
     "https://s3.amazonaws.com/98F00008B7D903418068/538493/1242358/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/98F00008B7D903418068/538493/1242358/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521876469.204135
+    },
+    "https://s3.amazonaws.com/8ChC/85/ccPOmR0Wi/ql0mDcL8WECg/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/8ChC/85/ccPOmR0Wi/ql0mDcL8WECg/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521877741.0405
     }
   },
   "ad_urls": [
@@ -3257,6 +3253,7 @@
     "upgradeinstall24.mypointofforcontentsalwaystoget.review",
     "upgradeinstall24.mypointofforcontentsalwaystohave.date",
     "setupupgrade12.mypointofforcontentsalwaystohave.date",
-    "howtoupdate.mypointofforcontentsalwaystohave.date"
+    "howtoupdate.mypointofforcontentsalwaystohave.date",
+    "nowsetup.mypointofforcontentsalwaystohave.date"
   ]
 }
