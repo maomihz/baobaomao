@@ -3406,3 +3406,4 @@
 |[ask24update.takingallupdatesactuallysafethismonth.date](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethismonth.date&type=A)|
 |[newsoft12.takingallupdatesactuallysafethismonth.date](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafethismonth.date&type=A)|
 |[readyupdate.takingallupdatesactuallysafethismonth.date](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafethismonth.date&type=A)|
+|[update2now.takingallupdatesactuallysafethismonth.date](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafethismonth.date&type=A)|
