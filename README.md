@@ -3210,3 +3210,4 @@
 |[2update.gettingallyoursupdatesononeplacetotake.bid](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetotake.bid&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetotake.bid](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetotake.bid&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetohave.date](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetohave.date&type=A)|
+|[downgradepc.gettingallyoursupdatesononeplacetohave.date](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetohave.date&type=A)|
