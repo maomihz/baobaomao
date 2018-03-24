@@ -3223,3 +3223,4 @@
 |[downgradepc.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetouse.date&type=A)|
 |[2update.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetouse.date&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetouse.date&type=A)|
+|[2update.gettingallyoursupdatesononeplacetouse.bid](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetouse.bid&type=A)|
