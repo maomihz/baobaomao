@@ -3220,3 +3220,4 @@
 |[downgradepc.gettingallyoursupdatesononeplacetotake.review](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetotake.review&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplacetotake.review](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetotake.review&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetouse.date&type=A)|
+|[downgradepc.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetouse.date&type=A)|
