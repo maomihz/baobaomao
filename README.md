@@ -3222,3 +3222,4 @@
 |[soft2apt.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetouse.date&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetouse.date&type=A)|
 |[2update.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetouse.date&type=A)|
+|[check4upgrade.gettingallyoursupdatesononeplacetouse.date](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetouse.date&type=A)|
