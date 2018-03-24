@@ -3198,3 +3198,4 @@
 |[2update.gettingallyoursupdatesononeplacetohave.stream](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetohave.stream&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplacetohave.review](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetohave.review&type=A)|
 |[2update.gettingallyoursupdatesononeplacetohave.review](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetohave.review&type=A)|
+|[check4upgrade.gettingallyoursupdatesononeplacetohave.review](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetohave.review&type=A)|
