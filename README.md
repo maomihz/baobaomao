@@ -3345,3 +3345,4 @@
 |[12updatenew.alwaystendtobefirsttohavesafestupdatesnow.stream](https://dns.google.com/query?name=12updatenew.alwaystendtobefirsttohavesafestupdatesnow.stream&type=A)|
 |[ready4live.alwaystendtobefirsttohavesafestupdatesnow.stream](https://dns.google.com/query?name=ready4live.alwaystendtobefirsttohavesafestupdatesnow.stream&type=A)|
 |[12updatenew.alwaystendtobefirsttohavesafestupdatesnow.date](https://dns.google.com/query?name=12updatenew.alwaystendtobefirsttohavesafestupdatesnow.date&type=A)|
+|[ready4live.alwaystendtobefirsttohavesafestupdatesnow.date](https://dns.google.com/query?name=ready4live.alwaystendtobefirsttohavesafestupdatesnow.date&type=A)|
