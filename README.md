@@ -3392,3 +3392,4 @@
 |[readyupdate.takingallupdatesactuallysafealways.date](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafealways.date&type=A)|
 |[update2now.takingallupdatesactuallysafealways.date](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafealways.date&type=A)|
 |[ask24update.takingallupdatesactuallysafealways.review](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafealways.review&type=A)|
+|[newsoft12.takingallupdatesactuallysafealways.review](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafealways.review&type=A)|
