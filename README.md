@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL05NUnEvWHp2Y0U4Vm00MGU1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:30|https://s3.amazonaws.com/NMRq/XzvcE8Vm40e5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M3Mjk2NjBkLTg1MDctNDhlNi05MGEwLTY5NjhkNmEzMy9ZUW9KWGV3cllVaU9hL0E1TVFIMnJjb2t5YjcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:19|https://s3.amazonaws.com/c729660d-8507-48e6-90a0-6968d6a33/YQoJXewrYUiOa/A5MQH2rcokyb7/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIwNDk3L2g5dVhzL2hWRWNmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:08|https://s3.amazonaws.com/20497/h9uXs/hVEcf/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ1ODIxNDc0L18xdzRuVlRoOWtLZks1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:58|https://s3.amazonaws.com/45821474/_1w4nVTh9kKfK5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0o3QUdaTVFmVmtfX2M4Ny81ODY5Ni8zNTM2OS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:47|https://s3.amazonaws.com/J7AGZMQfVk__c87/58696/35369/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNlYjMvMjk3YjZmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:37|https://s3.amazonaws.com/3eb3/297b6f/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3llTTcyQ3E5LzExNTI3NjgyMC8xMzM2NjIwNDkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:28|https://s3.amazonaws.com/yeM72Cq9/115276820/133662049/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3440,3 +3440,4 @@
 |[newsoft12.takingallupdatesactuallysafetoday.stream](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafetoday.stream&type=A)|
 |[ask24update.takingallupdatesactuallysafetoday.stream](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafetoday.stream&type=A)|
 |[update2now.takingallupdatesactuallysafetoday.review](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafetoday.review&type=A)|
+|[ask24update.takingallupdatesactuallysafetoday.review](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafetoday.review&type=A)|
