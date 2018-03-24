@@ -3226,3 +3226,4 @@
 |[2update.gettingallyoursupdatesononeplacetouse.bid](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetouse.bid&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetouse.bid](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetouse.bid&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplacetouse.bid](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetouse.bid&type=A)|
+|[soft2apt.gettingallyoursupdatesononeplacetouse.bid](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetouse.bid&type=A)|
