@@ -3335,3 +3335,4 @@
 |[supportversion.alwaystendtobefirsttohavesafestupdates.date](https://dns.google.com/query?name=supportversion.alwaystendtobefirsttohavesafestupdates.date&type=A)|
 |[safe.alwaystendtobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdatesnow.bid&type=A)|
 |[12updatenew.alwaystendtobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=12updatenew.alwaystendtobefirsttohavesafestupdatesnow.bid&type=A)|
+|[ready4live.alwaystendtobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=ready4live.alwaystendtobefirsttohavesafestupdatesnow.bid&type=A)|
