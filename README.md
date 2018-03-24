@@ -3355,3 +3355,4 @@
 |[12updatenew.alwaystendtobefirsttohavesafestupdatesthismonth.stream](https://dns.google.com/query?name=12updatenew.alwaystendtobefirsttohavesafestupdatesthismonth.stream&type=A)|
 |[supportversion.alwaystendtobefirsttohavesafestupdatesthismonth.stream](https://dns.google.com/query?name=supportversion.alwaystendtobefirsttohavesafestupdatesthismonth.stream&type=A)|
 |[safe.alwaystendtobefirsttohavesafestupdatesthismonth.stream](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdatesthismonth.stream&type=A)|
+|[ready4live.alwaystendtobefirsttohavesafestupdatesthismonth.stream](https://dns.google.com/query?name=ready4live.alwaystendtobefirsttohavesafestupdatesthismonth.stream&type=A)|
