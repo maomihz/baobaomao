@@ -3204,3 +3204,4 @@
 |[downgradepc.gettingallyoursupdatesononeplacetotake.date](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetotake.date&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetotake.date](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetotake.date&type=A)|
 |[2update.gettingallyoursupdatesononeplacetotake.date](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetotake.date&type=A)|
+|[soft2apt.gettingallyoursupdatesononeplacetotake.bid](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetotake.bid&type=A)|
