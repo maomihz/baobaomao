@@ -3237,3 +3237,4 @@
 |[check4upgrade.gettingallyoursupdatesononeplacetouse.review](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetouse.review&type=A)|
 |[upgradeinstall24.mypointofforcontentsalwaystoget.stream](https://dns.google.com/query?name=upgradeinstall24.mypointofforcontentsalwaystoget.stream&type=A)|
 |[setupupgrade12.mypointofforcontentsalwaystoget.stream](https://dns.google.com/query?name=setupupgrade12.mypointofforcontentsalwaystoget.stream&type=A)|
+|[howtoupdate.mypointofforcontentsalwaystoget.stream](https://dns.google.com/query?name=howtoupdate.mypointofforcontentsalwaystoget.stream&type=A)|
