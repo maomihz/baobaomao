@@ -3283,3 +3283,4 @@
 |[check24.alwaysgettobefirsttohavesafestupdates.date](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdates.date&type=A)|
 |[12updatenew.alwaystendtobefirsttohavesafestupdates.bid](https://dns.google.com/query?name=12updatenew.alwaystendtobefirsttohavesafestupdates.bid&type=A)|
 |[ready4live.alwaystendtobefirsttohavesafestupdates.bid](https://dns.google.com/query?name=ready4live.alwaystendtobefirsttohavesafestupdates.bid&type=A)|
+|[safe.alwaystendtobefirsttohavesafestupdates.bid](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdates.bid&type=A)|
