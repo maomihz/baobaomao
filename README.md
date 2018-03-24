@@ -3150,3 +3150,4 @@
 |[downgradepc.gettingallyoursupdatesononeplace.bid](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplace.bid&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplace.bid](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplace.bid&type=A)|
 |[2update.gettingallyoursupdatesononeplace.bid](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplace.bid&type=A)|
+|[2update.gettingallyoursupdatesononeplace.review](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplace.review&type=A)|
