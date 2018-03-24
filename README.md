@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkwNDdCRkExNUY3N0MyNDY5N0ExNDUvNzg2NC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:41|https://s3.amazonaws.com/9047BFA15F77C24697A145/7864/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwMzEvMTc1MTg1ODcwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:30|https://s3.amazonaws.com/1031/175185870/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc1QkFGRTJGL2ExMWIxZGZkLTdjMTktL2YzZjNlYjNhLTQyNzgtL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:18|https://s3.amazonaws.com/75BAFE2F/a11b1dfd-7c19-/f3f3eb3a-4278-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE4MjU1LzRJazRFL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:09|https://s3.amazonaws.com/18255/4Ik4E/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y3OUQyMTI5NTJGQjc3NC8wZjNlL2RmNjEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:56|https://s3.amazonaws.com/F79D212952FB774/0f3e/df61/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y5NUM5QjhBQTg1NUMyNDlBLzcwMTdBQzBCNDU1REQzNERCOEJBMzlFRDQ5RUUyNDEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:48|https://s3.amazonaws.com/F95C9B8AA855C249A/7017AC0B455DD34DB8BA39ED49EE241/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVhYjYvVFpvdEZoOWNGMHEvbVc1TXl0YWFYRWEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:39|https://s3.amazonaws.com/5ab6/TZotFh9cF0q/mW5MytaaXEa/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3397,3 +3397,4 @@
 |[update2now.takingallupdatesactuallysafealways.review](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafealways.review&type=A)|
 |[ask24update.takingallupdatesactuallysafealways.stream](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafealways.stream&type=A)|
 |[newsoft12.takingallupdatesactuallysafealways.stream](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafealways.stream&type=A)|
+|[readyupdate.takingallupdatesactuallysafealways.stream](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafealways.stream&type=A)|
