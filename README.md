@@ -3213,3 +3213,4 @@
 |[soft2apt.gettingallyoursupdatesononeplacetohave.date](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetohave.date&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplacetotake.stream](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetotake.stream&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplacetotake.stream](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetotake.stream&type=A)|
+|[2update.gettingallyoursupdatesononeplacetotake.stream](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetotake.stream&type=A)|
