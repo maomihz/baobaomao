@@ -3150,3 +3150,4 @@
 |[check4upgrade.gettingallyoursupdatesononeplace.bid](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplace.bid&type=A)|
 |[2update.gettingallyoursupdatesononeplace.bid](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplace.bid&type=A)|
 |[2update.gettingallyoursupdatesononeplace.review](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplace.review&type=A)|
+|[soft2apt.gettingallyoursupdatesononeplace.review](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplace.review&type=A)|
