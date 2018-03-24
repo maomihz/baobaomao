@@ -3429,3 +3429,4 @@
 |[update2now.takingallupdatesactuallysafethisweek.review](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafethisweek.review&type=A)|
 |[ask24update.takingallupdatesactuallysafethisweek.stream](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethisweek.stream&type=A)|
 |[newsoft12.takingallupdatesactuallysafethisweek.stream](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafethisweek.stream&type=A)|
+|[readyupdate.takingallupdatesactuallysafethisweek.stream](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafethisweek.stream&type=A)|
