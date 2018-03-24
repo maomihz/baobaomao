@@ -3401,29 +3401,29 @@
     "newsoft12.takingallupdatesactuallysafethisweek.bid"
   ],
   "urls": {
-    "https://s3.amazonaws.com/B3EB268FE8768C44B04/109232/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521918522.800407,
-      "url": "https://s3.amazonaws.com/B3EB268FE8768C44B04/109232/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/dcsryd/842b4a94-83e7-4e5/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521919914.323305,
-      "url": "https://s3.amazonaws.com/dcsryd/842b4a94-83e7-4e5/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/HON25AhDA0G7_tZWr/89cd/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521921056.507265,
-      "url": "https://s3.amazonaws.com/HON25AhDA0G7_tZWr/89cd/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/8927/0EF366/F078F3/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521917891.225259,
-      "url": "https://s3.amazonaws.com/8927/0EF366/F078F3/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/9cb71175-e17c-46cc-9a7f-a141d19cec5/0aa4e3ff-68c6-4581-/a1361290-b786-4eca-/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521920423.251093,
-      "url": "https://s3.amazonaws.com/9cb71175-e17c-46cc-9a7f-a141d19cec5/0aa4e3ff-68c6-4581-/a1361290-b786-4eca-/AdobeFlashPlayerInstaller.dmg"
+      "url": "https://s3.amazonaws.com/8927/0EF366/F078F3/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521917891.225259
     },
     "https://s3.amazonaws.com/155436/pR6Ma/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521919281.94705,
-      "url": "https://s3.amazonaws.com/155436/pR6Ma/AdobeFlashPlayerInstaller.dmg"
+      "url": "https://s3.amazonaws.com/155436/pR6Ma/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521919281.94705
+    },
+    "https://s3.amazonaws.com/B3EB268FE8768C44B04/109232/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/B3EB268FE8768C44B04/109232/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521918522.800407
+    },
+    "https://s3.amazonaws.com/HON25AhDA0G7_tZWr/89cd/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/HON25AhDA0G7_tZWr/89cd/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521921056.507265
+    },
+    "https://s3.amazonaws.com/9cb71175-e17c-46cc-9a7f-a141d19cec5/0aa4e3ff-68c6-4581-/a1361290-b786-4eca-/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/9cb71175-e17c-46cc-9a7f-a141d19cec5/0aa4e3ff-68c6-4581-/a1361290-b786-4eca-/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521920423.251093
+    },
+    "https://s3.amazonaws.com/dcsryd/842b4a94-83e7-4e5/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/dcsryd/842b4a94-83e7-4e5/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521919914.323305
     }
   }
 }
