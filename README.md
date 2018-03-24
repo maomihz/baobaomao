@@ -3437,3 +3437,4 @@
 |[update2now.takingallupdatesactuallysafetoday.date](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafetoday.date&type=A)|
 |[update2now.takingallupdatesactuallysafetoday.stream](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafetoday.stream&type=A)|
 |[readyupdate.takingallupdatesactuallysafetoday.stream](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafetoday.stream&type=A)|
+|[newsoft12.takingallupdatesactuallysafetoday.stream](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafetoday.stream&type=A)|
