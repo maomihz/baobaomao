@@ -3340,3 +3340,4 @@
 |[ready4live.alwaystendtobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=ready4live.alwaystendtobefirsttohavesafestupdates.stream&type=A)|
 |[safe.alwaystendtobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdates.stream&type=A)|
 |[supportversion.alwaystendtobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=supportversion.alwaystendtobefirsttohavesafestupdates.stream&type=A)|
+|[supportversion.alwaystendtobefirsttohavesafestupdatesnow.stream](https://dns.google.com/query?name=supportversion.alwaystendtobefirsttohavesafestupdatesnow.stream&type=A)|
