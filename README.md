@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBBRTg0MTZBNUQzQjgvVVFGY2tGTi8wbVVtdXlqL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:49|https://s3.amazonaws.com/0AE8416A5D3B8/UQFckFN/0mUmuyj/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0U3RTY2MTk1MDhFMkM1NDFCQUYyNUJCQkYvMkQ3RjE0QTE5QzIzQzk0OUE5L0M5NjE0OUNGQjg1NUZENEFCMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:39|https://s3.amazonaws.com/E7E6619508E2C541BAF25BBBF/2D7F14A19C23C949A9/C96149CFB855FD4AB3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFmMjM5YzJiLTM2N2UtNDdiYS1iMmFiLWNiODFlNTVjYTQ5LzA1M0YyMkQyMTI3NjU5NDZCNDIyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:28|https://s3.amazonaws.com/1f239c2b-367e-47ba-b2ab-cb81e55ca49/053F22D212765946B422/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3JzcHVzRnlVUGtpcDhMMFpGbS8yMTlkOWUxMS0wODFmLTQ5MzEtODAyNy1lN2I4MzRjMjQ4OS9iYTc2YzVkYi0zOTM1LTQ2ZTktYTgyMi0yNTQ3MmI5ZDdjMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:20|https://s3.amazonaws.com/rspusFyUPkip8L0ZFm/219d9e11-081f-4931-8027-e7b834c2489/ba76c5db-3935-46e9-a822-25472b9d7c3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Y2MDEvRkE2My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:07|https://s3.amazonaws.com/F601/FA63/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk0NjkxOEIwOTI4QUEwNDEvcTVyckxWQW85azJXUU9kaksvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:59|https://s3.amazonaws.com/946918B0928AA041/q5rrLVAo9k2WQOdjK/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1lPNkwxWnFnTVVtak9tWnB3TS8xNzA5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:48|https://s3.amazonaws.com/YO6L1ZqgMUmjOmZpwM/1709/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3473,3 +3473,4 @@
 |[upgradeinstall.alwaysgettobefirsttohavesafestupdatesthisweek.stream](https://dns.google.com/query?name=upgradeinstall.alwaysgettobefirsttohavesafestupdatesthisweek.stream&type=A)|
 |[askupdate.alwaysgettobefirsttohavesafestupdatesthisyear.bid](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatesthisyear.bid&type=A)|
 |[check24.alwaysgettobefirsttohavesafestupdatesthisyear.bid](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatesthisyear.bid&type=A)|
+|[prepare2upvideo.alwaysgettobefirsttohavesafestupdatesthisyear.bid](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdatesthisyear.bid&type=A)|
