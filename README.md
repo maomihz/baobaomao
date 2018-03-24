@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2U5NGQ3ODQyLTk3NDUtNGU5Zi04MjViLTFjYzFlYjYva21KaGwvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:06|https://s3.amazonaws.com/e94d7842-9745-4e9f-825b-1cc1eb6/kmJhl/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0QzNUY4OTY3NTBDRDY5NDY5MzI3RjkzLzFBMjAvNjUzOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|01:57|https://s3.amazonaws.com/D35F896750CD69469327F93/1A20/6538/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M1MTcyQUE2MEVERTNFNEI4NjMxM0EyQi9iMjUxOGVmMi02NjY1LTRhZTItYjhiYS1lYjk0MWNmMzkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|01:47|https://s3.amazonaws.com/C5172AA60EDE3E4B86313A2B/b2518ef2-6665-4ae2-b8ba-eb941cf39/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2EwMzRiZDEyLTMyMTEtNDljZC1iOC8xMjU3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:38|https://s3.amazonaws.com/a034bd12-3211-49cd-b8/1257/AdobeFlashPlayerInstaller.dmg|
@@ -3158,3 +3159,4 @@
 |[downgradepc.gettingallyoursupdatesononeplace.stream](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplace.stream&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplace.stream](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplace.stream&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplacealways.date](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacealways.date&type=A)|
+|[downgradepc.gettingallyoursupdatesononeplacealways.date](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacealways.date&type=A)|
