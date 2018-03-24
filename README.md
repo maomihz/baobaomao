@@ -3232,3 +3232,4 @@
 |[2update.gettingallyoursupdatesononeplacetouse.stream](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetouse.stream&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetouse.stream](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetouse.stream&type=A)|
 |[2update.gettingallyoursupdatesononeplacetouse.review](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetouse.review&type=A)|
+|[soft2apt.gettingallyoursupdatesononeplacetouse.review](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetouse.review&type=A)|
