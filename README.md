@@ -3399,3 +3399,4 @@
 |[newsoft12.takingallupdatesactuallysafealways.stream](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafealways.stream&type=A)|
 |[readyupdate.takingallupdatesactuallysafealways.stream](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafealways.stream&type=A)|
 |[update2now.takingallupdatesactuallysafealways.stream](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafealways.stream&type=A)|
+|[ask24update.takingallupdatesactuallysafethismonth.bid](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethismonth.bid&type=A)|
