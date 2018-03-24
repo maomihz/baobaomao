@@ -3308,3 +3308,4 @@
 |[askupdate.alwaysgettobefirsttohavesafestupdatesnow.date](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatesnow.date&type=A)|
 |[check24.alwaysgettobefirsttohavesafestupdatesnow.date](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatesnow.date&type=A)|
 |[prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.date](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.date&type=A)|
+|[upgradeinstall.alwaysgettobefirsttohavesafestupdatesnow.date](https://dns.google.com/query?name=upgradeinstall.alwaysgettobefirsttohavesafestupdatesnow.date&type=A)|
