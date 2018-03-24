@@ -3157,3 +3157,4 @@
 |[check4upgrade.gettingallyoursupdatesononeplace.stream](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplace.stream&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplace.stream](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplace.stream&type=A)|
 |[soft2apt.gettingallyoursupdatesononeplace.stream](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplace.stream&type=A)|
+|[soft2apt.gettingallyoursupdatesononeplacealways.date](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacealways.date&type=A)|
