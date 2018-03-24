@@ -3381,3 +3381,4 @@
 |[update2now.takingallupdatesactuallysafe.review](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafe.review&type=A)|
 |[ask24update.takingallupdatesactuallysafe.stream](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafe.stream&type=A)|
 |[newsoft12.takingallupdatesactuallysafe.stream](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafe.stream&type=A)|
+|[readyupdate.takingallupdatesactuallysafe.stream](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafe.stream&type=A)|
