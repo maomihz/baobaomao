@@ -3301,3 +3301,4 @@
 |[check24.alwaysgettobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdates.stream&type=A)|
 |[prepare2upvideo.alwaysgettobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdates.stream&type=A)|
 |[upgradeinstall.alwaysgettobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=upgradeinstall.alwaysgettobefirsttohavesafestupdates.stream&type=A)|
+|[upgradeinstall.alwaysgettobefirsttohavesafestupdatesnow.review](https://dns.google.com/query?name=upgradeinstall.alwaysgettobefirsttohavesafestupdatesnow.review&type=A)|
