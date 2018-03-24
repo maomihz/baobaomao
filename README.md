@@ -3413,3 +3413,4 @@
 |[update2now.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafethismonth.review&type=A)|
 |[ask24update.takingallupdatesactuallysafethismonth.stream](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethismonth.stream&type=A)|
 |[newsoft12.takingallupdatesactuallysafethismonth.stream](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafethismonth.stream&type=A)|
+|[readyupdate.takingallupdatesactuallysafethismonth.stream](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafethismonth.stream&type=A)|
