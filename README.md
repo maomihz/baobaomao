@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMTc2NTIva1lWeElpL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:39|https://s3.amazonaws.com/2117652/kYVxIi/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q3Yjc3NTM3LWNkZWEtNGU4OS04NS82YTRmNDc0Zi03MjM5LS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:29|https://s3.amazonaws.com/d7b77537-cdea-4e89-85/6a4f474f-7239-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdEQjczQ0FFRDFENTdCLzEyMDk5Mi8xOTYxMjgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:18|https://s3.amazonaws.com/7DB73CAED1D57B/120992/196128/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FlMWU0L0VCNEIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:08|https://s3.amazonaws.com/ae1e4/EB4B/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1czZ3pjQnRqLzgyZjlhUjVNcTBhcVk3SS9iMVA1S1EvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:59|https://s3.amazonaws.com/W3gzcBtj/82f9aR5Mq0aqY7I/b1P5KQ/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0laRWFpazZkYlVxMl9nMHhHTzdELzNWOHFKekZ3QmtDN3pBN0IvemlHN3BvRVVnVXVrWUlDaC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:46|https://s3.amazonaws.com/IZEaik6dbUq2_g0xGO7D/3V8qJzFwBkC7zA7B/ziG7poEUgUukYICh/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0M2QzYvRjU3Njg0OEMxQUM4QkQ0MEIvM0M0NzgwQTE0OTJDOUE0RUIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|10:38|https://s3.amazonaws.com/C6C6/F576848C1AC8BD40B/3C4780A1492C9A4EB/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3297,3 +3297,4 @@
 |[prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.bid&type=A)|
 |[askupdate.alwaysgettobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatesnow.bid&type=A)|
 |[check24.alwaysgettobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatesnow.bid&type=A)|
+|[askupdate.alwaysgettobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdates.stream&type=A)|
