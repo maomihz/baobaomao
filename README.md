@@ -3215,3 +3215,4 @@
 |[downgradepc.gettingallyoursupdatesononeplacetotake.stream](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetotake.stream&type=A)|
 |[2update.gettingallyoursupdatesononeplacetotake.stream](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetotake.stream&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetotake.stream](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetotake.stream&type=A)|
+|[2update.gettingallyoursupdatesononeplacetotake.review](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetotake.review&type=A)|
