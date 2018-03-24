@@ -3170,3 +3170,4 @@
 |[2update.gettingallyoursupdatesononeplacealways.stream](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacealways.stream&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacealways.stream](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacealways.stream&type=A)|
 |[2update.gettingallyoursupdatesononeplacealways.review](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacealways.review&type=A)|
+|[check4upgrade.gettingallyoursupdatesononeplacealways.review](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacealways.review&type=A)|
