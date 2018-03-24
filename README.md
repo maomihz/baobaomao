@@ -3195,3 +3195,4 @@
 |[soft2apt.gettingallyoursupdatesononeplacetohave.stream](https://dns.google.com/query?name=soft2apt.gettingallyoursupdatesononeplacetohave.stream&type=A)|
 |[downgradepc.gettingallyoursupdatesononeplacetohave.stream](https://dns.google.com/query?name=downgradepc.gettingallyoursupdatesononeplacetohave.stream&type=A)|
 |[check4upgrade.gettingallyoursupdatesononeplacetohave.stream](https://dns.google.com/query?name=check4upgrade.gettingallyoursupdatesononeplacetohave.stream&type=A)|
+|[2update.gettingallyoursupdatesononeplacetohave.stream](https://dns.google.com/query?name=2update.gettingallyoursupdatesononeplacetohave.stream&type=A)|
