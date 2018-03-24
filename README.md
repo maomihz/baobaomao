@@ -3277,3 +3277,4 @@
 |[nowsetup.mypointofforcontentsalwaystotake.stream](https://dns.google.com/query?name=nowsetup.mypointofforcontentsalwaystotake.stream&type=A)|
 |[setupupgrade12.mypointofforcontentsalwaystotake.stream](https://dns.google.com/query?name=setupupgrade12.mypointofforcontentsalwaystotake.stream&type=A)|
 |[upgradeinstall24.mypointofforcontentsalwaystotake.stream](https://dns.google.com/query?name=upgradeinstall24.mypointofforcontentsalwaystotake.stream&type=A)|
+|[upgradeinstall.alwaysgettobefirsttohavesafestupdates.date](https://dns.google.com/query?name=upgradeinstall.alwaysgettobefirsttohavesafestupdates.date&type=A)|
