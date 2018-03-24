@@ -3186,3 +3186,4 @@
 |[upgradeinstall24.mypointofforcontentsalways.bid](https://dns.google.com/query?name=upgradeinstall24.mypointofforcontentsalways.bid&type=A)|
 |[upgradeinstall24.mypointofforcontentsalwaystoget.date](https://dns.google.com/query?name=upgradeinstall24.mypointofforcontentsalwaystoget.date&type=A)|
 |[setupupgrade12.mypointofforcontentsalwaystoget.date](https://dns.google.com/query?name=setupupgrade12.mypointofforcontentsalwaystoget.date&type=A)|
+|[howtoupdate.mypointofforcontentsalwaystoget.date](https://dns.google.com/query?name=howtoupdate.mypointofforcontentsalwaystoget.date&type=A)|
