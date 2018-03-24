@@ -3298,3 +3298,4 @@
 |[askupdate.alwaysgettobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatesnow.bid&type=A)|
 |[check24.alwaysgettobefirsttohavesafestupdatesnow.bid](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatesnow.bid&type=A)|
 |[askupdate.alwaysgettobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdates.stream&type=A)|
+|[check24.alwaysgettobefirsttohavesafestupdates.stream](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdates.stream&type=A)|
