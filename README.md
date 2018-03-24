@@ -3377,3 +3377,4 @@
 |[setupdate24.mypointofforcontentsnow.trade](https://dns.google.com/query?name=setupdate24.mypointofforcontentsnow.trade&type=A)|
 |[ask24update.takingallupdatesactuallysafe.review](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafe.review&type=A)|
 |[newsoft12.takingallupdatesactuallysafe.review](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafe.review&type=A)|
+|[readyupdate.takingallupdatesactuallysafe.review](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafe.review&type=A)|
