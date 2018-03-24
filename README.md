@@ -3316,3 +3316,4 @@
 |[askupdate.alwaysgettobefirsttohavesafestupdatesnow.stream](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatesnow.stream&type=A)|
 |[check24.alwaysgettobefirsttohavesafestupdatesnow.stream](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatesnow.stream&type=A)|
 |[prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.stream](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdatesnow.stream&type=A)|
+|[upgradeinstall.alwaysgettobefirsttohavesafestupdatesnow.stream](https://dns.google.com/query?name=upgradeinstall.alwaysgettobefirsttohavesafestupdatesnow.stream&type=A)|
