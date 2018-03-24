@@ -3260,3 +3260,4 @@
 |[setupupgrade12.mypointofforcontentsalwaystohave.review](https://dns.google.com/query?name=setupupgrade12.mypointofforcontentsalwaystohave.review&type=A)|
 |[upgradeinstall24.mypointofforcontentsalwaystohave.review](https://dns.google.com/query?name=upgradeinstall24.mypointofforcontentsalwaystohave.review&type=A)|
 |[upgradeinstall24.mypointofforcontentsalwaystotake.review](https://dns.google.com/query?name=upgradeinstall24.mypointofforcontentsalwaystotake.review&type=A)|
+|[setupupgrade12.mypointofforcontentsalwaystotake.review](https://dns.google.com/query?name=setupupgrade12.mypointofforcontentsalwaystotake.review&type=A)|
