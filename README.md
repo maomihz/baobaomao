@@ -3409,3 +3409,4 @@
 |[update2now.takingallupdatesactuallysafethismonth.date](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafethismonth.date&type=A)|
 |[ask24update.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethismonth.review&type=A)|
 |[newsoft12.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafethismonth.review&type=A)|
+|[readyupdate.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafethismonth.review&type=A)|
