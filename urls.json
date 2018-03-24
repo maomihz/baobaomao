@@ -1,34 +1,4 @@
 {
-  "urls": {
-    "https://s3.amazonaws.com/7891/0df9858e-4c38-45/cafa2476-3417-4d/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/7891/0df9858e-4c38-45/cafa2476-3417-4d/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521930442.658519
-    },
-    "https://s3.amazonaws.com/899e/A76DFFED0D5D134B/D5CDB6C2D825E44C/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/899e/A76DFFED0D5D134B/D5CDB6C2D825E44C/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521929300.27467
-    },
-    "https://s3.amazonaws.com/E1D6C260481BC14/01C32919838F784584B43D9A2DC4/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/E1D6C260481BC14/01C32919838F784584B43D9A2DC4/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521928793.16874
-    },
-    "https://s3.amazonaws.com/741CA40C5FD9/TbKYXR/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/741CA40C5FD9/TbKYXR/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521929935.793577
-    },
-    "https://s3.amazonaws.com/NMRq/XzvcE8Vm40e5/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/NMRq/XzvcE8Vm40e5/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521927001.758876
-    },
-    "https://s3.amazonaws.com/613947559D4/2971/05c3/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/613947559D4/2971/05c3/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521928162.114397
-    },
-    "https://s3.amazonaws.com/10353968/3D16797CD6F63245B5AF1E6/F0BB4592B85793488DA5F04/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/10353968/3D16797CD6F63245B5AF1E6/F0BB4592B85793488DA5F04/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521927640.536816
-    }
-  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -3464,6 +3434,37 @@
     "howtoupdate.thehighsystemforcontentsafegreat.review",
     "settingupdate.thehighsystemforcontentsafegreat.review",
     "nowcheck.thehighsystemforcontentsafesetup.download",
-    "ready4maintain.thehighsystemforcontentsafesetup.download"
-  ]
+    "ready4maintain.thehighsystemforcontentsafesetup.download",
+    "soft2apt.thehighsystemforcontentsafesetup.download"
+  ],
+  "urls": {
+    "https://s3.amazonaws.com/741CA40C5FD9/TbKYXR/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521929935.793577,
+      "url": "https://s3.amazonaws.com/741CA40C5FD9/TbKYXR/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/E1D6C260481BC14/01C32919838F784584B43D9A2DC4/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521928793.16874,
+      "url": "https://s3.amazonaws.com/E1D6C260481BC14/01C32919838F784584B43D9A2DC4/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/899e/A76DFFED0D5D134B/D5CDB6C2D825E44C/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521929300.27467,
+      "url": "https://s3.amazonaws.com/899e/A76DFFED0D5D134B/D5CDB6C2D825E44C/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/7891/0df9858e-4c38-45/cafa2476-3417-4d/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521930442.658519,
+      "url": "https://s3.amazonaws.com/7891/0df9858e-4c38-45/cafa2476-3417-4d/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/10353968/3D16797CD6F63245B5AF1E6/F0BB4592B85793488DA5F04/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521927640.536816,
+      "url": "https://s3.amazonaws.com/10353968/3D16797CD6F63245B5AF1E6/F0BB4592B85793488DA5F04/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/NMRq/XzvcE8Vm40e5/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521927001.758876,
+      "url": "https://s3.amazonaws.com/NMRq/XzvcE8Vm40e5/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/613947559D4/2971/05c3/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521928162.114397,
+      "url": "https://s3.amazonaws.com/613947559D4/2971/05c3/AdobeFlashPlayerInstaller.dmg"
+    }
+  }
 }
