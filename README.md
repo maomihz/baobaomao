@@ -3424,3 +3424,4 @@
 |[readyupdate.takingallupdatesactuallysafethisweek.date](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafethisweek.date&type=A)|
 |[update2now.takingallupdatesactuallysafethisweek.date](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafethisweek.date&type=A)|
 |[ask24update.takingallupdatesactuallysafethisweek.review](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethisweek.review&type=A)|
+|[newsoft12.takingallupdatesactuallysafethisweek.review](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafethisweek.review&type=A)|
