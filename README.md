@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Rjc3J5ZC84NDJiNGE5NC04M2U3LTRlNS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:31|https://s3.amazonaws.com/dcsryd/842b4a94-83e7-4e5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE1NTQzNi9wUjZNYS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|19:21|https://s3.amazonaws.com/155436/pR6Ma/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0IzRUIyNjhGRTg3NjhDNDRCMDQvMTA5MjMyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|19:08|https://s3.amazonaws.com/B3EB268FE8768C44B04/109232/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg5MjcvMEVGMzY2L0YwNzhGMy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:58|https://s3.amazonaws.com/8927/0EF366/F078F3/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3NPU3M5UmZRaUVlX051QS83MEUwMzVCQTJBNkVFOTQ0QkY5NzY1Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:49|https://s3.amazonaws.com/sOSs9RfQiEe_NuA/70E035BA2A6EE944BF97652/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzkwNDdCRkExNUY3N0MyNDY5N0ExNDUvNzg2NC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:41|https://s3.amazonaws.com/9047BFA15F77C24697A145/7864/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwMzEvMTc1MTg1ODcwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|18:30|https://s3.amazonaws.com/1031/175185870/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3410,3 +3410,4 @@
 |[ask24update.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=ask24update.takingallupdatesactuallysafethismonth.review&type=A)|
 |[newsoft12.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=newsoft12.takingallupdatesactuallysafethismonth.review&type=A)|
 |[readyupdate.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=readyupdate.takingallupdatesactuallysafethismonth.review&type=A)|
+|[update2now.takingallupdatesactuallysafethismonth.review](https://dns.google.com/query?name=update2now.takingallupdatesactuallysafethismonth.review&type=A)|
