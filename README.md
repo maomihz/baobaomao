@@ -3492,3 +3492,4 @@
 |[safe.alwaystendtobefirsttohavesafestupdatesnow.review](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdatesnow.review&type=A)|
 |[supportversion.alwaystendtobefirsttohavesafestupdatesnow.review](https://dns.google.com/query?name=supportversion.alwaystendtobefirsttohavesafestupdatesnow.review&type=A)|
 |[askupdate.alwaysgettobefirsttohavesafestupdatestoday.date](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatestoday.date&type=A)|
+|[check24.alwaysgettobefirsttohavesafestupdatestoday.date](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatestoday.date&type=A)|
