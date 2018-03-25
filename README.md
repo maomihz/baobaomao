@@ -3599,3 +3599,4 @@
 |[update2new.amazinglysafeistallsforeveryonenow.stream](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryonenow.stream&type=A)|
 |[setupnow.amazinglysafeistallsforeveryonenow.stream](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryonenow.stream&type=A)|
 |[12updatenew.amazinglysafeistallsforeveryonenow.stream](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonenow.stream&type=A)|
+|[12updatenew.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonenow.review&type=A)|
