@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3NnSGFEWG92NWsvSExSSU90eG5sRUN4MFBBejFBbi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:20|https://s3.amazonaws.com/sgHaDXov5k/HLRIOtxnlECx0PAz1An/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0EyNEQ0MzI3NERBMjE0NDA4LzhFREMvOEMzRi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:07|https://s3.amazonaws.com/A24D43274DA214408/8EDC/8C3F/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA2ZTc4N2QyLTU1MGMtLzlGQTgxOEYzNENDQUUxNEVBQzFCNS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:56|https://s3.amazonaws.com/06e787d2-550c-/9FA818F34CCAE14EAC1B5/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2RNSGJGYldJX0VxZ3FSL2JuYmwvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:48|https://s3.amazonaws.com/dMHbFbWI_EqgqR/bnbl/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzNjMmQ2NDA5LTczNjYtNDQ4MC1iNjEyLS80NjQ4MjgvMTEzOTAyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:39|https://s3.amazonaws.com/3c2d6409-7366-4480-b612-/464828/113902/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgzNDcxM2Y1LTgxZmMtNC9lZGQ4OGY5OS04OGQ3LTRhZmQtODA1ZC0yMzVkOC83YTdiNGFmZS04OThiLTRiNTMtODJlYi0xZjI2My9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|22:29|https://s3.amazonaws.com/834713f5-81fc-4/edd88f99-88d7-4afd-805d-235d8/7a7b4afe-898b-4b53-82eb-1f263/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk1OTEvZjA5OTgzODUtZTM0My00MDI1LTk0MWItZDZlN2IvZjkwZDMwYjctOWJjZi00ZjY2LTg0YmYtOWNmMjMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:16|https://s3.amazonaws.com/9591/f0998385-e343-4025-941b-d6e7b/f90d30b7-9bcf-4f66-84bf-9cf23/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3693,3 +3693,4 @@
 |[check24.havingalwaysthebestisessentialnow.bid](https://dns.google.com/query?name=check24.havingalwaysthebestisessentialnow.bid&type=A)|
 |[check4free.havingalwaysthebestisessentialnow.bid](https://dns.google.com/query?name=check4free.havingalwaysthebestisessentialnow.bid&type=A)|
 |[newalways.havingalwaysthebestisessentialnow.bid](https://dns.google.com/query?name=newalways.havingalwaysthebestisessentialnow.bid&type=A)|
+|[upgradeget.havingalwaysthebestisessentialnow.bid](https://dns.google.com/query?name=upgradeget.havingalwaysthebestisessentialnow.bid&type=A)|
