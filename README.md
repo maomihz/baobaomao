@@ -3615,3 +3615,4 @@
 |[updatenew.amazinglysafeistallsforyou.bid](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyou.bid&type=A)|
 |[setupupgrade.amazinglysafeistallsforyou.bid](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyou.bid&type=A)|
 |[newupgradesystem.amazinglysafeistallsforyou.bid](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyou.bid&type=A)|
+|[legalsoft.amazinglysafeistallsforyou.bid](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyou.bid&type=A)|
