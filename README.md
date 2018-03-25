@@ -3577,3 +3577,4 @@
 |[nowtestpc.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=nowtestpc.thehighsystemsforcontentgreat.win&type=A)|
 |[readyupdate.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=readyupdate.thehighsystemsforcontentgreat.win&type=A)|
 |[safe.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=safe.thehighsystemsforcontentgreat.win&type=A)|
+|[softupdate.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=softupdate.thehighsystemsforcontentgreat.win&type=A)|
