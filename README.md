@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2U2OGViZTA1LTE2ZDAtNDMyYi1iYTA3LTM0YmNmLzI2ZGMwYTI1LTM3NzQtNGIxYi05OGIzLWEvNjhkYTIzMTMtNjk4Yi00NGE5LWE5YTItYy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:16|https://s3.amazonaws.com/e68ebe05-16d0-432b-ba07-34bcf/26dc0a25-3774-4b1b-98b3-a/68da2313-698b-44a9-a9a2-c/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgyOTQvNWQ3M2NjOTEtMWIzZS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|18:06|https://s3.amazonaws.com/8294/5d73cc91-1b3e/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJFOTU4ODExMjI4MTAvOWRlMC9mNDUyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|17:57|https://s3.amazonaws.com/2E95881122810/9de0/f452/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA1ZTEwMWQ2LWY3NzItNGMyMS05ZDllLWY1NmI5OWYxLzE1MjgvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:47|https://s3.amazonaws.com/05e101d6-f772-4c21-9d9e-f56b99f1/1528/AdobeFlashPlayerInstaller.dmg|
@@ -3621,3 +3622,4 @@
 |[updatesoftware.amazinglysafeistallsforeveryonethisweek.bid](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonethisweek.bid&type=A)|
 |[updatenew.amazinglysafeistallsforyou.review](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyou.review&type=A)|
 |[setupupgrade.amazinglysafeistallsforyou.review](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyou.review&type=A)|
+|[newupgradesystem.amazinglysafeistallsforyou.review](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyou.review&type=A)|
