@@ -3486,3 +3486,4 @@
 |[askupdate.alwaysgettobefirsttohavesafestupdatestoday.bid](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatestoday.bid&type=A)|
 |[check24.alwaysgettobefirsttohavesafestupdatestoday.bid](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatestoday.bid&type=A)|
 |[prepare2upvideo.alwaysgettobefirsttohavesafestupdatestoday.bid](https://dns.google.com/query?name=prepare2upvideo.alwaysgettobefirsttohavesafestupdatestoday.bid&type=A)|
+|[upgradeinstall.alwaysgettobefirsttohavesafestupdatestoday.bid](https://dns.google.com/query?name=upgradeinstall.alwaysgettobefirsttohavesafestupdatestoday.bid&type=A)|
