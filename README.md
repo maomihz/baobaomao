@@ -3674,3 +3674,4 @@
 |[newalways.havingalwaysthebestisessential.stream](https://dns.google.com/query?name=newalways.havingalwaysthebestisessential.stream&type=A)|
 |[check4free.havingalwaysthebestisessential.stream](https://dns.google.com/query?name=check4free.havingalwaysthebestisessential.stream&type=A)|
 |[check24.havingalwaysthebestisessential.stream](https://dns.google.com/query?name=check24.havingalwaysthebestisessential.stream&type=A)|
+|[check24.havingalwaysthebestisessential.bid](https://dns.google.com/query?name=check24.havingalwaysthebestisessential.bid&type=A)|
