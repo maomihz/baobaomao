@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1dEbERQcWJfaDBXY1dsR0ttYlNyQy81ZDE0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:25|https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMTEyLzAzMThlYTRhLWVkNTYtNDdiYi1iZGE1LWViMDQvZWU5OWI2YjAtMmRjYS00M2NlLTlkZGItZTExMC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:16|https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg|
 
 
@@ -3575,3 +3576,4 @@
 |[softupdate.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=softupdate.thehighsystemsforcontentgreat.win&type=A)|
 |[setupnow.amazinglysafeistallsforeveryone.stream](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryone.stream&type=A)|
 |[12updatenew.amazinglysafeistallsforeveryone.stream](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryone.stream&type=A)|
+|[12updatenew.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryone.review&type=A)|
