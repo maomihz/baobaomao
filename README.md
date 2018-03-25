@@ -3522,3 +3522,4 @@
 |[safe.alwaystendtobefirsttohavesafestupdatesthisweek.stream](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdatesthisweek.stream&type=A)|
 |[supportversion.alwaystendtobefirsttohavesafestupdatesthisweek.stream](https://dns.google.com/query?name=supportversion.alwaystendtobefirsttohavesafestupdatesthisweek.stream&type=A)|
 |[ready4live.alwaystendtobefirsttohavesafestupdatestoday.bid](https://dns.google.com/query?name=ready4live.alwaystendtobefirsttohavesafestupdatestoday.bid&type=A)|
+|[safe.alwaystendtobefirsttohavesafestupdatestoday.bid](https://dns.google.com/query?name=safe.alwaystendtobefirsttohavesafestupdatestoday.bid&type=A)|
