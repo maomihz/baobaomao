@@ -3637,3 +3637,4 @@
 |[legalsoft.amazinglysafeistallsforyouthismonth.stream](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyouthismonth.stream&type=A)|
 |[legalsoft.amazinglysafeistallsforyou.stream](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyou.stream&type=A)|
 |[newupgradesystem.amazinglysafeistallsforyou.stream](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyou.stream&type=A)|
+|[setupupgrade.amazinglysafeistallsforyou.stream](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyou.stream&type=A)|
