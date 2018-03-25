@@ -3602,3 +3602,4 @@
 |[12updatenew.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonenow.review&type=A)|
 |[setupnow.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryonenow.review&type=A)|
 |[update2new.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryonenow.review&type=A)|
+|[updatesoftware.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonenow.review&type=A)|
