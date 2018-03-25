@@ -1,4 +1,10 @@
 {
+  "urls": {
+    "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521990979.07108
+    }
+  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -3560,12 +3566,7 @@
     "readyupdate.thehighsystemsforcontentgreat.win",
     "safe.thehighsystemsforcontentgreat.win",
     "softupdate.thehighsystemsforcontentgreat.win",
-    "setupnow.amazinglysafeistallsforeveryone.stream"
-  ],
-  "urls": {
-    "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521990979.07108,
-      "url": "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg"
-    }
-  }
+    "setupnow.amazinglysafeistallsforeveryone.stream",
+    "12updatenew.amazinglysafeistallsforeveryone.stream"
+  ]
 }
