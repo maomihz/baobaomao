@@ -3552,3 +3552,4 @@
 |[24pcupgrade.thehighsystemsforcontentingfree.download](https://dns.google.com/query?name=24pcupgrade.thehighsystemsforcontentingfree.download&type=A)|
 |[aptitude.thehighsystemsforcontentingfree.download](https://dns.google.com/query?name=aptitude.thehighsystemsforcontentingfree.download&type=A)|
 |[testpc24.thehighsystemsforcontentingfree.download](https://dns.google.com/query?name=testpc24.thehighsystemsforcontentingfree.download&type=A)|
+|[upgradenow24.thehighsystemsforcontentingfree.download](https://dns.google.com/query?name=upgradenow24.thehighsystemsforcontentingfree.download&type=A)|
