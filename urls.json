@@ -3516,16 +3516,17 @@
     "upgradeinstall.alwaysgettobefirsttohavesafestupdatestoday.stream",
     "prepare2upvideo.alwaysgettobefirsttohavesafestupdatestoday.stream",
     "check24.alwaysgettobefirsttohavesafestupdatestoday.stream",
-    "askupdate.alwaysgettobefirsttohavesafestupdatestoday.stream"
+    "askupdate.alwaysgettobefirsttohavesafestupdatestoday.stream",
+    "newsoft12.thehighsystemforcontentsfree.download"
   ],
   "urls": {
-    "https://s3.amazonaws.com/75867f40-f343-4819-aa30-64/3043e76a/0860df0f/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521950268.2371,
-      "url": "https://s3.amazonaws.com/75867f40-f343-4819-aa30-64/3043e76a/0860df0f/AdobeFlashPlayerInstaller.dmg"
-    },
     "https://s3.amazonaws.com/29E92B/KdSHvGAskUWwa9HUM/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521947344.541784,
       "url": "https://s3.amazonaws.com/29E92B/KdSHvGAskUWwa9HUM/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/75867f40-f343-4819-aa30-64/3043e76a/0860df0f/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521950268.2371,
+      "url": "https://s3.amazonaws.com/75867f40-f343-4819-aa30-64/3043e76a/0860df0f/AdobeFlashPlayerInstaller.dmg"
     },
     "https://s3.amazonaws.com/75C459E273A66A459F2EBF7/9E5C675/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521949000.254188,
