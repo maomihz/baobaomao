@@ -6,13 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2E3MmMzY2QzLWM5ZmYtNDkxMi04ZjQzLTZlYjc5MDRlNy8zODYwYWYxYy1mMTA1LTQ3NzUtYWMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:37|https://s3.amazonaws.com/a72c3cd3-c9ff-4912-8f43-6eb7904e7/3860af1c-f105-4775-ac/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE3MjYvNENGOS82REY3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:29|https://s3.amazonaws.com/1726/4CF9/6DF7/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL29Td0h5dzlUaS82NTVjN2FkYS1mYmZmLTQ1YTAtODUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:18|https://s3.amazonaws.com/oSwHyw9Ti/655c7ada-fbff-45a0-85/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzM5MTgyMC8yM0M3LzdCODUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|11:07|https://s3.amazonaws.com/391820/23C7/7B85/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL19xTlMyOUhSa2tDVExkdDRDSGt3U1EvNDYxNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:59|https://s3.amazonaws.com/_qNS29HRkkCTLdt4CHkwSQ/4617/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3M1cTZPSzE1cTAvQUIwRDZBNzA5QzYzRUU0QUI2MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:48|https://s3.amazonaws.com/s5q6OK15q0/AB0D6A709C63EE4AB60/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzc1Y2JlZS8yTmFhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:40|https://s3.amazonaws.com/75cbee/2Naa/AdobeFlashPlayerInstaller.dmg|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMTEyLzAzMThlYTRhLWVkNTYtNDdiYi1iZGE1LWViMDQvZWU5OWI2YjAtMmRjYS00M2NlLTlkZGItZTExMC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:16|https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3579,3 +3573,4 @@
 |[readyupdate.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=readyupdate.thehighsystemsforcontentgreat.win&type=A)|
 |[safe.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=safe.thehighsystemsforcontentgreat.win&type=A)|
 |[softupdate.thehighsystemsforcontentgreat.win](https://dns.google.com/query?name=softupdate.thehighsystemsforcontentgreat.win&type=A)|
+|[setupnow.amazinglysafeistallsforeveryone.stream](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryone.stream&type=A)|
