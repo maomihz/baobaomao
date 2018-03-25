@@ -3587,3 +3587,4 @@
 |[update2new.amazinglysafeistallsforeveryonenow.date](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryonenow.date&type=A)|
 |[setupnow.amazinglysafeistallsforeveryonenow.date](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryonenow.date&type=A)|
 |[12updatenew.amazinglysafeistallsforeveryonenow.date](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonenow.date&type=A)|
+|[12updatenew.amazinglysafeistallsforeveryonenow.bid](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonenow.bid&type=A)|
