@@ -3640,3 +3640,4 @@
 |[setupupgrade.amazinglysafeistallsforyou.stream](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyou.stream&type=A)|
 |[updatenew.amazinglysafeistallsforyou.stream](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyou.stream&type=A)|
 |[updatenew.amazinglysafeistallsforyouthisyear.date](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyouthisyear.date&type=A)|
+|[setupupgrade.amazinglysafeistallsforyouthisyear.date](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyouthisyear.date&type=A)|
