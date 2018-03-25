@@ -3572,3 +3572,4 @@
 |[installupgrade.theonlysafeplaceforcontentingnew.win](https://dns.google.com/query?name=installupgrade.theonlysafeplaceforcontentingnew.win&type=A)|
 |[update4soft.theonlysafeplaceforcontentingnew.win](https://dns.google.com/query?name=update4soft.theonlysafeplaceforcontentingnew.win&type=A)|
 |[check.theonlysafeplaceforcontentsafenew.download](https://dns.google.com/query?name=check.theonlysafeplaceforcontentsafenew.download&type=A)|
+|[installupgrade.theonlysafeplaceforcontentsafenew.download](https://dns.google.com/query?name=installupgrade.theonlysafeplaceforcontentsafenew.download&type=A)|
