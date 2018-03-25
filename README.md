@@ -3628,3 +3628,4 @@
 |[newupgradesystem.amazinglysafeistallsforyouthismonth.date](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyouthismonth.date&type=A)|
 |[legalsoft.amazinglysafeistallsforyouthismonth.date](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyouthismonth.date&type=A)|
 |[legalsoft.amazinglysafeistallsforyou.date](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyou.date&type=A)|
+|[newupgradesystem.amazinglysafeistallsforyou.date](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyou.date&type=A)|
