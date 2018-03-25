@@ -3642,3 +3642,4 @@
 |[updatenew.amazinglysafeistallsforyouthisyear.date](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyouthisyear.date&type=A)|
 |[setupupgrade.amazinglysafeistallsforyouthisyear.date](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyouthisyear.date&type=A)|
 |[newupgradesystem.amazinglysafeistallsforyouthisyear.date](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyouthisyear.date&type=A)|
+|[legalsoft.amazinglysafeistallsforyouthisyear.date](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyouthisyear.date&type=A)|
