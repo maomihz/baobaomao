@@ -1,28 +1,28 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/47334/7076/1061/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/47334/7076/1061/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522009095.464617
-    },
-    "https://s3.amazonaws.com/6387/cce64f13-1f17-407f-9b9/494c8b18-05f7-4893-97f/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/6387/cce64f13-1f17-407f-9b9/494c8b18-05f7-4893-97f/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522008587.580211
-    },
-    "https://s3.amazonaws.com/jyLL/bLjIMvjLR0O1SS4WGD8sAA/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/jyLL/bLjIMvjLR0O1SS4WGD8sAA/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522010360.365504
+    "https://s3.amazonaws.com/CEFF3D36702/1134/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/CEFF3D36702/1134/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522010994.881615
     },
     "https://s3.amazonaws.com/buGRxZSWpUCSRkG8/1973/2083/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/buGRxZSWpUCSRkG8/1973/2083/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522009726.039685
     },
+    "https://s3.amazonaws.com/jyLL/bLjIMvjLR0O1SS4WGD8sAA/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/jyLL/bLjIMvjLR0O1SS4WGD8sAA/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522010360.365504
+    },
     "https://s3.amazonaws.com/1079488/6F90/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/1079488/6F90/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522011625.116918
     },
-    "https://s3.amazonaws.com/CEFF3D36702/1134/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/CEFF3D36702/1134/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522010994.881615
+    "https://s3.amazonaws.com/47334/7076/1061/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/47334/7076/1061/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522009095.464617
+    },
+    "https://s3.amazonaws.com/058f4024-f95d-46c2-979d-fa/84e79b9f-a6/cd427a35-3a/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/058f4024-f95d-46c2-979d-fa/84e79b9f-a6/cd427a35-3a/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522012258.167816
     }
   },
   "ad_urls": [
@@ -3667,6 +3667,7 @@
     "testpc24.havingalwaysthebestisimportant.review",
     "nowcheck.havingalwaysthebestisimportant.review",
     "legalsoft.amazinglysafeistallsforyoutoday.bid",
-    "newupgradesystem.amazinglysafeistallsforyoutoday.bid"
+    "newupgradesystem.amazinglysafeistallsforyoutoday.bid",
+    "setupupgrade.amazinglysafeistallsforyoutoday.bid"
   ]
 }
