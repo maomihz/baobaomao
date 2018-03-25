@@ -3566,3 +3566,4 @@
 |[testpc24.thehighsystemsforcontentingfree.win](https://dns.google.com/query?name=testpc24.thehighsystemsforcontentingfree.win&type=A)|
 |[upgradenow24.thehighsystemsforcontentingfree.win](https://dns.google.com/query?name=upgradenow24.thehighsystemsforcontentingfree.win&type=A)|
 |[24pcupgrade.thehighsystemsforcontentsfree.trade](https://dns.google.com/query?name=24pcupgrade.thehighsystemsforcontentsfree.trade&type=A)|
+|[aptitude.thehighsystemsforcontentsfree.trade](https://dns.google.com/query?name=aptitude.thehighsystemsforcontentsfree.trade&type=A)|
