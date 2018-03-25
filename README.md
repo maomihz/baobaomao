@@ -3664,3 +3664,4 @@
 |[updatenew.amazinglysafeistallsforyoutoday.bid](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyoutoday.bid&type=A)|
 |[upgradeget.havingalwaysthebestisessential.date](https://dns.google.com/query?name=upgradeget.havingalwaysthebestisessential.date&type=A)|
 |[newalways.havingalwaysthebestisessential.date](https://dns.google.com/query?name=newalways.havingalwaysthebestisessential.date&type=A)|
+|[check4free.havingalwaysthebestisessential.date](https://dns.google.com/query?name=check4free.havingalwaysthebestisessential.date&type=A)|
