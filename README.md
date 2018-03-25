@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2U3MTBhNjgvR0ZvSDVPNlgvWnFYYkljZlAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|17:00|https://s3.amazonaws.com/e710a68/GFoH5O6X/ZqXbIcfP/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1pjWDM1UUhrQjB1dEFCNGpfL0EyNEUvQTE4NS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:47|https://s3.amazonaws.com/ZcX35QHkB0utAB4j_/A24E/A185/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzU1YzEzZTBhLTAyZDYtNDIyMS05OTgyLTQ1My84MDc2L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:37|https://s3.amazonaws.com/55c13e0a-02d6-4221-9982-453/8076/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzJuVDcyX2Q4Q0UyMW9nWGdPYVJKaVEvNDE4Ni8xNDAyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:26|https://s3.amazonaws.com/2nT72_d8CE21ogXgOaRJiQ/4186/1402/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzhGNWdfM3RBbzBhM19ILzE5OTAvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|16:15|https://s3.amazonaws.com/8F5g_3tAo0a3_H/1990/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0l2SGcvQkI1OC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|16:09|https://s3.amazonaws.com/IvHg/BB58/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMwZjg2MmJkLTA2MmUtNDRmMS05ZGUyLS8zQjcxNEI2MjQ3RDY4OTQ3OEQ4QzUwRC80QjcwMDlBRUMzNjEwQzQ4OUZCRTU4Ri9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:56|https://s3.amazonaws.com/30f862bd-062e-44f1-9de2-/3B714B6247D689478D8C50D/4B7009AEC3610C489FBE58F/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3603,3 +3603,4 @@
 |[setupnow.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryonenow.review&type=A)|
 |[update2new.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryonenow.review&type=A)|
 |[updatesoftware.amazinglysafeistallsforeveryonenow.review](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonenow.review&type=A)|
+|[updatesoftware.amazinglysafeistallsforeveryonethismonth.review](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonethismonth.review&type=A)|
