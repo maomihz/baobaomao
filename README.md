@@ -3623,3 +3623,4 @@
 |[setupupgrade.amazinglysafeistallsforyou.review](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyou.review&type=A)|
 |[newupgradesystem.amazinglysafeistallsforyou.review](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyou.review&type=A)|
 |[legalsoft.amazinglysafeistallsforyou.review](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyou.review&type=A)|
+|[updatenew.amazinglysafeistallsforyouthismonth.date](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyouthismonth.date&type=A)|
