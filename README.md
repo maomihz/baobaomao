@@ -3570,3 +3570,4 @@
 |[testpc24.thehighsystemsforcontentsfree.trade](https://dns.google.com/query?name=testpc24.thehighsystemsforcontentsfree.trade&type=A)|
 |[check.theonlysafeplaceforcontentingnew.win](https://dns.google.com/query?name=check.theonlysafeplaceforcontentingnew.win&type=A)|
 |[installupgrade.theonlysafeplaceforcontentingnew.win](https://dns.google.com/query?name=installupgrade.theonlysafeplaceforcontentingnew.win&type=A)|
+|[update4soft.theonlysafeplaceforcontentingnew.win](https://dns.google.com/query?name=update4soft.theonlysafeplaceforcontentingnew.win&type=A)|
