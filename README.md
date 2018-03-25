@@ -3658,3 +3658,4 @@
 |[updateauto.havingalwaysthebestisimportant.review](https://dns.google.com/query?name=updateauto.havingalwaysthebestisimportant.review&type=A)|
 |[testpc24.havingalwaysthebestisimportant.review](https://dns.google.com/query?name=testpc24.havingalwaysthebestisimportant.review&type=A)|
 |[nowcheck.havingalwaysthebestisimportant.review](https://dns.google.com/query?name=nowcheck.havingalwaysthebestisimportant.review&type=A)|
+|[legalsoft.amazinglysafeistallsforyoutoday.bid](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyoutoday.bid&type=A)|
