@@ -3635,3 +3635,4 @@
 |[setupupgrade.amazinglysafeistallsforyouthismonth.stream](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyouthismonth.stream&type=A)|
 |[newupgradesystem.amazinglysafeistallsforyouthismonth.stream](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyouthismonth.stream&type=A)|
 |[legalsoft.amazinglysafeistallsforyouthismonth.stream](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyouthismonth.stream&type=A)|
+|[legalsoft.amazinglysafeistallsforyou.stream](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyou.stream&type=A)|
