@@ -3613,3 +3613,4 @@
 |[updatesoftware.amazinglysafeistallsforeveryonethismonth.date](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonethismonth.date&type=A)|
 |[updatenew.amazinglysafeistallsforyou.bid](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyou.bid&type=A)|
 |[setupupgrade.amazinglysafeistallsforyou.bid](https://dns.google.com/query?name=setupupgrade.amazinglysafeistallsforyou.bid&type=A)|
+|[newupgradesystem.amazinglysafeistallsforyou.bid](https://dns.google.com/query?name=newupgradesystem.amazinglysafeistallsforyou.bid&type=A)|
