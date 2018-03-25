@@ -3536,3 +3536,4 @@
 |[check24.alwaysgettobefirsttohavesafestupdatestoday.stream](https://dns.google.com/query?name=check24.alwaysgettobefirsttohavesafestupdatestoday.stream&type=A)|
 |[askupdate.alwaysgettobefirsttohavesafestupdatestoday.stream](https://dns.google.com/query?name=askupdate.alwaysgettobefirsttohavesafestupdatestoday.stream&type=A)|
 |[newsoft12.thehighsystemforcontentsfree.download](https://dns.google.com/query?name=newsoft12.thehighsystemforcontentsfree.download&type=A)|
+|[nowcheck.thehighsystemforcontentsfree.download](https://dns.google.com/query?name=nowcheck.thehighsystemforcontentsfree.download&type=A)|
