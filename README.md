@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY2NkM5NDNBRTEwOEQ1NEFBMUYwQkRENkREL2FxYjJuVFgva1VhWGRnRFhWTnRFZUEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|15:37|https://s3.amazonaws.com/666C943AE108D54AA1F0BDD6DD/aqb2nTX/kUaXdgDXVNtEeA/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1dEbERQcWJfaDBXY1dsR0ttYlNyQy81ZDE0L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:25|https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzIxMTEyLzAzMThlYTRhLWVkNTYtNDdiYi1iZGE1LWViMDQvZWU5OWI2YjAtMmRjYS00M2NlLTlkZGItZTExMC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:16|https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg|
 
@@ -3579,3 +3580,4 @@
 |[12updatenew.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryone.review&type=A)|
 |[setupnow.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryone.review&type=A)|
 |[update2new.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryone.review&type=A)|
+|[updatesoftware.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryone.review&type=A)|
