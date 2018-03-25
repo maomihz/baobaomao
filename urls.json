@@ -4,13 +4,9 @@
       "url": "https://s3.amazonaws.com/FA15163D613/1053/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522013398.297025
     },
-    "https://s3.amazonaws.com/6D732ED2952E4D45BE5D06EE0/4495/4294/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/6D732ED2952E4D45BE5D06EE0/4495/4294/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522015563.835917
-    },
-    "https://s3.amazonaws.com/pvMjVFnJM/ABF58F218/13123B9C4/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/pvMjVFnJM/ABF58F218/13123B9C4/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522014541.013827
+    "https://s3.amazonaws.com/9591/f0998385-e343-4025-941b-d6e7b/f90d30b7-9bcf-4f66-84bf-9cf23/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/9591/f0998385-e343-4025-941b-d6e7b/f90d30b7-9bcf-4f66-84bf-9cf23/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522016199.864907
     },
     "https://s3.amazonaws.com/_woNw_PG_E6A_5r/kd_um/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/_woNw_PG_E6A_5r/kd_um/AdobeFlashPlayerInstaller.dmg",
@@ -20,9 +16,13 @@
       "url": "https://s3.amazonaws.com/0HVzQYobL/9739657a-0/0192f74d-0/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522014034.413086
     },
-    "https://s3.amazonaws.com/9591/f0998385-e343-4025-941b-d6e7b/f90d30b7-9bcf-4f66-84bf-9cf23/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/9591/f0998385-e343-4025-941b-d6e7b/f90d30b7-9bcf-4f66-84bf-9cf23/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522016199.864907
+    "https://s3.amazonaws.com/pvMjVFnJM/ABF58F218/13123B9C4/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/pvMjVFnJM/ABF58F218/13123B9C4/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522014541.013827
+    },
+    "https://s3.amazonaws.com/6D732ED2952E4D45BE5D06EE0/4495/4294/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/6D732ED2952E4D45BE5D06EE0/4495/4294/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522015563.835917
     }
   },
   "ad_urls": [
@@ -3687,6 +3687,7 @@
     "newalways.havingalwaysthebestisessential.bid",
     "upgradeget.havingalwaysthebestisessential.bid",
     "upgradeget.havingalwaysthebestisessentialnow.date",
-    "newalways.havingalwaysthebestisessentialnow.date"
+    "newalways.havingalwaysthebestisessentialnow.date",
+    "check4free.havingalwaysthebestisessentialnow.date"
   ]
 }
