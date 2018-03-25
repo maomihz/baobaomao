@@ -3563,16 +3563,17 @@
     "setupnow.amazinglysafeistallsforeveryone.stream",
     "12updatenew.amazinglysafeistallsforeveryone.stream",
     "12updatenew.amazinglysafeistallsforeveryone.review",
-    "setupnow.amazinglysafeistallsforeveryone.review"
+    "setupnow.amazinglysafeistallsforeveryone.review",
+    "update2new.amazinglysafeistallsforeveryone.review"
   ],
   "urls": {
-    "https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1521991520.86551
-    },
     "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1521990979.07108
+    },
+    "https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1521991520.86551
     }
   }
 }

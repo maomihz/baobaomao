@@ -3578,3 +3578,4 @@
 |[12updatenew.amazinglysafeistallsforeveryone.stream](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryone.stream&type=A)|
 |[12updatenew.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryone.review&type=A)|
 |[setupnow.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryone.review&type=A)|
+|[update2new.amazinglysafeistallsforeveryone.review](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryone.review&type=A)|
