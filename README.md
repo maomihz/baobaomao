@@ -3620,3 +3620,4 @@
 |[setupnow.amazinglysafeistallsforeveryonethisweek.bid](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryonethisweek.bid&type=A)|
 |[update2new.amazinglysafeistallsforeveryonethisweek.bid](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryonethisweek.bid&type=A)|
 |[updatesoftware.amazinglysafeistallsforeveryonethisweek.bid](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonethisweek.bid&type=A)|
+|[updatenew.amazinglysafeistallsforyou.review](https://dns.google.com/query?name=updatenew.amazinglysafeistallsforyou.review&type=A)|
