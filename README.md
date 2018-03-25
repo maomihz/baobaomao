@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZBMTUxNjNENjEzLzEwNTMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:29|https://s3.amazonaws.com/FA15163D613/1053/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2MTg2LzczMjkyODUyLTJmNWQtNDliNS1hMy9jNTE4NmU3Yi04OGYxLTQ2YjAtYTIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:19|https://s3.amazonaws.com/16186/73292852-2f5d-49b5-a3/c5186e7b-88f1-46b0-a2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA1OGY0MDI0LWY5NWQtNDZjMi05NzlkLWZhLzg0ZTc5YjlmLWE2L2NkNDI3YTM1LTNhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:10|https://s3.amazonaws.com/058f4024-f95d-46c2-979d-fa/84e79b9f-a6/cd427a35-3a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwNzk0ODgvNkY5MC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:00|https://s3.amazonaws.com/1079488/6F90/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NFRkYzRDM2NzAyLzExMzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:49|https://s3.amazonaws.com/CEFF3D36702/1134/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2p5TEwvYkxqSU12akxSME8xU1M0V0dEOHNBQS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|20:39|https://s3.amazonaws.com/jyLL/bLjIMvjLR0O1SS4WGD8sAA/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2J1R1J4WlNXcFVDU1JrRzgvMTk3My8yMDgzL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:28|https://s3.amazonaws.com/buGRxZSWpUCSRkG8/1973/2083/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3665,3 +3665,4 @@
 |[upgradeget.havingalwaysthebestisessential.date](https://dns.google.com/query?name=upgradeget.havingalwaysthebestisessential.date&type=A)|
 |[newalways.havingalwaysthebestisessential.date](https://dns.google.com/query?name=newalways.havingalwaysthebestisessential.date&type=A)|
 |[check4free.havingalwaysthebestisessential.date](https://dns.google.com/query?name=check4free.havingalwaysthebestisessential.date&type=A)|
+|[check24.havingalwaysthebestisessential.date](https://dns.google.com/query?name=check24.havingalwaysthebestisessential.date&type=A)|
