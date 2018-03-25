@@ -3568,6 +3568,10 @@
     "updatesoftware.amazinglysafeistallsforeveryone.review"
   ],
   "urls": {
+    "https://s3.amazonaws.com/666C943AE108D54AA1F0BDD6DD/aqb2nTX/kUaXdgDXVNtEeA/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1521992271.543859,
+      "url": "https://s3.amazonaws.com/666C943AE108D54AA1F0BDD6DD/aqb2nTX/kUaXdgDXVNtEeA/AdobeFlashPlayerInstaller.dmg"
+    },
     "https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521991520.86551,
       "url": "https://s3.amazonaws.com/WDlDPqb_h0WcWlGKmbSrC/5d14/AdobeFlashPlayerInstaller.dmg"
@@ -3575,10 +3579,6 @@
     "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg": {
       "discovered": 1521990979.07108,
       "url": "https://s3.amazonaws.com/21112/0318ea4a-ed56-47bb-bda5-eb04/ee99b6b0-2dca-43ce-9ddb-e110/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/666C943AE108D54AA1F0BDD6DD/aqb2nTX/kUaXdgDXVNtEeA/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1521992271.543859,
-      "url": "https://s3.amazonaws.com/666C943AE108D54AA1F0BDD6DD/aqb2nTX/kUaXdgDXVNtEeA/AdobeFlashPlayerInstaller.dmg"
     }
   }
 }
