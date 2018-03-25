@@ -3651,3 +3651,4 @@
 |[updatelive.settingallreadyforupdate.bid](https://dns.google.com/query?name=updatelive.settingallreadyforupdate.bid&type=A)|
 |[lastworking.settingallreadyforupdate.bid](https://dns.google.com/query?name=lastworking.settingallreadyforupdate.bid&type=A)|
 |[getnewsoft.settingallreadyforupdate.bid](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdate.bid&type=A)|
+|[legalsoft.amazinglysafeistallsforyouthisweek.bid](https://dns.google.com/query?name=legalsoft.amazinglysafeistallsforyouthisweek.bid&type=A)|
