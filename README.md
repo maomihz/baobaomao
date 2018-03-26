@@ -3763,3 +3763,4 @@
 |[alwaysup.pushingnewforcontentinggo.review](https://dns.google.com/query?name=alwaysup.pushingnewforcontentinggo.review&type=A)|
 |[24pcupgrade.pushingnewforcontentinggo.review](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentinggo.review&type=A)|
 |[alwaysup.pushingnewforcontentinggo.bid](https://dns.google.com/query?name=alwaysup.pushingnewforcontentinggo.bid&type=A)|
+|[update2new.pushingnewforcontentinggo.bid](https://dns.google.com/query?name=update2new.pushingnewforcontentinggo.bid&type=A)|
