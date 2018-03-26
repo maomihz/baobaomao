@@ -3750,3 +3750,4 @@
 |[updatesoftware.amazinglysafeistallsforeveryonethismonth.stream](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonethismonth.stream&type=A)|
 |[updatesoftware.amazinglysafeistallsforeveryonethisweek.stream](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonethisweek.stream&type=A)|
 |[update2new.amazinglysafeistallsforeveryonethisweek.stream](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryonethisweek.stream&type=A)|
+|[setupnow.amazinglysafeistallsforeveryonethisweek.stream](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryonethisweek.stream&type=A)|
