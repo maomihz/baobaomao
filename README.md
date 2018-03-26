@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg4MzI0NS8zMDE5RDUzOTJDMjQxRjQzOTUyN0ZGMUVGMS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:26|https://s3.amazonaws.com/883245/3019D5392C241F439527FF1EF1/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBGMUQ2OTI3MUJGN0VDNEJCMzEwRjlFQzJEQTBGL3l0ekIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:18|https://s3.amazonaws.com/0F1D69271BF7EC4BB310F9EC2DA0F/ytzB/AdobeFlashPlayerInstaller.dmg|
 
 
@@ -3750,3 +3751,4 @@
 |[12updatenew.amazinglysafeistallsforeveryonethisweek.date](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonethisweek.date&type=A)|
 |[installupgradenow.pushingnewforcontentclear.date](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentclear.date&type=A)|
 |[update2.pushingnewforcontentclear.date](https://dns.google.com/query?name=update2.pushingnewforcontentclear.date&type=A)|
+|[update2now.pushingnewforcontentclear.date](https://dns.google.com/query?name=update2now.pushingnewforcontentclear.date&type=A)|
