@@ -1,28 +1,28 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/B10765C64E42834A9EF5812B80D6/62DB/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/B10765C64E42834A9EF5812B80D6/62DB/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522027269.5304
-    },
     "https://s3.amazonaws.com/ELrKFKJA1U6pwpUU/F74A6944514C6/D48B147D87B20/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/ELrKFKJA1U6pwpUU/F74A6944514C6/D48B147D87B20/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522029051.732834
     },
-    "https://s3.amazonaws.com/0FB7/3983/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/0FB7/3983/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522025990.587799
+    "https://s3.amazonaws.com/53bca721-80a4-4017-a9f2-1/8836/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/53bca721-80a4-4017-a9f2-1/8836/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522027779.517286
     },
     "https://s3.amazonaws.com/1363/533D/2D8D/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/1363/533D/2D8D/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522026377.866829
     },
+    "https://s3.amazonaws.com/B10765C64E42834A9EF5812B80D6/62DB/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/B10765C64E42834A9EF5812B80D6/62DB/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522027269.5304
+    },
+    "https://s3.amazonaws.com/0FB7/3983/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/0FB7/3983/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522025990.587799
+    },
     "https://s3.amazonaws.com/B9FEFA7D5E3/12883/8722/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/B9FEFA7D5E3/12883/8722/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522028414.246911
-    },
-    "https://s3.amazonaws.com/53bca721-80a4-4017-a9f2-1/8836/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/53bca721-80a4-4017-a9f2-1/8836/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522027779.517286
     }
   },
   "ad_urls": [
@@ -3736,6 +3736,7 @@
     "whenupdate.havingalwaysthebestisimportantthisyear.bid",
     "testpc24.havingalwaysthebestisimportantthisyear.bid",
     "nowcheck.havingalwaysthebestisimportantthisyear.bid",
-    "nowcheck.havingalwaysthebestisimportantthisweek.date"
+    "nowcheck.havingalwaysthebestisimportantthisweek.date",
+    "testpc24.havingalwaysthebestisimportantthisweek.date"
   ]
 }
