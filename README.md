@@ -3785,3 +3785,4 @@
 |[nowsetup.pushingnewforcontentinggreat.date](https://dns.google.com/query?name=nowsetup.pushingnewforcontentinggreat.date&type=A)|
 |[upgrade4life.pushingnewforcontentinggreat.date](https://dns.google.com/query?name=upgrade4life.pushingnewforcontentinggreat.date&type=A)|
 |[upgrade4life.pushingnewforcontentinggreat.stream](https://dns.google.com/query?name=upgrade4life.pushingnewforcontentinggreat.stream&type=A)|
+|[soft2apt.pushingnewforcontentinggreat.stream](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.stream&type=A)|
