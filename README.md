@@ -3795,3 +3795,4 @@
 |[12updatenew.pushingnewforcontentingup.bid](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.bid&type=A)|
 |[nowsetup.pushingnewforcontentinggreat.win](https://dns.google.com/query?name=nowsetup.pushingnewforcontentinggreat.win&type=A)|
 |[soft2apt.pushingnewforcontentinggreat.win](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.win&type=A)|
+|[pcchecker.pushingnewforcontentingup.download](https://dns.google.com/query?name=pcchecker.pushingnewforcontentingup.download&type=A)|
