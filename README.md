@@ -3773,3 +3773,4 @@
 |[24pcupgrade.pushingnewforcontentinggo.trade](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentinggo.trade&type=A)|
 |[alwaysup.pushingnewforcontentinggo.download](https://dns.google.com/query?name=alwaysup.pushingnewforcontentinggo.download&type=A)|
 |[update2new.pushingnewforcontentinggo.download](https://dns.google.com/query?name=update2new.pushingnewforcontentinggo.download&type=A)|
+|[upgrade12check.pushingnewforcontentinggo.download](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentinggo.download&type=A)|
