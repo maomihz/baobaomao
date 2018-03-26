@@ -3788,3 +3788,4 @@
 |[soft2apt.pushingnewforcontentinggreat.stream](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.stream&type=A)|
 |[howupdateworks.pushingnewforcontentinggreat.download](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentinggreat.download&type=A)|
 |[nowsetup.pushingnewforcontentinggreat.download](https://dns.google.com/query?name=nowsetup.pushingnewforcontentinggreat.download&type=A)|
+|[soft2apt.pushingnewforcontentinggreat.download](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.download&type=A)|
