@@ -3797,3 +3797,4 @@
 |[soft2apt.pushingnewforcontentinggreat.win](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.win&type=A)|
 |[pcchecker.pushingnewforcontentingup.download](https://dns.google.com/query?name=pcchecker.pushingnewforcontentingup.download&type=A)|
 |[getnewsoft.pushingnewforcontentingup.download](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentingup.download&type=A)|
+|[12updatenew.pushingnewforcontentingup.download](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.download&type=A)|
