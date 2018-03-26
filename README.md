@@ -3752,3 +3752,4 @@
 |[installupgradenow.pushingnewforcontentclear.date](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentclear.date&type=A)|
 |[update2.pushingnewforcontentclear.date](https://dns.google.com/query?name=update2.pushingnewforcontentclear.date&type=A)|
 |[update2now.pushingnewforcontentclear.date](https://dns.google.com/query?name=update2now.pushingnewforcontentclear.date&type=A)|
+|[upgradenow24.pushingnewforcontentclear.date](https://dns.google.com/query?name=upgradenow24.pushingnewforcontentclear.date&type=A)|
