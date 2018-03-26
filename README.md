@@ -3798,3 +3798,4 @@
 |[getnewsoft.pushingnewforcontentingup.download](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentingup.download&type=A)|
 |[12updatenew.pushingnewforcontentingup.download](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.download&type=A)|
 |[futureupdates.pushingnewforcontentingup.download](https://dns.google.com/query?name=futureupdates.pushingnewforcontentingup.download&type=A)|
+|[pcchecker.pushingnewforcontentingup.stream](https://dns.google.com/query?name=pcchecker.pushingnewforcontentingup.stream&type=A)|
