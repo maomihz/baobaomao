@@ -3747,3 +3747,4 @@
 |[12updatenew.amazinglysafeistallsforeveryonethismonth.stream](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonethismonth.stream&type=A)|
 |[setupnow.amazinglysafeistallsforeveryonethismonth.stream](https://dns.google.com/query?name=setupnow.amazinglysafeistallsforeveryonethismonth.stream&type=A)|
 |[update2new.amazinglysafeistallsforeveryonethismonth.stream](https://dns.google.com/query?name=update2new.amazinglysafeistallsforeveryonethismonth.stream&type=A)|
+|[updatesoftware.amazinglysafeistallsforeveryonethismonth.stream](https://dns.google.com/query?name=updatesoftware.amazinglysafeistallsforeveryonethismonth.stream&type=A)|
