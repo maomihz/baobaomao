@@ -3758,3 +3758,4 @@
 |[update2new.pushingnewforcontentinggo.date](https://dns.google.com/query?name=update2new.pushingnewforcontentinggo.date&type=A)|
 |[24pcupgrade.pushingnewforcontentinggo.date](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentinggo.date&type=A)|
 |[upgradenow24.pushingnewforcontentclear.review](https://dns.google.com/query?name=upgradenow24.pushingnewforcontentclear.review&type=A)|
+|[upgrade12check.pushingnewforcontentinggo.review](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentinggo.review&type=A)|
