@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA2ODc2QjQ2MEM3ODg4NEM4RDY2RDcxMDg0N0M1MDcvejN6ZW5YQ0R6MHlGajdQSDE2cjYvdHlyMzdHdHVka3VHcUJwcjRwTGcvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:00|https://s3.amazonaws.com/06876B460C78884C8D66D710847C507/z3zenXCDz0yFj7PH16r6/tyr37GtudkuGqBpr4pLg/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI0NjIwNkQwQUY5RTRFL0Q5QjIxMUY0OTdFQjMwNC9COTVDMzhBQ0VBMjRBNzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:49|https://s3.amazonaws.com/246206D0AF9E4E/D9B211F497EB304/B95C38ACEA24A74/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL19YQXM1OVo1UEVDS0Y2Z0xRR1EwL0dxYks1TC91MmUvOEEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|22:38|https://s3.amazonaws.com/_XAs59Z5PECKF6gLQGQ0/GqbK5L/u2e/8A/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEwMDg3L01FMzBEL3VfYTBDL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|22:28|https://s3.amazonaws.com/10087/ME30D/u_a0C/AdobeFlashPlayerInstaller.dmg|
@@ -3786,3 +3787,4 @@
 |[upgrade4life.pushingnewforcontentinggreat.date](https://dns.google.com/query?name=upgrade4life.pushingnewforcontentinggreat.date&type=A)|
 |[upgrade4life.pushingnewforcontentinggreat.stream](https://dns.google.com/query?name=upgrade4life.pushingnewforcontentinggreat.stream&type=A)|
 |[soft2apt.pushingnewforcontentinggreat.stream](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.stream&type=A)|
+|[howupdateworks.pushingnewforcontentinggreat.download](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentinggreat.download&type=A)|
