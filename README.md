@@ -3749,3 +3749,4 @@
 |[12updatenew.amazinglysafeistallsforeveryonethisweek.stream](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonethisweek.stream&type=A)|
 |[12updatenew.amazinglysafeistallsforeveryonethisweek.date](https://dns.google.com/query?name=12updatenew.amazinglysafeistallsforeveryonethisweek.date&type=A)|
 |[installupgradenow.pushingnewforcontentclear.date](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentclear.date&type=A)|
+|[update2.pushingnewforcontentclear.date](https://dns.google.com/query?name=update2.pushingnewforcontentclear.date&type=A)|
