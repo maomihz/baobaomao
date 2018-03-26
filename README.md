@@ -3801,3 +3801,4 @@
 |[pcchecker.pushingnewforcontentingup.stream](https://dns.google.com/query?name=pcchecker.pushingnewforcontentingup.stream&type=A)|
 |[getnewsoft.pushingnewforcontentingup.stream](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentingup.stream&type=A)|
 |[futureupdates.pushingnewforcontentingup.stream](https://dns.google.com/query?name=futureupdates.pushingnewforcontentingup.stream&type=A)|
+|[12updatenew.pushingnewforcontentingup.stream](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.stream&type=A)|
