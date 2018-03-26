@@ -3767,3 +3767,4 @@
 |[update2new.pushingnewforcontentinggo.bid](https://dns.google.com/query?name=update2new.pushingnewforcontentinggo.bid&type=A)|
 |[upgrade12check.pushingnewforcontentinggo.bid](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentinggo.bid&type=A)|
 |[upgrade12check.pushingnewforcontentinggo.trade](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentinggo.trade&type=A)|
+|[update2new.pushingnewforcontentinggo.trade](https://dns.google.com/query?name=update2new.pushingnewforcontentinggo.trade&type=A)|
