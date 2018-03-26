@@ -3791,3 +3791,4 @@
 |[soft2apt.pushingnewforcontentinggreat.download](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.download&type=A)|
 |[howupdateworks.pushingnewforcontentinggreat.review](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentinggreat.review&type=A)|
 |[nowsetup.pushingnewforcontentinggreat.review](https://dns.google.com/query?name=nowsetup.pushingnewforcontentinggreat.review&type=A)|
+|[12updatenew.pushingnewforcontentingup.bid](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.bid&type=A)|
