@@ -3780,3 +3780,4 @@
 |[soft2apt.pushingnewforcontentinggreat.bid](https://dns.google.com/query?name=soft2apt.pushingnewforcontentinggreat.bid&type=A)|
 |[upgrade12check.pushingnewforcontentinggo.stream](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentinggo.stream&type=A)|
 |[update2new.pushingnewforcontentinggo.stream](https://dns.google.com/query?name=update2new.pushingnewforcontentinggo.stream&type=A)|
+|[24pcupgrade.pushingnewforcontentinggo.stream](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentinggo.stream&type=A)|
