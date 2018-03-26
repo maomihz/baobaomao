@@ -3775,3 +3775,4 @@
 |[update2new.pushingnewforcontentinggo.download](https://dns.google.com/query?name=update2new.pushingnewforcontentinggo.download&type=A)|
 |[upgrade12check.pushingnewforcontentinggo.download](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentinggo.download&type=A)|
 |[alwaysup.pushingnewforcontentinggo.win](https://dns.google.com/query?name=alwaysup.pushingnewforcontentinggo.win&type=A)|
+|[24pcupgrade.pushingnewforcontentinggo.win](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentinggo.win&type=A)|
