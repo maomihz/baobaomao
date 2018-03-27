@@ -3803,3 +3803,4 @@
 |[futureupdates.pushingnewforcontentingup.stream](https://dns.google.com/query?name=futureupdates.pushingnewforcontentingup.stream&type=A)|
 |[12updatenew.pushingnewforcontentingup.stream](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.stream&type=A)|
 |[12updatenew.pushingnewforcontentingup.date](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.date&type=A)|
+|[futureupdates.pushingnewforcontentingup.date](https://dns.google.com/query?name=futureupdates.pushingnewforcontentingup.date&type=A)|
