@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1J5c0s2QWNyVDBtR1RSci95V1lrL2l3YkIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:00|https://s3.amazonaws.com/RysK6AcrT0mGTRr/yWYk/iwbB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQyM2IvcmJEMWMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:49|https://s3.amazonaws.com/423b/rbD1c/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlieGU5UGY4VEUyL2ZjNDNjNTE0LTg2OGItNGQyNS1hNzIyLWJmY2ZlYzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:38|https://s3.amazonaws.com/9bxe9Pf8TE2/fc43c514-868b-4d25-a722-bfcfec4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdmNzIvNmExZTc0OGItZjA4MC00ZjExLWFhNjAtL2E4MzQyNmEwLWZkYTEtNDc3Ni05MWZkLS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:28|https://s3.amazonaws.com/7f72/6a1e748b-f080-4f11-aa60-/a83426a0-fda1-4776-91fd-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFiMmJiYzk0LTIwYS8xOTJhL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|02:17|https://s3.amazonaws.com/1b2bbc94-20a/192a/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE2MjQvOGJlZS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|02:09|https://s3.amazonaws.com/1624/8bee/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2pCQmhqZS9BbjRpMnRmQ0lrX2lVU0xleDhCcFJ3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|01:58|https://s3.amazonaws.com/jBBhje/An4i2tfCIk_iUSLex8BpRw/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3852,3 +3852,4 @@
 |[howupdateworks.pushingnewforcontentsafegreat.review](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentsafegreat.review&type=A)|
 |[testupgrade.pushingnewforcontentsafeload.bid](https://dns.google.com/query?name=testupgrade.pushingnewforcontentsafeload.bid&type=A)|
 |[check.pushingnewforcontentsafeload.bid](https://dns.google.com/query?name=check.pushingnewforcontentsafeload.bid&type=A)|
+|[howupdateworks.pushingnewforcontentsafegreat.trade](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentsafegreat.trade&type=A)|
