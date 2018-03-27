@@ -3955,3 +3955,4 @@
 |[12updatenew.pushingnewforcontentsup.trade](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsup.trade&type=A)|
 |[12updatenew.pushingnewforcontentsup.win](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsup.win&type=A)|
 |[getnewsoft.pushingnewforcontentsup.win](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsup.win&type=A)|
+|[12updatenew.pushingnewforcontentup.download](https://dns.google.com/query?name=12updatenew.pushingnewforcontentup.download&type=A)|
