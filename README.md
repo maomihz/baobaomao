@@ -3960,3 +3960,4 @@
 |[12updatenew.pushingnewforcontentup.review](https://dns.google.com/query?name=12updatenew.pushingnewforcontentup.review&type=A)|
 |[futureupdates.pushingnewforcontentup.review](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.review&type=A)|
 |[getnewsoft.settingallreadyforupdate.review](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdate.review&type=A)|
+|[lastworking.settingallreadyforupdate.review](https://dns.google.com/query?name=lastworking.settingallreadyforupdate.review&type=A)|
