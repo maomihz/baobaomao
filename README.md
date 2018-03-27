@@ -3981,3 +3981,4 @@
 |[update4soft.yourgoodpointforcontentnow.stream](https://dns.google.com/query?name=update4soft.yourgoodpointforcontentnow.stream&type=A)|
 |[24check.yourgoodpointforcontentinggreat.stream](https://dns.google.com/query?name=24check.yourgoodpointforcontentinggreat.stream&type=A)|
 |[freemaintenance.yourgoodpointforcontentinggreat.stream](https://dns.google.com/query?name=freemaintenance.yourgoodpointforcontentinggreat.stream&type=A)|
+|[newtest4pc.yourgoodpointforcontentsafenow.trade](https://dns.google.com/query?name=newtest4pc.yourgoodpointforcontentsafenow.trade&type=A)|
