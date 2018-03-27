@@ -3925,3 +3925,4 @@
 |[nowsetup.pushingnewforcontentsgreat.review](https://dns.google.com/query?name=nowsetup.pushingnewforcontentsgreat.review&type=A)|
 |[howupdateworks.pushingnewforcontentsgreat.trade](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentsgreat.trade&type=A)|
 |[nowsetup.pushingnewforcontentsgreat.trade](https://dns.google.com/query?name=nowsetup.pushingnewforcontentsgreat.trade&type=A)|
+|[soft2apt.pushingnewforcontentsgreat.trade](https://dns.google.com/query?name=soft2apt.pushingnewforcontentsgreat.trade&type=A)|
