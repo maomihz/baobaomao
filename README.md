@@ -3806,3 +3806,4 @@
 |[futureupdates.pushingnewforcontentingup.date](https://dns.google.com/query?name=futureupdates.pushingnewforcontentingup.date&type=A)|
 |[getnewsoft.pushingnewforcontentingup.date](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentingup.date&type=A)|
 |[pcchecker.pushingnewforcontentingup.date](https://dns.google.com/query?name=pcchecker.pushingnewforcontentingup.date&type=A)|
+|[getnewsoft.pushingnewforcontentingup.win](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentingup.win&type=A)|
