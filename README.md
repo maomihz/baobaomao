@@ -3866,3 +3866,4 @@
 |[getnewsoft.pushingnewforcontentsafeup.bid](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.bid&type=A)|
 |[futureupdates.pushingnewforcontentsafeup.bid](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsafeup.bid&type=A)|
 |[nowgetsoft.pushingnewforcontentsafeload.win](https://dns.google.com/query?name=nowgetsoft.pushingnewforcontentsafeload.win&type=A)|
+|[freemaintenance.pushingnewforcontentsafeload.win](https://dns.google.com/query?name=freemaintenance.pushingnewforcontentsafeload.win&type=A)|
