@@ -4075,3 +4075,4 @@
 |[readygo.yourpushingcontentingfree.stream](https://dns.google.com/query?name=readygo.yourpushingcontentingfree.stream&type=A)|
 |[versionlast.yourpushingcontentingfree.stream](https://dns.google.com/query?name=versionlast.yourpushingcontentingfree.stream&type=A)|
 |[24pccheck.yourpushingcontentingfree.trade](https://dns.google.com/query?name=24pccheck.yourpushingcontentingfree.trade&type=A)|
+|[how2update.yourpushingcontentingfree.trade](https://dns.google.com/query?name=how2update.yourpushingcontentingfree.trade&type=A)|
