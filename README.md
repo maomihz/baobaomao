@@ -3874,3 +3874,4 @@
 |[getnewsoft.pushingnewforcontentsafeup.review](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.review&type=A)|
 |[futureupdates.pushingnewforcontentsafeup.date](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsafeup.date&type=A)|
 |[pcchecker.pushingnewforcontentsafeup.date](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.date&type=A)|
+|[pcchecker.pushingnewforcontentsafeup.win](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.win&type=A)|
