@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2ZkOTM1MmE5LWNhZjktNGM3ZC05ZTFkLTIxMC84NjgyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:53|https://s3.amazonaws.com/fd9352a9-caf9-4c7d-9e1d-210/8682/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RDRUFCQjU2NjMwQTAvYWY2MmZjMGUtMGU0NC00ZjE4LS80NWY3MjViNy01Zjc2LTRmMjEtL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:38|https://s3.amazonaws.com/DCEABB56630A0/af62fc0e-0e44-4f18-/45f725b7-5f76-4f21-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczNDE1MTMyLzE1NDQwNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:28|https://s3.amazonaws.com/73415132/154406/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzk2MjNEQkQyLzU3MDM0ODk1NDM0L0IzOTNEM0ZCMTNFL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|11:19|https://s3.amazonaws.com/9623DBD2/57034895434/B393D3FB13E/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzljMWYvMTlDNzVFQzNCMUQ0RDk0MTgyQzIxMDZCL0I2QzBBQjExOURERUE2NDQ5RDkwREUxNy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|11:11|https://s3.amazonaws.com/9c1f/19C75EC3B1D4D94182C2106B/B6C0AB119DDEA6449D90DE17/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0Q4M0IvMTg0NC8xODAwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|10:58|https://s3.amazonaws.com/D83B/1844/1800/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzUwNTE3QkZERkEzN0EwNEMvODU5Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|10:49|https://s3.amazonaws.com/50517BFDFA37A04C/8592/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3984,3 +3984,4 @@
 |[newtest4pc.yourgoodpointforcontentsafenow.trade](https://dns.google.com/query?name=newtest4pc.yourgoodpointforcontentsafenow.trade&type=A)|
 |[keyupgrade.yourgoodpointforcontentsnow.review](https://dns.google.com/query?name=keyupgrade.yourgoodpointforcontentsnow.review&type=A)|
 |[newtest4pc.yourgoodpointforcontentsnow.review](https://dns.google.com/query?name=newtest4pc.yourgoodpointforcontentsnow.review&type=A)|
+|[upnow2app.yourgoodpointforcontentinggreat.stream](https://dns.google.com/query?name=upnow2app.yourgoodpointforcontentinggreat.stream&type=A)|
