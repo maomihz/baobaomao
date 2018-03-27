@@ -4048,3 +4048,4 @@
 |[pcupgrade.yourpushingcontentingalways.bid](https://dns.google.com/query?name=pcupgrade.yourpushingcontentingalways.bid&type=A)|
 |[prepare2upvideo.yourpushingcontentingalways.bid](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentingalways.bid&type=A)|
 |[24check4updates.yourpushingcontentingalways.date](https://dns.google.com/query?name=24check4updates.yourpushingcontentingalways.date&type=A)|
+|[newversionupdate.yourpushingcontentingalways.date](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.date&type=A)|
