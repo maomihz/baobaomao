@@ -3844,3 +3844,4 @@
 |[upgrade4life.pushingnewforcontentsafegreat.date](https://dns.google.com/query?name=upgrade4life.pushingnewforcontentsafegreat.date&type=A)|
 |[update2new.pushingnewforcontentsafego.download](https://dns.google.com/query?name=update2new.pushingnewforcontentsafego.download&type=A)|
 |[alwaysup.pushingnewforcontentsafego.download](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsafego.download&type=A)|
+|[24pcupgrade.pushingnewforcontentsafego.download](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentsafego.download&type=A)|
