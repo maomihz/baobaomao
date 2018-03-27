@@ -3933,3 +3933,4 @@
 |[soft2apt.pushingnewforcontentsgreat.win](https://dns.google.com/query?name=soft2apt.pushingnewforcontentsgreat.win&type=A)|
 |[check.pushingnewforcontentsload.date](https://dns.google.com/query?name=check.pushingnewforcontentsload.date&type=A)|
 |[freemaintenance.pushingnewforcontentsload.date](https://dns.google.com/query?name=freemaintenance.pushingnewforcontentsload.date&type=A)|
+|[alwaysup.pushingnewforcontentsafego.date](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsafego.date&type=A)|
