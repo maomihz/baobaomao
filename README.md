@@ -4109,3 +4109,4 @@
 |[futureupdates.pushingnewforcontentup.win](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.win&type=A)|
 |[12updatenew.pushingnewforcontentup.win](https://dns.google.com/query?name=12updatenew.pushingnewforcontentup.win&type=A)|
 |[futureupdates.pushingnewforcontentup.trade](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.trade&type=A)|
+|[pcchecker.pushingnewforcontentingup.win](https://dns.google.com/query?name=pcchecker.pushingnewforcontentingup.win&type=A)|
