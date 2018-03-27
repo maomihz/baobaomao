@@ -4041,3 +4041,4 @@
 |[upgradeinstall.yourpushingcontentingall.download](https://dns.google.com/query?name=upgradeinstall.yourpushingcontentingall.download&type=A)|
 |[finishedupdate.yourpushingcontentingall.review](https://dns.google.com/query?name=finishedupdate.yourpushingcontentingall.review&type=A)|
 |[safe.yourpushingcontentingall.review](https://dns.google.com/query?name=safe.yourpushingcontentingall.review&type=A)|
+|[update4now.yourpushingcontentingall.review](https://dns.google.com/query?name=update4now.yourpushingcontentingall.review&type=A)|
