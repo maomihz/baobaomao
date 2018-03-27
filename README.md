@@ -4045,3 +4045,4 @@
 |[upgradeinstall.yourpushingcontentingall.review](https://dns.google.com/query?name=upgradeinstall.yourpushingcontentingall.review&type=A)|
 |[24check4updates.yourpushingcontentingalways.bid](https://dns.google.com/query?name=24check4updates.yourpushingcontentingalways.bid&type=A)|
 |[newversionupdate.yourpushingcontentingalways.bid](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.bid&type=A)|
+|[pcupgrade.yourpushingcontentingalways.bid](https://dns.google.com/query?name=pcupgrade.yourpushingcontentingalways.bid&type=A)|
