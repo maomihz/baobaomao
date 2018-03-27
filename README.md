@@ -3959,3 +3959,4 @@
 |[getnewsoft.pushingnewforcontentup.download](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentup.download&type=A)|
 |[12updatenew.pushingnewforcontentup.review](https://dns.google.com/query?name=12updatenew.pushingnewforcontentup.review&type=A)|
 |[futureupdates.pushingnewforcontentup.review](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.review&type=A)|
+|[getnewsoft.settingallreadyforupdate.review](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdate.review&type=A)|
