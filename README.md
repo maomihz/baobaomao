@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q4ZTE3ZDA3LTI4NDQtNDdlMS1iMzM2LS9kQktwX2JWY0RVL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:52|https://s3.amazonaws.com/d8e17d07-2844-47e1-b336-/dBKp_bVcDU/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL3hsMl9VZ19wZlVXdGlJQ2lzTy84NjZEQzhFQzYzQjZGMDQxQTlBNDhEL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:39|https://s3.amazonaws.com/xl2_Ug_pfUWtiICisO/866DC8EC63B6F041A9A48D/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q5OThkM2RjLTYwMjctNGE4ZC1hNDU0LTJhZDcwYzM4ZDFiL3NEYlR2MGtlL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:26|https://s3.amazonaws.com/d998d3dc-6027-4a8d-a454-2ad70c38d1b/sDbTv0ke/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzE0MjgvMzgxMTE4MS9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|15:20|https://s3.amazonaws.com/1428/3811181/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JmOEhrZkNqamtLU2QvT0E3b3BaNi9TX2xLQnpSL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|15:07|https://s3.amazonaws.com/Bf8HkfCjjkKSd/OA7opZ6/S_lKBzR/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzA4NWEvNmIxZWJmMzMtODkyNC00NmM3LTkzMWUvNzQ5YzYyOGUtMjE1Yy00NDY0LWFiZGMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:56|https://s3.amazonaws.com/085a/6b1ebf33-8924-46c7-931e/749c628e-215c-4464-abdc/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL09JN2gvT3JvSkU5NDl3VW1naEEyR0cvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|14:48|https://s3.amazonaws.com/OI7h/OroJE949wUmghA2GG/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -4042,3 +4042,4 @@
 |[finishedupdate.yourpushingcontentingall.review](https://dns.google.com/query?name=finishedupdate.yourpushingcontentingall.review&type=A)|
 |[safe.yourpushingcontentingall.review](https://dns.google.com/query?name=safe.yourpushingcontentingall.review&type=A)|
 |[update4now.yourpushingcontentingall.review](https://dns.google.com/query?name=update4now.yourpushingcontentingall.review&type=A)|
+|[upgradeinstall.yourpushingcontentingall.review](https://dns.google.com/query?name=upgradeinstall.yourpushingcontentingall.review&type=A)|
