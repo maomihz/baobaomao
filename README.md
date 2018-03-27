@@ -3880,3 +3880,4 @@
 |[12updatenew.pushingnewforcontentsafeup.win](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsafeup.win&type=A)|
 |[12updatenew.pushingnewforcontentsafeup.download](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsafeup.download&type=A)|
 |[futureupdates.pushingnewforcontentsafeup.download](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsafeup.download&type=A)|
+|[getnewsoft.pushingnewforcontentsafeup.download](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.download&type=A)|
