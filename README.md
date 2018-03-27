@@ -3979,3 +3979,4 @@
 |[upnow2app.yourgoodpointforcontentgreat.download](https://dns.google.com/query?name=upnow2app.yourgoodpointforcontentgreat.download&type=A)|
 |[keyupgrade.yourgoodpointforcontentnow.stream](https://dns.google.com/query?name=keyupgrade.yourgoodpointforcontentnow.stream&type=A)|
 |[update4soft.yourgoodpointforcontentnow.stream](https://dns.google.com/query?name=update4soft.yourgoodpointforcontentnow.stream&type=A)|
+|[24check.yourgoodpointforcontentinggreat.stream](https://dns.google.com/query?name=24check.yourgoodpointforcontentinggreat.stream&type=A)|
