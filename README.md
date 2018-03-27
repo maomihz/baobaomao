@@ -3836,3 +3836,4 @@
 |[update2.pushingnewforcontentsafeclear.trade](https://dns.google.com/query?name=update2.pushingnewforcontentsafeclear.trade&type=A)|
 |[update2now.pushingnewforcontentsafeclear.trade](https://dns.google.com/query?name=update2now.pushingnewforcontentsafeclear.trade&type=A)|
 |[update2new.pushingnewforcontentsafego.win](https://dns.google.com/query?name=update2new.pushingnewforcontentsafego.win&type=A)|
+|[alwaysup.pushingnewforcontentsafego.win](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsafego.win&type=A)|
