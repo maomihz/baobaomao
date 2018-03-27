@@ -3822,3 +3822,4 @@
 |[upgrade12check.pushingnewforcontentsafego.bid](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentsafego.bid&type=A)|
 |[update2new.pushingnewforcontentsafego.bid](https://dns.google.com/query?name=update2new.pushingnewforcontentsafego.bid&type=A)|
 |[update2.pushingnewforcontentsafeclear.win](https://dns.google.com/query?name=update2.pushingnewforcontentsafeclear.win&type=A)|
+|[installupgradenow.pushingnewforcontentsafeclear.win](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentsafeclear.win&type=A)|
