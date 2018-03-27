@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzEyMDEvMzQ5NmFlYmYtZWI1ZC00MGMvMmNhYjc0ZWQtMzRjNS00MTIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:51|https://s3.amazonaws.com/1201/3496aebf-eb5d-40c/2cab74ed-34c5-412/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBkNTM3NzAxLWUvNFpWR3YvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:40|https://s3.amazonaws.com/0d537701-e/4ZVGv/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JfOHZGOS81MjM5NTJBQkI0QkVCNzRDQURBOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:27|https://s3.amazonaws.com/B_8vF9/523952ABB4BEB74CADA8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBGRm8vS0h1MTZKZ0xaRU81NS92NFh4TGYzdz0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:17|https://s3.amazonaws.com/0FFo/KHu16JgLZEO55/v4XxLf3w=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZCQUEvMzlmZC84OWY3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:08|https://s3.amazonaws.com/6BAA/39fd/89f7/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1J5c0s2QWNyVDBtR1RSci95V1lrL2l3YkIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:00|https://s3.amazonaws.com/RysK6AcrT0mGTRr/yWYk/iwbB/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQyM2IvcmJEMWMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:49|https://s3.amazonaws.com/423b/rbD1c/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3868,3 +3868,4 @@
 |[nowgetsoft.pushingnewforcontentsafeload.win](https://dns.google.com/query?name=nowgetsoft.pushingnewforcontentsafeload.win&type=A)|
 |[freemaintenance.pushingnewforcontentsafeload.win](https://dns.google.com/query?name=freemaintenance.pushingnewforcontentsafeload.win&type=A)|
 |[check.pushingnewforcontentsafeload.date](https://dns.google.com/query?name=check.pushingnewforcontentsafeload.date&type=A)|
+|[freemaintenance.pushingnewforcontentsafeload.date](https://dns.google.com/query?name=freemaintenance.pushingnewforcontentsafeload.date&type=A)|
