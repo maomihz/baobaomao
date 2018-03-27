@@ -3964,3 +3964,4 @@
 |[updatelive.settingallreadyforupdate.review](https://dns.google.com/query?name=updatelive.settingallreadyforupdate.review&type=A)|
 |[upgradecheck12.settingallreadyforupdate.review](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdate.review&type=A)|
 |[12updatenew.pushingnewforcontentup.stream](https://dns.google.com/query?name=12updatenew.pushingnewforcontentup.stream&type=A)|
+|[futureupdates.pushingnewforcontentup.stream](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.stream&type=A)|
