@@ -4064,3 +4064,4 @@
 |[newversionupdate.yourpushingcontentingalways.trade](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.trade&type=A)|
 |[pcupgrade.yourpushingcontentingalways.trade](https://dns.google.com/query?name=pcupgrade.yourpushingcontentingalways.trade&type=A)|
 |[prepare2upvideo.yourpushingcontentingalways.trade](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentingalways.trade&type=A)|
+|[24pccheck.yourpushingcontentingfree.download](https://dns.google.com/query?name=24pccheck.yourpushingcontentingfree.download&type=A)|
