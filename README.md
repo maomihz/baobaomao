@@ -3987,3 +3987,4 @@
 |[newtest4pc.yourgoodpointforcontentsnow.review](https://dns.google.com/query?name=newtest4pc.yourgoodpointforcontentsnow.review&type=A)|
 |[upnow2app.yourgoodpointforcontentinggreat.stream](https://dns.google.com/query?name=upnow2app.yourgoodpointforcontentinggreat.stream&type=A)|
 |[freemaintenance.yourgoodpointforcontentsafegreat.stream](https://dns.google.com/query?name=freemaintenance.yourgoodpointforcontentsafegreat.stream&type=A)|
+|[nowinstallupgrade.yourgoodpointforcontentsafegreat.stream](https://dns.google.com/query?name=nowinstallupgrade.yourgoodpointforcontentsafegreat.stream&type=A)|
