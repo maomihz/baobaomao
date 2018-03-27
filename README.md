@@ -4085,3 +4085,4 @@
 |[24check4updates.yourpushingcontentingalways.win](https://dns.google.com/query?name=24check4updates.yourpushingcontentingalways.win&type=A)|
 |[newversionupdate.yourpushingcontentingalways.win](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.win&type=A)|
 |[pcupgrade.yourpushingcontentingalways.win](https://dns.google.com/query?name=pcupgrade.yourpushingcontentingalways.win&type=A)|
+|[prepare2upvideo.yourpushingcontentingalways.win](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentingalways.win&type=A)|
