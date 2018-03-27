@@ -3961,3 +3961,4 @@
 |[futureupdates.pushingnewforcontentup.review](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.review&type=A)|
 |[getnewsoft.settingallreadyforupdate.review](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdate.review&type=A)|
 |[lastworking.settingallreadyforupdate.review](https://dns.google.com/query?name=lastworking.settingallreadyforupdate.review&type=A)|
+|[updatelive.settingallreadyforupdate.review](https://dns.google.com/query?name=updatelive.settingallreadyforupdate.review&type=A)|
