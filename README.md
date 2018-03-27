@@ -3971,3 +3971,4 @@
 |[preparevideo.yourgoodpointforcontentfree.trade](https://dns.google.com/query?name=preparevideo.yourgoodpointforcontentfree.trade&type=A)|
 |[ready4newsoft.yourgoodpointforcontentfree.trade](https://dns.google.com/query?name=ready4newsoft.yourgoodpointforcontentfree.trade&type=A)|
 |[freechecknow.yourgoodpointforcontentingnew.bid](https://dns.google.com/query?name=freechecknow.yourgoodpointforcontentingnew.bid&type=A)|
+|[softnewready.yourgoodpointforcontentingnew.bid](https://dns.google.com/query?name=softnewready.yourgoodpointforcontentingnew.bid&type=A)|
