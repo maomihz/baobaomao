@@ -3943,3 +3943,4 @@
 |[24pcupgrade.pushingnewforcontentsgo.win](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentsgo.win&type=A)|
 |[update2new.pushingnewforcontentsgo.win](https://dns.google.com/query?name=update2new.pushingnewforcontentsgo.win&type=A)|
 |[12updatenew.pushingnewforcontentsup.bid](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsup.bid&type=A)|
+|[futureupdates.pushingnewforcontentsup.bid](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsup.bid&type=A)|
