@@ -4088,3 +4088,4 @@
 |[prepare2upvideo.yourpushingcontentingalways.win](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentingalways.win&type=A)|
 |[freshupdate.yourpushingcontentinggreat.bid](https://dns.google.com/query?name=freshupdate.yourpushingcontentinggreat.bid&type=A)|
 |[lastworking.yourpushingcontentinggreat.bid](https://dns.google.com/query?name=lastworking.yourpushingcontentinggreat.bid&type=A)|
+|[nowgetsoft.yourpushingcontentinggreat.bid](https://dns.google.com/query?name=nowgetsoft.yourpushingcontentinggreat.bid&type=A)|
