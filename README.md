@@ -4007,3 +4007,4 @@
 |[prepare2upvideo.yourpushingcontentalways.review](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentalways.review&type=A)|
 |[24check4updates.yourpushingcontentalways.stream](https://dns.google.com/query?name=24check4updates.yourpushingcontentalways.stream&type=A)|
 |[newversionupdate.yourpushingcontentalways.stream](https://dns.google.com/query?name=newversionupdate.yourpushingcontentalways.stream&type=A)|
+|[pcupgrade.yourpushingcontentalways.stream](https://dns.google.com/query?name=pcupgrade.yourpushingcontentalways.stream&type=A)|
