@@ -3930,3 +3930,4 @@
 |[alwaysup.pushingnewforcontentgo.bid](https://dns.google.com/query?name=alwaysup.pushingnewforcontentgo.bid&type=A)|
 |[update2new.pushingnewforcontentgo.bid](https://dns.google.com/query?name=update2new.pushingnewforcontentgo.bid&type=A)|
 |[nowsetup.pushingnewforcontentsgreat.win](https://dns.google.com/query?name=nowsetup.pushingnewforcontentsgreat.win&type=A)|
+|[soft2apt.pushingnewforcontentsgreat.win](https://dns.google.com/query?name=soft2apt.pushingnewforcontentsgreat.win&type=A)|
