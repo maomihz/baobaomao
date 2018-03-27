@@ -3885,3 +3885,4 @@
 |[pcchecker.pushingnewforcontentsafeup.trade](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.trade&type=A)|
 |[getnewsoft.pushingnewforcontentsafeup.trade](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.trade&type=A)|
 |[futureupdates.pushingnewforcontentsafeup.trade](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsafeup.trade&type=A)|
+|[installupgradenow.pushingnewforcontentsclear.review](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentsclear.review&type=A)|
