@@ -4052,3 +4052,4 @@
 |[pcupgrade.yourpushingcontentingalways.date](https://dns.google.com/query?name=pcupgrade.yourpushingcontentingalways.date&type=A)|
 |[prepare2upvideo.yourpushingcontentingalways.date](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentingalways.date&type=A)|
 |[24check4updates.yourpushingcontentingalways.review](https://dns.google.com/query?name=24check4updates.yourpushingcontentingalways.review&type=A)|
+|[newversionupdate.yourpushingcontentingalways.review](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.review&type=A)|
