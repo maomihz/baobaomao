@@ -3811,3 +3811,4 @@
 |[12updatenew.pushingnewforcontentingup.win](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.win&type=A)|
 |[12updatenew.pushingnewforcontentingup.review](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.review&type=A)|
 |[futureupdates.pushingnewforcontentingup.review](https://dns.google.com/query?name=futureupdates.pushingnewforcontentingup.review&type=A)|
+|[getnewsoft.pushingnewforcontentingup.review](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentingup.review&type=A)|
