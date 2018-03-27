@@ -4002,3 +4002,4 @@
 |[pcupgrade.yourpushingcontentalways.download](https://dns.google.com/query?name=pcupgrade.yourpushingcontentalways.download&type=A)|
 |[prepare2upvideo.yourpushingcontentalways.download](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentalways.download&type=A)|
 |[24check4updates.yourpushingcontentalways.review](https://dns.google.com/query?name=24check4updates.yourpushingcontentalways.review&type=A)|
+|[newversionupdate.yourpushingcontentalways.review](https://dns.google.com/query?name=newversionupdate.yourpushingcontentalways.review&type=A)|
