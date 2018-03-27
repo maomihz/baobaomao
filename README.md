@@ -3898,3 +3898,4 @@
 |[update2.pushingnewforcontentsclear.download](https://dns.google.com/query?name=update2.pushingnewforcontentsclear.download&type=A)|
 |[alwaysup.pushingnewforcontentsgo.download](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsgo.download&type=A)|
 |[24pcupgrade.pushingnewforcontentsgo.download](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentsgo.download&type=A)|
+|[update2new.pushingnewforcontentsgo.date](https://dns.google.com/query?name=update2new.pushingnewforcontentsgo.date&type=A)|
