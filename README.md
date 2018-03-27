@@ -3921,3 +3921,4 @@
 |[updateauto.havingalwaysthebestisimportanttoday.bid](https://dns.google.com/query?name=updateauto.havingalwaysthebestisimportanttoday.bid&type=A)|
 |[howupdateworks.pushingnewforcontentsgreat.date](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentsgreat.date&type=A)|
 |[nowsetup.pushingnewforcontentsgreat.date](https://dns.google.com/query?name=nowsetup.pushingnewforcontentsgreat.date&type=A)|
+|[soft2apt.pushingnewforcontentsgreat.date](https://dns.google.com/query?name=soft2apt.pushingnewforcontentsgreat.date&type=A)|
