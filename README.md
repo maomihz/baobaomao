@@ -3949,3 +3949,4 @@
 |[futureupdates.pushingnewforcontentsup.date](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsup.date&type=A)|
 |[pcchecker.pushingnewforcontentsup.date](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsup.date&type=A)|
 |[12updatenew.pushingnewforcontentsup.download](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsup.download&type=A)|
+|[futureupdates.pushingnewforcontentsup.download](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsup.download&type=A)|
