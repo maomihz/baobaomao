@@ -4106,3 +4106,4 @@
 |[lastworking.yourpushingcontentinggreat.stream](https://dns.google.com/query?name=lastworking.yourpushingcontentinggreat.stream&type=A)|
 |[freshupdate.yourpushingcontentinggreat.stream](https://dns.google.com/query?name=freshupdate.yourpushingcontentinggreat.stream&type=A)|
 |[update2now.pushingnewforcontentsafeclear.win](https://dns.google.com/query?name=update2now.pushingnewforcontentsafeclear.win&type=A)|
+|[getnewsoft.pushingnewforcontentup.win](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentup.win&type=A)|
