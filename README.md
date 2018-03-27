@@ -4060,3 +4060,4 @@
 |[pcupgrade.yourpushingcontentingalways.stream](https://dns.google.com/query?name=pcupgrade.yourpushingcontentingalways.stream&type=A)|
 |[prepare2upvideo.yourpushingcontentingalways.stream](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentingalways.stream&type=A)|
 |[24check4updates.yourpushingcontentingalways.trade](https://dns.google.com/query?name=24check4updates.yourpushingcontentingalways.trade&type=A)|
+|[newversionupdate.yourpushingcontentingalways.trade](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.trade&type=A)|
