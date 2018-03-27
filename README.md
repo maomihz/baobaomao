@@ -4023,3 +4023,4 @@
 |[readygo.yourpushingcontentfree.date](https://dns.google.com/query?name=readygo.yourpushingcontentfree.date&type=A)|
 |[versionlast.yourpushingcontentfree.date](https://dns.google.com/query?name=versionlast.yourpushingcontentfree.date&type=A)|
 |[24check4updates.yourpushingcontentalways.win](https://dns.google.com/query?name=24check4updates.yourpushingcontentalways.win&type=A)|
+|[newversionupdate.yourpushingcontentalways.win](https://dns.google.com/query?name=newversionupdate.yourpushingcontentalways.win&type=A)|
