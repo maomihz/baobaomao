@@ -4026,3 +4026,4 @@
 |[pcupgrade.yourpushingcontentalways.win](https://dns.google.com/query?name=pcupgrade.yourpushingcontentalways.win&type=A)|
 |[prepare2upvideo.yourpushingcontentalways.win](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentalways.win&type=A)|
 |[freshupdate.yourpushingcontentgreat.date](https://dns.google.com/query?name=freshupdate.yourpushingcontentgreat.date&type=A)|
+|[lastworking.yourpushingcontentgreat.date](https://dns.google.com/query?name=lastworking.yourpushingcontentgreat.date&type=A)|
