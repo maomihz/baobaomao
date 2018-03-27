@@ -3952,3 +3952,4 @@
 |[futureupdates.pushingnewforcontentsup.download](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsup.download&type=A)|
 |[getnewsoft.pushingnewforcontentsup.download](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsup.download&type=A)|
 |[12updatenew.pushingnewforcontentsup.trade](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsup.trade&type=A)|
+|[12updatenew.pushingnewforcontentsup.win](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsup.win&type=A)|
