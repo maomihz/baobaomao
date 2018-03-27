@@ -3999,3 +3999,4 @@
 |[pcupgrade.yourpushingcontentalways.date](https://dns.google.com/query?name=pcupgrade.yourpushingcontentalways.date&type=A)|
 |[prepare2upvideo.yourpushingcontentalways.date](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentalways.date&type=A)|
 |[24check4updates.yourpushingcontentalways.download](https://dns.google.com/query?name=24check4updates.yourpushingcontentalways.download&type=A)|
+|[newversionupdate.yourpushingcontentalways.download](https://dns.google.com/query?name=newversionupdate.yourpushingcontentalways.download&type=A)|
