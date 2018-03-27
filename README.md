@@ -3990,3 +3990,4 @@
 |[24check.yourgoodpointforcontentsafegreat.win](https://dns.google.com/query?name=24check.yourgoodpointforcontentsafegreat.win&type=A)|
 |[freemaintenance.yourgoodpointforcontentsafegreat.win](https://dns.google.com/query?name=freemaintenance.yourgoodpointforcontentsafegreat.win&type=A)|
 |[24check4updates.yourpushingcontentalways.bid](https://dns.google.com/query?name=24check4updates.yourpushingcontentalways.bid&type=A)|
+|[newversionupdate.yourpushingcontentalways.bid](https://dns.google.com/query?name=newversionupdate.yourpushingcontentalways.bid&type=A)|
