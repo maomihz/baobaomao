@@ -4083,3 +4083,4 @@
 |[readygo.yourpushingcontentingfree.win](https://dns.google.com/query?name=readygo.yourpushingcontentingfree.win&type=A)|
 |[versionlast.yourpushingcontentingfree.win](https://dns.google.com/query?name=versionlast.yourpushingcontentingfree.win&type=A)|
 |[24check4updates.yourpushingcontentingalways.win](https://dns.google.com/query?name=24check4updates.yourpushingcontentingalways.win&type=A)|
+|[newversionupdate.yourpushingcontentingalways.win](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.win&type=A)|
