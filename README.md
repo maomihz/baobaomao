@@ -3824,3 +3824,4 @@
 |[update2.pushingnewforcontentsafeclear.win](https://dns.google.com/query?name=update2.pushingnewforcontentsafeclear.win&type=A)|
 |[installupgradenow.pushingnewforcontentsafeclear.win](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentsafeclear.win&type=A)|
 |[howupdateworks.pushingnewforcontentrgreat.stream](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentrgreat.stream&type=A)|
+|[nowsetup.pushingnewforcontentrgreat.stream](https://dns.google.com/query?name=nowsetup.pushingnewforcontentrgreat.stream&type=A)|
