@@ -3829,3 +3829,4 @@
 |[upgrade4life.pushingnewforcontentrgreat.stream](https://dns.google.com/query?name=upgrade4life.pushingnewforcontentrgreat.stream&type=A)|
 |[alwaysup.pushingnewforcontentsafego.stream](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsafego.stream&type=A)|
 |[24pcupgrade.pushingnewforcontentsafego.stream](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentsafego.stream&type=A)|
+|[update2new.pushingnewforcontentsafego.review](https://dns.google.com/query?name=update2new.pushingnewforcontentsafego.review&type=A)|
