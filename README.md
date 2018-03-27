@@ -4080,3 +4080,4 @@
 |[versionlast.yourpushingcontentingfree.trade](https://dns.google.com/query?name=versionlast.yourpushingcontentingfree.trade&type=A)|
 |[24pccheck.yourpushingcontentingfree.win](https://dns.google.com/query?name=24pccheck.yourpushingcontentingfree.win&type=A)|
 |[how2update.yourpushingcontentingfree.win](https://dns.google.com/query?name=how2update.yourpushingcontentingfree.win&type=A)|
+|[readygo.yourpushingcontentingfree.win](https://dns.google.com/query?name=readygo.yourpushingcontentingfree.win&type=A)|
