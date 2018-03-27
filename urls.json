@@ -1,34 +1,4 @@
 {
-  "urls": {
-    "https://s3.amazonaws.com/085a/6b1ebf33-8924-46c7-931e/749c628e-215c-4464-abdc/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522162606.019903,
-      "url": "https://s3.amazonaws.com/085a/6b1ebf33-8924-46c7-931e/749c628e-215c-4464-abdc/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/qgWz9Adfnku7xOH/37729889/31971692/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522159677.851012,
-      "url": "https://s3.amazonaws.com/qgWz9Adfnku7xOH/37729889/31971692/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/OI7h/OroJE949wUmghA2GG/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522162098.873527,
-      "url": "https://s3.amazonaws.com/OI7h/OroJE949wUmghA2GG/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/Bf8HkfCjjkKSd/OA7opZ6/S_lKBzR/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/Bf8HkfCjjkKSd/OA7opZ6/S_lKBzR/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522163245.446064
-    },
-    "https://s3.amazonaws.com/5300/d655/15c1/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522161459.735904,
-      "url": "https://s3.amazonaws.com/5300/d655/15c1/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/4e80a359-c589-4377-a9e0-6d0522336/ETPTquD6I0WhGwSYtVf1d/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522160442.904336,
-      "url": "https://s3.amazonaws.com/4e80a359-c589-4377-a9e0-6d0522336/ETPTquD6I0WhGwSYtVf1d/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/74C73B362433AB42A933E554F57D2EB/DF3C5A074E45B44D9FBAB490/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522160822.016307,
-      "url": "https://s3.amazonaws.com/74C73B362433AB42A933E554F57D2EB/DF3C5A074E45B44D9FBAB490/AdobeFlashPlayerInstaller.dmg"
-    }
-  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -4043,6 +4013,37 @@
     "live.yourpushingcontentgreat.date",
     "nowgetsoft.yourpushingcontentgreat.win",
     "live.yourpushingcontentgreat.win",
-    "lastworking.yourpushingcontentgreat.win"
-  ]
+    "lastworking.yourpushingcontentgreat.win",
+    "freshupdate.yourpushingcontentgreat.win"
+  ],
+  "urls": {
+    "https://s3.amazonaws.com/74C73B362433AB42A933E554F57D2EB/DF3C5A074E45B44D9FBAB490/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522160822.016307,
+      "url": "https://s3.amazonaws.com/74C73B362433AB42A933E554F57D2EB/DF3C5A074E45B44D9FBAB490/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/4e80a359-c589-4377-a9e0-6d0522336/ETPTquD6I0WhGwSYtVf1d/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522160442.904336,
+      "url": "https://s3.amazonaws.com/4e80a359-c589-4377-a9e0-6d0522336/ETPTquD6I0WhGwSYtVf1d/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/085a/6b1ebf33-8924-46c7-931e/749c628e-215c-4464-abdc/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522162606.019903,
+      "url": "https://s3.amazonaws.com/085a/6b1ebf33-8924-46c7-931e/749c628e-215c-4464-abdc/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/OI7h/OroJE949wUmghA2GG/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522162098.873527,
+      "url": "https://s3.amazonaws.com/OI7h/OroJE949wUmghA2GG/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/5300/d655/15c1/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522161459.735904,
+      "url": "https://s3.amazonaws.com/5300/d655/15c1/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/qgWz9Adfnku7xOH/37729889/31971692/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522159677.851012,
+      "url": "https://s3.amazonaws.com/qgWz9Adfnku7xOH/37729889/31971692/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/Bf8HkfCjjkKSd/OA7opZ6/S_lKBzR/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522163245.446064,
+      "url": "https://s3.amazonaws.com/Bf8HkfCjjkKSd/OA7opZ6/S_lKBzR/AdobeFlashPlayerInstaller.dmg"
+    }
+  }
 }
