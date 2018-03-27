@@ -3908,3 +3908,4 @@
 |[alwaysup.pushingnewforcontentsgo.trade](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsgo.trade&type=A)|
 |[alwaysup.pushingnewforcontentsgo.stream](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsgo.stream&type=A)|
 |[update2new.pushingnewforcontentsgo.review](https://dns.google.com/query?name=update2new.pushingnewforcontentsgo.review&type=A)|
+|[update2new.pushingnewforcontentsgo.bid](https://dns.google.com/query?name=update2new.pushingnewforcontentsgo.bid&type=A)|
