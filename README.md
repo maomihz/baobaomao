@@ -3819,3 +3819,4 @@
 |[howupdateworks.pushingnewforcontentrgreat.bid](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentrgreat.bid&type=A)|
 |[nowsetup.pushingnewforcontentrgreat.bid](https://dns.google.com/query?name=nowsetup.pushingnewforcontentrgreat.bid&type=A)|
 |[upgrade4life.pushingnewforcontentrgreat.bid](https://dns.google.com/query?name=upgrade4life.pushingnewforcontentrgreat.bid&type=A)|
+|[upgrade12check.pushingnewforcontentsafego.bid](https://dns.google.com/query?name=upgrade12check.pushingnewforcontentsafego.bid&type=A)|
