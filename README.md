@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBkNTM3NzAxLWUvNFpWR3YvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:40|https://s3.amazonaws.com/0d537701-e/4ZVGv/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JfOHZGOS81MjM5NTJBQkI0QkVCNzRDQURBOC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|03:27|https://s3.amazonaws.com/B_8vF9/523952ABB4BEB74CADA8/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBGRm8vS0h1MTZKZ0xaRU81NS92NFh4TGYzdz0vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:17|https://s3.amazonaws.com/0FFo/KHu16JgLZEO55/v4XxLf3w=/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZCQUEvMzlmZC84OWY3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|03:08|https://s3.amazonaws.com/6BAA/39fd/89f7/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1J5c0s2QWNyVDBtR1RSci95V1lrL2l3YkIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|03:00|https://s3.amazonaws.com/RysK6AcrT0mGTRr/yWYk/iwbB/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQyM2IvcmJEMWMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:49|https://s3.amazonaws.com/423b/rbD1c/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzlieGU5UGY4VEUyL2ZjNDNjNTE0LTg2OGItNGQyNS1hNzIyLWJmY2ZlYzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|02:38|https://s3.amazonaws.com/9bxe9Pf8TE2/fc43c514-868b-4d25-a722-bfcfec4/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -3863,3 +3863,4 @@
 |[howupdateworks.pushingnewforcontentsafegreat.win](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentsafegreat.win&type=A)|
 |[nowsetup.pushingnewforcontentsafegreat.win](https://dns.google.com/query?name=nowsetup.pushingnewforcontentsafegreat.win&type=A)|
 |[pcchecker.pushingnewforcontentsafeup.bid](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.bid&type=A)|
+|[getnewsoft.pushingnewforcontentsafeup.bid](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.bid&type=A)|
