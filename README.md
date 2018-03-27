@@ -3912,3 +3912,4 @@
 |[update2new.pushingnewforcontentsgo.bid](https://dns.google.com/query?name=update2new.pushingnewforcontentsgo.bid&type=A)|
 |[24pcupgrade.pushingnewforcontentsgo.bid](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentsgo.bid&type=A)|
 |[testupgrade.pushingnewforcontentload.stream](https://dns.google.com/query?name=testupgrade.pushingnewforcontentload.stream&type=A)|
+|[nowgetsoft.pushingnewforcontentload.stream](https://dns.google.com/query?name=nowgetsoft.pushingnewforcontentload.stream&type=A)|
