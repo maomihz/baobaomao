@@ -4107,3 +4107,4 @@
 |[update2now.pushingnewforcontentsafeclear.win](https://dns.google.com/query?name=update2now.pushingnewforcontentsafeclear.win&type=A)|
 |[getnewsoft.pushingnewforcontentup.win](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentup.win&type=A)|
 |[futureupdates.pushingnewforcontentup.win](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.win&type=A)|
+|[12updatenew.pushingnewforcontentup.win](https://dns.google.com/query?name=12updatenew.pushingnewforcontentup.win&type=A)|
