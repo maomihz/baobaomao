@@ -3884,3 +3884,4 @@
 |[pcchecker.pushingnewforcontentsafeup.download](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.download&type=A)|
 |[pcchecker.pushingnewforcontentsafeup.trade](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.trade&type=A)|
 |[getnewsoft.pushingnewforcontentsafeup.trade](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.trade&type=A)|
+|[futureupdates.pushingnewforcontentsafeup.trade](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsafeup.trade&type=A)|
