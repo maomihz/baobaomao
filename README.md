@@ -3905,3 +3905,4 @@
 |[update2new.pushingnewforcontentsgo.trade](https://dns.google.com/query?name=update2new.pushingnewforcontentsgo.trade&type=A)|
 |[24pcupgrade.pushingnewforcontentsgo.trade](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentsgo.trade&type=A)|
 |[alwaysup.pushingnewforcontentsgo.trade](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsgo.trade&type=A)|
+|[alwaysup.pushingnewforcontentsgo.stream](https://dns.google.com/query?name=alwaysup.pushingnewforcontentsgo.stream&type=A)|
