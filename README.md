@@ -4094,3 +4094,4 @@
 |[live.yourpushingcontentinggreat.date](https://dns.google.com/query?name=live.yourpushingcontentinggreat.date&type=A)|
 |[lastworking.yourpushingcontentinggreat.download](https://dns.google.com/query?name=lastworking.yourpushingcontentinggreat.download&type=A)|
 |[live.yourpushingcontentinggreat.download](https://dns.google.com/query?name=live.yourpushingcontentinggreat.download&type=A)|
+|[nowgetsoft.yourpushingcontentinggreat.download](https://dns.google.com/query?name=nowgetsoft.yourpushingcontentinggreat.download&type=A)|
