@@ -4057,3 +4057,4 @@
 |[prepare2upvideo.yourpushingcontentingalways.review](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentingalways.review&type=A)|
 |[24check4updates.yourpushingcontentingalways.stream](https://dns.google.com/query?name=24check4updates.yourpushingcontentingalways.stream&type=A)|
 |[newversionupdate.yourpushingcontentingalways.stream](https://dns.google.com/query?name=newversionupdate.yourpushingcontentingalways.stream&type=A)|
+|[pcupgrade.yourpushingcontentingalways.stream](https://dns.google.com/query?name=pcupgrade.yourpushingcontentingalways.stream&type=A)|
