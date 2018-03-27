@@ -3967,3 +3967,4 @@
 |[futureupdates.pushingnewforcontentup.stream](https://dns.google.com/query?name=futureupdates.pushingnewforcontentup.stream&type=A)|
 |[preparevideo.yourgoodpointforcontentfree.stream](https://dns.google.com/query?name=preparevideo.yourgoodpointforcontentfree.stream&type=A)|
 |[ready4newsoft.yourgoodpointforcontentfree.stream](https://dns.google.com/query?name=ready4newsoft.yourgoodpointforcontentfree.stream&type=A)|
+|[update4soft.yourgoodpointforcontentfree.stream](https://dns.google.com/query?name=update4soft.yourgoodpointforcontentfree.stream&type=A)|
