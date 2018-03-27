@@ -3940,3 +3940,4 @@
 |[freemaintenance.pushingnewforcontentsload.trade](https://dns.google.com/query?name=freemaintenance.pushingnewforcontentsload.trade&type=A)|
 |[nowgetsoft.pushingnewforcontentsload.trade](https://dns.google.com/query?name=nowgetsoft.pushingnewforcontentsload.trade&type=A)|
 |[24pcupgrade.pushingnewforcontentsgo.win](https://dns.google.com/query?name=24pcupgrade.pushingnewforcontentsgo.win&type=A)|
+|[update2new.pushingnewforcontentsgo.win](https://dns.google.com/query?name=update2new.pushingnewforcontentsgo.win&type=A)|
