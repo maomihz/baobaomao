@@ -3892,3 +3892,4 @@
 |[update2now.pushingnewforcontentsclear.win](https://dns.google.com/query?name=update2now.pushingnewforcontentsclear.win&type=A)|
 |[update2.pushingnewforcontentsclear.win](https://dns.google.com/query?name=update2.pushingnewforcontentsclear.win&type=A)|
 |[update2now.pushingnewforcontentsclear.trade](https://dns.google.com/query?name=update2now.pushingnewforcontentsclear.trade&type=A)|
+|[installupgradenow.pushingnewforcontentsclear.trade](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentsclear.trade&type=A)|
