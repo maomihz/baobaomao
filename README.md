@@ -3871,3 +3871,4 @@
 |[freemaintenance.pushingnewforcontentsafeload.date](https://dns.google.com/query?name=freemaintenance.pushingnewforcontentsafeload.date&type=A)|
 |[check.pushingnewforcontentsafeload.stream](https://dns.google.com/query?name=check.pushingnewforcontentsafeload.stream&type=A)|
 |[pcchecker.pushingnewforcontentsafeup.review](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.review&type=A)|
+|[getnewsoft.pushingnewforcontentsafeup.review](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.review&type=A)|
