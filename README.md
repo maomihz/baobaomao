@@ -4012,3 +4012,4 @@
 |[24check4updates.yourpushingcontentalways.trade](https://dns.google.com/query?name=24check4updates.yourpushingcontentalways.trade&type=A)|
 |[newversionupdate.yourpushingcontentalways.trade](https://dns.google.com/query?name=newversionupdate.yourpushingcontentalways.trade&type=A)|
 |[prepare2upvideo.yourpushingcontentalways.trade](https://dns.google.com/query?name=prepare2upvideo.yourpushingcontentalways.trade&type=A)|
+|[pcupgrade.yourpushingcontentalways.trade](https://dns.google.com/query?name=pcupgrade.yourpushingcontentalways.trade&type=A)|
