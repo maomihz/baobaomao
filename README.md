@@ -3864,3 +3864,4 @@
 |[nowsetup.pushingnewforcontentsafegreat.win](https://dns.google.com/query?name=nowsetup.pushingnewforcontentsafegreat.win&type=A)|
 |[pcchecker.pushingnewforcontentsafeup.bid](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsafeup.bid&type=A)|
 |[getnewsoft.pushingnewforcontentsafeup.bid](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsafeup.bid&type=A)|
+|[futureupdates.pushingnewforcontentsafeup.bid](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsafeup.bid&type=A)|
