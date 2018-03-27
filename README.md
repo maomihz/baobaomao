@@ -3987,3 +3987,4 @@
 |[upnow2app.yourgoodpointforcontentinggreat.stream](https://dns.google.com/query?name=upnow2app.yourgoodpointforcontentinggreat.stream&type=A)|
 |[freemaintenance.yourgoodpointforcontentsafegreat.stream](https://dns.google.com/query?name=freemaintenance.yourgoodpointforcontentsafegreat.stream&type=A)|
 |[nowinstallupgrade.yourgoodpointforcontentsafegreat.stream](https://dns.google.com/query?name=nowinstallupgrade.yourgoodpointforcontentsafegreat.stream&type=A)|
+|[24check.yourgoodpointforcontentsafegreat.win](https://dns.google.com/query?name=24check.yourgoodpointforcontentsafegreat.win&type=A)|
