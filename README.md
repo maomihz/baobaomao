@@ -4038,3 +4038,4 @@
 |[freshupdate.yourpushingcontentgreat.trade](https://dns.google.com/query?name=freshupdate.yourpushingcontentgreat.trade&type=A)|
 |[safe.yourpushingcontentingall.download](https://dns.google.com/query?name=safe.yourpushingcontentingall.download&type=A)|
 |[update4now.yourpushingcontentingall.download](https://dns.google.com/query?name=update4now.yourpushingcontentingall.download&type=A)|
+|[upgradeinstall.yourpushingcontentingall.download](https://dns.google.com/query?name=upgradeinstall.yourpushingcontentingall.download&type=A)|
