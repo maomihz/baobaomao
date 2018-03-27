@@ -3808,3 +3808,4 @@
 |[pcchecker.pushingnewforcontentingup.date](https://dns.google.com/query?name=pcchecker.pushingnewforcontentingup.date&type=A)|
 |[getnewsoft.pushingnewforcontentingup.win](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentingup.win&type=A)|
 |[futureupdates.pushingnewforcontentingup.win](https://dns.google.com/query?name=futureupdates.pushingnewforcontentingup.win&type=A)|
+|[12updatenew.pushingnewforcontentingup.win](https://dns.google.com/query?name=12updatenew.pushingnewforcontentingup.win&type=A)|
