@@ -3913,3 +3913,4 @@
 |[nowgetsoft.pushingnewforcontentload.stream](https://dns.google.com/query?name=nowgetsoft.pushingnewforcontentload.stream&type=A)|
 |[check.pushingnewforcontentload.stream](https://dns.google.com/query?name=check.pushingnewforcontentload.stream&type=A)|
 |[upgradenow24.pushingnewforcontentingclear.review](https://dns.google.com/query?name=upgradenow24.pushingnewforcontentingclear.review&type=A)|
+|[installupgradenow.pushingnewforcontentingclear.review](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentingclear.review&type=A)|
