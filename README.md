@@ -3974,3 +3974,4 @@
 |[softnewready.yourgoodpointforcontentingnew.bid](https://dns.google.com/query?name=softnewready.yourgoodpointforcontentingnew.bid&type=A)|
 |[softwareupdate.yourgoodpointforcontentingnew.bid](https://dns.google.com/query?name=softwareupdate.yourgoodpointforcontentingnew.bid&type=A)|
 |[24check.yourgoodpointforcontentgreat.download](https://dns.google.com/query?name=24check.yourgoodpointforcontentgreat.download&type=A)|
+|[freemaintenance.yourgoodpointforcontentgreat.download](https://dns.google.com/query?name=freemaintenance.yourgoodpointforcontentgreat.download&type=A)|
