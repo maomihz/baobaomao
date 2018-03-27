@@ -3894,3 +3894,4 @@
 |[update2now.pushingnewforcontentsclear.trade](https://dns.google.com/query?name=update2now.pushingnewforcontentsclear.trade&type=A)|
 |[installupgradenow.pushingnewforcontentsclear.trade](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentsclear.trade&type=A)|
 |[installupgradenow.pushingnewforcontentsclear.download](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentsclear.download&type=A)|
+|[update2.pushingnewforcontentsclear.download](https://dns.google.com/query?name=update2.pushingnewforcontentsclear.download&type=A)|
