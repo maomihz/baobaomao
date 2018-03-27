@@ -3976,3 +3976,4 @@
 |[24check.yourgoodpointforcontentgreat.download](https://dns.google.com/query?name=24check.yourgoodpointforcontentgreat.download&type=A)|
 |[freemaintenance.yourgoodpointforcontentgreat.download](https://dns.google.com/query?name=freemaintenance.yourgoodpointforcontentgreat.download&type=A)|
 |[nowinstallupgrade.yourgoodpointforcontentgreat.download](https://dns.google.com/query?name=nowinstallupgrade.yourgoodpointforcontentgreat.download&type=A)|
+|[upnow2app.yourgoodpointforcontentgreat.download](https://dns.google.com/query?name=upnow2app.yourgoodpointforcontentgreat.download&type=A)|
