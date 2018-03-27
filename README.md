@@ -3890,3 +3890,4 @@
 |[installupgradenow.pushingnewforcontentsclear.date](https://dns.google.com/query?name=installupgradenow.pushingnewforcontentsclear.date&type=A)|
 |[update2now.pushingnewforcontentsclear.date](https://dns.google.com/query?name=update2now.pushingnewforcontentsclear.date&type=A)|
 |[update2now.pushingnewforcontentsclear.win](https://dns.google.com/query?name=update2now.pushingnewforcontentsclear.win&type=A)|
+|[update2.pushingnewforcontentsclear.win](https://dns.google.com/query?name=update2.pushingnewforcontentsclear.win&type=A)|
