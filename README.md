@@ -3945,3 +3945,4 @@
 |[futureupdates.pushingnewforcontentsup.bid](https://dns.google.com/query?name=futureupdates.pushingnewforcontentsup.bid&type=A)|
 |[getnewsoft.pushingnewforcontentsup.bid](https://dns.google.com/query?name=getnewsoft.pushingnewforcontentsup.bid&type=A)|
 |[pcchecker.pushingnewforcontentsup.bid](https://dns.google.com/query?name=pcchecker.pushingnewforcontentsup.bid&type=A)|
+|[12updatenew.pushingnewforcontentsup.date](https://dns.google.com/query?name=12updatenew.pushingnewforcontentsup.date&type=A)|
