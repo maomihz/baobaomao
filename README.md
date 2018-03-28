@@ -4124,3 +4124,4 @@
 |[upgradecheck12.settingallreadyforupdatesafe.date](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatesafe.date&type=A)|
 |[live.yourpushingcontentinggreat.bid](https://dns.google.com/query?name=live.yourpushingcontentinggreat.bid&type=A)|
 |[freshupdate.yourpushingcontentinggreat.download](https://dns.google.com/query?name=freshupdate.yourpushingcontentinggreat.download&type=A)|
+|[getnewsoft.settingallreadyforupdatethismonth.review](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatethismonth.review&type=A)|
