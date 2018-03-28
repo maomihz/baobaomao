@@ -4115,3 +4115,4 @@
 |[howupdateworks.pushingnewforcontentsgreat.win](https://dns.google.com/query?name=howupdateworks.pushingnewforcontentsgreat.win&type=A)|
 |[soft2apt.pushingnewforcontentrgreat.bid](https://dns.google.com/query?name=soft2apt.pushingnewforcontentrgreat.bid&type=A)|
 |[getnewsoft.settingallreadyforupdatesafe.bid](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatesafe.bid&type=A)|
+|[lastworking.settingallreadyforupdatesafe.bid](https://dns.google.com/query?name=lastworking.settingallreadyforupdatesafe.bid&type=A)|
