@@ -4165,3 +4165,4 @@
 |[upgradepc.settingallreadyforupgradenow.review](https://dns.google.com/query?name=upgradepc.settingallreadyforupgradenow.review&type=A)|
 |[alwaysnewsoft.settingallreadyforupgradenow.review](https://dns.google.com/query?name=alwaysnewsoft.settingallreadyforupgradenow.review&type=A)|
 |[alwaysnewsoft.settingallreadyforupgradethismonth.stream](https://dns.google.com/query?name=alwaysnewsoft.settingallreadyforupgradethismonth.stream&type=A)|
+|[newupdate.settingallreadyforupgradethismonth.stream](https://dns.google.com/query?name=newupdate.settingallreadyforupgradethismonth.stream&type=A)|
