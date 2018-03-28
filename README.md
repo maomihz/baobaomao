@@ -4128,3 +4128,4 @@
 |[lastworking.settingallreadyforupdatethismonth.review](https://dns.google.com/query?name=lastworking.settingallreadyforupdatethismonth.review&type=A)|
 |[updatelive.settingallreadyforupdatethismonth.review](https://dns.google.com/query?name=updatelive.settingallreadyforupdatethismonth.review&type=A)|
 |[upgradecheck12.settingallreadyforupdatethismonth.review](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatethismonth.review&type=A)|
+|[getnewsoft.settingallreadyforupdatethismonth.stream](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatethismonth.stream&type=A)|
