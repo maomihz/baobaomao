@@ -4182,3 +4182,4 @@
 |[alwaysnewsoft.settingallreadyforupgradetoday.bid](https://dns.google.com/query?name=alwaysnewsoft.settingallreadyforupgradetoday.bid&type=A)|
 |[legalsoft.updatingalwayswhatyouwantandneedthisweek.bid](https://dns.google.com/query?name=legalsoft.updatingalwayswhatyouwantandneedthisweek.bid&type=A)|
 |[livecheck2update.updatingalwayswhatyouwantandneedthisweek.bid](https://dns.google.com/query?name=livecheck2update.updatingalwayswhatyouwantandneedthisweek.bid&type=A)|
+|[pcchecker.updatingalwayswhatyouwantandneedthisweek.bid](https://dns.google.com/query?name=pcchecker.updatingalwayswhatyouwantandneedthisweek.bid&type=A)|
