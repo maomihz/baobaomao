@@ -4148,3 +4148,4 @@
 |[getnewsoft.settingallreadyforupdatetoday.review](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatetoday.review&type=A)|
 |[lastworking.settingallreadyforupdatetoday.review](https://dns.google.com/query?name=lastworking.settingallreadyforupdatetoday.review&type=A)|
 |[updatelive.settingallreadyforupdatetoday.review](https://dns.google.com/query?name=updatelive.settingallreadyforupdatetoday.review&type=A)|
+|[upgradecheck12.settingallreadyforupdatetoday.review](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatetoday.review&type=A)|
