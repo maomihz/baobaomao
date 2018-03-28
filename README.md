@@ -4120,3 +4120,4 @@
 |[upgradecheck12.settingallreadyforupdatesafe.bid](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatesafe.bid&type=A)|
 |[getnewsoft.settingallreadyforupdatesafe.date](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatesafe.date&type=A)|
 |[lastworking.settingallreadyforupdatesafe.date](https://dns.google.com/query?name=lastworking.settingallreadyforupdatesafe.date&type=A)|
+|[updatelive.settingallreadyforupdatesafe.date](https://dns.google.com/query?name=updatelive.settingallreadyforupdatesafe.date&type=A)|
