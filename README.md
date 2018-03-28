@@ -4135,3 +4135,4 @@
 |[getnewsoft.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatethisweek.bid&type=A)|
 |[lastworking.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=lastworking.settingallreadyforupdatethisweek.bid&type=A)|
 |[updatelive.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=updatelive.settingallreadyforupdatethisweek.bid&type=A)|
+|[upgradecheck12.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatethisweek.bid&type=A)|
