@@ -4117,3 +4117,4 @@
 |[getnewsoft.settingallreadyforupdatesafe.bid](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatesafe.bid&type=A)|
 |[lastworking.settingallreadyforupdatesafe.bid](https://dns.google.com/query?name=lastworking.settingallreadyforupdatesafe.bid&type=A)|
 |[updatelive.settingallreadyforupdatesafe.bid](https://dns.google.com/query?name=updatelive.settingallreadyforupdatesafe.bid&type=A)|
+|[upgradecheck12.settingallreadyforupdatesafe.bid](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatesafe.bid&type=A)|
