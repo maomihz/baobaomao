@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzFlMWM1MzljLWU2MWMvMzg0MDgvMjAwOTc1L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:20|https://s3.amazonaws.com/1e1c539c-e61c/38408/200975/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2FjMmE4YmZlLTJmYWYtNDM4My1hY2FmLTRjOGU4MzMvMzI0OTRhMmMtYWM2OS00MTM3LWIyODEtYjcxMzBjZmFmL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|07:09|https://s3.amazonaws.com/ac2a8bfe-2faf-4383-acaf-4c8e833/32494a2c-ac69-4137-b281-b7130cfaf/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI1ODEwYTlhLTI4ZTktNGU5ZS1hNzBkLTNhMS8yMDY3NTA2NC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:56|https://s3.amazonaws.com/25810a9a-28e9-4e9e-a70d-3a1/20675064/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0dKaWxaMmY2SkVhMjFZYThVVWJkLzA4ODEwZjhkLTU1YWMtNDU3Yi1iNTJhLWMzODQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:50|https://s3.amazonaws.com/GJilZ2f6JEa21Ya8UUbd/08810f8d-55ac-457b-b52a-c384/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2IxOTJiNjBiLWMyM2ItL0Y0MUVFODJBOTE5RjQ2NDU5RTdBN0U2NzBCQURGQjgvOTUxMTM5MjY1RDk0NkY0RDlFQTJEQzgxNUI4MTFGRC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:37|https://s3.amazonaws.com/b192b60b-c23b-/F41EE82A919F46459E7A7E670BADFB8/951139265D946F4D9EA2DC815B811FD/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2Q3ZGU1NjY2LTc0ZjktNDlmZi04MGJiLzBmMjNlMDgwLWIyZmEtNGQ3Mi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:27|https://s3.amazonaws.com/d7de5666-74f9-49ff-80bb/0f23e080-b2fa-4d72/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzVhNTI0ZGVjLTkyMGUtNDcvWXlFczBDUVVXL3FxODM1eTVmay9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|06:18|https://s3.amazonaws.com/5a524dec-920e-47/YyEs0CQUW/qq835y5fk/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -4134,3 +4134,4 @@
 |[upgradecheck12.settingallreadyforupdatethismonth.stream](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatethismonth.stream&type=A)|
 |[getnewsoft.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatethisweek.bid&type=A)|
 |[lastworking.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=lastworking.settingallreadyforupdatethisweek.bid&type=A)|
+|[updatelive.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=updatelive.settingallreadyforupdatethisweek.bid&type=A)|
