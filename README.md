@@ -4152,3 +4152,4 @@
 |[upgradepc.settingallreadyforupgrade.stream](https://dns.google.com/query?name=upgradepc.settingallreadyforupgrade.stream&type=A)|
 |[alwaysnewsoft.settingallreadyforupgrade.stream](https://dns.google.com/query?name=alwaysnewsoft.settingallreadyforupgrade.stream&type=A)|
 |[newupdate.settingallreadyforupgrade.stream](https://dns.google.com/query?name=newupdate.settingallreadyforupgrade.stream&type=A)|
+|[getnewsoft.settingallreadyforupdatetoday.stream](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatetoday.stream&type=A)|
