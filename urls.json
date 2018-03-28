@@ -1,4 +1,34 @@
 {
+  "urls": {
+    "https://s3.amazonaws.com/95072B77BB6BE349815E4/13ee71/4334a3/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522257913.957376,
+      "url": "https://s3.amazonaws.com/95072B77BB6BE349815E4/13ee71/4334a3/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/1pnfL/2519/2032/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522258677.14036,
+      "url": "https://s3.amazonaws.com/1pnfL/2519/2032/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/shr_S55JLU_E0t6Jy/b83d3321-aead-4f01-91e6-c3b647e/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522256894.797904,
+      "url": "https://s3.amazonaws.com/shr_S55JLU_E0t6Jy/b83d3321-aead-4f01-91e6-c3b647e/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/B6BD1C6223C764448801FD333BBD106/809ec49d-dc01-488a-a7c/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522260340.299563,
+      "url": "https://s3.amazonaws.com/B6BD1C6223C764448801FD333BBD106/809ec49d-dc01-488a-a7c/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/gmpu/8DC0112D53292E4080C29128A1D363/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522259822.071632,
+      "url": "https://s3.amazonaws.com/gmpu/8DC0112D53292E4080C29128A1D363/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/9B4D23B42DDBD14787BA9FA3D4E6CB/10D7D517CA5F9C4281AA5B/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522257531.791206,
+      "url": "https://s3.amazonaws.com/9B4D23B42DDBD14787BA9FA3D4E6CB/10D7D517CA5F9C4281AA5B/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/26D8/VRMU/UiSa/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522259315.693081,
+      "url": "https://s3.amazonaws.com/26D8/VRMU/UiSa/AdobeFlashPlayerInstaller.dmg"
+    }
+  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -4156,32 +4186,7 @@
     "upgradepc.settingallreadyforupgradetoday.stream",
     "newupdate.settingallreadyforupgradetoday.stream",
     "learn2upgrade.settingallreadyforupgradetoday.stream",
-    "alwaysnewsoft.settingallreadyforupgradetoday.stream"
-  ],
-  "urls": {
-    "https://s3.amazonaws.com/gmpu/8DC0112D53292E4080C29128A1D363/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/gmpu/8DC0112D53292E4080C29128A1D363/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522259822.071632
-    },
-    "https://s3.amazonaws.com/9B4D23B42DDBD14787BA9FA3D4E6CB/10D7D517CA5F9C4281AA5B/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/9B4D23B42DDBD14787BA9FA3D4E6CB/10D7D517CA5F9C4281AA5B/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522257531.791206
-    },
-    "https://s3.amazonaws.com/shr_S55JLU_E0t6Jy/b83d3321-aead-4f01-91e6-c3b647e/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/shr_S55JLU_E0t6Jy/b83d3321-aead-4f01-91e6-c3b647e/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522256894.797904
-    },
-    "https://s3.amazonaws.com/26D8/VRMU/UiSa/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/26D8/VRMU/UiSa/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522259315.693081
-    },
-    "https://s3.amazonaws.com/1pnfL/2519/2032/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/1pnfL/2519/2032/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522258677.14036
-    },
-    "https://s3.amazonaws.com/95072B77BB6BE349815E4/13ee71/4334a3/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/95072B77BB6BE349815E4/13ee71/4334a3/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522257913.957376
-    }
-  }
+    "alwaysnewsoft.settingallreadyforupgradetoday.stream",
+    "upgradepc.settingallreadyforupgradetoday.bid"
+  ]
 }
