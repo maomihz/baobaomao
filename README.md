@@ -6,6 +6,7 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2tSSDBfTThDLzYzODU4QTk4NDY1NzQ4NEE5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:36|https://s3.amazonaws.com/kRH0_M8C/63858A984657484A9/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzgzMzM1ODJkLTY3NmQtL1ZXYjZxdmdublVhL05pR1VXeGRPeFUyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:27|https://s3.amazonaws.com/8333582d-676d-/VWb6qvgnnUa/NiGUWxdOxU2/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzMyOEQyQjYyNzUyODBCNC9NcmJBTXYvNXZ6eXZOL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:17|https://s3.amazonaws.com/328D2B6275280B4/MrbAMv/5vzyvN/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzczNTI0OTE4LTFkMjAtNDM5OS1hOWFjLWRkL0EyNkU2RTMwQzREL0U1RjAzQzBEM0QyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|16:06|https://s3.amazonaws.com/73524918-1d20-4399-a9ac-dd/A26E6E30C4D/E5F03C0D3D2/AdobeFlashPlayerInstaller.dmg|
@@ -4170,3 +4171,4 @@
 |[learn2upgrade.settingallreadyforupgradethismonth.stream](https://dns.google.com/query?name=learn2upgrade.settingallreadyforupgradethismonth.stream&type=A)|
 |[alwaysnewsoft.settingallreadyforupgradethisweek.date](https://dns.google.com/query?name=alwaysnewsoft.settingallreadyforupgradethisweek.date&type=A)|
 |[learn2upgrade.settingallreadyforupgradethisweek.date](https://dns.google.com/query?name=learn2upgrade.settingallreadyforupgradethisweek.date&type=A)|
+|[newupdate.settingallreadyforupgradethisweek.date](https://dns.google.com/query?name=newupdate.settingallreadyforupgradethisweek.date&type=A)|
