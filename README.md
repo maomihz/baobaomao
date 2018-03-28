@@ -4177,3 +4177,4 @@
 |[learn2upgrade.settingallreadyforupgradetoday.stream](https://dns.google.com/query?name=learn2upgrade.settingallreadyforupgradetoday.stream&type=A)|
 |[alwaysnewsoft.settingallreadyforupgradetoday.stream](https://dns.google.com/query?name=alwaysnewsoft.settingallreadyforupgradetoday.stream&type=A)|
 |[upgradepc.settingallreadyforupgradetoday.bid](https://dns.google.com/query?name=upgradepc.settingallreadyforupgradetoday.bid&type=A)|
+|[newupdate.settingallreadyforupgradetoday.bid](https://dns.google.com/query?name=newupdate.settingallreadyforupgradetoday.bid&type=A)|
