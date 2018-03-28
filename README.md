@@ -4185,3 +4185,4 @@
 |[upnow2app.updatingalwayswhatyouwantandneedthisweek.bid](https://dns.google.com/query?name=upnow2app.updatingalwayswhatyouwantandneedthisweek.bid&type=A)|
 |[legalsoft.updatingalwayswhatyouwantandneedthisweek.date](https://dns.google.com/query?name=legalsoft.updatingalwayswhatyouwantandneedthisweek.date&type=A)|
 |[pcchecker.updatingalwayswhatyouwantandneedthisweek.date](https://dns.google.com/query?name=pcchecker.updatingalwayswhatyouwantandneedthisweek.date&type=A)|
+|[legalsoft.updatingalwayswhatyouwantandneedtoday.bid](https://dns.google.com/query?name=legalsoft.updatingalwayswhatyouwantandneedtoday.bid&type=A)|
