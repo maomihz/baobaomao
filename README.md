@@ -4133,3 +4133,4 @@
 |[updatelive.settingallreadyforupdatethismonth.stream](https://dns.google.com/query?name=updatelive.settingallreadyforupdatethismonth.stream&type=A)|
 |[upgradecheck12.settingallreadyforupdatethismonth.stream](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatethismonth.stream&type=A)|
 |[getnewsoft.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatethisweek.bid&type=A)|
+|[lastworking.settingallreadyforupdatethisweek.bid](https://dns.google.com/query?name=lastworking.settingallreadyforupdatethisweek.bid&type=A)|
