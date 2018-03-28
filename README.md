@@ -4149,3 +4149,4 @@
 |[updatelive.settingallreadyforupdatetoday.review](https://dns.google.com/query?name=updatelive.settingallreadyforupdatetoday.review&type=A)|
 |[upgradecheck12.settingallreadyforupdatetoday.review](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatetoday.review&type=A)|
 |[learn2upgrade.settingallreadyforupgrade.stream](https://dns.google.com/query?name=learn2upgrade.settingallreadyforupgrade.stream&type=A)|
+|[upgradepc.settingallreadyforupgrade.stream](https://dns.google.com/query?name=upgradepc.settingallreadyforupgrade.stream&type=A)|
