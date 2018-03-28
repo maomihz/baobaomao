@@ -4170,3 +4170,4 @@
 |[upgradepc.settingallreadyforupgradethismonth.stream](https://dns.google.com/query?name=upgradepc.settingallreadyforupgradethismonth.stream&type=A)|
 |[learn2upgrade.settingallreadyforupgradethismonth.stream](https://dns.google.com/query?name=learn2upgrade.settingallreadyforupgradethismonth.stream&type=A)|
 |[alwaysnewsoft.settingallreadyforupgradethisweek.date](https://dns.google.com/query?name=alwaysnewsoft.settingallreadyforupgradethisweek.date&type=A)|
+|[learn2upgrade.settingallreadyforupgradethisweek.date](https://dns.google.com/query?name=learn2upgrade.settingallreadyforupgradethisweek.date&type=A)|
