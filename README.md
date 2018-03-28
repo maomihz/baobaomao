@@ -4143,3 +4143,4 @@
 |[getnewsoft.settingallreadyforupdatetoday.date](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatetoday.date&type=A)|
 |[lastworking.settingallreadyforupdatetoday.date](https://dns.google.com/query?name=lastworking.settingallreadyforupdatetoday.date&type=A)|
 |[updatelive.settingallreadyforupdatetoday.date](https://dns.google.com/query?name=updatelive.settingallreadyforupdatetoday.date&type=A)|
+|[upgradecheck12.settingallreadyforupdatetoday.date](https://dns.google.com/query?name=upgradecheck12.settingallreadyforupdatetoday.date&type=A)|
