@@ -4154,3 +4154,4 @@
 |[newupdate.settingallreadyforupgrade.stream](https://dns.google.com/query?name=newupdate.settingallreadyforupgrade.stream&type=A)|
 |[getnewsoft.settingallreadyforupdatetoday.stream](https://dns.google.com/query?name=getnewsoft.settingallreadyforupdatetoday.stream&type=A)|
 |[lastworking.settingallreadyforupdatetoday.stream](https://dns.google.com/query?name=lastworking.settingallreadyforupdatetoday.stream&type=A)|
+|[updatelive.settingallreadyforupdatetoday.stream](https://dns.google.com/query?name=updatelive.settingallreadyforupdatetoday.stream&type=A)|
