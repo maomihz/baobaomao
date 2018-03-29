@@ -4219,3 +4219,4 @@
 |[checkupdate.usingallupdatesactuallygreatthisweek.bid](https://dns.google.com/query?name=checkupdate.usingallupdatesactuallygreatthisweek.bid&type=A)|
 |[livecheck.usingallupdatesactuallygreatthisweek.bid](https://dns.google.com/query?name=livecheck.usingallupdatesactuallygreatthisweek.bid&type=A)|
 |[softnewready.usingallupdatesactuallygreatthisweek.bid](https://dns.google.com/query?name=softnewready.usingallupdatesactuallygreatthisweek.bid&type=A)|
+|[upgradeinstall24.usingallupdatesactuallygreatthisweek.bid](https://dns.google.com/query?name=upgradeinstall24.usingallupdatesactuallygreatthisweek.bid&type=A)|
