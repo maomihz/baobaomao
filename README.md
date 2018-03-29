@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0N2V1IvREIxQThjcy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:43|https://s3.amazonaws.com/CvWR/DB1A8cs/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2NSUWRHWl9YOWtPOU10OThRMy8xODEyL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|21:27|https://s3.amazonaws.com/cRQdGZ_X9kO9Mt98Q3/1812/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0E1REU3NDRDOTNGNEJCNDBCRjNFRkU2MzUzQzY4NC84OGJhMzY4ZC02ODg0LzU4NWRiNjc0LTQ4YzQvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:16|https://s3.amazonaws.com/A5DE744C93F4BB40BF3EFE6353C684/88ba368d-6884/585db674-48c4/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzY0NzI1YzFiLTRiZWQtNGJmMi1hOTUzLWM5ODAvMTU3Ni9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|21:10|https://s3.amazonaws.com/64725c1b-4bed-4bf2-a953-c980/1576/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1dfelN5MGFTdy9ERTZBMzQzNDJBMTJCNTRBODk5Q0NFODIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|21:01|https://s3.amazonaws.com/W_zSy0aSw/DE6A34342A12B54A899CCE82/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0ZBNDFDQUEyOTI2MUNENEZCNi9RSVVOL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|20:50|https://s3.amazonaws.com/FA41CAA29261CD4FB6/QIUN/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL09GUmMvNzVlNjFlYjMtZTAvNzA2MGMxYzYtZjIvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|20:40|https://s3.amazonaws.com/OFRc/75e61eb3-e0/7060c1c6-f2/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -4222,3 +4222,4 @@
 |[upgradeinstall24.usingallupdatesactuallygreatthisweek.bid](https://dns.google.com/query?name=upgradeinstall24.usingallupdatesactuallygreatthisweek.bid&type=A)|
 |[newsoft12.usefullupdatesyoucanalwaysusethisyear.stream](https://dns.google.com/query?name=newsoft12.usefullupdatesyoucanalwaysusethisyear.stream&type=A)|
 |[updateauto.tofindgood4contenting.date](https://dns.google.com/query?name=updateauto.tofindgood4contenting.date&type=A)|
+|[prepareupdate.tofindgood4contenting.date](https://dns.google.com/query?name=prepareupdate.tofindgood4contenting.date&type=A)|
