@@ -4214,3 +4214,4 @@
 |[upgradeinstall24.usingallupdatesactuallygreatalways.bid](https://dns.google.com/query?name=upgradeinstall24.usingallupdatesactuallygreatalways.bid&type=A)|
 |[livecheck.usingallupdatesactuallygreatthismonth.stream](https://dns.google.com/query?name=livecheck.usingallupdatesactuallygreatthismonth.stream&type=A)|
 |[checkupdate.usingallupdatesactuallygreatthismonth.stream](https://dns.google.com/query?name=checkupdate.usingallupdatesactuallygreatthismonth.stream&type=A)|
+|[softnewready.usingallupdatesactuallygreatthismonth.stream](https://dns.google.com/query?name=softnewready.usingallupdatesactuallygreatthismonth.stream&type=A)|
