@@ -4196,3 +4196,4 @@
 |[newsoft12.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=newsoft12.usefullupdatesyoucanalwaysuse.stream&type=A)|
 |[update2check.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=update2check.usefullupdatesyoucanalwaysuse.stream&type=A)|
 |[upnowtime.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=upnowtime.usefullupdatesyoucanalwaysuse.stream&type=A)|
+|[upgradepc.settingallreadyforupgradethisweek.date](https://dns.google.com/query?name=upgradepc.settingallreadyforupgradethisweek.date&type=A)|
