@@ -4198,3 +4198,4 @@
 |[upnowtime.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=upnowtime.usefullupdatesyoucanalwaysuse.stream&type=A)|
 |[upgradepc.settingallreadyforupgradethisweek.date](https://dns.google.com/query?name=upgradepc.settingallreadyforupgradethisweek.date&type=A)|
 |[newalways.usefullupdatesyoucanalwaysusethiscentury.stream](https://dns.google.com/query?name=newalways.usefullupdatesyoucanalwaysusethiscentury.stream&type=A)|
+|[newsoft12.usefullupdatesyoucanalwaysusethiscentury.stream](https://dns.google.com/query?name=newsoft12.usefullupdatesyoucanalwaysusethiscentury.stream&type=A)|
