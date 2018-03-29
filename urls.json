@@ -1,4 +1,14 @@
 {
+  "urls": {
+    "https://s3.amazonaws.com/RinLRfL_5/420297/9840027/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522338111.068817,
+      "url": "https://s3.amazonaws.com/RinLRfL_5/420297/9840027/AdobeFlashPlayerInstaller.dmg"
+    },
+    "https://s3.amazonaws.com/2042/cd5e/7e5b/AdobeFlashPlayerInstaller.dmg": {
+      "discovered": 1522335620.091234,
+      "url": "https://s3.amazonaws.com/2042/cd5e/7e5b/AdobeFlashPlayerInstaller.dmg"
+    }
+  },
   "ad_urls": [
     "testpconly12.thereadysystemscontentsset.download",
     "checksoft.yoursafestplacetocontent.review",
@@ -4194,27 +4204,5 @@
     "livecheck.usingallupdatesactuallygreatalways.bid",
     "softnewready.usingallupdatesactuallygreatalways.bid",
     "upgradeinstall24.usingallupdatesactuallygreatalways.bid"
-  ],
-  "urls": {
-    "https://s3.amazonaws.com/2042/cd5e/7e5b/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522335620.091234,
-      "url": "https://s3.amazonaws.com/2042/cd5e/7e5b/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/r0_m_SqhRkG2KkN_Fue/21JwMQSP00eNeEnruHk8V/R430OXZku0m3Z929n7NC/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522334434.46372,
-      "url": "https://s3.amazonaws.com/r0_m_SqhRkG2KkN_Fue/21JwMQSP00eNeEnruHk8V/R430OXZku0m3Z929n7NC/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/NnmRx/8A3B31AD504826419F84AEC4F6F1148/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522332601.919609,
-      "url": "https://s3.amazonaws.com/NnmRx/8A3B31AD504826419F84AEC4F6F1148/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/QQ6pvyEEp0O6/3Nr4Qp8dPkO0Lk/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522333912.898232,
-      "url": "https://s3.amazonaws.com/QQ6pvyEEp0O6/3Nr4Qp8dPkO0Lk/AdobeFlashPlayerInstaller.dmg"
-    },
-    "https://s3.amazonaws.com/M9khE1kFxkGP/D09B62A7D0250A42ADE/BE4BEED4824CC74F99A/AdobeFlashPlayerInstaller.dmg": {
-      "discovered": 1522333260.689486,
-      "url": "https://s3.amazonaws.com/M9khE1kFxkGP/D09B62A7D0250A42ADE/BE4BEED4824CC74F99A/AdobeFlashPlayerInstaller.dmg"
-    }
-  }
+  ]
 }
