@@ -4226,3 +4226,4 @@
 |[alwaysup.tofindgood4contenting.date](https://dns.google.com/query?name=alwaysup.tofindgood4contenting.date&type=A)|
 |[alwaysup.tofindgood4contenting.bid](https://dns.google.com/query?name=alwaysup.tofindgood4contenting.bid&type=A)|
 |[updateauto.tofindgood4contenting.bid](https://dns.google.com/query?name=updateauto.tofindgood4contenting.bid&type=A)|
+|[setupupgrade.tofindgood4contenting.bid](https://dns.google.com/query?name=setupupgrade.tofindgood4contenting.bid&type=A)|
