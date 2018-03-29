@@ -4210,3 +4210,4 @@
 |[softnewready.usingallupdatesactuallygreat.review](https://dns.google.com/query?name=softnewready.usingallupdatesactuallygreat.review&type=A)|
 |[upgradeinstall24.usingallupdatesactuallygreat.review](https://dns.google.com/query?name=upgradeinstall24.usingallupdatesactuallygreat.review&type=A)|
 |[checkupdate.usingallupdatesactuallygreatalways.bid](https://dns.google.com/query?name=checkupdate.usingallupdatesactuallygreatalways.bid&type=A)|
+|[livecheck.usingallupdatesactuallygreatalways.bid](https://dns.google.com/query?name=livecheck.usingallupdatesactuallygreatalways.bid&type=A)|
