@@ -4190,3 +4190,4 @@
 |[pcchecker.updatingalwayswhatyouwantandneedtoday.bid](https://dns.google.com/query?name=pcchecker.updatingalwayswhatyouwantandneedtoday.bid&type=A)|
 |[newsoft12.usefullupdatesyoucanalwaysusethiscentury.review](https://dns.google.com/query?name=newsoft12.usefullupdatesyoucanalwaysusethiscentury.review&type=A)|
 |[update2check.usefullupdatesyoucanalwaysusethiscentury.review](https://dns.google.com/query?name=update2check.usefullupdatesyoucanalwaysusethiscentury.review&type=A)|
+|[newalways.usefullupdatesyoucanalwaysusethiscentury.review](https://dns.google.com/query?name=newalways.usefullupdatesyoucanalwaysusethiscentury.review&type=A)|
