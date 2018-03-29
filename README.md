@@ -4211,3 +4211,4 @@
 |[checkupdate.usingallupdatesactuallygreatalways.bid](https://dns.google.com/query?name=checkupdate.usingallupdatesactuallygreatalways.bid&type=A)|
 |[livecheck.usingallupdatesactuallygreatalways.bid](https://dns.google.com/query?name=livecheck.usingallupdatesactuallygreatalways.bid&type=A)|
 |[softnewready.usingallupdatesactuallygreatalways.bid](https://dns.google.com/query?name=softnewready.usingallupdatesactuallygreatalways.bid&type=A)|
+|[upgradeinstall24.usingallupdatesactuallygreatalways.bid](https://dns.google.com/query?name=upgradeinstall24.usingallupdatesactuallygreatalways.bid&type=A)|
