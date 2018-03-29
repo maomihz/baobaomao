@@ -6,12 +6,12 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JGQkY3NEY1RjA3MkEwNEY4RjdENi8xRjFFNzc3RjE1RjdGODQ5QTU0OTkwNzkyNjhGM0JDL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:30|https://s3.amazonaws.com/BFBF74F5F072A04F8F7D6/1F1E777F15F7F849A5499079268F3BC/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0RwdHluNkI3a1VlenZUZy9kNmI5MjI0Ny0zMTUxLTRiMjQtYTUxMy1hMjVjL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|00:19|https://s3.amazonaws.com/Dptyn6B7kUezvTg/d6b92247-3151-4b24-a513-a25c/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzdiYjIvRTc2NENCM0Q5NkNEN0I0QUJFNkJBL0EyNTU0NjhBNDAyRUQxNDhCRTIzNi9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|00:11|https://s3.amazonaws.com/7bb2/E764CB3D96CD7B4ABE6BA/A255468A402ED148BE236/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzg4MzJENDVFRS85NGQ3NDA1MC03MDBjLTQ1MmItODA0MS04YTYzMGUvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|23:58|https://s3.amazonaws.com/8832D45EE/94d74050-700c-452b-8041-8a630e/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL05XY2M2eGtEcFVXd2FYX3gvM2E3NWYyZmUtNjMzYy00NDg2LWE1MTEtODE1Yy9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:49|https://s3.amazonaws.com/NWcc6xkDpUWwaX_x/3a75f2fe-633c-4486-a511-815c/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2M1M2ZlZDBlLTY3ZGEtNGIyNy05OGQ5LWQ4NWUvMjExMy8xOTQwL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|23:39|https://s3.amazonaws.com/c53fed0e-67da-4b27-98d9-d85e/2113/1940/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzBNU0UvZGQ5cnJHVHVpRV9ENzFaSC9BZG9iZUZsYXNoUGxheWVySW5zdGFsbGVyLmRtZw==)|23:30|https://s3.amazonaws.com/0MSE/dd9rrGTuiE_D71ZH/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -4195,3 +4195,4 @@
 |[newalways.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=newalways.usefullupdatesyoucanalwaysuse.stream&type=A)|
 |[newsoft12.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=newsoft12.usefullupdatesyoucanalwaysuse.stream&type=A)|
 |[update2check.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=update2check.usefullupdatesyoucanalwaysuse.stream&type=A)|
+|[upnowtime.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=upnowtime.usefullupdatesyoucanalwaysuse.stream&type=A)|
