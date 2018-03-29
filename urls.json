@@ -4172,16 +4172,17 @@
     "pcchecker.updatingalwayswhatyouwantandneedtoday.bid",
     "newsoft12.usefullupdatesyoucanalwaysusethiscentury.review",
     "update2check.usefullupdatesyoucanalwaysusethiscentury.review",
-    "newalways.usefullupdatesyoucanalwaysusethiscentury.review"
+    "newalways.usefullupdatesyoucanalwaysusethiscentury.review",
+    "upnowtime.usefullupdatesyoucanalwaysusethiscentury.review"
   ],
   "urls": {
     "https://s3.amazonaws.com/8832D45EE/94d74050-700c-452b-8041-8a630e/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/8832D45EE/94d74050-700c-452b-8041-8a630e/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522281502.428153
     },
-    "https://s3.amazonaws.com/303E/f28ac675-e8c7-4d75-ab/057e6e14-394f-488a-ac/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/303E/f28ac675-e8c7-4d75-ab/057e6e14-394f-488a-ac/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522279082.302027
+    "https://s3.amazonaws.com/c53fed0e-67da-4b27-98d9-d85e/2113/1940/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/c53fed0e-67da-4b27-98d9-d85e/2113/1940/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522280356.632301
     },
     "https://s3.amazonaws.com/7bb2/E764CB3D96CD7B4ABE6BA/A255468A402ED148BE236/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/7bb2/E764CB3D96CD7B4ABE6BA/A255468A402ED148BE236/AdobeFlashPlayerInstaller.dmg",
@@ -4195,9 +4196,9 @@
       "url": "https://s3.amazonaws.com/NWcc6xkDpUWwaX_x/3a75f2fe-633c-4486-a511-815c/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522280990.37
     },
-    "https://s3.amazonaws.com/c53fed0e-67da-4b27-98d9-d85e/2113/1940/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/c53fed0e-67da-4b27-98d9-d85e/2113/1940/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522280356.632301
+    "https://s3.amazonaws.com/303E/f28ac675-e8c7-4d75-ab/057e6e14-394f-488a-ac/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/303E/f28ac675-e8c7-4d75-ab/057e6e14-394f-488a-ac/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522279082.302027
     }
   }
 }
