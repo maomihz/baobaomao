@@ -4200,3 +4200,4 @@
 |[newalways.usefullupdatesyoucanalwaysusethiscentury.stream](https://dns.google.com/query?name=newalways.usefullupdatesyoucanalwaysusethiscentury.stream&type=A)|
 |[newsoft12.usefullupdatesyoucanalwaysusethiscentury.stream](https://dns.google.com/query?name=newsoft12.usefullupdatesyoucanalwaysusethiscentury.stream&type=A)|
 |[update2check.usefullupdatesyoucanalwaysusethiscentury.stream](https://dns.google.com/query?name=update2check.usefullupdatesyoucanalwaysusethiscentury.stream&type=A)|
+|[upnowtime.usefullupdatesyoucanalwaysusethiscentury.stream](https://dns.google.com/query?name=upnowtime.usefullupdatesyoucanalwaysusethiscentury.stream&type=A)|
