@@ -4194,3 +4194,4 @@
 |[upnowtime.usefullupdatesyoucanalwaysusethiscentury.review](https://dns.google.com/query?name=upnowtime.usefullupdatesyoucanalwaysusethiscentury.review&type=A)|
 |[newalways.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=newalways.usefullupdatesyoucanalwaysuse.stream&type=A)|
 |[newsoft12.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=newsoft12.usefullupdatesyoucanalwaysuse.stream&type=A)|
+|[update2check.usefullupdatesyoucanalwaysuse.stream](https://dns.google.com/query?name=update2check.usefullupdatesyoucanalwaysuse.stream&type=A)|
