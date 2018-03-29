@@ -4206,3 +4206,4 @@
 |[upnowtime.usefullupdatesyoucanalwaysusethisyear.stream](https://dns.google.com/query?name=upnowtime.usefullupdatesyoucanalwaysusethisyear.stream&type=A)|
 |[checkupdate.usingallupdatesactuallygreat.review](https://dns.google.com/query?name=checkupdate.usingallupdatesactuallygreat.review&type=A)|
 |[livecheck.usingallupdatesactuallygreat.review](https://dns.google.com/query?name=livecheck.usingallupdatesactuallygreat.review&type=A)|
+|[softnewready.usingallupdatesactuallygreat.review](https://dns.google.com/query?name=softnewready.usingallupdatesactuallygreat.review&type=A)|
