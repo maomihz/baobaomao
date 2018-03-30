@@ -4248,3 +4248,4 @@
 |[prepareupdate.tofindgood4contents.download](https://dns.google.com/query?name=prepareupdate.tofindgood4contents.download&type=A)|
 |[updateauto.tofindgood4contents.date](https://dns.google.com/query?name=updateauto.tofindgood4contents.date&type=A)|
 |[setupupgrade.tofindgood4contents.date](https://dns.google.com/query?name=setupupgrade.tofindgood4contents.date&type=A)|
+|[prepareupdate.tofindgood4contents.date](https://dns.google.com/query?name=prepareupdate.tofindgood4contents.date&type=A)|
