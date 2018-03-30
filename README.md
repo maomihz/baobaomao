@@ -4235,3 +4235,4 @@
 |[setupupgrade.tofindgood4contenting.stream](https://dns.google.com/query?name=setupupgrade.tofindgood4contenting.stream&type=A)|
 |[prepareupdate.tofindgood4contenting.stream](https://dns.google.com/query?name=prepareupdate.tofindgood4contenting.stream&type=A)|
 |[alwaysup.tofindgood4contenting.stream](https://dns.google.com/query?name=alwaysup.tofindgood4contenting.stream&type=A)|
+|[updateauto.tofindgood4contents.bid](https://dns.google.com/query?name=updateauto.tofindgood4contents.bid&type=A)|
