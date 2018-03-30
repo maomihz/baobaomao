@@ -8,10 +8,6 @@
       "url": "https://s3.amazonaws.com/cf8f63ee-785/fCbuwuen6kuIkytA/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522375535.70939
     },
-    "https://s3.amazonaws.com/fZHXYpP/1222/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/fZHXYpP/1222/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522373869.50442
-    },
     "https://s3.amazonaws.com/15010/6561/1644/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/15010/6561/1644/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522375152.790903
@@ -23,6 +19,10 @@
     "https://s3.amazonaws.com/D526FC4D1DFA2D42A9DD8BCB5/7223/1848/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/D526FC4D1DFA2D42A9DD8BCB5/7223/1848/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522374772.091612
+    },
+    "https://s3.amazonaws.com/fZHXYpP/1222/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/fZHXYpP/1222/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522373869.50442
     }
   },
   "ad_urls": [
@@ -4237,6 +4237,7 @@
     "setupupgrade.tofindgood4contenting.bid",
     "prepareupdate.tofindgood4contenting.bid",
     "updateauto.tofindgood4contenting.trade",
-    "setupupgrade.tofindgood4contenting.trade"
+    "setupupgrade.tofindgood4contenting.trade",
+    "prepareupdate.tofindgood4contenting.trade"
   ]
 }
