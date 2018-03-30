@@ -4258,3 +4258,4 @@
 |[updateauto.tofindgood4contents.review](https://dns.google.com/query?name=updateauto.tofindgood4contents.review&type=A)|
 |[setupupgrade.tofindgood4contents.review](https://dns.google.com/query?name=setupupgrade.tofindgood4contents.review&type=A)|
 |[alwaysup.tofindgood4contents.review](https://dns.google.com/query?name=alwaysup.tofindgood4contents.review&type=A)|
+|[updateauto.tofindgood4contents.win](https://dns.google.com/query?name=updateauto.tofindgood4contents.win&type=A)|

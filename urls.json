@@ -1,17 +1,5 @@
 {
   "urls": {
-    "https://s3.amazonaws.com/3010/6hJF/51qY/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/3010/6hJF/51qY/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522409409.202832
-    },
-    "https://s3.amazonaws.com/8e33DKJeXkiJdcouv0/2692/1589/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/8e33DKJeXkiJdcouv0/2692/1589/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522406234.813321
-    },
-    "https://s3.amazonaws.com/iJYI/7bfb6ac4/024e6ae5/AdobeFlashPlayerInstaller.dmg": {
-      "url": "https://s3.amazonaws.com/iJYI/7bfb6ac4/024e6ae5/AdobeFlashPlayerInstaller.dmg",
-      "discovered": 1522406869.714074
-    },
     "https://s3.amazonaws.com/5177/6909/1069/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/5177/6909/1069/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522407504.197411
@@ -20,9 +8,21 @@
       "url": "https://s3.amazonaws.com/daUfwDatKUi8M/4804E90D435BFC44/8362D439733C674D/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522408772.064895
     },
+    "https://s3.amazonaws.com/iJYI/7bfb6ac4/024e6ae5/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/iJYI/7bfb6ac4/024e6ae5/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522406869.714074
+    },
     "https://s3.amazonaws.com/OjsRyzdCFUK/6e0f54/3cdd6f/AdobeFlashPlayerInstaller.dmg": {
       "url": "https://s3.amazonaws.com/OjsRyzdCFUK/6e0f54/3cdd6f/AdobeFlashPlayerInstaller.dmg",
       "discovered": 1522408007.824395
+    },
+    "https://s3.amazonaws.com/3010/6hJF/51qY/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/3010/6hJF/51qY/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522409409.202832
+    },
+    "https://s3.amazonaws.com/8e33DKJeXkiJdcouv0/2692/1589/AdobeFlashPlayerInstaller.dmg": {
+      "url": "https://s3.amazonaws.com/8e33DKJeXkiJdcouv0/2692/1589/AdobeFlashPlayerInstaller.dmg",
+      "discovered": 1522406234.813321
     }
   },
   "ad_urls": [
@@ -4265,6 +4265,7 @@
     "alwaysup.tofindgood4contents.stream",
     "updateauto.tofindgood4contents.review",
     "setupupgrade.tofindgood4contents.review",
-    "alwaysup.tofindgood4contents.review"
+    "alwaysup.tofindgood4contents.review",
+    "updateauto.tofindgood4contents.win"
   ]
 }
