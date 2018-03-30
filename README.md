@@ -6,13 +6,13 @@
 
 |Direct|Discovered|URL|
 |:---:|:---|:---:|
+|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0JXQ0RWWkMxeFUveVV3Z2hCQnEvVTJBZGxJeS91NGFIU3M4dDlVT0RUME4vQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|06:18|https://s3.amazonaws.com/BWCDVZC1xU/yUwghBBq/U2AdlIy/u4aHSs8t9UODT0N/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL2E3MjA4YTJhLTgxNy8wNGFlZWMvODU4Y2Q3L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:05|https://s3.amazonaws.com/a7208a2a-817/04aeec/858cd7/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0UzRURFNUIvMDlmMTBhYWUtZjBkOC00YTMwLTk3YzktL0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|06:01|https://s3.amazonaws.com/E3EDE5B/09f10aae-f0d8-4a30-97c9-/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzI5OGQvMTE4MTQvMTQ1MzMvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:50|https://s3.amazonaws.com/298d/11814/14533/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL0NCODI4QUM5QjU3ODUyNEQ4NkRGNTZDRS80RjMxMjQ4NjA3MkE4MzQ5QjZGMEE1MjA2NjJDRTA5Lzg1Q0I2MkRBNzVEREZDNEVCRjk4RTQzMTZBMzRDMjkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:38|https://s3.amazonaws.com/CB828AC9B578524D86DF56CE/4F312486072A8349B6F0A520662CE09/85CB62DA75DDFC4EBF98E4316A34C29/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzQ1OEIvZDFUcXI5ZEFfVUsvc3ZhOTZvUVFsRXkvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:29|https://s3.amazonaws.com/458B/d1Tqr9dA_UK/sva96oQQlEy/AdobeFlashPlayerInstaller.dmg|
 |[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tL1NXclE1a1UvMEI0Njc5L0Fkb2JlRmxhc2hQbGF5ZXJJbnN0YWxsZXIuZG1n)|05:21|https://s3.amazonaws.com/SWrQ5kU/0B4679/AdobeFlashPlayerInstaller.dmg|
-|[Link](https://meow.maomihz.com/?aHR0cHM6Ly9zMy5hbWF6b25hd3MuY29tLzZiMTBiZWU4LWI2MTQtLzQ4OTVlYjgyLWVmYzQtNGEyMy1iNGI2LWVlYTEvQWRvYmVGbGFzaFBsYXllckluc3RhbGxlci5kbWc=)|05:06|https://s3.amazonaws.com/6b10bee8-b614-/4895eb82-efc4-4a23-b4b6-eea1/AdobeFlashPlayerInstaller.dmg|
 
 
 ### 附1：收集到的广告域名：
@@ -4247,3 +4247,4 @@
 |[updateauto.tofindgood4contents.download](https://dns.google.com/query?name=updateauto.tofindgood4contents.download&type=A)|
 |[setupupgrade.tofindgood4contents.download](https://dns.google.com/query?name=setupupgrade.tofindgood4contents.download&type=A)|
 |[prepareupdate.tofindgood4contents.download](https://dns.google.com/query?name=prepareupdate.tofindgood4contents.download&type=A)|
+|[updateauto.tofindgood4contents.date](https://dns.google.com/query?name=updateauto.tofindgood4contents.date&type=A)|
