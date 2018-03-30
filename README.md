@@ -4261,3 +4261,4 @@
 |[updateauto.tofindgood4contents.win](https://dns.google.com/query?name=updateauto.tofindgood4contents.win&type=A)|
 |[setupupgrade.tofindgood4contents.win](https://dns.google.com/query?name=setupupgrade.tofindgood4contents.win&type=A)|
 |[prepareupdate.tofindgood4contents.win](https://dns.google.com/query?name=prepareupdate.tofindgood4contents.win&type=A)|
+|[alwaysup.tofindgood4contents.win](https://dns.google.com/query?name=alwaysup.tofindgood4contents.win&type=A)|
