@@ -4255,3 +4255,4 @@
 |[setupupgrade.tofindgood4contents.stream](https://dns.google.com/query?name=setupupgrade.tofindgood4contents.stream&type=A)|
 |[prepareupdate.tofindgood4contents.stream](https://dns.google.com/query?name=prepareupdate.tofindgood4contents.stream&type=A)|
 |[alwaysup.tofindgood4contents.stream](https://dns.google.com/query?name=alwaysup.tofindgood4contents.stream&type=A)|
+|[updateauto.tofindgood4contents.review](https://dns.google.com/query?name=updateauto.tofindgood4contents.review&type=A)|
