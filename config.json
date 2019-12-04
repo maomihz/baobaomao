@@ -1,0 +1,117 @@
+{
+    "api": {
+        "id": null,
+        "worker-id": null
+    },
+    "http": {
+        "enabled": false,
+        "host": "127.0.0.1",
+        "port": 0,
+        "access-token": null,
+        "restricted": true
+    },
+    "autosave": true,
+    "background": false,
+    "colors": true,
+    "randomx": {
+        "init": -1,
+        "mode": "auto",
+        "numa": true
+    },
+    "cpu": {
+        "enabled": true,
+        "huge-pages": true,
+        "hw-aes": null,
+        "priority": null,
+        "memory-pool": false,
+        "asm": true,
+        "argon2-impl": null,
+        "argon2": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+        "cn": [
+            [1, 0],
+            [1, 4],
+            [1, 6],
+            [1, 8],
+            [1, 10],
+            [1, 14]
+        ],
+        "cn-heavy": [
+            [1, 0],
+            [1, 2],
+            [1, 4],
+            [1, 6]
+        ],
+        "cn-lite": [
+            [1, 0],
+            [1, 1],
+            [1, 2],
+            [1, 3],
+            [1, 4],
+            [1, 5],
+            [1, 6],
+            [1, 7],
+            [1, 8],
+            [1, 9],
+            [1, 10],
+            [1, 11]
+        ],
+        "cn/gpu": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+        "rx": [0, 2, 4, 6, 8, 10, 12, 14],
+        "rx/wow": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+        "cn/0": false,
+        "cn-lite/0": false,
+        "cn-pico": false,
+        "rx/arq": "rx/wow"
+    },
+    "opencl": {
+        "enabled": false,
+        "cache": true,
+        "loader": null,
+        "platform": "Apple"
+    },
+    "cuda": {
+        "enabled": false,
+        "loader": null
+    },
+    "donate-level": 0,
+    "donate-over-proxy": 1,
+    "log-file": null,
+    "pools": [
+        {
+            "algo": "cn-lite/1",
+            "coin": null,
+            "url": "pool.bbscoin.xyz:5555",
+            "user": "fySZMi4Dxj2cPzArVroL53ZAZsLQY1iFwJqxU7abtmm52BT7htT8RbX7Guqshhjproam5RuUaZC6TdaVpFxGZifJ1s6wA95nE",
+            "pass": "",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "enabled": false,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "self-select": null
+        },
+        {
+            "algo": null,
+            "coin": null,
+            "url": "gulf.moneroocean.stream:20008",
+            "user": "44sHQQ2mpRVTMfeCL9dgvuAWPAXzJU2XB49dhV8Q171qVv3Wx7T2KdaJB763Nzqe2BF5E1wfW7WtRirn6RJo6mnJBYXySDY+30000",
+            "pass": "cat",
+            "rig-id": null,
+            "nicehash": false,
+            "keepalive": false,
+            "enabled": true,
+            "tls": true,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "self-select": null
+        }
+    ],
+    "print-time": 60,
+    "retries": 5,
+    "retry-pause": 5,
+    "syslog": false,
+    "user-agent": null,
+    "watch": true
+}
